@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../Public/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="../Public/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+<script src="../Public/jquery/jquery-1.10.2.min.js"></script>
+<script src="../Public/bootstrap/js/bootstrap.min.js"></script>
+<link href="../Public/css/layout.css" rel="stylesheet" media="screen">		
+<title>数据采集</title>
+</head>
+<body>
+<div class="navbar">
+    <div class="navbar-inner">
+        <a class="brand" href="javascript:void(0);">采集节点设置&nbsp;-&nbsp;编辑采集</a>
+    </div>
+    <p></p>
+    <div class="well">
+        <form class="form-horizontal pull-left" id="myTabContent" style="overflow: hidden;" action="<{:U('edit')}>" method="post">
+            <div class="tab-pane fade in active" id="info">
+                <div class="control-group">
+                    <label class="control-label" for="name">采集项目名称</label>
+                    <div class="controls">
+                        <input type="text" name="name" id="name" value="<{$colle.name}>" />
+                        <span class="help-inline">采集项目名称，中文</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="charset">采集编码</label>
+                    <div class="controls">
+                        <select id="charset" name="charset">
+                            <option>UTF-8</option>
+                            <option>GB2312</option>
+                        </select>
+                        <span class="help-inline">抓取页面编码</span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="site">站点地址</label>
+                    <div class="controls">
+                        <input type="text" name="site" id="site" value="<{$colle.site}>" />
+                        <span class="help-inline">站点地址，以 http:// 开始</span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="url">采集页面路径</label>
+                    <div class="controls">
+                        <!-- <textarea name="url" id="url" class="span4" placeholder="请输入采集页面路径"></textarea> -->
+                        <input type="text" name="url" id="url" class="span5" value="<{$colle.url}>" />
+                        <span class="help-block">采集页面路径</span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label">信息分类</label>
+                    <div class="controls">
+                        <label class="radio inline">
+      <select name="isdown" style="height:28px;">
+	      <option value="0" <eq name="colle.isdown" value="0">selected="selected"</eq>>资讯-苹果动态</option>
+          <option value="1" <eq name="colle.isdown" value="1">selected="selected"</eq>>资讯-微苹果资讯</option>
+		  <option value="2" <eq name="colle.isdown" value="2">selected="selected"</eq>>资讯-应用资讯</option>
+	      <option value="3" <eq name="colle.isdown" value="3">selected="selected"</eq>>教程-实用技巧</option>
+          <option value="4" <eq name="colle.isdown" value="4">selected="selected"</eq>>教程-微苹果助手</option>
+		  <option value="5" <eq name="colle.isdown" value="5">selected="selected"</eq>>教程-ios7</option>
+		  <option value="6" <eq name="colle.isdown" value="6">selected="selected"</eq>>教程-ios8</option>
+      </select>
+                        </label>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="tab-pane fade in " id="seo">
+                <div class="control-group">
+                    <label class="control-label" for="list_list">采集节点范围</label>
+                    <div class="controls">
+                        <input type="text" name="list_list" id="list_list" value="<{$colle.list_list}>" class="span4" />
+                        <span class="help-inline">采集列表节点范围标记(jquery 语法) 如：
+                        <code>.test li</code></span>
+                    </div>
+                </div>              
+
+                <div class="control-group">
+                    <label class="control-label" for="list_title">标题</label>
+                    <div class="controls">
+                        <input type="text" name="list_title" id="list_title" value="<{$colle.list_title}>" class="span4" />
+                        <span class="help-inline">标题节点标记(jquery 语法) 如：<code>li a:eq(0) </code></span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="list_url">列表地址</label>
+                    <div class="controls">
+                        <input type="text" name="list_url" id="list_url" value="<{$colle.list_url}>" class="span4" />
+                        <span class="help-inline">地址节点标记(jquery 语法) 如：<code>li a:eq(0) </code></span>
+                    </div>
+                </div>  
+				
+                <div class="control-group">
+                    <label class="control-label" for="is_ts">采集条数</label>
+                    <div class="controls">
+      <select name="is_ts" style="height:28px;">
+	      <option value="0" <eq name="colle.is_ts" value="0">selected="selected"</eq>>请选择</option>
+          <option value="1" <eq name="colle.is_ts" value="1">selected="selected"</eq>>1</option>
+		  <option value="2" <eq name="colle.is_ts" value="2">selected="selected"</eq>>2</option>
+	      <option value="3" <eq name="colle.is_ts" value="3">selected="selected"</eq>>3</option>
+          <option value="4" <eq name="colle.is_ts" value="4">selected="selected"</eq>>4</option>
+		  <option value="5" <eq name="colle.is_ts" value="5">selected="selected"</eq>>5</option>
+		  <option value="6" <eq name="colle.is_ts" value="6">selected="selected"</eq>>6</option>
+		  <option value="7" <eq name="colle.is_ts" value="7">selected="selected"</eq>>7</option>
+		  <option value="8" <eq name="colle.is_ts" value="8">selected="selected"</eq>>8</option>
+	      <option value="9" <eq name="colle.is_ts" value="9">selected="selected"</eq>>9</option>
+          <option value="10" <eq name="colle.is_ts" value="10">selected="selected"</eq>>10</option>
+		  <option value="11" <eq name="colle.is_ts" value="11">selected="selected"</eq>>11</option>
+		  <option value="12" <eq name="colle.is_ts" value="12">selected="selected"</eq>>12</option>
+		  <option value="13" <eq name="colle.is_ts" value="13">selected="selected"</eq>>13</option>
+		  <option value="14" <eq name="colle.is_ts" value="14">selected="selected"</eq>>14</option>
+		  <option value="15" <eq name="colle.is_ts" value="15">selected="selected"</eq>>15</option>
+      </select>
+                        <span class="help-inline">每页采集条数：<code>1-15条</code></span>
+                    </div>
+                </div>
+
+                <div class="control-group" style="display:none;">
+                    <label class="control-label" for="list_author">作者</label>
+                    <div class="controls">
+                        <input type="text" name="list_author" id="list_author" value="<{$colle.list_author}>" class="span4" />
+                        <span class="help-inline">作者节点标记(jquery 语法) 如：<code>.author</code></span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="list_img">列表内容缩略图</label>
+                    <div class="controls">
+                        <input type="text" name="list_img" id="list_img" value="<{$colle.list_img}>" class="span4" />
+                        <span class="help-inline">列表内容缩略图(jquery 语法) 如：<code>.list_img</code></span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="list_content">页面内容</label>
+                    <div class="controls">
+                        <input type="text" name="list_content" id="list_content" value="<{$colle.list_content}>" class="span4" />
+                        <span class="help-inline">页面内容节点标记(jquery 语法) 如：<code>.content</code></span>
+                    </div>
+                </div>                
+
+            </div>
+<!-- 
+            <div class="tab-pane fade in" id="contact">
+                <p>
+                    TODO:选择相关商品
+                </p>
+            </div>
+
+            <div class="tab-pane fade in" id="trd">
+                <p>
+                    TODO:第三方平台商品状态
+                </p>
+            </div> -->
+            <input type="hidden" name="id" value="<{$colle.id}>">
+            <input type="submit" value="提 交" class="btn btn-success" />
+            <input type="button" value="取 消" class="btn btn-info" />
+        </form>
+        <div class="clearfix"></div>
+    </div>
+</div>
+</body>
+</html>

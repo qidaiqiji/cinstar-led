@@ -1,0 +1,43 @@
+
+<if condition="$new">
+
+
+<if condition="($id eq 278) or ($id eq 279)">
+                       <div class="newsImg fl">
+                            <volist name="new" id="vo" offset="0" length="1">
+							<a title="<{$vo.title}>" href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'new'))}>"><img src="__ROOT__/Uploads/<{$vo.thumb}>" width="260px" height="165px" alt=""/></a>
+							</volist>
+                        </div>
+                        <ul class="newsList fl">
+						<volist name="new" id="vo" offset="0" length="7">
+                 <li><a title="<{$vo.title}>" href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'new'))}>"><{$vo.title|mb_substr=###,0,16,'utf-8'}></a><span class="newsDate fr"><{$vo.date}></span></li>
+                        </volist>
+                        </ul>
+						
+						 
+<elseif condition="$id eq 280" />
+
+<volist name="new" id="vo" offset="0" length="1">
+<li><table><tr><td><a href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'new'))}>"><{$vo.contents}></a></td></tr></table></li>
+</volist>  
+
+	
+	
+<else />
+<volist name="new" id="vo" offset="0" length="3">
+              <li>
+                <div class="zbox">
+                  <h4><a class="elli" href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'new'))}>"><{$vo.title|mb_substr=###,0,50,'utf-8'}></a></h4>
+                  <div class="text">
+                    <div class="p"> <{$vo.description|strip_tags|mb_substr=###,0,100,'utf-8'}>... </div>
+                    <div class="more"><a href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'new'))}>">More+</a></div>
+                  </div>
+                </div>
+              </li>
+</volist> 	
+</if>
+
+</if>
+
+
+

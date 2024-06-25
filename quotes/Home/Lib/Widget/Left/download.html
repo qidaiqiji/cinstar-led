@@ -1,0 +1,25 @@
+
+<if condition="$download">
+
+<if condition="$id eq 147">
+
+<volist name="download" id="vo" offset="0" length="1">
+  <h1><{$vo.name}></h1>
+                <p><{$vo.contents|strip_tags|mb_substr=###,0,100,'utf-8'}>...</p>
+</volist>				
+                <ul>
+				<volist name="download" id="vo" offset="1" length="6">
+                            <li><a title="<{$vo.name}>" href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'download'))}>"><i>●</i><{$vo.name|mb_substr=###,0,25,'utf-8'}></a></li>
+		        </volist>
+                </ul>
+ 
+ <elseif condition="($id eq 208) or ($id eq 226)" />
+ <volist name="download" id="vo" offset="0" length="5">
+   <li><a title="<{$vo.name}>" href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'download'))}>"><i>●</i><{$vo.name|mb_substr=###,0,25,'utf-8'}></a></li>
+ </volist>  
+ 
+ </if>
+ 
+</if>
+
+

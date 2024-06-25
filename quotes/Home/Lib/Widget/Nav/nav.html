@@ -1,0 +1,32 @@
+
+  <volist name='bigclass' id='vo'>
+  
+  <li><a href="<{:W('Listhref',array('url'=>$vo['url'],'id'=>$vo['id'],'link'=>$vo['link']))}>"><{$vo.name}></a></li>
+  
+    	  <ul>	
+      <volist name='smallclass' id='svo'>
+        <eq name="svo.pid" value="$vo.id">
+        <li><a href="<{:W('Listhref',array('url'=>$svo['url'],'id'=>$svo['id'],'link'=>$svo['link']))}>"><{$svo.name}></a></li>
+        </eq>
+      </volist>
+	  </ul>
+	  
+  </volist>
+
+
+
+
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<load href="../Public/js/jquery-1.7.2.min.js"/>
+<load href="../Public/css/index.css"/>
+<load href="../Public/js/quickView.js"/>
+<title>修改信息</title>
+<include file='Public:kinde'/>
+<script type="text/javascript">
+	$(function () {
+		$( '.del' ).click( function () {
+			return confirm('您确定要删除？');
+		} );
+	});
+</script>
+</head>
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="LineRightBlue1">
+      <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin-left:20px;">
+      <tr>
+        <td width="88%" height="24">修改信息 【<a href="<{:U('Product/index')}>">返回信息列表</a>】</td>
+        <td width="12%" align="right" class="bt_add"></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+<form action="<{:U('updatepro')}>" method="post" name="myform" id="myform" enctype="multipart/form-data">
+<DIV class="PageContent">
+<table width="98%" border="0" style="margin:20px;" class="ListCategory">
+  <tr>
+    <td width="9%">信息名称：</td>
+    <td width="91%" height="35"><input name="name" type="text" class="FormSmall" value="<{$product.name}>" style="width: 320px;"> 
+	<span style="color:#F00; font-size:12px;">*必填</span>
+    </td>
+  </tr>
+  
+  
+ <tr>
+    <td>信息分类:</td>
+    <td height="35">
+      <select name="pid" style="height:28px;">
+      <volist name='list' id='vo'>
+          <option value="<{$vo.id}>" <eq name="vo.id" value="$product.pid">selected="selected"</eq>><{$vo.html}><if condition='$vo.level gt 0'>┕</if><{$vo.name}></option>
+      </volist>
+      </select>
+    </td>
+  </tr>
+
+  <tr style="display:none;">
+    <td>是否上架：</td>
+    <td height="35">
+      <select name="featured" style="height:28px;">
+          <option value="0" <eq name="product.featured" value="0">selected="selected"</eq>>否</option>
+		  <option value="1" <eq name="product.featured" value="1">selected="selected"</eq>>是</option>
+      </select>
+    </td>
+  </tr>
+  
+ <tr>
+    <td>排序ID：</td>
+    <td height="35"><input name="sort" type="text" class="FormSmall" value="<{$product.sort}>" style="width: 50px;"> <span style="color:#F00; font-size:12px;">*必填</span></td>
+  </tr>
+  
+  <tr style="display:none;">
+    <td>选择类别：</td>
+    <td height="35">
+	       类别一: <select name="xx" style="height:28px;">
+	      <option value="0" <eq name="product.xx" value="0">selected="selected"</eq>>请选择</option>
+          <option value="1" <eq name="product.xx" value="1">selected="selected"</eq>>10万以下</option>
+		  <option value="2" <eq name="product.xx" value="2">selected="selected"</eq>>10-20万</option>
+		  <option value="3" <eq name="product.xx" value="3">selected="selected"</eq>>20-50万</option>
+		  <option value="4" <eq name="product.xx" value="4">selected="selected"</eq>>50-100万</option>
+		  <option value="5" <eq name="product.xx" value="5">selected="selected"</eq>>100万以上</option>
+      </select>
+	  
+	       &nbsp;&nbsp;&nbsp;&nbsp;类别二: <select name="yy" style="height:28px;">
+	      <option value="0" <eq name="product.yy" value="0">selected="selected"</eq>>请选择</option>
+          <option value="1" <eq name="product.yy" value="1">selected="selected"</eq>>欧式经典</option>
+          <option value="2" <eq name="product.yy" value="2">selected="selected"</eq>>简约现代</option>		  
+		  
+      </select>
+	  
+	       &nbsp;&nbsp;&nbsp;&nbsp;类别三: <select name="zz" style="height:28px;">
+	      <option value="0" <eq name="product.zz" value="0">selected="selected"</eq>>请选择</option>
+          <option value="1" <eq name="product.zz" value="1">selected="selected"</eq>>泥工</option>
+          <option value="2" <eq name="product.zz" value="2">selected="selected"</eq>>电工</option>		  
+      </select>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>自定义属性：</td>
+    <td height="35">
+    零售价：<input name="property1" type="text" value="<{$product.property1}>" class="FormSmall" style="width:150px;font-size:12px;">&nbsp;
+    会员价：<input name="property2" type="text" value="<{$product.property2}>" class="FormSmall" style="width:150px;font-size:12px;">&nbsp;
+    净含量：<input name="property3" type="text" value="<{$product.property3}>" class="FormSmall" style="width:150px;font-size:12px;">&nbsp;
+	适用肤质：<input name="property4" type="text" value="<{$product.property4}>" class="FormSmall" style="width:150px;font-size:12px;">&nbsp;<br />
+    </td>
+  </tr>
+  
+        <tr style="display:none;">
+    <td>设计师：</td>
+    <td height="35">
+      <select name="property8" style="height:28px;">
+	      <option value="" <eq name="product.property8" value="">selected="selected"</eq>>请选择</option>
+          <option value="小李" <eq name="product.property8" value="小李">selected="selected"</eq>>小李</option>
+		  <option value="张月" <eq name="product.property8" value="张月">selected="selected"</eq>>张月</option>
+      </select>
+	  &nbsp;&nbsp;&nbsp;&nbsp;职位：
+	        <select name="property9" style="height:28px;">
+		  <option value="" <eq name="product.property9" value="">selected="selected"</eq>>请选择</option>
+          <option value="主案设计师" <eq name="product.property9" value="主案设计师">selected="selected"</eq>>主案设计师</option>
+		  <option value="专案设计师" <eq name="product.property9" value="专案设计师">selected="selected"</eq>>专案设计师</option>
+      </select>
+    </td>
+  </tr>
+  
+    <tr style="display:none;">
+    <td>库存：</td>
+    <td height="35"><input name="nums" type="text" class="FormSmall" value="<{$product.nums}>" style="width: 320px;"></td>
+  </tr>
+  
+ <tr>
+    <td>URL优化：</td>
+    <td height="35"><input name="url" type="text" value="<{$product.url}>" class="FormSmall" style="width: 320px;"> <span style="color:#F00; font-size:12px;">*</span> <a title='URL只能是字母，数字，下划线或-' style="margin-left: 5px;" href="#"><img src="../Public/images/help.gif"></a></td>
+  </tr>
+  
+ <tr style="display:none;">
+    <td width="9%">起订量：</td>
+    <td width="91%" height="35"><input name="title" type="text" value="<{$product.title}>" class="FormSmall" style="width: 320px;"> 
+	<span style="color:#F00; font-size:12px;">*必填</span>
+    </td>
+  </tr>
+  
+ <tr style="display:none;">
+    <td>单价：</td>
+    <td height="35"><input name="keywords" type="text" class="FormSmall" value="<{$product.keywords}>" style="width: 320px;">
+	<span style="color:#F00; font-size:12px;">*必填</span>
+	</td>
+  </tr>
+  
+  <tr>
+    <td>产品描述：</td>
+    <td height="110"><textarea name="description" class="FormSmall" style="width: 450px; height: 80px;"><{$product.description}></textarea>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>缩略图：</td>
+    <td height="35">
+    <empty name='product.thumb'>
+    <input type='file' name='thumb'>
+    <input type="hidden" name="tnum" value="1">
+    <else/>
+      <p style="padding:4px 0;"><img src="__ROOT__/Uploads/<{$product.thumb}>" width="60" height="60"/>
+      <a href="<{:U('delphoto',array('name'=>$product['thumb'],'id'=>$product['id'],'field'=>'thumb'))}>" class='del'>删除该图片</a>
+      </p>
+     </empty> 
+    </td>
+  </tr>
+  
+  <tr style="display:none;">
+    <td>追加主图数量：</td>
+    <td height="35">
+	<script language="JavaScript" type="text/javascript">
+    function setUrlNum(){
+    str='';
+    
+        if(!document.myform.Num.value){
+            document.myform.Num.value=1;
+        }
+        for(i=1;i<=document.myform.Num.value;i++){
+            str+= '<p style="margin:6px 2px; font-size:12px;">追加主图'+i+'：<input name="photo[]" type="file" id="photo'+i+'"></p>';
+        }
+            document.getElementById('UpID').innerHTML=str;
+    }
+    </script>
+    <input name="Num" class="FormSmall" style="width: 50px;"/>
+    <input onClick="setUrlNum();" type="button" value="设定" class="bginput" style="width:45px; height:28px;"/> <a title='输入数字，点击[设定]按钮，可设置图片数量'style="margin-left: 5px;" href="#"><img src="../Public/images/help.gif"></a>
+    </td>
+  </tr>
+  
+  <tr style="display:none;">
+    <td>信息主图：</td>
+    <td height="35">
+      <notempty name="photo">
+        <volist name='photo' id='vo'>
+          <p style="padding:1px;"><img src="__ROOT__/Uploads/<{$photo[$key]}>" width="60" height="60"/>
+            <a href="<{:U('delphoto',array('name'=>$photo[$key],'id'=>$product['id'],'field'=>'photo'))}>" class='del'>删除该图片</a>
+          </p>
+        </volist>
+        <div id="UpID"></div>
+        <div style="padding:10px 0px 10px 0px;"><a href="<{:U('delmain',array('id'=>$product['id']))}>" class='del'>[ 删除全部主图 ]</a></div>
+      <else/>
+          <div id="UpID"></div>
+      </notempty>  
+     
+    </td>
+  </tr>
+  
+  <tr>
+    <td>详细内容：</td>
+    <td>
+    <textarea name="contents" style="width:680px; height:320px; margin:8px 0;visibility:hidden;"><{$product.contents}></textarea>
+    </td>
+  </tr>
+  
+    <tr style="display:none;">
+    <td>补充内容1：</td>
+    <td>
+    <textarea name="contents1" style="width:680px; height:220px; margin:8px 0;visibility:hidden;"><{$product.contents1}></textarea>
+    </td>
+  </tr>
+  
+    <tr style="display:none;">
+    <td>补充内容2：</td>
+    <td>
+    <textarea name="contents2" style="width:680px; height:220px; margin:8px 0;visibility:hidden;"><{$product.contents2}></textarea>
+    </td>
+  </tr>
+  
+    <tr style="display:none;">
+    <td>补充内容3：</td>
+    <td>
+    <textarea name="contents3" style="width:680px; height:220px; margin:8px 0;visibility:hidden;"><{$product.contents3}></textarea>
+    </td>
+  </tr>
+  
+  <tr>
+    <td height="55" align="center">
+    </td>
+    <td height="55" align="left">
+    <input type="hidden" name="id" value="<{$product.id}>">
+    <input type="submit" value="确认修改" class="bginput">&nbsp;&nbsp;
+    </td>
+    </tr>
+</table>
+</DIV>
+</form>
+</body>
+</html>

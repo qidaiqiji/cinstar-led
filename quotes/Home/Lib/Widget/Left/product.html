@@ -1,0 +1,21 @@
+
+<if condition="$product">
+
+       <volist name='product' id='vo' offset="0" length="6">						
+				<li>
+                	<a href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'Product'))}>">
+                        <i>
+                            <h3><{$vo.name|}></h3>
+                            <h4>风    格：<{$vo.property6|}></h4>
+                            <h5>设计师：<{$vo.property8|}></h5>
+                        </i>
+                        <img src="__ROOT__/Uploads/<{$vo.thumb}>" width="289" height="216" />
+                    </a>
+                </li>			
+	</volist>
+
+</if>	
+     
+
+
+	

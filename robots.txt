@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /quotes/
+Disallow: /quotes/hzajadm/
+Disallow: /quotes/Home/
+Disallow: /quotes/Framework/

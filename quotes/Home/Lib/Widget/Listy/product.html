@@ -1,0 +1,10 @@
+<if condition="$product">
+
+    <volist name='product' id='vo' offset="0" length="5">										
+				 <li class="col-md-3 col-xs-3"> <a href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'Product'))}>">
+                <div class="zbox"> <img src="__ROOT__/Uploads/<{$vo.thumb}>" width="100%" /> </div>
+                </a> </li>			
+	</volist>
+
+
+</if>

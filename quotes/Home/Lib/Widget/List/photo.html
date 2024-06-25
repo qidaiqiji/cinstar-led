@@ -1,0 +1,56 @@
+
+<if condition="$photo">
+
+<if condition="$id eq 275">
+<div class="headlines">
+<volist name="photo" id="vo" offset="0" length="1">
+  <div class="headlines_img"><a target="_blank" href="<{$vo.url}>" title="<{$vo.title}>"><img src="__ROOT__/Uploads/<{$vo.thumb}>" width="285" height="285" /></a></div>
+ </volist> 
+  <div class="headlines_font">
+  <volist name="photo" id="vo" offset="1" length="1">
+    <dl><dt><{$vo.title}></dt>
+    <dd><a><{$vo.description|strip_tags|mb_substr=###,0,100,'utf-8'}>...</a><a target="_blank" href="<{$vo.url}>"><span>【详情】</span></a></dd>
+    </dl>
+	</volist>
+      <center><div class="headlines_line"></div></center>
+      
+       <ul>
+	   <volist name="photo" id="vo" offset="2" length="6">
+         <li><a><span>[动态]</span></a><a title="<{$vo.title}>" target="_blank" href="<{$vo.url}>"> <{$vo.title}></a></li>
+		 </volist>
+       </ul>
+   
+  </div>
+  <volist name="photo" id="vo" offset="0" length="1">
+  <p class="headlines_p"><{$vo.title|mb_substr=###,0,16,'utf-8'}></p>
+  </volist>
+</div>
+ 
+ 
+	
+<elseif condition="$id eq 276" />
+        <dl>
+	<volist name="photo" id="vo" offset="0" length="1">
+		<dt> <a target="_blank" title="<{$vo.title}>" href="<{$vo.url}>"><img src="__ROOT__/Uploads/<{$vo.thumb}>" width="260" height="100" ></a></dt>
+	</volist> 
+	
+ <volist name="photo" id="vo" offset="0" length="7">		
+<dd <if condition="$i eq 1">style="margin-top:2px;"</if>><a><span>[论坛]</span></a><a target="_blank" title="<{$vo.title}>" href="<{$vo.url}>"><{$vo.title|mb_substr=###,0,15,'utf-8'}></a></dd>
+</volist> 
+    </dl>
+
+	
+	
+<else />
+  <ul>
+    <volist name="photo" id="vo" offset="0" length="5">
+	<li><a target="_blank" href="<{$vo.url}>" title="<{$vo.title}>"><{$vo.title|mb_substr=###,0,18,'utf-8'}></a></li>
+    </volist>
+  </ul>
+  	
+</if>
+
+</if>
+
+
+

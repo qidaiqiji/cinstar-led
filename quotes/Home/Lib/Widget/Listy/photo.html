@@ -1,0 +1,20 @@
+
+<if condition="$photo">
+
+<if condition="($id eq 294) or ($id eq 295) or ($id eq 296)">
+
+                 <volist name='photo' id='vo' offset="0" length="2">
+
+                                    <li style="margin-top: 0px;">
+                                        <a href="<{:W('Href',array('url'=>$vo['url'],'id'=>$vo['id'],'type'=>'Photo'))}>" data-tracker="tracker" data-page="" data-label="<{$vo.name|}>">
+                                            <{$vo.name|}>
+                                        </a>
+                                        <b class="icon-arw02-1">
+                                        </b>
+                                    </li>
+									
+               </volist>
+
+	</if>
+	
+</if>
