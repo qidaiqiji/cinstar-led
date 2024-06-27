@@ -1,0 +1,247 @@
+{
+  "id": "1164801",
+  "name": "cinstar-new",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "348637",
+      "name": "mobile",
+      "font_class": "mobile",
+      "unicode": "eb5d",
+      "unicode_decimal": 60253
+    },
+    {
+      "icon_id": "1295402",
+      "name": "链接",
+      "font_class": "lianjie1",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "666546",
+      "name": "创新型",
+      "font_class": "chuangxinxing",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1991738",
+      "name": "快速",
+      "font_class": "kuaisu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2930916",
+      "name": "多功能一体机",
+      "font_class": "duogongnengyitiji",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6811349",
+      "name": "icons8-easy",
+      "font_class": "icons-easy",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "1251228",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "1718321",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1718323",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "647134",
+      "name": "铅笔",
+      "font_class": "qianbi",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "673483",
+      "name": "引号1-01",
+      "font_class": "yinhao101",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "673485",
+      "name": "引号2-01",
+      "font_class": "yinhao201",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "700843",
+      "name": "权威专家",
+      "font_class": "quanweizhuanjia",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "1362986",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "1667292",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1719343",
+      "name": "随机",
+      "font_class": "suiji",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "1921816",
+      "name": "齿轮3",
+      "font_class": "xinxinicon",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "2079605",
+      "name": "亮度对比度",
+      "font_class": "liangduduibidu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "2239012",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "3001089",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "3680779",
+      "name": "报装维修",
+      "font_class": "baozhuangweixiu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "4011175",
+      "name": "羽毛",
+      "font_class": "yumao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4029577",
+      "name": "奖章",
+      "font_class": "icon---copy",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "4659398",
+      "name": "资产维修",
+      "font_class": "zichanweixiu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5330418",
+      "name": "随机",
+      "font_class": "suiji1",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "5600065",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "6472267",
+      "name": "维修管理_选中",
+      "font_class": "weixiuguanli_xuanzhong",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7170694",
+      "name": "智能云屏-对比度",
+      "font_class": "zhinengyunping-duibidu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "7218909",
+      "name": "售后服务",
+      "font_class": "shouhoufuwu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7228592",
+      "name": "雨",
+      "font_class": "tingchewei",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "7362714",
+      "name": "雨量",
+      "font_class": "yuliang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7513720",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7565997",
+      "name": "书写_line",
+      "font_class": "shuxie_line",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "7966711",
+      "name": "人-话务员1",
+      "font_class": "ren-huawuyuan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

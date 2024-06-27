@@ -1,0 +1,462 @@
+@charset "utf-8";
+/* 产品总页 */
+.sort-box {
+    /* margin-top: 100px; */
+    padding-top:0.7rem;
+}
+.sort-list{
+    width: 90%;
+    margin: 0.6rem auto;
+    margin-top: 1rem;
+}
+.sort-item{
+    width: 100%;    
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem 0;
+}
+.sort-img{
+    width: 48%;
+    display: flex;
+    align-items: center;
+}
+.sort-img img{
+    width: 100%;
+    height: 100%;    
+}
+.sort-detail{
+    width: 46%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align:center;
+}
+.sort-detail p{
+    line-height: 34px;
+    /* font-size: 18px; */
+    margin: 40px 0;
+}
+.sub-title h2{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+}
+.sub-title h3{
+    /* line-height: 80px; */
+    font-size: 30px
+}
+.sub-title h3 a:hover{
+    color: #bc261a;
+}
+.product-banner{
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+.img-cover{
+    width: 400px;
+    height: 60px;
+    text-align: center;
+    background: rgba(255,255,255,.5);
+    color:#bc261a;
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    font-size: 34px;
+    font-weight: bolder;
+    line-height: 60px;
+}
+.product-banner img{
+    width: 100%;
+    height: 100%;
+}
+/* 新样式 */
+.spce-container {
+    width: 90%;
+    margin: 0.5rem auto;
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-bottom: 1.2rem; */
+}
+.specification {
+    width: 30%;
+    margin-right: 3%;
+    box-shadow: 0 0 10px rgb(0 0 0 / 16%);
+    margin-top: 40px;
+    position: relative;
+}
+.product-img {
+    position: relative;
+}
+.product-img > a:first-child {
+    display: block;
+    width: 100%;
+    /* height: 350px; */
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-img a img {
+    /*transform: scale(0.6); */
+    width: 80%;
+}
+.icon-new {
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #fff;
+    font-size: 12px;
+    border: 20px solid #bc261a;
+    border-bottom: 20px solid #fff;
+    border-right: 20px solid #fff;
+}
+.icon-new .icon-content {
+    position: absolute;
+    display: inline-block;
+    transform: rotate(-45deg);
+    left: -20px;
+    top: -14px;
+}
+.spec-title {
+    display: block;
+    width: 100%;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    text-align: center;
+    background: #595a58;
+    font-size: 0.2rem;
+    color: #fff;
+    font-weight: bold;
+}
+.spec-detail {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    /* background: red; */
+    background: rgba(188,38,26,.7);
+    /* display: none; */
+    color: #fff;
+    padding: 0.2rem;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    box-sizing: border-box;
+    display: none;
+}
+.spec-detail .series-title {
+    margin: 0.1rem 0;
+    font-weight: bold;
+    text-align: center;
+
+}
+.spec-detail p {
+    margin-bottom: 6px;
+}
+.spec-detail ul {
+    list-style: disc;
+    padding: 0 0.1rem;
+    margin-top: 10px;
+}
+.spec-detail ul li {
+    margin-bottom: 6px;
+}
+.product-img:hover .spec-detail{
+    display: flex;
+}
+.product-img:hover .spec-title{
+    background: #fff;
+    color: #fff;
+}
+/* --------内容样式---------- */
+
+.content-container{
+    width: 88%;
+    margin: 0.4rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+.blog-content{
+    margin-top: 1.5rem;
+}
+.title{
+    font-size: 34px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    color: #000;
+}
+.date{
+    padding: 40px 10px;
+    padding-top:0
+}
+.date span{
+    display: inline-block;
+    margin-right: 10px;
+}
+.date i{
+    color:#bc261a;
+}
+
+.content {
+    width: 57%;
+    color:#222831;
+    font-size: 18px;
+}
+.content p{
+    line-height: 34px;
+    margin-bottom: 20px;
+}
+.content span{
+    line-height:34px;
+}
+.content p a{
+   color:#2b1fca
+}
+
+.img-box{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.img-box img{
+    width: 100%;
+    height: 100%;
+}
+.chapter-box{
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid #bc261a;
+}
+.content-container ul{
+    margin-bottom: 20px;
+}
+.content-container li{
+    margin-bottom: 10px;
+}
+.chapter-box li i, .list i{
+    color: #bc261a;
+    font-size: 12px;
+    display: inline-block;
+    margin-right: 6px;
+}
+.chapter-title{
+    margin: 50px 0;
+}
+.content h3{
+    font-weight: bold;
+    font-size: 26px;
+}
+.list i{
+    font-size: 14px;
+}
+.content .sub-title{
+    margin-bottom: 10px;
+    margin-top:30px;
+}
+
+/* -----------留言板------------ */
+.message-box{
+    /* width: 30%; */
+    width: 500px;
+    /* height: 100%; */
+    background: #54595f;
+    margin-top:40px;
+    border-radius: 12px;
+}
+.message-wrapper{
+    padding: 30px 50px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    /* height: 500px; */
+}
+.quote-title{
+    font-size:26px;
+    font-weight:bold;
+    margin-bottom:30px;
+    /* color:#e50000; */
+    color:#fff;
+}
+.message-wrapper input, .message-wrapper textarea{
+    background: #54595f;
+    width: 100%;
+    margin-bottom: 16px;
+    padding:0 4px;
+    color:#fff;
+    font-size: 16px;
+    border: none;
+    border: 1px solid #f2f2f2;
+    box-sizing: border-box;
+}
+.message-wrapper input {
+    height:36px;
+}
+.message-wrapper textarea {
+    margin-top:0;
+}
+.message-wrapper input::-webkit-input-placeholder {
+    color:#fff;
+}
+.message-wrapper textarea::-webkit-input-placeholder {
+    color:#fff;
+}
+.fix{
+    position: fixed;
+    /* right: 6%; */
+    top: 20%;
+    height: auto;
+}
+/* 响应式 */
+@media(max-width:1500px) {
+    .fix{
+        max-width: 367px;
+        top: 8%;
+    }
+    .message-box{
+        width: 367px;
+    }
+}
+@media (min-width:1401px){
+    .product-banner {
+        height:auto;
+    }
+    .content-container{
+        margin-bottom: 0.3rem;
+    }
+}
+@media (max-width:1200px){
+    .blog-content{
+        margin-top: 0.5rem;
+    }
+    .product-banner{
+        height:auto;
+        margin-top:0;
+    }
+    .sort-detail p{
+        margin:10px 0;
+        line-height:30px;
+        font-size:14px;
+    }
+    .product-img a img {
+        transform: scale(0.5); 
+        /*width: 80%;*/
+    }
+    .product-img a .long-img {
+        transform: scale(0.4); 
+    }
+    
+    .sub-title h3{
+        font-size: 28px;
+    }
+    .message-box{
+        display: none;
+    }
+    .content{
+        width: 100%;
+    }
+    .img-box{
+        height: auto;
+    }
+    .specification{
+        width: 95%;
+    }
+
+}
+@media (max-width:1000px){
+    .product-img a img {
+        transform: scale(0.6); 
+        /*width: 80%;*/
+    }
+    .product-img a .long-img {
+        transform: scale(0.5); 
+    }
+}
+@media (max-width:800px) {
+    .key-feature {
+        display: none
+    }
+    table{
+        font-size: 14px;
+    }
+    table .thead{
+        font-size: 14px;
+    }
+    .series-title{
+        font-size: 0.2rem;
+        margin-bottom: 10px;
+    }
+    .spec-detail{
+        width: 54%;
+    }
+    .read-more{
+        /* margin-left: 0;
+        margin-top: 10px; */
+        display: none;
+    }
+    .img-cover{
+        font-size: 30px;
+    }
+
+}
+@media (max-width:500px){
+    .product-banner{
+        height:200px;
+    }
+    .sort-item{
+        flex-wrap: wrap;
+    }
+    .sort-img{
+        width: 100%;
+    }
+    .sort-detail{
+        width: 100%;
+    }
+    .sub-title h3{
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .read-more{
+        font-size: 12px;
+    }
+    .specification{
+        flex-wrap: wrap;
+        justify-content:center;
+    }
+    .product-img{
+        width: 60%;
+    }
+    .spec-detail{
+        width: 100%;
+        margin-top: 20px;
+        align-items: center;
+    }
+    .series-title{
+        font-size: 20px;
+        margin: 20px;
+    }
+    .series-title a{
+        font-weight: bolder;
+    }
+    .img-cover{
+        width: 60%;
+        height: 40px;
+        font-size:18px;
+        line-height: 40px;
+    }
+    .title{
+        font-size: 28px;
+        margin-top: 20px;
+    }
+    .content h3{
+        font-size: 24px;
+    }
+}
+
+.message-box.fix {
+    position: relative !important;
+    height: unset !important;
+}

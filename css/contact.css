@@ -1,0 +1,132 @@
+.contact-box{
+    margin-top: 1.4rem;
+}
+.contact-head{
+    width: 90%;
+    margin: 0.8rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+.contact-item{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    align-items: center;
+}
+.contact-item i{
+    font-size: 0.3rem;
+    color: #bc261a;
+}
+.contact-item .icon-box{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.contact-item .title{
+    font-size: 0.18rem;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.contact-item p{
+    font-size: 0.13rem;
+    line-height: 0.18rem;
+    text-align: center;
+}
+.contact-detail{
+    margin-bottom: 0.6rem;
+}
+.contact-body{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 0.7rem;
+}
+.input-contact{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.input-contact input{
+    width: 42%;
+    height: 40px;
+    margin-bottom: 0.3rem;
+    padding: 0 16px;
+    border: none;
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+}
+.contact-body textarea{
+    width: 100%;
+    height: 1.4rem;
+    border-color: #ccc;
+    margin-top: 0.1rem;
+    margin-bottom: 0.2rem;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+.contact-input::-webkit-input-placeholder {
+    line-height: 20px;
+}
+.btn{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn .submit{
+    width: 254px;
+    height: 64px;
+    border: 1px solid #bc261a;
+    text-align: center;
+    line-height: 64px;
+    border-radius: 0;
+    font-size: 0.14rem;
+    color:#bc261a;
+    font-weight: bold;
+}
+.btn .submit:hover{
+    color:#fff;
+}
+@media (max-width:768px) {
+    .contact-item {
+        margin-bottom: 30px;
+    }
+    .contact-head{
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items:center;
+    }
+    .contact-item .icon-box{
+        margin-bottom:0;
+    }
+}
+@media (max-width:600px) {
+    .input-contact input {
+        width:35%;
+    }
+    .btn .submit{
+        height: 40px;
+        line-height: 40px;
+    }
+    .input-contact input{
+        margin-bottom:0.5rem;
+        height:1rem;
+    }
+    .contact-item p{
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 6px;
+    }
+    .contact-item .title{
+        font-size: 16px;
+    }
+    .contact-item{
+        width: 80%;
+    }
+    .btn .submit{
+        font-size: 18px;
+    }
+}

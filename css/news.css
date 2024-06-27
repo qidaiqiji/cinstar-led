@@ -1,0 +1,120 @@
+@charset "utf-8";
+.news-container{
+    width: 100%;
+    height: 100%;
+    margin-top: 1.4rem;
+}
+.news-list{
+    width: 80%;
+    margin: 0.6rem auto;
+    margin-top: 0;
+}
+.content-box{
+    margin: 0.7rem 0;
+    margin-bottom: 0.4rem;
+}
+.news-item{
+    width: 100%;
+    padding: 0.2rem 0;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content:space-between;
+}
+.last{
+    border-bottom: none;
+}
+.news-item:first-child {
+    padding-top: 0;
+}
+.news-item .news-img{
+    display: block;
+    width: 20%;
+    margin-right: 20px;
+    height: 120px;
+}
+.news-img .img-wrap{
+    width: 100%;
+    height: 100%;
+}
+.news-img img{
+    width: 100%;
+    height: 100%;
+}
+.news-item .desc {
+    width: 78%;
+}
+.desc .news-title{
+    font-size: 0.16rem;
+    height: 0.3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.desc .news-title h2{
+    font-size: 0.14rem;
+    height: 0.3rem;
+}
+.news-title a:hover{
+    color:#bc261a;
+    text-decoration: underline;
+}
+.news-title .date{
+    color:#999;
+    font-size: 0.12rem;
+}
+.desc .detail{
+    line-height: 0.17rem;
+    font-size: 0.12rem;
+    margin-bottom: 0.1rem;
+    color:#666;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.desc .more{
+    font-size: 0.12rem;
+}
+.desc .more a:hover{
+    color:#bc261a;
+}
+
+@media (max-width: 1110px){
+    .news-container {
+        margin-top:1rem;
+    }
+    .news-item .news-img{
+        height: auto;
+    }
+}
+@media (min-width: 768px) and (max-width: 990px){
+    .desc .detail{
+        line-height: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
+@media (max-width: 767px){
+    .desc .detail{
+        line-height: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .news-img img{
+        height: auto;
+    }
+    .desc .news-title h2{
+        font-size: 10px;
+    }
+    .desc .news-title a{
+        width: 74%;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .more{
+        font-size: 10px;
+    }
+}
