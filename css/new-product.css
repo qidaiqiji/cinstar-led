@@ -3,21 +3,21 @@
 img {
     width: 100%;
 }
-.new-product-container p {
+.new-product-container .spec-content p {
     margin-bottom: 20px;
 }
 .new-product-container .series-border-button {
-    border: 1px solid rgba(188,38,26,.7);
+    border: 1px solid #bc261a;
     padding: 10px 30px;
     text-align: center;
     margin: 20px 0 12px 0;
     border-radius: 4px;
-    color: rgba(188,38,26,.7);
+    color: #bc261a;
     cursor: pointer;
 }
 .new-product-container .series-border-button:hover{
     color: #fff;
-    background: rgba(188,38,26,.7);
+    background: #bc261a;
 }
 /* banner */
 .new-product-container .product-banner {
@@ -73,11 +73,10 @@ img {
     width: 90%;
     padding: 60px 0;
 }
-.new-product-container h2 {
+.new-product-container .spec-content h2 {
     font-size: 30px;
     margin-bottom: 60px;
     font-weight: 800;
-    color: rgb(25, 62, 109);
     text-align: center;
 }
 .new-product-container .text-container {
@@ -133,13 +132,13 @@ img {
     text-align: center;
     line-height: 45px;
 }
-.title-box-change .title-border-button {
-    border: 1px solid rgba(188,38,26,.7);
+.title-border-button {
+    border: 1px solid #bc261a;
     text-align: center;
     margin: 20px 0 12px 0;
     border-radius: 4px;
     color: #fff;
-    background: rgba(188,38,26,.7);
+    background: #bc261a;
     cursor: pointer;
     position: absolute;
     left: 0;
@@ -164,7 +163,7 @@ img {
 }
 /* icon */
 .new-product-container .icon-content {
-    background: rgba(188,38,26,.7);
+    background: #bc261a;
     color: #fff;
 }
 .new-product-container .icon-list-content {
