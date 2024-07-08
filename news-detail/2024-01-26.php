@@ -38,6 +38,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="2024-07-08.php">108SQM media cube LED video wall panels for ice hockey arena </a></h3>
         <h3><span>Next :</span><a href="2023-11-13.php">China Creative LED Display I Custom LED Screen Solution I LED Cube Display - Cinstar</a></h3>
     </div>
         <!-- 底部开始 -->

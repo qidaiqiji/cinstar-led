@@ -30,6 +30,13 @@
     <script>
         let data = [
             {
+                imgSrc:'../images/news/media-cube-led-video-wall-panel-2.jpg',
+                title:'108SQM media cube LED video wall panels for ice hockey arena',
+                data:'2024-07-08',
+                detail:'Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years',
+                href: '../news-detail/2024-07-08.php'
+            },
+            {
                 imgSrc:'../images/news/2024-01-26-1.jpg',
                 title:'3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered',
                 data:'2024-01-26',

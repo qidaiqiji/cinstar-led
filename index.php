@@ -49,12 +49,6 @@
         <div class="banner"> 
             <ul>
                 <li>
-                    <a href="/products/custom-led.php">
-                        <img src="images/custom-LED-banner.jpg" alt="custom-LED"/>
-                        <span class="view-more bg" style="left:9%;bottom:22%">View More</span>
-                    </a>
-                </li>
-                <li>
                     <a href="product-detail/a-series.php">
                         <img src="images/A-series-banner.jpg" alt="a-series"/>
                         <span class="view-more bg2" style="right:20%;bottom:14%">View More</span>
@@ -465,6 +459,20 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="news-detail/2024-07-08.php">
+                        <img src="/images/news/media-cube-led-video-wall-panel-2.jpg" alt="image"/>
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>108SQM media cube LED video wall panels for ice hockey arena</h3>
+                            <p class="date">2024-07-08</p>
+                        </div>
+                        <div class="news-desc">
+                        Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years.
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-01-26.php">
                         <img src="/images/news/2024-01-26-1.jpg" alt="image"/>
                     </a>
@@ -489,20 +497,6 @@
                         </div>
                         <div class="news-desc">
                         When the market is in floods of same products and everyone is busy competing on the price, it is more difficult than ever to win trust, but easier to lose project. For such an awkward situation, did you figure out your strategy to cope with it? If you are struggling HOW to stand out from the crowd, you can try Cinstar creative LED display to customize your solution and make yourself irreplaceable to your clients. 
-                        </div>
-                    </div>
-                </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2023-08-02.php">
-                        <img src="/images/news/2023-08-02-1.jpg" alt="image"/>
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</h3>
-                            <p class="date">2023-08-02</p>
-                        </div>
-                        <div class="news-desc">
-                        Great thanks to SSS who trusted and chose Cinstar LED as supplier of its pilot project of dozen portals located around the world. Cinstar team won’t fail the trust and will perform best to deliver our promises to the expectations from customer.
                         </div>
                     </div>
                 </div>
