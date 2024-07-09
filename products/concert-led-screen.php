@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/new-product.css">
-    <title>Cinstar-led.com - Flexible Rental LED Screen and Stage LED Screen for Any Occasion.</title>
-    <meta name="description" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />
-    <meta name="keywords" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />  
+    <title>Concert LED Screen Display - Rental LED Screen for Concert Stage Events</title>
+    <meta name="description" content="Cinstar's concert LED screen display delivers the most eye-catching visual experience. Deploy our rental LED screen for your concert rental stage events now." />
+    <meta name="keywords" content="concert LED screen, Concert led display, led screen for concert, rental LED display screen, event LED screen, LED stage screen, stage rental LED screen, LED concert screen" />  
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -36,55 +36,55 @@
                 <h2>Cinstar Concert LED Display Screen</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <div class="img-box" style="height: 250px;"><img src="../images/products/Rental-LED/A-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Concert Screen</h3>
-                            <div class="title-border-button">HD Series Product</div>
+                            <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>The direct view LED concert screen we offer has exceptional contrast and clarity, allowing for effective display of any 8K, 4K, and 2K videos and images. The Cinstar concert LED screen display utilizes premium LEDs to achieve a high-resolution display, broad viewing angle, vibrant color, and advanced technology.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 90%;" src="../images/products/Rental-LED/M-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/fl-series.php"><img src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Creative LED Concert Display</h3>
-                            <div class="title-border-button">FL Series Product</div>
+                            <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>
                         </div>
                         <p>Cinstar innovative LED screen for concert engages spectators with authentic and vibrant concert content. The concert LED screen has the ability to produce a wide range of layouts, including a visually impressive 360° effect. Captivate your audience with an all-encompassing ambiance that endures indefinitely.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box" style="height: 240px;"><img src="../images/products/Rental-LED/A-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/m-series.php"><img src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Concert LED Screen</h3>
-                            <div class="title-border-button">M Series Product</div>
+                            <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
                         </div>
                         <p>Cinstar applies the best materials to offer you an exceptional indoor concert LED screen for your events and stages. Our rental stage LED screen for concert effortlessly enhance audience participation during shows and provide your fans with a remarkable and indelible experience. You deserve a quality LED concert screen to level up your stages.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/Rental-LED/n-series.jpg" /></div>
+                        <a class="img-box" href="../product-detail/xposter.php"><img src="../images/home/Xposter.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Concert LED Screen Poster</h3>
-                            <div class="title-border-button">Xposter Series Product</div>
+                            <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
                         </div>
                         <p>Cinstar concert LED screen poster is customizable, moveable and portable, with a high quality and an easy user interface. These benefits and features make it ideal for all kinds of outdoor and indoor events such as concerts, exhibits, and conferences. Make your upcoming concert stand out with vivid, high-resolution concert LED screens.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 80%;" src="../images/products/Rental-LED/E-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/tf-series.php"><img src="../images/products/Creative-LED/tf-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Concert LED Screen</h3>
-                            <div class="title-border-button">TF Series Product</div>
+                            <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>
                         </div>
                         <p>Cinstar transparent concert LED screens can display instant  and compelling pictures, with an ultra-high transparency rate over 75%. In order to cater to your specific requirements, we are able to customize your screens, including pixel pitches, sizes, and other parameters. Amaze your audiences with exceptional visibility and details.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 90%;" src="../images/products/Rental-LED/t-series.jpg" /></div>
+                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Concert LED Display</h3>
-                            <div class="title-border-button">A Series Product</div>
+                            <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>
                         </div>
                         <p>Cinstar outdoor concert LED display boasts a versatile design and effortless installation. Our concert LED screens for events capture the immediate and ongoing interest and interaction of fans, and provide social media updates. Captivate your audience with a fascinating and extensive engagement by applying our concert LED screen display.</p>
                         <div class="series-border-button">Get A Quote Now</div>

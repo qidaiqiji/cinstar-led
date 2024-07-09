@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/new-product.css">
-    <title>Cinstar-led.com - Flexible Rental LED Screen and Stage LED Screen for Any Occasion.</title>
-    <meta name="description" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />
-    <meta name="keywords" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />  
+    <title>Rental LED Display Screen & Video Wall for Stage Event - LED Wall Rental</title>
+    <meta name="description" content="Wanna try out a quality rental LED video wall for your rental events? Cinstar rental LED display screens are perfect for stage events, tour production and corporate event etc." />
+    <meta name="keywords" content="rental LED display, rental LED screen, rental LED display screen, LED wall rental, rental LED video wall, LED stage screen, LED concert screen, Event LED screen, rental LED wall" />  
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -37,55 +37,55 @@
                 <h2>Cinstar Rental LED Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <div class="img-box" style="height: 250px;"><img src="../images/products/Rental-LED/A-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Rental LED Screen</h3>
-                            <div class="title-border-button">A Series Product</div>
+                            <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>
                         </div>
                         <p>Cinstar rental LED screen A series is an excellent option for showcasing your stage effect images and videos, effectively captivating your desired audience and helping you outshine your rivals at any event. You won't miss it out if you wanna upgrade your event to a next level with a qualified rental LED screen solution.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 90%;" src="../images/products/Rental-LED/M-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 90%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Rental LED Display</h3>
-                            <div class="title-border-button">M Series Product</div>
+                            <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
                         </div>
                         <p>Rental LED display M series is specifically designed for rental purposes, with the aim of enhancing any event and providing the highest level of performance. With its modular design, Cinstar rental LED display offers the advantages of portability and easy installation, making it a versatile choice for any of your events.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 80%;" src="../images/products/Rental-LED/E-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 80%;" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>LED Wall Rental Screen</h3>
-                            <div class="title-border-button">E Series Product</div>
+                            <a class="title-border-button" href="../product-detail/e-series.php">E Series Product</a>
                         </div>
                         <p>LED wall rental E series is distinguished by its rapid setup mechanism and versatile installation possibilities, rendering it a superior option for both outdoor and indoor rental events, such as music festival, trade show, corporate event, Gala, award ceremony and other stage rental events. Contact us now for the best LED wall rental for your events.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/Rental-LED/n-series.jpg" /></div>
+                        <a class="img-box" href="../product-detail/n-series.php"><img src="../images/products/Rental-LED/n-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Video Wall</h3>
-                            <div class="title-border-button">N Series Product</div>
+                            <a class="title-border-button" href="../product-detail/n-series.php">N Series Product</a>
                         </div>
                         <p>Cinstar rental LED video wall N series is with magnetic module and modular design, enabling quick and easy maintenance. Combinate two panel sizes of 500x500mm and 500x1000mm, Cinstar rental LED video wall can meet all your event installation and save you much cost, helping to optimize your ROI and grow your business.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 90%;" src="../images/products/Rental-LED/t-series.jpg" /></div>
+                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 90%;" src="../images/products/Rental-LED/t-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Display Screen</h3>
-                            <div class="title-border-button">T Series Product</div>
+                            <a class="title-border-button" href="../product-detail/t-series.php">T Series Product</a>
                         </div>
                         <p>Cinstar rental LED display screen T series is the most cost effective LED solution to offer you the best balance between cost and quality. With the assured quality, Cinstar rental LED display screen enables you to win more events and maintain its quality and performance at high level. Offering you more business opportunities and happy clients!</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 80%;" src="../images/products/Rental-LED/E-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/k-series.php"><img src="../images/products/Commercial-LED/K-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Wall Display</h3>
-                            <div class="title-border-button">K Series Product</div>
+                            <a class="title-border-button" href="../product-detail/k-series.php">K Series Product</a>
                         </div>
                         <p>Cinstar rental LED wall display K series can be used for both flat or curved setups, hanging or floor stacking applications, making sure it meets all your event requirements. What is more, Cinstar rental LED wall display screen can reach all your expectations on the creativity. If you wanna stand out from your competitors, try our rental LED display solutions. </p>
                         <div class="series-border-button">Get A Quote Now</div>
@@ -163,6 +163,17 @@
                 <p>Cinstar offers rental LED display screens to meet all of your requirements. Our LED wall rental solutions provide the optimized, user-friendly, efficient assembly process, as well as practical ease of transportation for your events. In addition, Cinstar team has the capability of manufacturing rental LED screens with tailored features that align with your specific requirements.</p>
                 <p>Cinstar has more than 13 years of experience in producing superior rental LED display screens. Our rental LED video walls are versatile and can be installed with numerous options like floor stacking, truss suspension, wall mounting and trailer screens, perfect as video display at horse racing, sports venue, concert touring and music festival, Gala etc. We are dedicated to supplying the most cost effective rental LED displays for all our customers to expand their business. </p>
                 <p>Our sophisticated R&D team ensures that all our LED rental screens are manufactured with quick and easy maintenance, adaptable shapes, and a variety of series options. With our extensive reach, we proudly cater to over 60 countries and have a customer base of over 1000. We have successfully obtained certifications from various international industry standards, including FCC, RoHS, CE, and more.</p>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
             </div>
         </div>
         <div class="spec-content blog-content">

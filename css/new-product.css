@@ -106,6 +106,7 @@ img {
     box-sizing: border-box;
 }
 .new-product-container .series-list-content .series-item .img-box {
+    display: block;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -113,6 +114,8 @@ img {
 }
 .new-product-container .series-list-content .series-item img {
     width: 100%;
+    /* min-height: 250px; */
+    max-height: 300px;
 }
 .new-product-container .series-list-content .series-box .title-box-change {
     width: 100%;
@@ -308,4 +311,53 @@ img {
     font-size: 26px;
     margin: 30px 0;
     font-weight: 800;
+}
+.contact-banner {
+    position: relative;
+}
+.contact-banner img {
+    width: 100%;
+}
+.contact-banner-content {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0.5rem;
+    color: #fff;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.contact-banner-content .contact-banner-dialog {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+.contact-banner-content .contact-banner-dialog p {
+    font-size: 30px;
+    font-weight: 800;
+    
+}
+.contact-banner-content .contact-banner-mark {
+    width: 45%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.contact-banner-button {
+    font-size: 24px;
+    padding: 20px 40px;
+    border: 2px solid #bc261a;
+    color: #fff;
+    font-weight: bold;
+}
+.contact-banner-button:hover {
+    color: #fff;
+    background: #bc261a;
 }

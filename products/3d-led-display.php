@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/new-product.css">
-    <title>Cinstar-led.com - Flexible Rental LED Screen and Stage LED Screen for Any Occasion.</title>
-    <meta name="description" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />
-    <meta name="keywords" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />  
+    <title>3D LED Display Screen & Video Wall - 3D LED Billboard Advertising</title>
+    <meta name="description" content="3D LED display screen provides dynamic visual enjoyment 3D effect. Try out our 3D LED video wall billboard for immersive naked eye 3D advertising." />
+    <meta name="keywords" content="3D led display, 3D led screen, 3D led display screen, 3D led billboard, 3D led video wall, 3D led wall, 3D led sign, 3D led signboard, 3D led signage, 3D led advertising" />  
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -39,28 +39,28 @@
                 <h2>Cinstar 3D LED Billboard Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/Rental-LED/A-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/x-series.php"><img src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor 3D LED Billboard</h3>
-                            <div class="title-border-button">X Series Product</div>
+                            <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Outdoor 3D LED billboard is now playing a vital role for outdoor advertising campaigns due to its vivid and dynamic image performance. It can greatly attract the attentions of viewers to the giant 3D LED display billboard. Cinstar outdoor 3D LED billboard can achieve naked eye 3D effect by customizing the cabinet to right angle or smooth curve. A 3D LED display billboard can get more exposure for brands and products than normal LED billboard.</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img style="width: 90%;" src="../images/products/Rental-LED/M-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor 3D LED Billboard</h3>
-                            <div class="title-border-button">Innox Series Product</div>
+                            <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>Indoor 3D LED display billboard occupies a crucial position for the advertising in shopping malls and retail stores. With customized 3D effect image/video contents, the LED billboard can promote the brand or product in a more vibrant way. Featuring ultra-light weight and seamless 90 degree connection, Cinstar indoor 3D LED screen billboard is widely applied to deliver visual appealing advertisement. If you want to make your advertising campaigns stand out, try Cinstar 3D LED displays!</p>
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <div class="img-box" style="height: 240px;"><img src="../images/products/Rental-LED/A-series-1.jpg" /></div>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img src="../images/home/MC SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Curtain 3D LED Billboard</h3>
-                            <div class="title-border-button">MC Series Product</div>
+                            <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
                         </div>
                         <p>Cinstar curtain outdoor 3D LED display billboard boasts an impressive lifespan of 100,000 hours and offers an expansive 2-year warranty service. We have developed the best 3D LED display billboard that boasts high-quality LED screen features and offers a wide range of pixels. Cinstar 3D LED screen is suitable for many applications, such as shopping malls, commercial street and office buildings. Choose Cinstar for your best 3D LED screen manufacturer!</p>
                         <div class="series-border-button">Get A Quote Now</div>
