@@ -151,6 +151,17 @@
                 </div>
             </div>
         </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
+            </div>
+        </div>
         <div class="spec-content blog-content">
             <div class="content">
                 <h2>Ultimate Guide for LED Advertising Screen</h2>

@@ -214,6 +214,17 @@
                 <p>Cinstar concert LED screen offers high-resolution visuals with excellent clarity and a wide viewing angle. It enables your audience to experience a strong and distinct visual effect without having to face the central and middle parts of the LED screens. Cinstar manufactures LED displays designed to meet your specific needs. We maintain a strong enthusiasm for our work and consistently strive to provide our clients with optimal solutions by applying superior LED concert display products.</p>
             </div>
         </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
+            </div>
+        </div>
         <div class="spec-content blog-content">
             <div class="content">
                 <h2>Ultimate Guide for Concert LED Screen Purchasing</h2>

@@ -224,6 +224,17 @@
                 <p>Cinstar is a renowned LED display manufacturer of a wide variety of LED display screen solutions that are at the forefront of the industry. Thanks to our skilled team of designers and engineers, we are able to assist you in the creation of church LED screen that will be specifically tailored to meet the requirements of your congregation and worship services. You can always trust us on any tailored LED screen solutions.</p>
             </div>
         </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
+            </div>
+        </div>
         <div class="spec-content blog-content">
             <div class="content">
                 <h2>What to Consider When Choose LED Screen for Church</h2>

@@ -33,6 +33,151 @@
             </div>
         </div>
         <div class="spec-content">
+            <div class="content events-recommend">
+                <h2>Recommended LED Screens for Events</h2>
+                <div class="events-recommend-box">
+                    <div class="specification">
+                        <div class="product-img img-bigger">
+                            <a href="../product-detail/m-series.php">
+                                <img src="../images/products/Rental-LED/M-series-1.jpg" alt="M SERIES" style="width: 90%" />
+                                <div class="spec-detail">
+                                    <h2 class="series-title">M SERIES</h2>
+                                    <p>Pixel Pitch (mm): Indoor 2.6 / 2.84 / 2.97 / 3.91</p>
+                                    <p>Pixel Pitch (mm): Outdoor 2.84 /  3.47 / 3.91</p>
+                                    <p>Refresh Rate(Hz): 3840</p>
+                                    <p>Application: Stage Rental LED Display</p>
+                                    <ul>
+                                        <li>Sleek panel design with thickness 84mm weight 7.2kg</li>
+                                        <li>500x500mm and 500x1000mm panel sizes for option</li>
+                                        <li>Modular design makes maintenance quick and easy</li>
+                                        <li>Magnetic modules enable front and rear service</li>
+                                        <li>Practical flip device for panel corner protection</li>
+                                        <li>Satisfy all flat or curved, hanging or floor stacking set-ups</li>
+                                    </ul>
+                                </div>
+                            </a>
+                            <a  href="../product-detail/m-series.php" class="spec-title">M SERIES</a>
+                        </div>
+                    </div>
+                    <div class="specification">
+                        <div class="product-img img-bigger">
+                            <a href="../product-detail/a-series.php">
+                                <img src="../images/products/Rental-LED/A-series-1.jpg" alt="A SERIES" style="width: 90%" />
+                                <div class="spec-detail">
+                                    <h2 class="series-title">A SERIES</h2>
+                                    <p>Pixel Pitch (mm): 1.56 / 1.95 / 2.97 / 3.91</p>
+                                    <p>Brightness (nits): up to 5000</p>
+                                    <p>Refresh Rate(Hz): 1920-3840</p>
+                                    <p>Application: Rental</p>
+                                    <ul>
+                                        <li>High standard PCB board and module</li>
+                                        <li>Truly modular panel design and high compatibility</li>
+                                        <li>Fully front or rear access service available</li>
+                                        <li>Ergonomic handle easier for one-man installation</li>
+                                        <li>Well-chamfered panel ensures safer operation</li>
+                                        <li>Versatile panel with multiple creative applications</li>    
+                                    </ul>
+                                </div>
+                            </a>
+                            <a  href="../product-detail/a-series.php" class="spec-title">A SERIES</a>
+                        </div>
+                    </div>
+                    <div class="specification">
+                        <div class="product-img img-bigger">
+                            <a href="../product-detail/e-series.php">
+                                <img src="../images/products/Rental-LED/E-series-1.jpg" class="long-img" alt="E SERIES" style="width: 70%" />
+                                <div class="spec-detail">
+                                    <h2 class="series-title">E SERIES</h2>
+                                    <p>Pixel Pitch (mm): 2.6 / 2.9 / 3.9</p>
+                                    <p>Brightness (nits): up to 6000</p>
+                                    <p>Refresh Rate(Hz): 1920-3840</p>
+                                    <p>Application: Indoor & Outdoor Event Production</p>
+                                    <ul>
+                                        <li>Two panel sizes for option</li>
+                                        <li>Modular design for easy maintenance </li>
+                                        <li>Versatile creative installation</li>
+                                        <li>Seamless screen connection</li>
+                                        <li>Practical corner protection design</li>
+                                        <li>Suspension and floor stacking</li>    
+                                    </ul>
+                                </div>
+                            </a>
+                            <a  href="../product-detail/e-series.php" class="spec-title">E SERIES</a>
+                        </div>
+                    </div>
+                    <div class="specification">
+                        <div class="product-img img-bigger">
+                            <a href="../product-detail/n-series.php">
+                                <img src="../images/products/Rental-LED/n-series.jpg" class="long-img" alt="N SERIES" style="width: 95%" />
+                                <div class="spec-detail">
+                                    <h2 class="series-title">N SERIES</h2>
+                                    <p>Pixel Pitch (mm): 1.9 / 2.6 / 2.9 / 3.9 / 4.8</p>
+                                    <p>Brightness (nits): up to 5500</p>
+                                    <p>Refresh Rate(Hz): 1920-3840</p>
+                                    <p>Application: Fixed/Rental</p>
+                                    <ul>
+                                        <li>Super slim and lightweight panel frame</li>
+                                        <li>Quick and easy lock design simplifies installation procesures</li>
+                                        <li>500x500mm and 500x1000mm panel for options</li>
+                                        <li>Integrated modular control unit guarantees easy maintenance</li>
+                                        <li>Versatile installations, hanging, floor stacking or curved</li>
+                                        <li>Available in both indoor and outdoor options, front or rear service access</li>    
+                                    </ul>
+                                </div>
+                            </a>
+                            <a  href="../product-detail/n-series.php" class="spec-title">N SERIES</a>
+                        </div>
+                    </div>
+                    <div class="specification">
+                        <div class="product-img img-bigger">
+                            <a href="../product-detail/t-series.php">
+                                <img src="../images/products/Rental-LED/t-series.jpg" class="long-img" alt="T SERIES" style="width: 85%" />
+                                <div class="spec-detail">
+                                    <h2 class="series-title">T SERIES</h2>
+                                    <p>Pixel Pitch (mm): 1.9 / 2.6 / 2.9 / 3.9 / 4.8</p>
+                                    <p>Brightness (nits): up to 5500</p>
+                                    <p>Refresh Rate(Hz): 1920-3840</p>
+                                    <p>Application: Fixed/Rental</p>
+                                    <ul>
+                                        <li>High standard CNC ensures seamless screen connection</li>
+                                        <li>Ultra  thin and light weight panel design</li>
+                                        <li>Quick changeable rear control unit</li>
+                                        <li>Ergonomically designed handle for convenient manipulation</li>
+                                        <li>Fast and reliable lock system enables quick installation and dismantle </li>
+                                        <li>Various installations include suspension, ground stacking or curved</li>    
+                                    </ul>
+                                </div>
+                            </a>
+                            <a  href="../product-detail/t-series.php" class="spec-title">T SERIES</a>
+                        </div>
+                    </div>
+                    <div class="specification">
+                        <div class="product-img img-bigger">
+                            <a href="../product-detail/k-series.php">
+                                <img src="../images/products/Commercial-LED/K-series-1.jpg" alt="K SERIES" />
+                                <div class="spec-detail">
+                                    <h2 class="series-title">K SERIES</h2>
+                                    <p>Pixel Pitch (mm):  2.6 / 2.9 / 3.9  / 4.8 / 5.6</p>
+                                    <p>Brightness (nits):  up to 6000</p>
+                                    <p>Refresh Rate(Hz):  1920-3840</p>
+                                    <p>Application: Indoor & Outdoor Event Production Display</p>
+                                    <ul>
+                                        <li>Simple and concise panel appearance</li>
+                                        <li>Modular design for easy maintenance </li>
+                                        <li>Versatile creative installation</li>
+                                        <li>Seamless screen connection</li>
+                                        <li>Suspension and floor stacking</li>
+
+                                    </ul>
+                                </div>
+                            </a>
+                            <a  href="../product-detail/k-series.php" class="spec-title">K SERIES</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="spec-content">
             <div class="content series-list-content">
                 <h2>Cinstar LED Screens for Events Products</h2>
                 <div class="series-box">
@@ -229,6 +374,31 @@
                 </div>
             </div>
         </div>
+        <div class="spec-content application-content">
+            <div class="content application-list">
+                <h2>Cinstar LED Screen for Events</h2>
+                <div class="events-vertical">
+                    <div class="application-item">
+                        <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-18.jpg" />
+                        <div class="application-right">
+                            <h3 class="title">Indoor Rental Event LED Screen</h3>
+                            <p>For events where the primary attention is on the visuals, the image quality shown to the audience is of utmost importance. If you want your audience to experience images with greater clarity and sharpness, then you should utilize Cinstar indoor rental LED display screen.</p>
+                            <p>Not every location is ideal for projection, therefore we must take that into consideration. Perhaps it's because there isn't enough room to accommodate the projector's placement. When you need to impress your audience with high-quality images while conserving space, Cinstar LED screen for events are the best way to go.</p>
+                            <!-- <div class="series-border-button">Get A Quote Now</div> -->
+                        </div>
+                    </div>
+                    <div class="application-item">
+                        <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-19.jpg" />
+                        <div class="application-right">
+                            <h3 class="title">Outdoor Rental Event LED Screen</h3>
+                            <p>When organizing a late-night event or a visually impressive projection mapping, we recommend that you utilize an event LED screen rather than a projection system. While there are numerous factors to take into account when strategizing and preparing to construct an outdoor event LED screen, it is crucial to recognize that weather conditions can have an impact on the functionality and structural stability of the screen.</p>
+                            <p>Manufacturers and event production companies alike possess considerable expertise in resolving certain complications via precise rigging, screen protection, and secure weight distribution.</p>
+                            <!-- <div class="series-border-button">Get A Quote Now</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="spec-content choose-content">
             <div class="content">
                 <h2>Why Choose Cinstar LED Screens for Events</h2>
@@ -238,6 +408,17 @@
                 </div>
                 <p>Opting for Cinstar as the provider of your event LED screen would entail several advantages. A multitude of event production companies select Cinstar event LED screen due to their superior cost-to-quality ratio and best quality control. Competitive price but assured quality for any high profile event productions.</p>
                 <p>With more than 15 years of experience in this industry, Cinstar team have managed thousands of projects around the world and are capable of offering a wide range of event LED screens for entertainment industry, touring & concert, corporate events and ceremony etc.</p>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
             </div>
         </div>
         <div class="spec-content application-content">

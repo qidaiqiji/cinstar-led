@@ -131,63 +131,31 @@
             <div class="content">
                 <h2>Why Choose Cinstar 3D LED Display Screen</h2>
                 <div class="img-box">
-                    <img src="../images/products/new-page3d-led-display/3d-led-display-2.jpg" />
-                    <img src="../images/products/new-page3d-led-display/3d-led-display-3.jpg"/>
+                    <img src="../images/products/new-page/3d-led-display/3d-led-display-2.jpg" />
+                    <img src="../images/products/new-page/3d-led-display/3d-led-display-3.jpg"/>
                 </div>
                 <p>Cinstar 3D LED Displays have gained widespread popularity across the globe. 3D LED screen has a greater appeal to viewers compared to 2D, making it an excellent choice for building brand awareness and advertising. The Cinstar 3D LED display has become a popular choice for public spaces as well, capturing the attention of passersby and get them engaged well.</p>
                 <p>We have not only manufactured 3D LED billboard for today, but we have also made upgrades to ensure they are ready for the near future. Cinstar applies cutting-edge LED technology to create a distinctive visual experience. We have a team of skilled professionals, including artists, engineers, and animators, who work together to create stunning visuals and bring 3D visuals to life.</p>
                 <p>3D LED Displays have become increasingly popular as advertising platforms, both in the present and for the foreseeable future. It represents the pinnacle of visual communication and is aesthetically appealing to the public. 3D LED display screen frequently serves to communicate the brand's message to customers, establishing a public space that embraces technology and prioritizes aesthetics.</p>
-                <div class="img-box">
-                    <img src="../images/products/new-page3d-led-display/3d-led-display-4.jpg" />
+                <div class="img-box" style="justify-content: center">
+                    <img src="../images/products/new-page/3d-led-display/3d-led-display-4.jpg" />
                 </div>
                 <p>For years, Cinstar 3D LED displays have been a popular choice for both workspace and commercial use. It excels in performance, which is why it is widely used, particularly in the advertising industry. We have developed a cutting-edge 3D LED billboard, representing the forefront of technological advancements.</p>
                 <p>A 3D LED video wall enables people to enjoy a spacious 3D LED screen without the need for glasses or any additional equipment to experience the immersive 3D effect. Immerse yourself in a world of lifelike 3D images and videos with this cutting-edge LED display 3D. We have also developed a customized 3D video that seamlessly incorporates LED displays into your business buildings.</p>
                 <p>The naked eye 3D LED screens offer a captivating high-definition display that attracts viewers. Implementing social media, programming and accessing our 3D LED display has become incredibly convenient.</p>
             </div>
         </div>
-        <!-- <div class="spec-content application-content">
-            <div class="content application-list">
-                <h2>Why Choose Cinstar 3D LED Display Screen</h2>
-                <div class="application-item">
-                    <img src="../images/products/new-page/3d-led-display/3d-led-display-2.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">Cost Effective Digital LED Billboard</h3>
-                        <p>Cinstar 3D LED Displays have gained widespread popularity across the globe. 3D LED screen has a greater appeal to viewers compared to 2D, making it an excellent choice for building brand awareness and advertising. The Cinstar 3D LED display has become a popular choice for public spaces as well, capturing the attention of passersby and get them engaged well.</p>
-                        <p>We have not only manufactured 3D LED billboard for today, but we have also made upgrades to ensure they are ready for the near future. Cinstar applies cutting-edge LED technology to create a distinctive visual experience. We have a team of skilled professionals, including artists, engineers, and animators, who work together to create stunning visuals and bring 3D visuals to life.</p>
-                        <p>3D LED Displays have become increasingly popular as advertising platforms, both in the present and for the foreseeable future. It represents the pinnacle of visual communication and is aesthetically appealing to the public. 3D LED display screen frequently serves to communicate the brand's message to customers, establishing a public space that embraces technology and prioritizes aesthetics.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
-                <div class="application-item">
-                    <img src="../images/products/new-page/3d-led-display/3d-led-display-3.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">LED Digital Signage Billboard </h3>
-                        <p>Cinstar specializes in manufacturing digital signage systems for all types of LED digital billboards. These displays are capable of playing intriguing content and performing concurrent tasks efficiently.</p>
-                        <p><b>Billboard advertising management</b> - Your mobile phone, or any other digital device, gives you the flexibility to manage the effectiveness of your ads on LED display billboard whenever you want. Additionally, you can monitor the live advertisements displayed on the screen to maximize your marketing effectiveness.</p>
-                        <p><b>Streaming content displaying</b> - Applying streaming video channels from platforms like YouTube can be a valuable tool for incorporating visually captivating material. It is possible to create a content collection that can be interchanged with advertisements. Therefore, your content will possess a greater influence, amplifying its effectiveness than conventional LED signs.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
-                </div>
-                <div class="application-item">
-                    <img src="../images/products/new-page/3d-led-display/3d-led-display-4.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">Affordable Outdoor LED Billboard </h3>
-                        <p>Rest assured, there's no need to manually update the content on your signs. Digital LED billboards designed with advanced digital technology can help you save both money and time. In addition to the convenience of digital platforms, you can also enjoy cost savings by eliminating the printing. LED billboards offer a wide range of possibilities for creating promoting information and motivating messages.</p>
-                        <p>Cinstar outdoor LED billboards are available in a wide range of shapes, designs, and sizes, allowing them to be used effectively for all purposes. The LED billboard sign can be utilized for promoting products, conveying notifications, and various other purposes.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
-                </div>
-                <div class="application-item">
-                    <img src="../images/products/new-page/3d-led-display/3d-led-display-5.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">Customized LED Billboard Advertising</h3>
-                        <p>Our LED billboard advertising is well-designed and developed with great attention to details. The outdoor LED billboards endure a thorough manufacturing procedure, adhering to international standards and performing strict quality controls. Besides, it includes state-of-the-art software technology, skilled installation guidance, and ongoing customer support and service.</p>
-                        <p>Cinstar LED billboard offers captivating visuals with vibrant colors and exceptional clarity. These LED digital billboards are efficient advertising network and provide a quicker return on investment compared to other forms of advertising. If you have any LED Billboard requirements, feel free to reach us today!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <div class="spec-content blog-content">
             <div class="content">
                 <h2>What You Need to Know About 3D LED Display</h2>
@@ -261,6 +229,40 @@
                     <img src="../images/products/new-page/3d-led-display/3d-led-display-9.jpg" />
                 </div>
                 <h3 class="chapter-title" id="chapter4">Chapter 4  Installations of 3D LED Display Screen</h3>
+                <div class="spec-content application-content application-blog">
+                    <div class="content application-list">
+                        <div class="application-item">
+                            <img src="../images/products/new-page/3d-led-display/3d-led-display-10.jpg" />
+                            <div class="application-right">
+                                <h3 class="title">Commercial Building 3D LED Screen</h3>
+                                <p><b>Optimized exposure: </b>3D LED display screen possesses a captivating and attention-grabbing quality, allowing it to attract the interest of a larger audience compared to a conventional flat billboard.</p>
+                                <p><b>Increased brand awareness:</b>A well-made 3D LED billboard can support the establishment of your business's identity in the eyes of customers. </p>
+                                <p><b>Enhancing customer engagement:</b>3D LED display screen enables customers to easily scan a code for interaction and experience a virtual demonstration of your product or service.</p>
+                                <div class="series-border-button">Get A Quote Now</div>
+                            </div>
+                        </div>
+                        <div class="application-item">
+                            <img src="../images/products/new-page/3d-led-display/3d-led-display-11.jpg" />
+                            <div class="application-right">
+                                <h3 class="title">City Landscape 3D LED Screen</h3>
+                                <p>3D LED billboards have the potential to enhance artistic expression, showcase distinctive designs, and elevate the aesthetic value of the surroundings.</p>
+                                <p>The advertising 3D LED billboard is truly exceptional. It boasts a massive curved LED screen that has the ability to showcase stunning 4K images and create a captivating sense of depth. The content displayed on this billboard comes to life, almost appearing as if it's right in front of you.</p>
+                                <p>Increasingly, large 3D LED display screens are becoming iconic features of cities, drawing in crowds and enhancing their reputation.</p>
+                                <div class="series-border-button">Get A Quote Now</div>
+                            </div>
+                        </div>
+                        <div class="application-item">
+                            <img src="../images/products/new-page/3d-led-display/3d-led-display-12.jpg" />
+                            <div class="application-right">
+                                <h3 class="title">Building Renovation 3D LED Screen</h3>
+                                <p>3D LED video walls are being utilized by many building owners to attract more visitors and increase their profits.</p>
+                                <p>As part of the renovation of the 7MALL building facade at Wuyi Square in Changsha, there is a large outdoor 3D LED screen situated at Wuyi Avenue and Huangxing Road. This screen grabs the attention of people passing by and generates a connection between citizens and the city, bringing an innovative approach to outdoor interactions in Hunan.</p>
+                                <p>If you're interested in exploring the numerous benefits like increased revenue and improved brand perception, you might want to install a 3D LED display to reshape your building, just like many others did.</p>
+                                <div class="series-border-button">Get A Quote Now</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <h3 class="chapter-title" id="chapter5">Chapter 5  Where to Buy Quality 3D LED Video Wall</h3>
                 <p>Cinstar is a highly rated and reliable manufacturer that specializes in producing high-quality LED displays for a wide range of applications. With a 13-year experience of successfully delivering products to lots of countries, our proficiency in the LED display market is constantly expanding. One of our notable LED display solutions is the 3D LED Display.</p>
                 <p>The 3D LED screen is suitable for various industries and sectors like advertising media, tourism, transportation, public facilities, and others. The aesthetically beautiful presentation of the 3D LED video wall will trigger excitement, comfort, and amazement to each viewer. A quality 3D LED video wall offers not just amusement but also relaxation, fascination, and other benefits.</p>
@@ -272,14 +274,9 @@
                 <p>Contact us if you desire to acquire further information regarding our products and services. We eagerly anticipate providing our services to you in the near future!</p>
             </div>
         </div>
-
         <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
     <!-- <script>

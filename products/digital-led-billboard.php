@@ -93,6 +93,17 @@
                 </div>
             </div>
         </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
+            </div>
+        </div>
         <div class="spec-content icon-content">
             <div class="content icon-list-content">
                 <h2>Cinstar Digital LED Billboard Advantages</h2>

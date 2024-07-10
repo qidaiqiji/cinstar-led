@@ -137,49 +137,17 @@
                 <p>In addition, the advanced features of direct view LED contribute to the durability of your display screens. They provide a range of benefits compared to traditional indoor LED screens. Cinstar fine pitch LED display offers the convenience of easy stack or hanging installation, eliminating the need for tools. Its versatility allows for a wide range of applications. If you require them for specialized display purposes, Cinstar can be your trusted supplier in China!</p>
             </div>
         </div>
-        <!-- <div class="spec-content application-content">
-            <div class="content application-list">
-                <h2>Why Choose Cinstar 3D LED Display Screen</h2>
-                <div class="application-item">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-2.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">Cost Effective Digital LED Billboard</h3>
-                        <p>Cinstar 3D LED Displays have gained widespread popularity across the globe. 3D LED screen has a greater appeal to viewers compared to 2D, making it an excellent choice for building brand awareness and advertising. The Cinstar 3D LED display has become a popular choice for public spaces as well, capturing the attention of passersby and get them engaged well.</p>
-                        <p>We have not only manufactured 3D LED billboard for today, but we have also made upgrades to ensure they are ready for the near future. Cinstar applies cutting-edge LED technology to create a distinctive visual experience. We have a team of skilled professionals, including artists, engineers, and animators, who work together to create stunning visuals and bring 3D visuals to life.</p>
-                        <p>3D LED Displays have become increasingly popular as advertising platforms, both in the present and for the foreseeable future. It represents the pinnacle of visual communication and is aesthetically appealing to the public. 3D LED display screen frequently serves to communicate the brand's message to customers, establishing a public space that embraces technology and prioritizes aesthetics.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
-                <div class="application-item">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-3.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">LED Digital Signage Billboard </h3>
-                        <p>Cinstar specializes in manufacturing digital signage systems for all types of LED digital billboards. These displays are capable of playing intriguing content and performing concurrent tasks efficiently.</p>
-                        <p><b>Billboard advertising management</b> - Your mobile phone, or any other digital device, gives you the flexibility to manage the effectiveness of your ads on LED display billboard whenever you want. Additionally, you can monitor the live advertisements displayed on the screen to maximize your marketing effectiveness.</p>
-                        <p><b>Streaming content displaying</b> - Applying streaming video channels from platforms like YouTube can be a valuable tool for incorporating visually captivating material. It is possible to create a content collection that can be interchanged with advertisements. Therefore, your content will possess a greater influence, amplifying its effectiveness than conventional LED signs.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
-                </div>
-                <div class="application-item">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-4.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">Affordable Outdoor LED Billboard </h3>
-                        <p>Rest assured, there's no need to manually update the content on your signs. Digital LED billboards designed with advanced digital technology can help you save both money and time. In addition to the convenience of digital platforms, you can also enjoy cost savings by eliminating the printing. LED billboards offer a wide range of possibilities for creating promoting information and motivating messages.</p>
-                        <p>Cinstar outdoor LED billboards are available in a wide range of shapes, designs, and sizes, allowing them to be used effectively for all purposes. The LED billboard sign can be utilized for promoting products, conveying notifications, and various other purposes.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
-                </div>
-                <div class="application-item">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-5.jpg" />
-                    <div class="application-right">
-                        <h3 class="title">Customized LED Billboard Advertising</h3>
-                        <p>Our LED billboard advertising is well-designed and developed with great attention to details. The outdoor LED billboards endure a thorough manufacturing procedure, adhering to international standards and performing strict quality controls. Besides, it includes state-of-the-art software technology, skilled installation guidance, and ongoing customer support and service.</p>
-                        <p>Cinstar LED billboard offers captivating visuals with vibrant colors and exceptional clarity. These LED digital billboards are efficient advertising network and provide a quicker return on investment compared to other forms of advertising. If you have any LED Billboard requirements, feel free to reach us today!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
-                    </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <div class="spec-content blog-content">
             <div class="content">
                 <h2>Practical Guide For Direct View LED Video Wall</h2>

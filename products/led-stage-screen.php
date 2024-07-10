@@ -246,6 +246,17 @@
                 <p>As a manufacturer specialized in stage LED screens in China, Cinstar are pleased to assist you with your specific needs. We customized the shape, size, pixel pitch, features, and other requirements of your LED screens for stages. Our team have extensive professional expertise in this field, committed to fulfilling your diverse project needs. We ensure the production of superior products with consistent performance, all at a highly affordable price. The exceptional visual aesthetics of our stage LED wall screen will attract participants, organizers, investors, and others.</p>
             </div>
         </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.jpg" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <div class="contact-banner-button">Contact Us Now</div>
+                </div>
+            </div>
+        </div>
         <div class="spec-content blog-content">
             <div class="content">
                 <h2>LED Stage Screen Purchasing Guidance</h2>
