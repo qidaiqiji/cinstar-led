@@ -84,7 +84,7 @@ img {
     text-align: center;
 }
 .new-product-container .text-container {
-    background: #f5f5f5;
+    background: #f2f2f2;
 }
 .new-product-container .text-content h2 {
     text-align: left;
@@ -291,7 +291,7 @@ img {
 }
 /* why choose */
 .new-product-container .choose-content {
-    background: #f5f5f5;
+    background: #f2f2f2;
 }
 .choose-content .img-box{
     display: flex;

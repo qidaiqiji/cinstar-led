@@ -177,7 +177,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content">
+        <div class="spec-content" style="background: #f2f2f2">
             <div class="content series-list-content">
                 <h2>Cinstar LED Screens for Events Products</h2>
                 <div class="series-box">

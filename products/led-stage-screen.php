@@ -151,7 +151,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content application-content">
+        <div class="spec-content application-content" style="background: #f2f2f2">
             <div class="content application-list">
                 <h2>LED Stage Screen Applications</h2>
                 <div class="application-item">
@@ -235,7 +235,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content choose-content">
+        <div class="spec-content choose-content" style="background: #fff">
             <div class="content">
                 <h2>Why Choose Cinstar LED Stage Screen</h2>
                 <div class="img-box">

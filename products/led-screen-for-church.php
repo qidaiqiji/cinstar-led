@@ -23,14 +23,14 @@
                 <div class="border-button">Get A Quote Now</div>
             </div>
         </div>
-        <div class="spec-content text-container">
+        <div class="spec-content text-container" style="background: #fff">
             <div class="content text-content">
                 <h2>Church LED Screen Solutions</h2>
                 <p>Whether your church is small, medium, or large in size, our church LED screen panels are specifically engineered to provide outstanding benefits for your space. You might be attempting to change washed-out projection videos, contending with ambient light issues, expending a significant amount of money replacing projection bulbs, or simply not experiencing the desired visual quality.</p>
                 <p>These types of disadvantages associated with projection systems are no longer present due to technological advancement. By utilizing our LED screen for church, which can optimize the sanctuary experience by establishing captivating backdrops that effectively maintain the interest of viewers.</p>
             </div>
         </div>
-        <div class="spec-content text-container">
+        <div class="spec-content text-container" style="background: #f2f2f2">
             <div class="content text-content">
                 <h2>Elevate Your Church with Cinstar LED Video Wall</h2>
                 <p>Cinstar LED offers a variety of event LED display screen solutions specifically designed for churches, ensuring effortless delivery of the desired levels of brightness and clarity. Produce an immersive exhibit that animates visuals and backgrounds on a grand scale. Regardless of whether you want to present a verse or sermon visual, you can have confidence that your audience will have a clear and legible view of the screen.</p>
@@ -157,7 +157,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content application-content">
+        <div class="spec-content application-content" style="background: #f2f2f2">
             <div class="content application-list">
                 <h2>LED Screen for Church Applications</h2>
                 <div class="application-item">
@@ -207,7 +207,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content choose-content">
+        <div class="spec-content choose-content" style="background: #fff">
             <div class="content">
                 <h2>Why Choose Cinstar LED Screen for Church</h2>
                 <div class="img-box">

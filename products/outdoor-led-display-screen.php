@@ -163,7 +163,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content application-content">
+        <div class="spec-content application-content" style="background: #f2f2f2">
             <div class="content application-list">
                 <h2>Cinstar Outdoor LED Display Screen Applications</h2>
                 <div class="application-item">
