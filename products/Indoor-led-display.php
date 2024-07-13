@@ -36,7 +36,7 @@
                 <h2>Cinstar Indoor LED Video Wall Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Display Rental </h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -45,7 +45,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Screen Advertising </h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -54,7 +54,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -63,7 +63,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tf-series.php"><img src="../images/products/Creative-LED/tf-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 60%;" src="../images/products/Creative-LED/tf-1-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Film Screen</h3>
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>
@@ -72,7 +72,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/v-series.php"><img src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Indoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/v-series.php">V Series Product</a>
@@ -81,7 +81,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/fl-series.php"><img src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/fl-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Flexible Indoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>
@@ -173,8 +173,8 @@
                 <p>Cinstar provides a diverse selection of indoor LED display panels in different resolutions and sizes. The pixel pitch options include 0.9mm, 1.25mm, 1.56mm, 1.92mm, 2.0mm, 2.5mm, 3mm, 3.91mm, 4.8mm, and more.  Aside from the conventional cabinet sizes of 640x480mm and 500x500mm, we have the capability to customize the dimensions of each indoor LED video wall to meet the specific requirements of your installations.</p>
                 <p>Cinstar's indoor LED screen has a superior level of quality, with an ultra-wide viewing angle of 160 degrees that ensures an exceptional visual experience. Cinstar indoor LED screen is exceptionally thin and lightweight, making it effortless to maintain from either the rear or front. In addition, we employ a top-of-the-line driver IC to achieve a refresh rate of 3840HZ, guaranteeing a seamless and everlasting LED display with no flickering.</p>
                 <p>Cinstar is committed to ensuring the success of an indoor LED display screen project. We provide comprehensive support throughout the entire process, including design, installation, and continuous operation. Our team is available 24/7 to offer rapid technical assistance, installation guidance, and any support needed from us. </p>
-                <div class="img-box">
-                    <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-4.jpg" />
+                <div class="img-box" style="justify-content: center">
+                    <img style="width: 70%" src="../images/products/new-page/Indoor-led-display/Indoor-led-display-4.jpg" />
                 </div>
             </div>
         </div>
@@ -264,42 +264,26 @@
                     <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-10.jpg" />
                 </div>
                 <h3 class="chapter-title" id="chapter4">Chapter 4  Applications of Indoor LED Display</h3>
-                <div class="spec-content application-content application-blog">
-                    <div class="content application-list">
-                        <div class="application-item">
-                            <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-11.jpg" />
-                            <div class="application-right">
-                                <h3 class="title">Shopping Mall Indoor LED Display</h3>
-                                <p>The shopping mall is the primary location for finding an indoor LED display screen mounted behind windows or glass walls. The indoor LED screens are utilized to enhance the venue with captivating and appealing digital displays. The majority of kiosks and retail shops within a shopping center deploys indoor LED displays in order to enhance customer attraction and promote business and services.</p>
-                                <div class="series-border-button">Get A Quote Now</div>
-                            </div>
-                        </div>
-                        <div class="application-item">
-                            <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-11.jpg" />
-                            <div class="application-right">
-                                <h3 class="title">Transportation Hub Indoor LED Display</h3>
-                                <p>Airports and other transportation hubs like train stations, metro stations and bus stations are primary places to install indoor LED video walls, due to the high traffic they can attract. Indoor LED displays installed in these places entertain the passengers, deliver schedule message, and promote products and services. Indoor LED screens may also serve as wayfinding devices for directions for the passengers. </p>
-                                <div class="series-border-button">Get A Quote Now</div>
-                            </div>
-                        </div>
-                        <div class="application-item">
-                            <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-13.jpg" />
-                            <div class="application-right">
-                                <h3 class="title">Security & Control Room Indoor LED Display</h3>
-                                <p>The control room plays an essential role in daily business management, decision-making, and emergency handling, making it a crucial part of the high-end market for large display applications. Indoor LED screen is vital in various industries such as transportation, public safety, command & dispatch, and finance. By employing direct view indoor LED display, data gathering, distribution, and monitoring become effortless. The indoor LED display ensures constant situational awareness, allowing for seamless management at all times.</p>
-                                <div class="series-border-button">Get A Quote Now</div>
-                            </div>
-                        </div>
-                        <div class="application-item">
-                            <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-14.jpg" />
-                            <div class="application-right">
-                                <h3 class="title">Stage & Concert Indoor LED Screen</h3>
-                                <p>Stage LED screen, also referred to as stage rental LED displays or concert LED screens, have the ability to transform the atmosphere of stages and concerts, providing seamless splicing and impressive dimensions that LCD displays cannot match. Indoor LED screen is now a must video equipment for all kinds of rental events like music festival, touring, Gala, corporate event and award ceremony etc. Thanks to its unique features, the indoor LED video wall is consistently the preferred option for creating top-quality stage LED screens!</p>
-                                <div class="series-border-button">Get A Quote Now</div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="img-box">
+                    <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-11.jpg" />
                 </div>
+                <p><b>Shopping Mall Indoor LED Display</b></p>
+                <p>The shopping mall is the primary location for finding an indoor LED display screen mounted behind windows or glass walls. The indoor LED screens are utilized to enhance the venue with captivating and appealing digital displays. The majority of kiosks and retail shops within a shopping center deploys indoor LED displays in order to enhance customer attraction and promote business and services.</p>
+                <div class="img-box">
+                    <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-12.jpg" />
+                </div>
+                <p><b>Transportation Hub Indoor LED Display</b></p>
+                <p>Airports and other transportation hubs like train stations, metro stations and bus stations are primary places to install indoor LED video walls, due to the high traffic they can attract. Indoor LED displays installed in these places entertain the passengers, deliver schedule message, and promote products and services. Indoor LED screens may also serve as wayfinding devices for directions for the passengers. </p>
+                <div class="img-box">
+                    <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-13.jpg" />
+                </div>
+                <p><b>Security & Control Room Indoor LED Display</b></p>
+                <p>The control room plays an essential role in daily business management, decision-making, and emergency handling, making it a crucial part of the high-end market for large display applications. Indoor LED screen is vital in various industries such as transportation, public safety, command & dispatch, and finance. By employing direct view indoor LED display, data gathering, distribution, and monitoring become effortless. The indoor LED display ensures constant situational awareness, allowing for seamless management at all times.</p>
+                <div class="img-box">
+                    <img src="../images/products/new-page/Indoor-led-display/Indoor-led-display-14.jpg" />
+                </div>
+                <p><b>Stage & Concert Indoor LED Screen</b></p>
+                <p>Stage LED screen, also referred to as stage rental LED displays or concert LED screens, have the ability to transform the atmosphere of stages and concerts, providing seamless splicing and impressive dimensions that LCD displays cannot match. Indoor LED screen is now a must video equipment for all kinds of rental events like music festival, touring, Gala, corporate event and award ceremony etc. Thanks to its unique features, the indoor LED video wall is consistently the preferred option for creating top-quality stage LED screens!</p>
                 <h3 class="chapter-title" id="chapter5">Chapter 5  Where to Buy Best Quality Indoor LED Screen?</h3>
                 <p>If you're in need of high-quality indoor LED screens for your retail store or upcoming events, you've come to the right place. Cinstar, established in 2012, has been delivering top-quality indoor LED screen products and services to customers in nearly 100 around the world.</p>
                 <p>Cinstar outdoor and indoor LED display screen products go through a rigorous aging test to guarantee superior performance upon delivery. Ensuring the quality of our products is a top priority for us. We take great care to make sure that no defective items are ever sold to our valued customers. If your indoor LED screens happen to get damage, we provide supportive repair services, subject to specific conditions.</p>

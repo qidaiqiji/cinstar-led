@@ -36,7 +36,7 @@
                 <h2>Cinstar Concert LED Display Screen</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img style="width: 110%" src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Concert Screen</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -45,7 +45,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/fl-series.php"><img src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/fl-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Creative LED Concert Display</h3>
                             <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>
@@ -54,7 +54,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Concert LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -63,7 +63,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/xposter.php"><img src="../images/home/Xposter.jpg" /></a>
+                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 50%" src="../images/home/Xposter.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Concert LED Screen Poster</h3>
                             <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
@@ -72,7 +72,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tf-series.php"><img src="../images/products/Creative-LED/tf-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 70%" src="../images/products/Creative-LED/tf-1-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Concert LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>

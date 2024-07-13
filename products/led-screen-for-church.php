@@ -32,7 +32,7 @@
         </div>
         <div class="spec-content text-container" style="background: #f2f2f2">
             <div class="content text-content">
-                <h2>Elevate Your Church with Cinstar LED Video Wall</h2>
+                <h2 style="text-align: center">Elevate Your Church with Cinstar LED Video Wall</h2>
                 <p>Cinstar LED offers a variety of event LED display screen solutions specifically designed for churches, ensuring effortless delivery of the desired levels of brightness and clarity. Produce an immersive exhibit that animates visuals and backgrounds on a grand scale. Regardless of whether you want to present a verse or sermon visual, you can have confidence that your audience will have a clear and legible view of the screen.</p>
                 <p>Our church LED video walls are available in both small and large sizes, not only provide excellent ambient light but are also designed for durability. After installation, your church LED screen will have a lifespan of 10-15 years or longer, depending on the extent of its usage. In the event of any malfunctions occurring during this period, you can effortlessly substitute the component without the need for any specialized equipment.</p>
             </div>
@@ -42,7 +42,7 @@
                 <h2>Cinstar LED Screen for Church</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/xposter.php"><img src="../images/home/Xposter.jpg" /></a>
+                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 50%" src="../images/home/Xposter.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Church LED Poster Screen</h3>
                             <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
@@ -69,7 +69,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 90%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Front Service Church LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -78,7 +78,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Church Screen</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -161,7 +161,7 @@
             <div class="content application-list">
                 <h2>LED Screen for Church Applications</h2>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-2.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-2.jpg" />
                     <div class="application-right">
                         <h3 class="title">Church LED Background Screen</h3>
                         <p>Every aspect of worship services can be enhanced with a church LED background screen. </p>
@@ -172,7 +172,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;"  src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Church LED Stage Screen</h3>
                         <p>The ease of installation and maintenance, along with the excellent quality of visual performance, are the noteworthy features of an LED stage screen.</p>
@@ -184,7 +184,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-4.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-4.jpg" />
                     <div class="application-right">
                         <h3 class="title">Church LED Welcome Screens</h3>
                         <p>In house of worship, an electronic display known as church LED welcomes screen greets guests and provides information. </p>
@@ -196,7 +196,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-5.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-5.jpg" />
                     <div class="application-right">
                         <h3 class="title">Church LED Display Signs</h3>
                         <p>Churches can use the outdoor advertising LED display screens as LED signs both inside and outside of the church building</p>

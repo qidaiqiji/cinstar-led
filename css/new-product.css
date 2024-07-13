@@ -10,7 +10,7 @@ img {
     border: 1px solid #bc261a;
     padding: 10px 30px;
     text-align: center;
-    margin: 20px 0 12px 0;
+    margin: 60px 0 12px 0;
     border-radius: 4px;
     color: #bc261a;
     cursor: pointer;
@@ -105,7 +105,7 @@ img {
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0 0 16px 10px rgba(105, 105, 105, .1);
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     padding: 50px 20px 20px;
     box-sizing: border-box;
 }
@@ -118,8 +118,6 @@ img {
 }
 .new-product-container .series-list-content .series-item img {
     width: 100%;
-    /* min-height: 250px; */
-    max-height: 300px;
 }
 .new-product-container .series-list-content .series-box .title-box-change {
     width: 100%;
@@ -134,7 +132,7 @@ img {
     bottom: 0;
     right: 0;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 22px;
     display: block;
     text-align: center;
     line-height: 45px;
@@ -166,7 +164,10 @@ img {
 }
 .new-product-container .series-list-content .series-item p {
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
+}
+.new-product-container .no-link .series-list-content .title-box-change:hover h3 {
+    display: block;
 }
 /* icon */
 .new-product-container .icon-content {
@@ -230,7 +231,7 @@ img {
 .desc .icon-part{
     line-height: 20px;
     height: 100%;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.6;
     /* text-align: left; */
 }
@@ -243,24 +244,25 @@ img {
     width: 100% !important;
 }
 .application-content .application-list{
-    width: 96%;
+    width: 90%;
 }
 .application-content .application-item{
     background: #fff;
-    min-height: 350px;
+    /* min-height: 350px; */
     display: flex;
     padding: 20px;
     box-shadow: 0 0 16px 10px rgba(105, 105, 105, .1);
     margin-bottom: 20px;
     border-radius: 10px;
+    justify-content: space-between;
 }
 .application-content .application-item img {
     width: 40%;
 }
 .application-content .application-item .application-right {
     margin-left: 20px;
-    /* display: flex; */
-    flex: 1;
+    width: 55%;
+    padding-right: 50px;
 
 }
 .application-content .application-item .title {
@@ -288,6 +290,11 @@ img {
 }
 .application-content .events-vertical .application-item .title {
     margin-top: 30px;
+}
+.application-content .events-vertical .application-item .application-right {
+    margin-left: 20px;
+    width: auto;
+    padding-right: 0;
 }
 /* why choose */
 .new-product-container .choose-content {

@@ -37,7 +37,7 @@
                 <h2>Cinstar LED Display Billboard Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%"  src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Digital LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -46,7 +46,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Billboard Advertising</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -55,7 +55,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img src="../images/home/MC SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 40%" src="../images/home/MC SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Curtain LED Display Billboard</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -64,7 +64,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -73,7 +73,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img src="../images/home/FT SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%" src="../images/home/FT SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Billboard Advertising</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -82,7 +82,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ts-series.php"><img src="../images/home/TS Series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ts-series.php"><img style="width: 50%" src="../images/home/TS Series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent LED Display Billboard</h3>
                             <a class="title-border-button" href="../product-detail/ts-series.php">TS Series Product</a>
@@ -167,7 +167,7 @@
             <div class="content application-list">
                 <h2>Why Choose Cinstar Outdoor LED Billboard</h2>
                 <div class="application-item">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Cost Effective Digital LED Billboard</h3>
                         <p>Cinstar LED billboards offer a highly favorable return on investment. Indeed, they maintain a tremendously extended existence. Instead of implementing conventional painting techniques for LED billboards, you may go for cutting-edge technology to ensure that your advertisements remain vivid, easily seen, and durable throughout time.</p>
@@ -177,7 +177,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-3.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">LED Digital Signage Billboard </h3>
                         <p>Cinstar specializes in manufacturing digital signage systems for all types of LED digital billboards. These displays are capable of playing intriguing content and performing concurrent tasks efficiently.</p>
@@ -187,7 +187,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-4.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-4.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Affordable Outdoor LED Billboard </h3>
                         <p>Rest assured, there's no need to manually update the content on your signs. Digital LED billboards designed with advanced digital technology can help you save both money and time. In addition to the convenience of digital platforms, you can also enjoy cost savings by eliminating the printing. LED billboards offer a wide range of possibilities for creating promoting information and motivating messages.</p>
@@ -196,7 +196,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-5.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-5.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Customized LED Billboard Advertising</h3>
                         <p>Our LED billboard advertising is well-designed and developed with great attention to details. The outdoor LED billboards endure a thorough manufacturing procedure, adhering to international standards and performing strict quality controls. Besides, it includes state-of-the-art software technology, skilled installation guidance, and ongoing customer support and service.</p>

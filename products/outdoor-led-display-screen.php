@@ -37,7 +37,7 @@
                 <h2>Cinstar Outdoor LED Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 90%" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Outdoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -46,7 +46,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img src="../images/home/MC SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 45%" src="../images/home/MC SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Curtain LED Display Screen</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -55,7 +55,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img src="../images/home/FT SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 90%" src="../images/home/FT SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Front Service Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -64,7 +64,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tr-series.php"><img src="../images/home/TR SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 65%" src="../images/home/TR SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/tr-series.php">TR Series Product</a>
@@ -73,7 +73,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ma-series.php"><img src="../images/products/Commercial-LED/MA-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ma-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/MA-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Video Wall Display</h3>
                             <a class="title-border-button" href="../product-detail/ma-series.php">MA Series Product</a>
@@ -82,7 +82,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/st-series.php"><img src="../images/products/Commercial-LED/ST-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/st-series.php"><img style="width: 94%" src="../images/products/Commercial-LED/ST-series-1-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Display Board</h3>
                             <a class="title-border-button" href="../product-detail/st-series.php">ST Series Product</a>
@@ -167,7 +167,7 @@
             <div class="content application-list">
                 <h2>Cinstar Outdoor LED Display Screen Applications</h2>
                 <div class="application-item">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Commercial LED Advertising Screen </h3>
                         <p><b>Marketing</b></p>
@@ -178,7 +178,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-3.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-3.jpg" />
                     <div class="application-right">
                         <h3 class="title">Shopping Mall LED Advertising Board</h3>
                         <p><b>Promotion</b></p>
@@ -189,7 +189,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-4.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-4.jpg" />
                     <div class="application-right">
                         <h3 class="title">Main Traffic Outdoor LED Display</h3>
                         <p><b>Traffic Information</b></p>
@@ -200,7 +200,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-5.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-5.jpg" />
                     <div class="application-right">
                         <h3 class="title">Tourist Attraction LED Billboard </h3>
                         <p><b>Promotion of Attractions</b></p>
@@ -211,7 +211,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-6.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-6.jpg" />
                     <div class="application-right">
                         <h3 class="title">Real Estate LED Advertising Screen</h3>
                         <p><b>Project Promotion</b></p>
@@ -222,7 +222,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-7.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-7.jpg" />
                     <div class="application-right">
                         <h3 class="title">Sports Venue LED Billboard</h3>
                         <p><b>Food Advertising</b></p>

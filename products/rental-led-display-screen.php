@@ -46,7 +46,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 90%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Rental LED Display</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -55,7 +55,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 80%;" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 50%;" style="width: 80%;" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>LED Wall Rental Screen</h3>
                             <a class="title-border-button" href="../product-detail/e-series.php">E Series Product</a>
@@ -64,7 +64,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/n-series.php"><img src="../images/products/Rental-LED/n-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 80%;" src="../images/products/Rental-LED/n-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/n-series.php">N Series Product</a>
@@ -73,7 +73,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 90%;" src="../images/products/Rental-LED/t-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 65%;" style="width: 90%;" src="../images/products/Rental-LED/t-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Display Screen</h3>
                             <a class="title-border-button" href="../product-detail/t-series.php">T Series Product</a>

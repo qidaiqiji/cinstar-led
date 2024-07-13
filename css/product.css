@@ -263,9 +263,9 @@
     /* width: 30%; */
     width: 500px;
     /* height: 100%; */
-    background: #54595f;
+    background: #f2f2f2;
     margin-top:40px;
-    border-radius: 12px;
+    border-radius: 6px;
 }
 .message-wrapper{
     padding: 30px 50px;
@@ -273,20 +273,21 @@
     height: 100%;
     box-sizing: border-box;
     /* height: 500px; */
+    box-shadow: 0 0 10px 1px #653632;
+    border-radius: 6px;
 }
 .quote-title{
     font-size:26px;
     font-weight:bold;
     margin-bottom:30px;
     /* color:#e50000; */
-    color:#fff;
 }
 .message-wrapper input, .message-wrapper textarea{
-    background: #54595f;
+    background: #fff;
     width: 100%;
     margin-bottom: 16px;
     padding:0 4px;
-    color:#fff;
+    color:#666;
     font-size: 16px;
     border: none;
     border: 1px solid #f2f2f2;
@@ -299,10 +300,10 @@
     margin-top:0;
 }
 .message-wrapper input::-webkit-input-placeholder {
-    color:#fff;
+    color:#666;
 }
 .message-wrapper textarea::-webkit-input-placeholder {
-    color:#fff;
+    color:#666;
 }
 .fix{
     position: fixed;

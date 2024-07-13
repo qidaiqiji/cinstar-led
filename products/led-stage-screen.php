@@ -45,7 +45,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Rental LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -54,7 +54,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -63,7 +63,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/n-series.php"><img src="../images/products/Rental-LED/n-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 80%" src="../images/products/Rental-LED/n-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Cost Efficient Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/n-series.php">N Series Product</a>
@@ -72,7 +72,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/e-series.php"><img src="../images/products/Rental-LED/E-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 60%" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Wide Choice Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/e-series.php">E Series Product</a>
@@ -81,7 +81,7 @@
                         <div class="series-border-button">Get A Quote Now</div>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/t-series.php"><img src="../images/products/Rental-LED/t-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 75%" src="../images/products/Rental-LED/t-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Creative Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/t-series.php">T Series Product</a>
@@ -155,7 +155,7 @@
             <div class="content application-list">
                 <h2>LED Stage Screen Applications</h2>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-2.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-2.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Concert LED Stage Screen</h3>
                         <b>Background visual display</b>
@@ -168,7 +168,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-3.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Opera & Theatre Stage LED Wall</h3>
                         <b>Excellent live performance</b>
@@ -179,7 +179,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-4.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-4.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Lecture & Presentation LED Stage Screen</h3>
                         <b>Visual and audiovisual support</b>
@@ -190,7 +190,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-5.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-5.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Trade Show LED Stage Screen</h3>
                         <b>Branding and advertising</b>
@@ -201,7 +201,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-6.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-6.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">TV Studio LED Stage Screen</h3>
                         <b>Environment creation and theme presentation</b>
@@ -212,7 +212,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-7.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-7.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Award Ceremony LED Stage Screen</h3>
                         <b>Winners and presenters introduction </b>
@@ -223,7 +223,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-8.jpg" />
+                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-8.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Fashion Show LED Stage Screen Wall</h3>
                         <b>Background and decorations enhancement</b>
