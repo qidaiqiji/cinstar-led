@@ -226,29 +226,6 @@
                     <a  href="../product-detail/cr-series.php" class="spec-title">CR SERIES</a>
                 </div>
             </div>
-            <!-- <div class="specification">
-                <div class="product-img img-bigger">
-                    <a href="../product-detail/ec-series.php">
-                        <img src="../images/products/Rental-LED/EC-SERIS.jpg" alt="EC SERIES" style="width: 60%" />
-                        <div class="spec-detail">
-                            <h2 class="series-title">EC SERIES</h2>
-                            <p>Pixel Pitch (mm): 2.97 / 3.91 / 4.81</p>
-                            <p>Brightness (nits): up to 5000</p>
-                            <p>Refresh Rate(Hz): 1920-3840</p>
-                            <p>Application: Fixed / Rental</p>
-                            <ul>
-                                <li>High standard PCB board and module</li>
-                                <li>Truly modular panel design and high compatibility</li>
-                                <li>Fully front or rear access service available</li>
-                                <li>Ergonomic handle easier for one-man installation</li>
-                                <li>Well-chamfered panel ensures safer operation</li>
-                                <li>Versatile panel with multiple creative applications</li>    
-                            </ul>
-                        </div>
-                    </a>
-                    <a  href="../product-detail/ec-series.php" class="spec-title">EC SERIES</a>
-                </div>
-            </div> -->
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/rs-series.php">

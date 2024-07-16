@@ -4,186 +4,148 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>LED Video Screen | LED Display Rental, LED Screen | Cinstar-led</title>
-    <meta name="description" content="Cinstar EC series LED video screen offers versatile LED screen solutions for a wide variety of LED display rental applications. Ergonomic engineering panel and practical user-friendly design enable a perfect operation experience" />
-    <meta name="keywords" content="LED video screen, LED display rental, LED screen,  LED display panel, LED video display, cinstar, cinstar-led" />
+    <title>Fine Pitch LED Video Wall | LED Video Wall Panel | Cinstar LED</title>
+    <meta name="description" content="Cinstar EC series COB fine pitch LED video wall panels can meet all your expectations on price and quality. Your first choice for control room and conference room installations etc." />
+    <meta name="keywords" content="fine pitch LED display, fine pitch LED video wall, fine pitch LED screen, LED video wall, LED wall panel, narrow pixel pitch LED display, LED display screen" />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container">
-        <div class="detail-title ec-bg bg">
+        <div class="detail-title hd-bg bg">
             <div class="title">
                 <span>EC SERIES</span>
             </div>
-            <div class="top-title">Edge-Cutting Practical Rental LED Video Screen</div>
+            <div class="top-title">COB Fine Pitch LED Video Wall Solutions</div>
         </div>
-        <div class="topContainer" style="margin-top:80px">
-            <div class="topImg">
-                <img src="../images/products/Rental-LED/EC.jpg" alt="EC SERIES"/>
-                <h2 class="fantasy-title ec-title">
-                EC Series
-                </h2>
+       
+        <div class="specification">
+            <div class="spec-detail">
+                <table>
+                    <tbody>
+                        <tr class="thead">
+                            <td colspan="2">Specifications</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Pixel Pitch (mm):
+                            </td>
+                            <td>
+                            0.62 / 0.78  / 0.93 / 1.25 / 1.56 / 1.87
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Brightness (nits):
+                            </td>
+                            <td>
+                            600
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Refresh Rate(Hz):    
+                            </td>
+                            <td>
+                                > 3840
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Application: 
+                            </td>
+                            <td>
+                            TV Studio / Conference Room / Board Room
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="key-feature">
+                    <div>Key Features</div>
+                    <ul>
+                        <li>Optimized display durability with COB technology</li>
+                        <li>Higher contrast ratio for better image production</li>
+                        <li>Super slim panel design, thickness less than 39.5mm</li>
+                        <li>Extremely light weight, each panel only 4kg</li>
+                        <li>Versatile installation, suspension or ground stacking</li>
+                        <li>Preferred HDR image quality achieved</li>    
+                    </ul>
+                </div>
             </div>
-
-            <div class="icons">
-                <div class="icon-box">
-                    <div class="icon-item"><i class="iconfont">&#xe672;</i></div>
-                    <span>EASY</span>
-                </div>
-                <div class="icon-box">
-                    <div class="icon-item"><i class="iconfont">&#xe606;</i></div>
-                    <span>FAST</span>
-                </div>
-                <div class="icon-box">
-                    <div class="icon-item"><i class="iconfont">&#xe6e5;</i></div>
-                    <span>ROBUST</span>
-                </div>
-                <div class="icon-box">
-                    <div class="icon-item"><i class="iconfont" style="font-weight:bold">&#xe60d;</i></div>
-                    <span>CREATIVE</span>
-                </div>
-                <div class="icon-box">
-                    <div class="icon-item"><i class="iconfont">&#xe608;</i></div>
-                    <span>VERSATILE</span>
-                </div>
+            <div class="product-img hd-img" style="width: 47%">
+                <img src="../images/products/Fine-Pitch/EC-series-1.jpg" alt="EC SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
-        <div class="product-detail ec-series">
+        <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-1.jpg" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-2.jpg" style="width: 100%" alt="EC SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Optimized PCB Board</h2>
-                    <p>
-                        Cinstar EC series LED video screen panel adopts 4 layers CE/EMC certified PCB board to ensure the perfect heat dissipation and supreme stability. The PCB supports calibration data storage and highly matched with Nova controlling system.
-                    </p>
+                    <h2 class="title">Extraordinary Contrast Ratio</h2>
+                    <p>Featuring with deep black coating technology, Cinstar COB EC series fine pitch LED video wall panels are capable of presenting stunning contrast ratios of 10000:1 to maintain the excellent image reproduction and extraordinary visual experience. </p>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">High Stability Module</h2>
-                    <p>
-                    Featuring 10 strong magnets and location pins on each module, Cinstar EC series LED video screen could withstand transportation vibration and support ceiling installation. The firm module handle makes the maintenance easier and safer. In addition, the module could be installed at any position of the panel. No need much spare modules.
-                    </p>
+                    <h2 class="title">COB Technology For Top Durability</h2>
+                    <p>Comparing with conventional SMD, the flip chip COB fine pitch LED video wall panels are greatly upgraded to deliver the 360° all-around protection against the external impacts like moisture-resistant, dust-resistant, anti-collision and anti-oxidation etc, ensuring the LED video wall long-lasting operation.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-2.jpg" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-3.jpg" style="width: 90%" alt="EC SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail">
+            <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-3.jpg" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-4.jpg" style="width: 100%" alt="EC SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Practical Integrated Control Unit</h2>
-                    <p>
-                    EC series control unit is universal to all the pixel pitches and supports quick removable without tools. The big size indicator lamps are placed inclined to provide a better viewing angle for working status checking, very helpful especially for a giant video wall. The hidden test button could avoid false touch.
-                    </p>
+                    <h2 class="title">Ultra High Definition LED Video Wall Solution</h2>
+                    <p>Cinstar EC series fine pitch LED video wall panels offer versatile solutions for direct-view video signage applications where a narrow pixel pitch LED video wall is needed for HD installation scenarios like TV broadcasting studios, conference room, board room, home cinema etc. Pixel pith available from 0.62mm to 1.87mm</p>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail">
+            <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">Modular Design With Optimal Compatibility</h2>
-                    <p>
-                    Cinstar EC series LED video screen is specially designed to cater to rental events market. The modular design enables fast replacement whenever a failure occurred. Besides, all the EC series models share the same panel frame and control unit. If both indoor and outdoor models needed, just buy the different pitch modules if you like, then your return on investment will be greatly maximized.
-                    </p>
+                    <h2 class="title">Versatile Installation Solutions</h2>
+                    <p>Cinstar EC series LED video wall panel size can be tailored for specific project requirements. It optimizes all the possible installations including wall mounting, right angle setup, all-in-one LED wall, suspension or floor standing etc. One product can meet all your applications.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-4.jpg" class="special" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-5.jpg" style="width: 100%" class="special" alt="EC SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail">
+            <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-5.jpg" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-6.jpg" style="width: 100%" alt="EC SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Fully Front or Rear Maintenance</h2>
-                    <p>
-                    Cinstar EC series LED display module can be with magnetic front access or screwed behind for rear service. The control unit could also be maintained from front or rear. It is ideal for any kind of rental events or productions.
-                    </p>
+                    <h2 class="title">Data & Power Dual Backup Optional</h2>
+                    <p>Cinstar EC series fine pitch LED video wall panels could be customized to dual back-up for special applications like television broadcast studio, control room, transportation hub and command center etc, providing the uninterrupted power and signal, assuring you the peace of mind.</p>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail">
+            <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">Unique Handle Enables One Man Installation</h2>
-                    <p>
-                    Featuring the light weight panel (7-8kg/panel), Cinstar EC series LED video screen enables one-man installation with the help of top handle and the unique auto-locking system. Which gonna save you a lot of time and labor cost. The big ergonomic handle is covered with rubber, comfortable to hold and could avoid any damage to your knuckles.
-                    </p>
+                    <h2 class="title">Front Installation & Front Maintenance</h2>
+                    <p>Cinstar EC series fine pitch LED video wall can be installed and maintained from front to ultimately save the space at rear side when for wall mounted installation. The hot swappable module makes the maintenance work extremely easy to be performed. A layman can do it well!</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-6.jpg" class="special" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-7.jpg" style="width: 100%" class="special" alt="EC SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail">
+            <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-7.jpg" alt="EC SERIES"/>
+                    <img src="../images/products/Fine-Pitch/EC-series-8.jpg" alt="EC SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Detailed User-Friendly Design</h2>
-                    <p>
-                    Cinstar EC series LED video screen pays much attention to user experience, the whole panel frame and control unit are chamfered carefully to leave no any sharp edges and avoid injury to customers. Besides, the panel is with in-built feet and edge protector to prevent physical damages.
-                    </p>
-                </div>
-            </div>
-            <hr class="under-line"/>
-            <div class="detail">
-                <div class="desc-part half">
-                    <h2 class="title">Universal Bracket For Multiple Application</h2>
-                    <p>
-                    Cinstar EC series LED video screen applies universal brackets for both ground stacking or suspension applications. Save your unnecessary cost.
-                    </p>
-                </div>
-                <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-8.jpg" class="special" alt="EC SERIES"/>
-                </div>
-            </div>
-            <hr class="under-line"/>
-            <div class="detail">
-                <div class="img-part half">
-                    <img src="../images/products/Rental-LED/EC-9.jpg" alt="EC SERIES"/>
-                </div>
-                <div class="desc-part half">
-                    <h2 class="title">Versatile Creative Installation</h2>
-                    <p>
-                    Cinstar EC series LED video screen is so versatile that it could be used as flat LED display, right angle, concave or convex installation. What's more, it supports dislocation installation to achieve special shape and creative effect.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <!-- 视频 -->
-        <div class="videoContainer">
-            <div class="sub-title">
-                <span>INSTALLATION VIDEOS</span>
-            </div>
-            <div class="videoBox">
-                <div class="videoItem">
-                    <div class="videoDesc">Front Maintenance Video</div>
-                    <video controls class="video" 
-                    src="../images/Cinstar EC Front Service.mp4"
-                    poster="../images/Front maintenance.jpg"
-                    ></video>
-                </div>
-                <div class="videoItem">
-                    <div class="videoDesc">Rear Maintenance Video</div>
-                    <video controls class="video" 
-                    poster="../images/Rear maintenance.jpg"
-                    src="../images/Cinstar EC Rear Service.mp4"></video>
-                </div>
-                <div class="videoItem">
-                    <div class="videoDesc">One-man Installation Video</div>
-                    <video controls class="video" 
-                    poster="../images/One-man installation.jpg"
-                    src="../images/Cinstar EC Installation.mp4"></video>
+                    <h2 class="title">Exceptional Visual Performance & Enjoyment</h2>
+                    <p>The sleek and seamless high definition LED video wall is capable of delivering an optimal visual performance with high refresh rate, excellent greyscale level, high contrast ratio and wide color gamut. The ultra-high precision aluminum panel allowing excellent heat dissipation for enhanced power efficiency and silent performance.</p>
                 </div>
             </div>
         </div>
@@ -197,37 +159,37 @@
                     <div class="iconCricle">
                         <i class="fa fa-check"></i>
                     </div>
-                    <p class="icon-desc">High standard PCB board and module</p>
+                    <p class="icon-desc">Superb visual performance</p>
                 </div>
                 <div class="iconItems">
                     <div class="iconCricle">
-                    <i class="fa fa-thumbs-up"></i>
+                        <i class="iconfont">&#xe621;</i>
                     </div>
-                    <p class="icon-desc">Truly modular panel design and high compatibility</p>
+                    <p class="icon-desc">High contrast and wide colour gamut</p>
                 </div>
                 <div class="iconItems">
                     <div class="iconCricle">
                         <i class="fa fa-random"></i>
                     </div>
-                    <p class="icon-desc">Fully front or rear access service available</p>
+                    <p class="icon-desc">Versatile installation solutions</p>
                 </div>
                 <div class="iconItems">
                     <div class="iconCricle">
-                        <i class="fa fa-cogs"></i>
+                        <i class="iconfont">&#xe601;</i>
                     </div>
-                    <p class="icon-desc">Ergonomic handle easier for one-man installation</p>
+                    <p class="icon-desc">Super slim light weight panel</p>
                 </div>
                 <div class="iconItems">
                     <div class="iconCricle">
-                        <i class="fa fa-heart"></i>
+                        <i class="iconfont">&#xe600;</i>
                     </div>
-                    <p class="icon-desc">Well-chamfered panel ensures safer operation</p>
+                    <p class="icon-desc">Both front and rear  maintenance options</p>
                 </div>
                 <div class="iconItems">
                     <div class="iconCricle">
-                        <i class="fa fa-th-large"></i>
+                        <i class="fa fa-thermometer"></i>
                     </div>
-                    <p class="icon-desc">Versatile panel with multiple creative applications</p>
+                    <p class="icon-desc">Convection cooled, no fans on board</p>
                 </div>
 
             </div>
@@ -239,15 +201,15 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/rental/23-rental-case.jpg" alt="Charity Event EC 3.9 LED Video Screen LED Video Display"/>
+                    <img src="../images/fine/Cinstar-EC1.2-Board-Room-LED-Wall.jpg" alt="Cinstar EC1.2 Board Room LED Wall6"/>
                     <a class="case-title">
-                        <span class="current">Charity Event EC 3.9 LED Video Screen</span>
+                        <span class="current">Cinstar EC1.2 Board Room LED Wall</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/rental/EC-showcase-2.jpg" alt="Award Ceremony EC 2.9 LED Video Screen LED Video Display"/>
+                    <img src="../images/fine/Cinstar-EC1.2-Conference-Room-LED-Wall.jpg" alt="Cinstar EC1.2 Conference Room LED Wall"/>
                     <a class="case-title">
-                        <span class="current">Award Ceremony EC 2.9 LED Video Screen</span>
+                        <span class="current">Cinstar EC1.2 Conference Room LED Wall</span>
                     </a>
                 </div>
             </div>
@@ -261,26 +223,26 @@
                     <tbody>
                         <tr class="thead">
                             <td></td>
-                            <td>EC2.9</td>
-                            <td>EC3.9</td>
-                            <td>EC3.9(Outdoor)</td>
-                            <td>EC4.8(Outdoor)</td>
+                            <td>EC0.7</td>
+                            <td>EC0.9</td>
+                            <td>EC1.2</td>
+                            <td>EC1.5</td>
                         </tr>
                         <tr>
                             <td>
                                 Pixel Pitch (mm)
                             </td>
                             <td>
-                                2.97
+                            0.78
                             </td>
                             <td>
-                            3.91
+                            0.93
                             </td>
                             <td>
-                            3.91
+                            1.25
                             </td>
                             <td>
-                            4.81
+                            1.53
                             </td>
                         </tr>
                         <tr>
@@ -288,33 +250,33 @@
                                 LED Type
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Panel Size (WxH)/(mm)
+                            Panel Size (WxH)/(mm)
                             </td>
                             <td>
-                                500x500
+                            600x337.5
                             </td>
                             <td>
-                                500x500
+                            600x337.5
                             </td>
                             <td>
-                                500x500
+                                600x337.5
                             </td>
                             <td>
-                                500x500
+                                600x337.5
                             </td>
                         </tr>
                         <tr>
@@ -322,24 +284,24 @@
                                 Pixel Per Panel
                             </td>
                             <td>
-                                168x168
+                            768x432
                             </td>
                             <td>
-                                128x128
+                            640x360
                             </td>
                             <td>
-                                128x128
+                            480x270
                             </td>
                             <td>
-                                104x104
+                            384x216
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Panel Material
+                            Panel Material
                             </td>
                             <td>
-                                Die-casting Aluminum
+                            Die-casting Aluminum
                             </td>
                             <td>
                                 Die-casting Aluminum
@@ -356,33 +318,33 @@
                                 Panel Weight (kg)
                             </td>
                             <td>
-                                7.3
+                            4
                             </td>
                             <td>
-                                7.3
+                            4
                             </td>
                             <td>
-                            7.8
+                            4
                             </td>
                             <td>
-                            7.8
+                            4
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Module Size (WxH)/(mm)
+                            Module Size (WxH)/(mm)
                             </td>
                             <td>
-                                250x250
+                            150x168.75
                             </td>
                             <td>
-                                250x250
+                            150x168.75
                             </td>
                             <td>
-                                250x250
+                            150x168.75
                             </td>
                             <td>
-                                250x250
+                            150x168.75
                             </td>
                         </tr>
                         <tr>
@@ -390,16 +352,16 @@
                                 Brightness (nit)
                             </td>
                             <td>
-                                1200
+                            600
                             </td>
                             <td>
-                                1200
+                            600
                             </td>
                             <td>
-                                5000
+                            600
                             </td>
                             <td>
-                                5000
+                            600
                             </td>
                         </tr>
                         <tr>
@@ -407,16 +369,16 @@
                                 Refresh Rate (Hz)
                             </td>
                             <td>
-                                >1920
+                            ≥ 3840
                             </td>
                             <td>
-                                >1920
+                                ≥ 3840
                             </td>
                             <td>
-                                >1920
+                                ≥ 3840
                             </td>
                             <td>
-                                >1920
+                                ≥ 3840
                             </td>
                         </tr>
                         <tr>
@@ -441,16 +403,16 @@
                                 Viewing Angle (H/V) (°) 
                             </td>
                             <td>
-                                160/140
+                                160/160
                             </td>
                             <td>
-                                160/140
+                                160/160
                             </td>
                             <td>
-                                160/140
+                                160/160
                             </td>
                             <td>
-                                160/140
+                            160/160
                             </td>
                         </tr>
                         <tr>
@@ -458,50 +420,50 @@
                                 AC Operating Voltage (V)
                             </td>
                             <td>
-                                110~220 (±5%）
+                            110~240 (±5%）50/60Hz
                             </td>
                             <td>
-                                110~220 (±5%）
+                                110~240 (±5%）50/60Hz
                             </td>
                             <td>
-                                110~220 (±5%）
+                                110~240 (±5%）50/60Hz
                             </td>
                             <td>
-                                110~220 (±5%）
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                Avg. Power Consumption (W)
-                            </td>
-                            <td>
-                                200/sqm
-                            </td>
-                            <td>
-                                200/sqm
-                            </td>
-                            <td>
-                                220/sqm
-                            </td>
-                            <td>
-                                220/sqm
+                                110~240 (±5%）50/60Hz
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Max. Power Consumption (W)
+                            Avg. Power Consumption (W)
                             </td>
                             <td>
-                                600/sqm
+                            140/sqm
                             </td>
                             <td>
-                                600/sqm
+                            125/sqm
                             </td>
                             <td>
-                                660/sqm
+                            120/sqm
                             </td>
                             <td>
-                                660/sqm
+                            120/sqm
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            Max. Power Consumption (W)
+                            </td>
+                            <td>
+                            420/sqm
+                            </td>
+                            <td>
+                            375/sqm
+                            </td>
+                            <td>
+                            360/sqm
+                            </td>
+                            <td>
+                            360/sqm
                             </td>
                         </tr>
                         <tr>
@@ -549,15 +511,18 @@
                                 IP40/IP21
                             </td>
                             <td>
-                                IP65/IP54
+                                IP40/IP21
                             </td>
                             <td>
-                                IP65/IP54
+                                IP40/IP21
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                LED Lifetime (H)
+                            LED Lifetime (H)
+                            </td>
+                            <td>
+                            100000
                             </td>
                             <td>
                                 100000
@@ -568,47 +533,44 @@
                             <td>
                                 100000
                             </td>
+                        </tr>
+                        <tr>
                             <td>
-                                100000
+                            Module Maintenance 
+                            </td>
+                            <td>
+                                Front
+                            </td>
+                            <td>
+                                Front
+                            </td>
+                            <td>
+                                Front
+                            </td>
+                            <td>
+                                Front
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Module Maintenance 
+                            PSU & Others Maintenance
                             </td>
                             <td>
-                                Front/Rear
+                                Front
                             </td>
                             <td>
-                                Front/Rear
+                                Front
                             </td>
                             <td>
-                                Front/Rear
+                                Front
                             </td>
                             <td>
-                                Front/Rear
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                PSU & Others Maintenance
-                            </td>
-                            <td>
-                                    Front/Rear
-                            </td>
-                            <td>
-                                    Front/Rear
-                            </td>
-                            <td>
-                                    Front/Rear
-                            </td>
-                            <td>
-                                    Front/Rear
+                                Front
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Certificate
+                            Certificate
                             </td>
                             <td>
                                 CE FCC ETL RoHS
@@ -633,35 +595,35 @@
             </div>
             <div class="product-container">
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR SERIES.jpg" alt="CR Series"/>
+                    <a class="thumb" href="../product-detail/ch-series.php">
+                        <img src="../images/products/Fine-Pitch/CH-series-1.jpg"  class="short thumb-bigger" alt="CH Series"/>
                     </a>
-                    <a class="list-title" href="../product-detail/cr-series.php">
-                        <span class="current">CR SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM SERIES.jpg" alt="LM SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/lm-series.php">
-                        <span class="current">LM SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="../product-detail/ch-series.php">
+                        <span class="current">CH SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/hd-series.php">
-                        <img src="../images/home/HD SERIES.jpg" class="short" alt="HD SERIES"/>
+                        <img style="width: 90%" src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES"/>
                     </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
+                    <a class="list-title" href="../product-detail/hd-series.php">
                         <span class="current">HD SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" alt="tr-series" class="short"/>
+                    <a class="thumb" href="../product-detail/v-series.php">
+                        <img style="width: 85%" src="../images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES"/>
                     </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <span class="current">TR SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="../product-detail/v-series.php">
+                        <span class="current">V SERIES</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="../product-detail/innox-series.php">
+                        <img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES"/>
+                    </a>
+                    <a class="list-title" href="../product-detail/innox-series.php">
+                        <span class="current">INNOX SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
             </div>

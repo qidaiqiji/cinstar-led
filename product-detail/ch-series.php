@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title> Fine Pitch LED Video Wall I Direct-View LED Screen I Narrow Pixel Pitch LED Display I Cinstar LED</title>
-    <meta name="description" content=" Top quality and customizable versatile fine pixel pitch LED video wall screen can satisfy all installations (hanging, self-standing all-in-one LED wall and wall mounted) to delivery the best image quality and stunning visual impact for scenarios at conference room, control room, boardroom and TV studio etc." />
-    <meta name="keywords" content="fine pitch led display, fine pixel pitch led display, direct-view led video wall, narrow pixel pitch led video screen, small pixel pitch led display, uhd led screen, 4k led wall, led advertising screen, indoor led screen" />
+    <title>Direct View LED Wall | LED Video Wall Panels | Fine Pitch LED Display | Cinstar LED</title>
+    <meta name="description" content="Cinstar CH series high profile COB direct view LED video wall panels can deliver the most impact visual experience and top durability. The best fine pitch LED display screen solution for high profile installations like TV studio, conference room, control room and home cinema etc." />
+    <meta name="keywords" content="direct view LED, direct view led wall, direct view led video wall, led video wall panel, fine pitch led display, fine pitch led screen, narrow pixel pitch led display, led display screen, indoor led display" />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -15,9 +15,9 @@
     <div class="container">
         <div class="detail-title hd-bg bg">
             <div class="title">
-                <span>V SERIES</span>
+                <span>CH SERIES</span>
             </div>
-            <div class="top-title">Versatile Fine Pitch LED Video Wall</div>
+            <div class="top-title">High Profile COB Direct View LED Video Wall</div>
         </div>
        
         <div class="specification">
@@ -32,7 +32,7 @@
                                 Pixel Pitch (mm):
                             </td>
                             <td>
-                            1.25 / 1.53 / 1.86 / 2.5
+                            0.78  / 0.93 / 1.25 / 1.56 / 1.87
                             </td>
                         </tr>
                         <tr>
@@ -40,7 +40,7 @@
                                 Brightness (nits):
                             </td>
                             <td>
-                                up to 900
+                            600
                             </td>
                         </tr>
                         <tr>
@@ -48,7 +48,7 @@
                                 Refresh Rate(Hz):    
                             </td>
                             <td>
-                            > 3840
+                                > 3840
                             </td>
                         </tr>
                         <tr>
@@ -56,7 +56,7 @@
                                 Application: 
                             </td>
                             <td>
-                            TV Studio / Conference Room / Control Room
+                            TV Studio / Conference Room / Home Cinema
                             </td>
                         </tr>
                     </tbody>
@@ -64,98 +64,115 @@
                 <div class="key-feature">
                     <div>Key Features</div>
                     <ul>
-                        <li>Super slim design, thickness less than 48mm</li>
-                        <li>Extremely light weight, each panel only 7.4kg</li>
-                        <li>User friendly front installation and maintenance</li>
-                        <li>Convectional cooling design, fans free operation</li>
+                        <li>Optimized display durability with COB technology</li>
+                        <li>Higher contrast ratio for better image production</li>
+                        <li>Super slim panel design, thickness less than 27.5mm</li>
+                        <li>Extremely light weight, each panel only 4.5kg</li>
                         <li>Versatile installation, suspension or ground stacking</li>
-                        <li>Ideal LED solution for high profile visual enjoyment</li>    
+                        <li>Preferred HDR image quality achieved</li>    
                     </ul>
                 </div>
             </div>
-            <div class="product-img hd-img" style="width: 45%">
-                <img src="../images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES"/>
+            <div class="product-img hd-img" style="width: 47%">
+                <img src="../images/products/Fine-Pitch/CH-series-1.jpg" alt="CH SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-2.jpg" alt="V SERIES" style="width: 90%"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-2.jpg" style="width: 100%" alt="CH SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Ultra High Definition LED Video Wall Solution</h2>
-                    <p>
-Cinstar V series LED video wall offers the very versatile fine pixel pitch LED screen display solutions for direct-view video signage applications where a narrow pixel pitch LED video wall is needed in a fixed installation scenarios like TV broadcasting studios, conference room, traffic control rooms, boardrooms etc. Pixel pith available from 1.2mm to 2.5mm
-                    </p>
+                    <h2 class="title">Extraordinary Contrast Ratio</h2>
+                    <p>Featuring with deep black coating technology, Cinstar high profile COB CH series direct view LED video wall panels are capable of presenting stunning contrast ratio of 10000:1 to maintain the best image reproduction and extraordinary visual experience. </p>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">Versatile Installation Solutions</h2>
-                    <p>
-                    Cinstar V Series LED video wall panel size can be tailored for specific project requirements. It optimizes all the possible installations including wall mounting, suspension or all-in-one ground supporting. It can be a giant LED video wall to control room, UHD TV to home cinema or smart LED digital poster screen for commercial advertising.
-                    </p>
+                    <h2 class="title">COB Technology For Top Durability</h2>
+                    <p>Comparing with conventional SMD, the flip chip COB direct view LED video wall panels are greatly upgraded to deliver the 360° all-around protection against the external impacts like moisture-resistant, dust-resistant, anti-collision and anti-oxidation etc, ensuring the LED video wall long-lasting operation.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-3.jpg" alt="V SERIES" style="width: 90%"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-3.jpg" style="width: 90%" alt="CH SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-4.jpg" alt="V SERIES" style="width: 90%"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-4.jpg" style="width: 100%" alt="CH SERIES"/>
+                </div>
+                <div class="desc-part half">
+                    <h2 class="title">Ultra High Definition LED Video Wall Solution</h2>
+                    <p>Cinstar CH series direct view LED video wall panels offer versatile solutions for direct-view video signage applications where a narrow pixel pitch LED video wall is needed for HD installation scenarios like TV broadcasting studios, conference room, board room, home cinema etc. Pixel pith available from 0.62mm to 1.87mm.</p>
+                </div>
+            </div>
+            <hr class="under-line"/>
+            <div class="detail lower">
+                <div class="desc-part half">
+                    <h2 class="title">Wide Color Gamut & HDR Enabled</h2>
+                    <p>Cinstar CH COB direct view LED video wall panel features wide color gamut, better color saturation than SMD, which making sure wide color coverage, precise reproduction of true colors and resulting the more realistic image display. HDR10 technology is available for ultimately detailed image(optional).</p>
+                </div>
+                <div class="img-part half">
+                    <img src="../images/products/Fine-Pitch/CH-series-5.jpg" style="width: 100%" class="special" alt="CH SERIES"/>
+                </div>
+            </div>
+            <hr class="under-line"/>
+            <div class="detail lower">
+                <div class="img-part half">
+                    <img src="../images/products/Fine-Pitch/CH-series-6.jpg" alt="CH SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
-                    <p>
-                    Cinstar V Series LED video wall applies innovative invisible built-in cable connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and lower failure rate.
-                    </p>
+                    <p>Cinstar CH series direct view LED video wall panels apply innovative invisible built-in cable connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and lower failure rate.</p>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">Front Intallation & Front Maintenance</h2>
-                    <p>
-                    Cinstar V series LED video wall can be installed and maintained from front to ultimately save the space at rear side when for wall mounted installation. The hot swappable module makes the maintenance work extremely easy to be performed. A layman can do it well!
-                    </p>
+                    <h2 class="title">Versatile Installation Solutions</h2>
+                    <p>Cinstar CH series direct view LED video wall panel size can be tailored for specific project requirements. It optimizes all the possible installations including wall mounting, right angle setup, all-in-one LED wall, suspension or floor standing etc. One product can meet all your applications.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-5.jpg" class="special" alt="V SERIES" style="width: 90%"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-7.jpg" style="width: 100%" class="special" alt="CH SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-6.jpg" alt="V SERIES" style="width: 90%"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-8.jpg" style="width: 100%" alt="CH SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Exceptional Visual Enjoyment</h2>
-                    <p>
-                    The sleek and seamless high definition LED video wall is capable of delivering an optimal visual performance with high refresh rate, excellent greyscale levels, high contrast ratio and wide color gamut. The ultra-high precision aluminum panel allowing excellent heat dissipation for enhanced power efficiency and silent performance.
-                    </p>
+                    <h2 class="title">Data & Power Dual Backup Optional</h2>
+                    <p>Cinstar CH series direct view LED video wall panels could be customized to dual back-up for special applications like television broadcast studio, control room, transportation hub and command center etc, providing the uninterrupted power and signal, assuring you the peace of mind.</p>
                 </div>
             </div>
-        </div>
-        <div class="videoContainer" style="background: black">
-            <div class="sub-title">
-                <span style="color: #fff">PRODUCT VIDEO</span>
+            <hr class="under-line"/>
+            <div class="detail lower">
+                <div class="desc-part half">
+                    <h2 class="title">Front Installation & Front Maintenance</h2>
+                    <p>Cinstar CH series direct view  LED video wall can be installed and maintained from front to ultimately save the space at rear side when for wall mounted installation. The hot swappable module makes the maintenance work extremely easy to be performed. A layman can do it well!</p>
+                </div>
+                <div class="img-part half">
+                    <img src="../images/products/Fine-Pitch/CH-series-9.jpg" style="width: 100%" class="special" alt="CH SERIES"/>
+                </div>
             </div>
-            <div class="videoBox" style="justify-content: center">
-                <div class="videoItem" style="width: 60%">
-                    <!-- <div class="videoDesc"></div> -->
-                    <video controls class="video" 
-                    src="../images/products/Fine-Pitch/V-series-video.mp4"
-                    ></video>
+            <hr class="under-line"/>
+            <div class="detail lower">
+                <div class="img-part half">
+                    <img src="../images/products/Fine-Pitch/CH-series-10.jpg" alt="CH SERIES"/>
+                </div>
+                <div class="desc-part half">
+                    <h2 class="title">Exceptional Visual Performance & Enjoyment</h2>
+                    <p>The sleek and seamless high definition LED video wall is capable of delivering an optimal visual performance with high refresh rate, excellent greyscale level, high contrast ratio and wide color gamut. The ultra-high precision aluminum panel allowing excellent heat dissipation for enhanced power efficiency and silent performance.</p>
                 </div>
             </div>
         </div>
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>V SERIES Features</span>
+                <span>CH Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -200,19 +217,19 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>V SERIES Showcase</span>
+                <span>CH Series Showcase</span>
             </div>
             <div class="img-wrap">
-            <div class="caseItem">
-                    <img src="../images/fine/2-fine-pitch-case.jpg" alt="Swizerland Conference Room NL1.2"/>
+                <div class="caseItem">
+                    <img src="../images/fine/Cinstar-CH0.9-Home-Cinema-LED-Video-Wall.jpg" alt="Cinstar EC1.2 Board Room LED Wall6"/>
                     <a class="case-title">
-                        <span class="current">Swizerland Conference Room V1.2 LED Video Display</span>
+                        <span class="current">Cinstar CH0.9 Home Cinema LED Video Wall</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fine/9-fine-pitch-case.jpg" alt="UK Heathrow International Airport NL1.92"/>
+                    <img src="../images/fine/Cinstar-CH1.2-Lobby-LED-Video-Wall.jpg" alt="Cinstar EC1.2 Conference Room LED Wall"/>
                     <a class="case-title">
-                        <span class="current">UK Heathrow International Airport V1.5 LED Video Display</span>
+                        <span class="current">Cinstar CH1.2 Lobby LED Video Wall</span>
                     </a>
                 </div>
             </div>
@@ -226,26 +243,26 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                     <tbody>
                         <tr class="thead">
                             <td></td>
-                            <td>V1.2</td>
-                            <td>V1.5</td>
-                            <td>V1.8</td>
-                            <td>V2.5</td>
+                            <td>CH0.7</td>
+                            <td>CH0.9</td>
+                            <td>CH1.2</td>
+                            <td>CH1.5</td>
                         </tr>
                         <tr>
                             <td>
                                 Pixel Pitch (mm)
                             </td>
                             <td>
-                                1.25
+                            0.78
                             </td>
                             <td>
-                                1.53
+                            0.93
                             </td>
                             <td>
-                            1.86
+                            1.25
                             </td>
                             <td>
-                                2.5
+                            1.53
                             </td>
                         </tr>
                         <tr>
@@ -253,33 +270,33 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 LED Type
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                             <td>
-                                3 in 1 SMD
+                            COB Technology
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Panel Size (WxH)/(mm)
+                            Panel Size (WxH)/(mm)
                             </td>
                             <td>
-                               640x480
+                            600x337.5
                             </td>
                             <td>
-                               640x480
+                            600x337.5
                             </td>
                             <td>
-                               640x480
+                            600x337.5
                             </td>
                             <td>
-                               640x480
+                            600x337.5
                             </td>
                         </tr>
                         <tr>
@@ -287,24 +304,24 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 Pixel Per Panel
                             </td>
                             <td>
-                            512x384
+                            768x432
                             </td>
                             <td>
-                            416x312
+                            640x360
                             </td>
                             <td>
-                            344x258
+                            480x270
                             </td>
                             <td>
-                            256x192
+                            384x216
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Panel Material
+                            Panel Material
                             </td>
                             <td>
-                                Die-casting Aluminum
+                            Die-casting Aluminum
                             </td>
                             <td>
                                 Die-casting Aluminum
@@ -321,33 +338,33 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 Panel Weight (kg)
                             </td>
                             <td>
-                                7.5
+                            4.5
                             </td>
                             <td>
-                                7.5
+                            4.5
                             </td>
                             <td>
-                                7.5
+                            4.5
                             </td>
                             <td>
-                                7.5
+                            4.5
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Module Size (WxH)/(mm)
+                            Module Size (WxH)/(mm)
                             </td>
                             <td>
-                                320x160
+                            150x168.75
                             </td>
                             <td>
-                                320x160
+                            150x168.75
                             </td>
                             <td>
-                                320x160
+                            150x168.75
                             </td>
                             <td>
-                                320x160
+                            150x168.75
                             </td>
                         </tr>
                         <tr>
@@ -355,16 +372,16 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 Brightness (nit)
                             </td>
                             <td>
-                            ≥ 500
+                            ≥ 600
                             </td>
                             <td>
-                            ≥ 500
+                            ≥ 600
                             </td>
                             <td>
-                            ≥ 500
+                            ≥ 600
                             </td>
                             <td>
-                            ≥ 500
+                            ≥ 600
                             </td>
                         </tr>
                         <tr>
@@ -372,7 +389,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 Refresh Rate (Hz)
                             </td>
                             <td>
-                                ≥ 3840
+                            ≥ 3840
                             </td>
                             <td>
                                 ≥ 3840
@@ -406,16 +423,16 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 Viewing Angle (H/V) (°) 
                             </td>
                             <td>
-                                160/160
+                                170/170
                             </td>
                             <td>
-                                160/160
+                                170/170
                             </td>
                             <td>
-                                160/160
+                                170/170
                             </td>
                             <td>
-                                160/160
+                            170/170
                             </td>
                         </tr>
                         <tr>
@@ -423,50 +440,50 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 AC Operating Voltage (V)
                             </td>
                             <td>
-                                110~240 (±5%）
+                            110~240 (±5%）50/60Hz
                             </td>
                             <td>
-                                110~240 (±5%）
+                                110~240 (±5%）50/60Hz
                             </td>
                             <td>
-                                110~240 (±5%）
+                                110~240 (±5%）50/60Hz
                             </td>
                             <td>
-                                110~240 (±5%）
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                Avg. Power Consumption (W)
-                            </td>
-                            <td>
-                                200/sqm
-                            </td>
-                            <td>
-                                200/sqm
-                            </td>
-                            <td>
-                                200/sqm
-                            </td>
-                            <td>
-                                200/sqm
+                                110~240 (±5%）50/60Hz
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Max. Power Consumption (W)
+                            Avg. Power Consumption (W)
                             </td>
                             <td>
-                                600/sqm
+                            140/sqm
                             </td>
                             <td>
-                                600/sqm
+                            140/sqm
                             </td>
                             <td>
-                                600/sqm
+                            140/sqm
                             </td>
                             <td>
-                                600/sqm
+                            140/sqm
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            Max. Power Consumption (W)
+                            </td>
+                            <td>
+                            420/sqm
+                            </td>
+                            <td>
+                            420/sqm
+                            </td>
+                            <td>
+                            420/sqm
+                            </td>
+                            <td>
+                            420/sqm
                             </td>
                         </tr>
                         <tr>
@@ -517,15 +534,15 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                                 IP40/IP21
                             </td>
                             <td>
-                                IP65/IP54
+                                IP40/IP21
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                LED Lifetime (H)
+                                10LED Lifetime (H)0000
                             </td>
                             <td>
-                                100000
+                            100000
                             </td>
                             <td>
                                 100000
@@ -539,7 +556,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                         </tr>
                         <tr>
                             <td>
-                                Module Maintenance 
+                            Module Maintenance 
                             </td>
                             <td>
                                 Front
@@ -556,24 +573,24 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                         </tr>
                         <tr>
                             <td>
-                                PSU & Others Maintenance
+                            PSU & Others Maintenance
                             </td>
                             <td>
-                                    Front
+                                Front
                             </td>
                             <td>
-                                    Front
+                                Front
                             </td>
                             <td>
-                                    Front
+                                Front
                             </td>
                             <td>
-                                    Front
+                                Front
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Certificate
+                            Certificate
                             </td>
                             <td>
                                 CE FCC ETL RoHS
@@ -598,35 +615,35 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
             </div>
             <div class="product-container">
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/nl-series.php">
-                        <img src="../images/home/NL Series.jpg"  class="short thumb-bigger" alt="NL Series"/>
+                    <a class="thumb" href="../product-detail/ec-series.php">
+                        <img style="width: 95%" src="../images/products/Fine-Pitch/EC-series-1.jpg"  class="short" alt="EC Series"/>
                     </a>
-                    <a class="list-title" href="../product-detail/nl-series.php">
-                        <span class="current">NL SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR SERIES.jpg" alt="CR SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/cr-series.php">
-                        <span class="current">CR SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="../product-detail/ch-series.php">
+                        <span class="current">EC SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short" alt="TR SERIES"/>
+                    <a class="thumb" href="../product-detail/hd-series.php">
+                        <img style="width: 90%" src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES"/>
                     </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <span class="current">TR SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="../product-detail/hd-series.php">
+                        <span class="current">HD SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.jpg" alt="xposter"/>
+                    <a class="thumb" href="../product-detail/v-series.php">
+                        <img style="width: 85%" src="../images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES"/>
                     </a>
-                    <a class="list-title" href="../product-detail/xposter.php">
-                        <span class="current">Xposter</span><span class="more">View More</span>
+                    <a class="list-title" href="../product-detail/v-series.php">
+                        <span class="current">V SERIES</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="../product-detail/innox-series.php">
+                        <img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES"/>
+                    </a>
+                    <a class="list-title" href="../product-detail/innox-series.php">
+                        <span class="current">INNOX SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
             </div>

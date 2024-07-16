@@ -19,6 +19,46 @@
             <div class="img-cover">Fine Pitch LED Display</div>
         </div>
         <div class="spce-container">
+        <div class="specification">
+                <div class="product-img img-bigger">
+                    <a href="../product-detail/ch-series.php">
+                        <img src="../images/products/Fine-Pitch/CH-series-1.jpg" style="width: 100%" alt="CH SERIES"/>
+                        <div class="spec-detail">
+                            <h2 class="series-title">CH SERIES</h2>
+                            <p>Pixel Pitch (mm): 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
+                            <p>Brightness (nits): 600</p>
+                            <p>Refresh Rate(Hz): > 3840</p>
+                            <p>TV Studio / Conference Room / Home Cinema</p>
+                            <ul>
+                                <li>Optimized display durability with COB technology</li>
+                                <li>Higher contrast ratio for better image production</li>
+                                <li>Super slim panel design, thickness less than 27.5mm</li>
+                            </ul>
+                        </div>
+                    </a>
+                    <a  href="../product-detail/ch-series.php" class="spec-title">CH SERIES</a>
+                </div>
+            </div>
+            <div class="specification">
+                <div class="product-img img-bigger">
+                    <a href="../product-detail/ec-series.php">
+                        <img src="../images/products/Fine-Pitch/EC-series-1.jpg" style="width: 100%" alt="EC SERIES"/>
+                        <div class="spec-detail">
+                            <h2 class="series-title">EC SERIES</h2>
+                            <p>Pixel Pitch (mm): 0.62 / 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
+                            <p>Brightness (nits): 600</p>
+                            <p>Refresh Rate(Hz): > 3840</p>
+                            <p>Application: TV Studio / Conference Room / Board Room</p>
+                            <ul>
+                                <li>Optimized display durability with COB technology</li>
+                                <li>Higher contrast ratio for better image production</li>
+                                <li>Super slim panel design, thickness less than 39.5mm</li>
+                            </ul>
+                        </div>
+                    </a>
+                    <a  href="../product-detail/ec-series.php" class="spec-title">EC SERIES</a>
+                </div>
+            </div>
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/hd-series.php">
