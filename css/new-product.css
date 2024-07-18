@@ -27,7 +27,9 @@ img {
     position: relative;
 }
 
-.new-product-container .product-banner img, .new-product-container .product-banner .img-cover, .new-product-container .product-banner .text-cover {
+.new-product-container .product-banner img,
+.new-product-container .product-banner .img-cover,
+.new-product-container .product-banner .text-cover {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -310,12 +312,12 @@ img {
 }
 /* blog */
 .new-product-container .blog-content {
-    width: 94%;
-    justify-content: flex-start;
+    width: 90%;
+    justify-content: space-between;
     margin: 0 auto;
 }
 .new-product-container .blog-content .content {
-    width: 70%;
+    width: 63%;
 }
 .new-product-container .blog-content .img-box{
     width: 90%;
