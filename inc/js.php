@@ -98,7 +98,7 @@
         if($(window).scrollTop()>messageTop+300) {
             $(".message-box").addClass("fix");
             $(".message-box").css({
-                'left':messageLeft + 40,
+                // 'left':messageLeft + 60,
                 // 'width':messageWidth*0.3,
             })
         }else{

@@ -4,6 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product.css">
+    <link rel="stylesheet" href="../css/messageBox.css">
     <title>Advantages of Fine Pitch LED Display</title>
     <meta name="description" content="In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED display got a big increase on the market share and has been widely used for high profile and high end applications for its <a href="../">ultra-high resolution and stunning image performance</a>. Although much higher cost than other kind of video equipment like projector and LCD video wall, it is still favored by the market" />
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  

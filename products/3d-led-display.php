@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/messageBox.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>3D LED Display Screen & Video Wall - 3D LED Billboard Advertising</title>
     <meta name="description" content="3D LED display screen provides dynamic visual enjoyment 3D effect. Try out our 3D LED video wall billboard for immersive naked eye 3D advertising." />
@@ -160,7 +161,7 @@
                 </div>
             </div>
         </div>
-        <div class="spec-content blog-content">
+        <div class="spec-content blog-content content-container">
             <div class="content">
                 <h2>What You Need to Know About 3D LED Display</h2>
                 <p>The widespread presence of various products, as a result of the technological advancements in the 21st century, is obvious in every aspect of our lives. In this era of rapid advancement, new inventions are constantly pushing the boundaries of innovation, and novel visuals are becoming the standard for displays. The 3D LED Display is an outstanding instance of how technology continues to advance. Its wide range of applications makes it highly desirable in the fields of entertainment, advertising, and commercial building, particularly in bustling cities and entertainment hubs.</p>
@@ -264,6 +265,7 @@
                 <p>Our commitment is to offer each client and customer a tailored 3D LED display screen solution that takes consideration of their specific demands and requirements.</p>
                 <p>Contact us if you desire to acquire further information regarding our products and services. We eagerly anticipate providing our services to you in the near future!</p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
         <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>

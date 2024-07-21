@@ -4,6 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product.css">
+    <link rel="stylesheet" href="../css/messageBox.css">
     <title>Cinstar Stadium LED Screen with High-Performance LED Displays for Immersive Sporting Experiences at Cinstar-LED.com</title>
     <meta name="description" content="Elevate the stadium experience with Cinstar LED's state-of-the-art Stadium LED Screens. Immerse your audience in stunning visuals and captivating displays." />
     <meta name="keywords" content="stadium led screen, stadium led display, sport arena led screen, stadium perimeter led display, sport led display, led scoreboard system, scoreboard led display, scoreboard led screen, stadium led advertising, sport arena led advertising, football stadium led display, football arena led screen." />  
