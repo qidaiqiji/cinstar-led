@@ -1,6 +1,6 @@
 .news-detail {
-    margin-top: 1.2rem;
-    margin-bottom: 0.4rem;
+    margin-top: 1.925rem;
+    margin-bottom: .675rem;
 }
 .content{
     width: 80%;
@@ -12,29 +12,31 @@
     border-bottom: 1px dotted #ccc;
 }
 .news-title>h1{
-    font-size: 0.28rem;
+    font-size: .45rem;
     color:#000;
     font-weight: bold;
+    width: 70%;
+    margin: 0 auto;
 }
 .news-title .sub-title{
     font-weight:normal;
-    font-size: 0.14rem;
+    font-size: .225rem;
     color:#666;
-    padding-top: 0.2rem;
+    padding-top: .325rem;
 }
 .content-box{
     margin-top: 0.2rem;
     font-size: 0.12rem;
 }
 .content-box p{
-    line-height: 0.2rem;
-    margin-bottom: 0.2rem;
-    font-size: 0.14rem;
+    line-height: 1.5;
+    margin-bottom: .325rem;
+    font-size: .225rem;
 }
 .content-box .img-box{
     width: 50%;
     margin: 0 auto;
-    margin-bottom: 0.2rem;
+    margin-bottom: .325rem;
 }
 .content-box .several-imgs {
     width: 90%;
@@ -61,8 +63,8 @@
     font-weight: bold;
 }
 .related-news h3{
-    margin-bottom:0.2rem;
-    font-size: 0.13rem;
+    margin-bottom: .325rem;
+    font-size: .225rem;
 }
 .related-news span{
     color: #bc261a;
@@ -75,30 +77,47 @@
 .related-news a:hover{
     color: #bc261a;
 }
+@media (max-width:1500px){
+    .news-title>h1 {
+        font-size: 32px;
+    }
+    .news-title .sub-title {
+        font-size: 16px;
+    }
+    .content-box p, .related-news h3 {
+        font-size: 18px;
+    }
+}
 @media (max-width:1024px){
     .content-box .several-imgs {
         align-items: center;
         max-height: 200px;
         overflow: hidden;
     }
-    /* .content-box p{
-        font-size: 14px;
-    } */
 }
-@media (max-width:768px) and (min-width:600px){
-    .content-box .several-imgs {
-        max-height: 170px;
+@media (max-width:992px){
+    .news-detail {
+        margin-top: 120px;
+        margin-bottom: 40px;
     }
-    .content-box p{
-        font-size: 0.16rem;
+    .related-news h3 {
+        margin-bottom: 20px;
     }
 }
-@media (max-width:599px){
+@media (max-width:768px){
+    .news-detail {
+        margin-top: 60px;
+    }
+}
+@media (max-width:576px){
+    .news-title>h1{
+        width: 100%;
+    }
     .content-box .several-imgs {
         max-height: 80px;
     }
     .content-box .img-box{
-        width: 80%;
+        width: 80%!important;
     }
     .content-box .desc-title{
         font-size: 18px;
@@ -109,7 +128,8 @@
     }
     .related-news{
         width: 90%;
-        
+        margin-bottom: 30px;
+        margin-top: 0;
     }
     .related-news h3{
         font-size: 12px;
@@ -117,9 +137,9 @@
         flex-wrap: wrap;
     }
     .news-title>h1{
-        font-size: 20px;
+        font-size: 22px;
     }
     .news-title .sub-title{
-        font-size: 12px;
+        font-size: 14px;
     }
 }

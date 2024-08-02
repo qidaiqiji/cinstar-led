@@ -183,9 +183,9 @@
     margin-top: 1.5rem;
 }
 .title{
-    font-size: 34px;
+    font-size: .425rem;
     font-weight: 600;
-    margin-bottom: 40px;
+    margin-bottom: .5rem;
     color: #000;
 }
 .date{
@@ -203,7 +203,7 @@
 .content {
     width: 57%;
     color:#222831;
-    font-size: 18px;
+    font-size: .225rem;
 }
 .content p{
     line-height: 34px;
@@ -258,206 +258,34 @@
     margin-top:30px;
 }
 
-/* -----------留言板------------ */
-.message-box{
-    /* width: 30%; */
-    width: 500px;
-    /* height: 100%; */
-    background: #f2f2f2;
-    margin-top:40px;
-    border-radius: 6px;
-}
-.message-wrapper{
-    padding: 30px 50px;
-    width: 100%;
-    height: 100%;
-    box-sizing: border-box;
-    /* height: 500px; */
-    box-shadow: 0 0 10px 1px #653632;
-    border-radius: 6px;
-}
-.quote-title{
-    font-size:26px;
-    font-weight:bold;
-    margin-bottom:30px;
-    /* color:#e50000; */
-}
-.message-wrapper input, .message-wrapper textarea{
-    background: #fff;
-    width: 100%;
-    margin-bottom: 16px;
-    padding:0 4px;
-    color:#666;
-    font-size: 16px;
-    border: none;
-    border: 1px solid #f2f2f2;
-    box-sizing: border-box;
-}
-.message-wrapper input {
-    height:36px;
-}
-.message-wrapper textarea {
-    margin-top:0;
-}
-.message-wrapper input::-webkit-input-placeholder {
-    color:#666;
-}
-.message-wrapper textarea::-webkit-input-placeholder {
-    color:#666;
-}
-.fix{
-    position: fixed;
-    /* right: 6%; */
-    top: 20%;
-    height: auto;
-}
-/* 响应式 */
-@media(max-width:1500px) {
-    .fix{
-        max-width: 367px;
-        top: 8%;
+@media (max-width: 1500px) {
+    .blog-content {
+        margin-top: 100px;
     }
-    .message-box{
-        width: 367px;
+    .blog-content .content {
+        margin-top: 50px;
+        font-size: 18px;
     }
-}
-@media (min-width:1401px){
-    .product-banner {
-        height:auto;
-    }
-    .content-container{
-        margin-bottom: 0.3rem;
-    }
-}
-@media (max-width:1200px){
-    .blog-content{
-        margin-top: 0.5rem;
-    }
-    .product-banner{
-        height:auto;
-        margin-top:0;
-    }
-    .sort-detail p{
-        margin:10px 0;
-        line-height:30px;
-        font-size:14px;
-    }
-    .product-img a img {
-        transform: scale(0.5); 
-        /*width: 80%;*/
-    }
-    .product-img a .long-img {
-        transform: scale(0.4); 
-    }
-    
-    .sub-title h3{
+    .blog-content .title {
         font-size: 28px;
     }
-    .message-box{
-        display: none;
-    }
-    .content{
-        width: 100%;
-    }
-    .img-box{
-        height: auto;
-    }
-    .specification{
-        width: 95%;
-    }
-
 }
-@media (max-width:1000px){
-    .product-img a img {
-        transform: scale(0.6); 
-        /*width: 80%;*/
+@media (max-width: 1199px) {
+    .blog-content {
+        margin-top: 60px;
     }
-    .product-img a .long-img {
-        transform: scale(0.5); 
+    .blog-content .content {
+        width: 100%;
     }
 }
-@media (max-width:800px) {
-    .key-feature {
-        display: none
-    }
-    table{
-        font-size: 14px;
-    }
-    table .thead{
-        font-size: 14px;
-    }
-    .series-title{
-        font-size: 0.2rem;
-        margin-bottom: 10px;
-    }
-    .spec-detail{
-        width: 54%;
-    }
-    .read-more{
-        /* margin-left: 0;
-        margin-top: 10px; */
-        display: none;
-    }
-    .img-cover{
-        font-size: 30px;
-    }
-
-}
-@media (max-width:500px){
-    .product-banner{
-        height:200px;
-    }
-    .sort-item{
-        flex-wrap: wrap;
-    }
-    .sort-img{
-        width: 100%;
-    }
-    .sort-detail{
-        width: 100%;
-    }
-    .sub-title h3{
-        font-size: 20px;
-        margin-top: 20px;
-    }
-    .read-more{
-        font-size: 12px;
-    }
-    .specification{
-        flex-wrap: wrap;
-        justify-content:center;
-    }
-    .product-img{
-        width: 60%;
-    }
-    .spec-detail{
-        width: 100%;
-        margin-top: 20px;
-        align-items: center;
-    }
-    .series-title{
-        font-size: 20px;
-        margin: 20px;
-    }
-    .series-title a{
-        font-weight: bolder;
-    }
-    .img-cover{
-        width: 60%;
-        height: 40px;
-        font-size:18px;
-        line-height: 40px;
-    }
-    .title{
-        font-size: 28px;
-        margin-top: 20px;
-    }
-    .content h3{
+@media (max-width: 991px) {
+    .blog-content .title {
         font-size: 24px;
     }
 }
-
-.message-box.fix {
-    position: relative !important;
-    height: unset !important;
+@media (max-width: 768px){
+    .blog-content {
+        margin-top: 0;
+    }
 }
+

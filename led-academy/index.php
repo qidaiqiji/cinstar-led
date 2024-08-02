@@ -8,15 +8,11 @@
     <meta name="description" content="Cinstar LED academy provides high-quality information about led technology and some other tips to readers and consumers of led products and tech lovers" />
     <meta name="keywords" content="LED screen display, LED forum, LED technology, Cinstar-led, LED display screen, LED screen, LED video wall, LED billboard display, rental LED display, commercial LED display, advertising LED display" />
 </head>
-
 <style>
-
 html, body {
     height: unset;
 }
-
 </style>
-
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
@@ -269,26 +265,6 @@ html, body {
                         </div>
                     </div>
                 </div>
-                <style type="text/css">.jhgs {opacity: 0;}</style>
-
-                <div class="blog-item jhgs">
-                    <div class="img-box">
-                        <a href="../pros-and-cons-of-digital-led-billboard-advertising-truck"><img src="../images/news/maxresdefault.jpg" /></a>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-title">
-                            <h2><a href="../how-to-choose-LED-display">Pros And Cons Of Digital LED Billboard Advertising Truck</a></h2>
-                        </div>
-                        <p class="brief-desc">
-                        Marketing isn't something that comes naturally to everyone. You could be an aspiring entrepreneur wanting to set up a global business, but if you lack in the marketing side of the company, then your product, no matter how good it is, won't hold it all together.
-                        </p>
-                        <p class="read-more"><a href="../your-ultimate-guide">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
-                        <div class="blog-date">
-                            <p>January 11, 2022</p>
-                        </div>
-                    </div>
-                </div>
-
               </div>
             </div>
         </div>

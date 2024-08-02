@@ -1,11 +1,17 @@
 .contact-box{
-    margin-top: 1.4rem;
+    margin-top: 100px;
+}
+.contact-box .head-title {
+    margin-top: 2rem;
 }
 .contact-head{
     width: 90%;
-    margin: 0.8rem auto;
+    margin: 1.275rem auto;
     display: flex;
     justify-content: space-between;
+}
+.contact-box .head-title h1 {
+    font-size: 40px;
 }
 .contact-item{
     display: flex;
@@ -14,36 +20,36 @@
     align-items: center;
 }
 .contact-item i{
-    font-size: 0.3rem;
+    font-size: .475rem;
     color: #bc261a;
 }
 .contact-item .icon-box{
-    width: 50px;
-    height: 50px;
+    width: .625rem;
+    height: .625rem;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: .25rem;
 }
 .contact-item .title{
-    font-size: 0.18rem;
+    font-size: .3rem;
     margin: 10px 0;
     text-transform: uppercase;
     font-weight: bold;
 }
 .contact-item p{
-    font-size: 0.13rem;
-    line-height: 0.18rem;
+    font-size: .225rem;
+    line-height: 1.5;
     text-align: center;
 }
 .contact-detail{
-    margin-bottom: 0.6rem;
+    margin-bottom: .95rem;
 }
 .contact-body{
     width: 90%;
     margin: 0 auto;
-    margin-top: 0.7rem;
+    margin-top: 1.125rem;
 }
 .input-contact{
     width: 100%;
@@ -52,24 +58,24 @@
 }
 .input-contact input{
     width: 42%;
-    height: 40px;
-    margin-bottom: 0.3rem;
+    height: .5rem;
+    margin-bottom: .475rem;
     padding: 0 16px;
     border: none;
-    font-size: 18px;
+    font-size: .225rem;
     border-bottom: 1px solid #ccc;
 }
 .contact-body textarea{
     width: 100%;
-    height: 1.4rem;
+    height: 2.25rem;
     border-color: #ccc;
-    margin-top: 0.1rem;
-    margin-bottom: 0.2rem;
+    margin-top: .175rem;
+    margin-bottom: .325rem;
     box-sizing: border-box;
-    font-size: 18px;
+    font-size: .225rem;
 }
 .contact-input::-webkit-input-placeholder {
-    line-height: 20px;
+    line-height: .25rem;
 }
 .btn{
     width: 100%;
@@ -77,20 +83,53 @@
     justify-content: flex-end;
 }
 .btn .submit{
-    width: 254px;
-    height: 64px;
+    width: 3.175rem;
+    height: .8rem;
     border: 1px solid #bc261a;
     text-align: center;
-    line-height: 64px;
+    line-height: .8rem;
     border-radius: 0;
-    font-size: 0.14rem;
+    font-size: .225rem;
     color:#bc261a;
     font-weight: bold;
 }
 .btn .submit:hover{
     color:#fff;
 }
+@media (max-width:1500px) {
+    .contact-item .title {
+        font-size: 24px;
+    }
+    .contact-item p {
+        font-size: 18px;
+    }
+    .input-contact input, .contact-body textarea {
+        font-size: 18px;
+    }
+    .btn .submit {
+        font-size: 18px;
+    }
+}
+@media (max-width:991px) {
+    .contact-box .head-title {
+        margin-top: 100px;
+    }
+    .contact-item i {
+        font-size: 36px;
+    }
+    .btn .submit {
+        width: 200px;
+        height: 60px;
+        line-height: 60px;
+    }
+}
 @media (max-width:768px) {
+    .contact-box, .contact-box .head-title {
+        margin-top: 60px;
+    }
+    .contact-box .head-title h1 {
+        font-size: 24px;
+    }
     .contact-item {
         margin-bottom: 30px;
     }

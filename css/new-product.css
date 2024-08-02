@@ -6,6 +6,7 @@ img {
 .new-product-container .spec-content p {
     margin-bottom: 0.25rem;
     font-size: 0.225rem;
+    line-height: 1.5;
 }
 .new-product-container .series-border-button {
     border: 1px solid #bc261a;
@@ -258,6 +259,10 @@ img {
     border-radius: 0.125rem;
     justify-content: space-between;
 }
+.application-content .application-item .application-img-spec {
+    width: 50%;
+    display: flex;align-items: center
+}
 .application-content .application-item img {
     width: 40%;
 }
@@ -337,7 +342,8 @@ img {
     color: #bc261a;
 }
 .new-product-container .blog-content .chapter-box li {
-    margin-bottom: 0.25rem;
+    margin-bottom: 12px;
+    font-size: 0.225rem;
 }
 .new-product-container .blog-content .chapter-title {
     font-size: .325rem;
@@ -515,6 +521,9 @@ img {
     .new-product-container .spec-content p {
         font-size: 18px;
     }
+    .new-product-container .blog-content .chapter-box li {
+        font-size: 18px;
+    }
     .new-product-container .series-border-button {
         font-size: 18px;
     }
@@ -540,6 +549,28 @@ img {
     }
     .new-product-container .series-list-content .series-item h3, .title-border-button {
         line-height: 0.75rem;
+    }
+    .application-content .application-item .application-img-spec {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .application-content .application-item .title {
+        font-size: 22px;
+        margin: 0.2rem 0;
+    }
+    .application-content .application-item {
+        flex-direction: column;
+        align-items: center;
+    }
+    .application-content .application-item img {
+        width: 90% !important;
+    }
+    .application-content .application-item .application-right {
+        width: 90%;
+    }
+    .new-product-container .series-border-button {
+        /* margin: 0 auto; */
     }
     .new-product-container .blog-content {
         justify-content: center;
@@ -572,7 +603,7 @@ img {
         padding: 0.35rem 0;
     }
     .new-product-container .spec-content h2 {
-        font-size: 0.3rem;
+        font-size: 0.24rem;
         margin-bottom: 0.35rem;
     }
     .desc .title {
@@ -624,6 +655,9 @@ img {
     .new-product-container .iconCricle i {
         font-size: .4rem;
     }
+    .application-content .application-item .title {
+        font-size: 0.2rem;
+    }
     .contact-banner-content .contact-banner-dialog p {
         font-size: 0.2rem;
     }
@@ -637,6 +671,9 @@ img {
 }
 /* 768以下 */
 @media (max-width: 768px){
+    .new-product-container .product-banner {
+        margin-top: 0;
+    }
     .new-product-container .product-banner .text-cover h1 {
         font-size: 0.3rem;
     }
@@ -652,6 +689,12 @@ img {
     .new-product-container .series-list-content .series-item {
         width: 90%;
     }
+    .new-product-container .series-list-content .series-item img {
+        width: 80%;
+    }
+    .new-product-container .iconList {
+        justify-content: center;
+    }
     .new-product-container .iconItem {
         width: 90%;
         margin-bottom: 60px;
@@ -664,6 +707,12 @@ img {
         font-size: 30px;
     }
     .desc .title {
+        font-size: 20px;
+    }
+    .new-product-container .series-border-button {
+        font-size: 16px;
+    }
+    .application-content .application-item .title {
         font-size: 20px;
     }
     .new-product-container .blog-content .chapter-title {
@@ -681,10 +730,22 @@ img {
 }
 @media (max-width: 576px){
     .new-product-container .product-banner .text-cover h1 {
-        font-size: 32px;
+        font-size: 24px;
+    }
+    .new-product-container .product-banner .text-cover span {
+        font-size: 16px;
+        margin: 10px 0;
+        text-align: center;
+    }
+    .new-product-container .border-button {
+        padding: 10px 16px;
+
     }
     .new-product-container .spec-content h2 {
-        font-size: 24px;
+        font-size: 22px;
+    }
+    .new-product-container .series-list-content .series-item h3, .title-border-button {
+        font-size: 18px;
     }
     .new-product-container .series-list-content .series-box .title-box-change {
         height: 40px;
@@ -701,5 +762,14 @@ img {
     .choose-content .img-box img {
         width: 80%;
         margin-bottom: 10px;
+    }
+    .desc .title, .application-content .application-item .title {
+        font-size: 18px;
+    }
+    .contact-banner-content .contact-banner-dialog p {
+        font-size: 0.26rem;
+    }
+    .contact-banner-button {
+        font-size: 0.23rem;
     }
 }

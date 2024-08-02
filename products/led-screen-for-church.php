@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/messageBox.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>LED Screen for Church - Church LED Screen Display & Video Wall </title>
     <meta name="description" content="Top quality LED display screen for church, clear image and multiple installations! Contact us for best church LED video wall screen solutions!" />
@@ -172,7 +173,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;"  src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" /></div>
+                    <div class="application-img-spec"><img style="width: 100%;"  src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Church LED Stage Screen</h3>
                         <p>The ease of installation and maintenance, along with the excellent quality of visual performance, are the noteworthy features of an LED stage screen.</p>
@@ -311,6 +312,7 @@
                 <p><b>Enhanced visual capabilities</b></p>
                 <p>The full-color LED display exhibits a broader range of colors, resulting in reduced color distortion and enhanced vividness in its expressive capabilities. That is why church LED display screens are now a vital application scenario among all the rental LED display screens. </p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
         <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>

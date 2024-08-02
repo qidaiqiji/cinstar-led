@@ -1,6 +1,6 @@
 @charset "utf-8";
 .gallery-container{
-    padding-top: 1.4rem;
+    padding-top: 2.25rem;
     background: #010101;
     color:#fff;
     height: 100%;
@@ -18,7 +18,7 @@
 }
 .gallery-list{
     width: 80%;
-    margin: 0.7rem auto;
+    margin: 1.125rem auto;
     margin-bottom: 0;
 }
 .gallery-item{
@@ -39,7 +39,7 @@
 }
 .gallery-left p, .gallery-left h3{
     margin: 20px 0;
-    font-size: 0.14rem;
+    font-size: .225rem;
     color:#fff;
     padding: 0 60px;
 }
@@ -51,64 +51,41 @@
     width: 100%;
     height: 100%;
 }
+@media (max-width:1500px) {
+    .gallery-left p, .gallery-left h3 {
+        font-size: 18px;
+    }
+}
+@media (max-width:1024px) {
+    .gallery-container{
+        padding-top: 130px;
+    }
+    .gallery-list {
+        margin-top: 90px;
+    }
+}
+@media (max-width:992px) {
+    .gallery-left p, .gallery-left h3{
+        font-size: 16px;
+        margin: 10px 0;
+    }
+}
 @media (max-width:767px) {
-    .gallery-left p {
+    .gallery-container{
+        padding-top:100px;
+    }
+    .gallery-left p, .gallery-left h3 {
         padding:4px 10px;
         margin:0;
-        font-size: 9px;
-    }
-    .gallery-left h3{
-        padding: 4px 10px;
-        margin: 0;
+        font-size: 10px;
     }
     .gallery-item {
-        height: 100px;
+        height: 120px;
     }
     .gallery-img{
         height: 100%;
     }
     .gallery-container{
-        padding-top:1rem;
-    }
-}
-@media (min-width:768px) and (max-width:1023px) {
-    .gallery-left p {
-        margin:8px 0;
-    }
-    .gallery-item {
-        height: 200px;
-    }
-    .gallery-container{
-        padding-top:1rem;
-    }
-}
-@media (min-width:1024px) {
-    .gallery-item {
-        height: 270px;
-    }
-}
-@media (min-width:1024px) and (max-width:1119px) {
-    .gallery-container{
-        padding-top:1rem;
-    }
-}
-@media (min-width:1200px) {
-    .gallery-item {
-        height: 330px;
-    }
-}
-@media (min-width:1400px) {
-    .gallery-item {
-        height: 380px;
-    }
-}
-@media (min-width:1500px) {
-    .gallery-item{
-        height: 400px;
-    }
-}
-@media (min-width:1700px) {
-    .gallery-item{
-        height: 450px;
+        padding-top:60px;
     }
 }

@@ -30,13 +30,13 @@ img {
 }
 .detail-section {
     width: 100%;
-    margin: 0 auto;
-    display: flex;
     padding-top: 50px;
     padding-bottom: 70px;
     border-bottom: 1px solid #cdc7c7;
 }
 .brief {
+    width: 90%;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
 }
@@ -152,6 +152,9 @@ img {
 .instruction h2 {
     font-size: 0.3rem;
     font-weight: bold;
+}
+.home-instruction h2 {
+    font-size: 0.2rem;
 }
 .instruction h2::after {
     display: block;

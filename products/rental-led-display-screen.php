@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/messageBox.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>Rental LED Display Screen & Video Wall for Stage Event - LED Wall Rental</title>
     <meta name="description" content="Wanna try out a quality rental LED video wall for your rental events? Cinstar rental LED display screens are perfect for stage events, tour production and corporate event etc." />
@@ -300,22 +301,11 @@
                 <p>Prior to addressing this question, it is important to note a significant issue with rental LED display screen - the problem of batches. If you purchase a rental LED display now and later decide to buy more to complement your existing display for larger events, you will realize that they cannot be used together as one screen. Because these LEDs come from two different batches, each with its own unique color and brightness. This scenario is a common occurrence.</p>
                 <p>Returning to that question, you will now have a more practical answer by reflecting on your past events and making predictions about the scale of your business in the near future.</p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>
