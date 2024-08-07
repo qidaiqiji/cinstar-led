@@ -141,7 +141,7 @@
         </div>
         <div class="videoContainer">
             <div class="sub-title">
-                <span>PRODUCT PERFORMANCE VIDEOS</span>
+                <span>Product Performance Videos</span>
             </div>
             <div class="videoBox">
                 <div class="videoItem">

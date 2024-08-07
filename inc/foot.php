@@ -1,3 +1,6 @@
+<head>
+    <link rel="stylesheet" href="../css/footer.css">
+</head>
 <div class="sepreate"></div>
 <div class="footer">
     <div class="footer-container">
@@ -31,7 +34,7 @@
         </div>
         <div class="footer-item input-item">
             <div class="footer-title">
-                GET A QUOTE
+                Get A Quote
             </div>
             <div class="footer-detail">
                 <form id="myform" name="myform" method="post" action="/quotes/Index/index" onSubmit="return Check()">
@@ -80,7 +83,7 @@ function Check()
 </script>
         <div class="footer-item footer-contact">
             <div class="footer-title">
-                <a href="../contact">CONTACT</a>
+                <a href="../contact">Contact</a>
             </div>
             <div class="footer-detail">
                 <a class="companyName">Cinstar Electronics  Co., Limited</a>

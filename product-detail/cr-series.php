@@ -75,7 +75,7 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Rental-LED/CR-SERIES.jpg" alt="CR-SERIES"/>
+                <img src="../images/products/Rental-LED/CR-SERIES.jpg" style="width: 80%" alt="CR-SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->

@@ -205,7 +205,7 @@
                 </p>
                 <ul class="list">
                     <li>
-                        <p class="sub-title"><i class="fa fa-hand-o-right"></i><b>Control Room And Monitor Room/b></p>
+                        <p class="sub-title"><i class="fa fa-hand-o-right"></i><b>Control Room And Monitor Room</b></p>
                         <p>
                         Control and monitor rooms, dominated by LCD video walls, are now very important markets for fine pitch indoor LED displays. Decided by its function attribute, the display at these locations must display as much content as possible.
                         </p>
