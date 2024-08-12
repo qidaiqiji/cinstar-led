@@ -102,7 +102,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Creative-LED/TS-Series3.jpg" alt="TS-Series"/>
                 </div>

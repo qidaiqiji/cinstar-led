@@ -73,7 +73,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="product-img hd-img">
+            <div class="product-img small-long">
                 <img src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES"/>
             </div>
         </div>
@@ -106,7 +106,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half" style="width: 40%">
                     <img src="../images/products/Commercial-LED/Innox-4.jpg" alt="INNOX SERIES"/>
                 </div>
@@ -118,7 +118,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Curves And Cube Designs</h2>
                     <p>
@@ -130,7 +130,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/Innox-6.jpg" class="special" alt="INNOX SERIES" style="width: 90%"/>
                 </div>
@@ -142,7 +142,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Wide Range Of Applications</h2>
                     <p>

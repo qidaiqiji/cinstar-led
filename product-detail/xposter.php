@@ -21,7 +21,7 @@
             <img src="../images/products/Creative-LED/Xposter 4.jpg" alt="Xposter"/>
             <img src="../images/products/Creative-LED/Xposter 5.jpg" alt="Xposter"/>
         </div>
-        <div class="table-detail xposter-table">
+        <div class="table-detail">
             <div class="sub-title">
                 <span>Technical Specification</span>
             </div>

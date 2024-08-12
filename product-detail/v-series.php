@@ -73,7 +73,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="product-img hd-img" style="width: 45%">
+            <div class="product-img" style="width: 45%">
                 <img src="../images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES"/>
             </div>
         </div>
@@ -103,19 +103,19 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/V-series-4.jpg" alt="V SERIES" style="width: 90%"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
                     <p>
-                    Cinstar V Series LED video wall applies innovative invisible built-in cable connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and lower failure rate.
+                    Cinstar V Series LED video wall applies innovative invisible built-in cable connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and failure rate.
                     </p>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Front Intallation & Front Maintenance</h2>
                     <p>
@@ -127,7 +127,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/V-series-6.jpg" alt="V SERIES" style="width: 90%"/>
                 </div>
@@ -141,7 +141,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
         </div>
         <div class="videoContainer" style="background: black">
             <div class="sub-title">
-                <span style="color: #fff">PRODUCT VIDEO</span>
+                <span style="color: #fff">Product Video</span>
             </div>
             <div class="videoBox" style="justify-content: center">
                 <div class="videoItem" style="width: 60%">
@@ -155,7 +155,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>V SERIES Features</span>
+                <span>V Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -200,7 +200,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>V SERIES Showcase</span>
+                <span>V Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">

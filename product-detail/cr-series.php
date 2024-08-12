@@ -80,7 +80,7 @@
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
-            <div class="left-img img-shorter">
+            <div class="left-img" style="width: 43%;">
                 <img src="../images/products/Rental-LED/CR-Case-Show.jpg" alt="CR-Case-Show"/>
             </div>
             <div class="right-desc text-long">

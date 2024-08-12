@@ -103,7 +103,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/CT-series-4.jpg" alt="CT SERIES"/>
                 </div>
@@ -116,7 +116,7 @@ The handles and locks can extremely accelerate the installation and make it real
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Slim And Light Weight Panel Design</h2>
                     <p>
@@ -128,7 +128,7 @@ The handles and locks can extremely accelerate the installation and make it real
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/CT-series-6.jpg" alt="CT SERIES"/>
                 </div>

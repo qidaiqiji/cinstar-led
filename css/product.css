@@ -298,6 +298,10 @@
     }
 }
 @media (max-width: 1024px) {
+    .product-banner {
+        margin-top: 60px;
+        height: auto;
+    }
     .sort-box {
         font-size: 16px;
     }
@@ -334,10 +338,6 @@
     }
 }
 @media (max-width: 991px) {
-    .product-banner {
-        margin-top: 60px;
-        height: auto;
-    }
     .blog-content .title {
         font-size: 24px;
     }
@@ -350,9 +350,9 @@
     }
 }
 @media (max-width: 768px){
-    .blog-content, .product-banner {
+    /* .blog-content, .product-banner {
         margin-top: 0;
-    }
+    } */
     .sort-detail .read-more {
         display: none;
     }

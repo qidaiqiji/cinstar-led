@@ -104,7 +104,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Rental-LED/E-series-4.jpg" alt="E SERIES"/>
                 </div>
@@ -116,7 +116,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Seamless Screen Connection</h2>
                     <p>
@@ -128,7 +128,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Rental-LED/E-series-6.jpg" alt="E SERIES"/>
                 </div>
@@ -140,7 +140,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Top Stability For All Events</h2>
                     <p>
@@ -152,7 +152,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Rental-LED/E-series-8.jpg" alt="E SERIES"/>
                 </div>
@@ -164,7 +164,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Suspension And Floor Stacking Available</h2>
                     <p>

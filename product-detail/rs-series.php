@@ -103,7 +103,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/RS-series-4.jpg" alt="RS SERIES"/>
                 </div>
@@ -114,7 +114,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Great Stability & Durability</h2>
                     <p>
@@ -126,7 +126,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/RS-series-6.jpg" alt="RS SERIES"/>
                 </div>

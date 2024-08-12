@@ -107,7 +107,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/FT Series3.jpg" alt="FT SERIES"/>
                 </div>
@@ -119,7 +119,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Advanced Monitoring And Reporting System</h2>
                     <p>

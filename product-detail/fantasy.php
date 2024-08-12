@@ -13,7 +13,7 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container">
-        <div class="topContainer">
+        <div class="topContainer" style="margin-top: 130px">
             <div class="topImg">
                 <img src="../images/products/fantasy/Fan1.jpg" alt="Fantasy Series"/>
                 <div class="fantasy-title">

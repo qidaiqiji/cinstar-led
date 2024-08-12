@@ -8,12 +8,6 @@
     <meta name="description" content="Feel free to contact our support team for varied custom queries, help, and feedback. We have a huge responsive support team waiting for you to serve." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier" />
 </head>
-<style>
-    .head-title h1 {
-    font-size: 42px;
-    color: #000;
-}
-</style>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
@@ -22,7 +16,7 @@
         <div class="contact-box">
            
             <div class="head-title">
-                <h1>CONTACT US</h1>
+                <h1>Contact Us</h1>
             </div>
             <div class="contact-head">
                 <div class="contact-item">

@@ -215,7 +215,7 @@ img {
         line-height: 50px;
     }
     .instruction h2 {
-        font-size: 34px;
+        font-size: 28px;
     }
     .inquery {
         padding: 0 20px;
@@ -225,12 +225,14 @@ img {
         margin-top: 20px;
     }
 }
+@media (max-width: 1024px){
+    .product-banner{
+        margin-top: 60px;
+    }
+}
 @media (max-width: 768px){
     .img-box {
         margin-right: 0;
-    }
-    .instruction h2 {
-        font-size: 25px;
     }
     .instruction h3 {
         font-size: 20px;
@@ -240,7 +242,10 @@ img {
     .product-banner{
         height:200px;
         max-width: 100%;
-        margin-top: 0;
+        /* margin-top: 0; */
+    }
+    .instruction h2 {
+        font-size: 22px;
     }
     .detail-section .img-box {
         max-width: 100%;
