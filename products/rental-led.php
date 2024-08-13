@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/messageBox.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>Rental LED Display Screen & Video Wall for Stage Event - LED Wall Rental</title>

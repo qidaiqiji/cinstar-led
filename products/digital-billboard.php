@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>Digital LED Billboard - Outdoor LED Display Billboard Advertising</title>
     <meta name="description" content="Cinstar's outdoor digital LED display billboard solutions can deliver the most eye-catching visuals to promote brand and help boost your advertising business." />

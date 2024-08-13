@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/product.css">
     <link rel="stylesheet" href="../css/messageBox.css">
     <title>Fine Pitch LED Wall | Indoor LED Display | Indoor LED Screen - Cinstar</title>
@@ -10,14 +11,16 @@
     <meta name="keywords" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings." />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
-    <div class="container">
-        <!-- 导航开始 -->
+    <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Fine-Pitch/banner.jpg" alt="market-fine"/>
-            <div class="img-cover">Fine Pitch LED Display</div>
+            <img src="../images/products/Fine-Pitch/banner.jpg" alt="rental-led"/>
+            <div class="img-cover"></div>
+            <div class="text-cover">
+                <h1>Fine Pitch LED Display</h1>
+                <span>4K UHD Fine Pixel Pitch LED Video Display Screen</span>
+                <div class="border-button">Get A Quote Now</div>
+            </div>
         </div>
         <div class="spce-container">
             <div class="specification">

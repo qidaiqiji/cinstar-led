@@ -49,23 +49,11 @@
     })
     $(".menu-item").each(function(index){
         $(this).find('.menu-link').siblings('.menu-icon').click(function(e){
-            console.log('走了', $(this).find('.menu-icon'))
-            // e.preventDefault();
-            console.log('this,', index)
             $(this).children().toggleClass("icon-active")
             $(".subMenu").eq(index).toggleClass("subMenu-active");
             $(".subMenu-ul").eq(index).toggleClass("subMenu-ul-active");
         })
     })
-    // $(".menu-link").each(function(index){
-    //     $(this).click(function(e){
-    //         // e.preventDefault();
-    //         console.log('this,', index)
-    //         var abx = $(".subMenu").eq(index);
-    //         $(".subMenu").eq(index).toggleClass("subMenu-active");
-    //         $(".subMenu-ul").eq(index).toggleClass("subMenu-ul-active");
-    //     })
-    // })
     $(".subMenu-item").each(function(index){
         $(this).find('.menu-icon').click(function(e){
             e.preventDefault();

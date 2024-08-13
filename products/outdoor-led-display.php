@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>Outdoor LED Display Screen & Board - Outdoor LED Video Wall Panel</title>
     <meta name="description" content="Check out Cinstar outdoor LED display screen, video walls and LED display board for durable performance. Buy the best outdoor LED display at Cinstar." />

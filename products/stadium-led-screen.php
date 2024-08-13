@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/product.css">
     <link rel="stylesheet" href="../css/messageBox.css">
     <title>Cinstar Stadium LED Screen with High-Performance LED Displays for Immersive Sporting Experiences at Cinstar-LED.com</title>
@@ -10,14 +11,16 @@
     <meta name="keywords" content="stadium led screen, stadium led display, sport arena led screen, stadium perimeter led display, sport led display, led scoreboard system, scoreboard led display, scoreboard led screen, stadium led advertising, sport arena led advertising, football stadium led display, football arena led screen." />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
-    <div class="container">
-        <!-- 导航开始 -->
+    <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Fine-Pitch/banner-sta.jpg" alt="market-fine"/>
-            <div class="img-cover">Stadium LED Screen</div>
+            <img src="../images/products/Fine-Pitch/banner-sta.jpg" alt="Stadium LED Display"/>
+            <div class="img-cover"></div>
+            <div class="text-cover">
+                <h1>Stadium LED Display</h1>
+                <span>Perimeter Stadium LED Displays Lighten Sports Arena</span>
+                <div class="border-button">Get A Quote Now</div>
+            </div>
         </div>
         <div class="spce-container">
             <div class="specification">

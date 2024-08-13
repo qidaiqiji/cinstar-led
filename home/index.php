@@ -22,7 +22,7 @@
     <meta name="msvalidate.01" content="05393303A9AC7E2D8DCF3B48AD511318" />
     <title>Cinstar-LED.com Your Stunning Visual LED Display Screen for Commercial Outdoor, Indoor and Rental.</title>
     <link rel="stylesheet" href="../css/custom-product.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/common-home.css">
     <link rel="stylesheet" href="../css/contact.css">
     <link rel="stylesheet" href="../css/main.css">
 
@@ -41,14 +41,10 @@
 <script>
     gtag('event', 'conversion', {'send_to': 'AW-767120070/vvGACPTs9O0BEMal5e0C'});
 </script>
-
 </head>
 <body class="page-index">
-    <!-- ???? -->
-    <?php include('../inc/top.php'); ?>
-    <!-- ???? -->
-    <div class="container new-product-container">
-        <!-- ???? -->
+    <?php include('../inc/top.php'); ?>   
+    <div class="container new-product-container">        
         <div class="banner"> 
             <ul>
                 <li>
@@ -82,6 +78,29 @@
                     </a>
                 </li>
             </ul>
+        </div>
+        <div class="profile">
+            <img src="../images/home-new/banner-cinstar-1.jpg" />
+            <div class="profile-content">
+                <div class="profile-dialog">
+                    <h2>Cinstar Profile</h2>
+                    <p>As a leading sophisticated LED display screen manufacturer in China, Cinstar is dedicated to offering a wide range of LED video wall panels to grow and expand your business. We are honored to get involved into each of your project and propose you a tailored LED visual solution！</p>
+                </div>
+                <div class="profile-mark">
+                    <div class="profile-mark-item" style="width: 20%;">
+                        <span class="mark-title">2012</span>
+                        <span>Established</span>
+                    </div>
+                    <div class="profile-mark-item">
+                        <span class="mark-title">+1200 Projects</span>
+                        <span>Delivered</span>
+                    </div>
+                    <div class="profile-mark-item">
+                        <span class="mark-title">+50 Countries</span>
+                        <span>Exported</span>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="detail-section" style="border-bottom: none">
             <div class="brief">
@@ -132,7 +151,7 @@
                 <div class="instruction home-instruction">
                     <h2>Your Best China LED Display Screen Manufacturer & LED Video Wall Panels Supplier</h2>
                     <p>Cinstar is committed to manufacturing the most cost effective and quality assured LED video wall panels to cater to all your requirements on high profile or budget projects. In addition, Cinstar offers a wide variety of LED video wall panels which customizable for application scenarios such as advertising campaigns, rental events, television broadcasts and any other creative installations etc. Cinstar is making its every effort to be your trusted China LED display screen manufacturer by offering unparalleled service and top quality LED video wall panels.</p>
-                    <a class="inquery" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                    <a class="inquery" href="mailto:sales@cinstar-led.com">Get A Quote</a>
                 </div>
             </div>
         </div>
@@ -141,7 +160,7 @@
                 <div class="instruction home-instruction">
                     <h2>Comprehensive LED Video Wall Panel Solutions Provider</h2>
                     <p>With more than 12 years of industry manufacturing experience and industry veteran R&D team, all Cinstar LED video wall panels are designed and manufactured to meet and exceed your expectation on the quality, while maintaining the price at competitive level, creating more business opportunities and greatly optimize your ROI. Cinstar has one seasoned technical service team to tackle all your concerns about pre-sale consulting, on-site installation instruction or after sales technical support etc. Cinstar team are ready to deliver the best LED video wall panels for your projects!</p>
-                    <a class="inquery" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                    <a class="inquery" href="mailto:sales@cinstar-led.com">Get A Quote</a>
                 </div>
                 <div class="img-content">
                     <div class="img-box">
@@ -189,96 +208,97 @@
                 </div>
             </div>
         </div>
-        <div class="product">
+        <div class="product product-section">
             <div class="head-title">
-                <h2>FEATURED PRODUCTS</h2>
+                <h2>Featured Products</h2>
+                <p>Cinstar wide range of LED video wall panels boost your business</p>
             </div>
             <div class="product-container">
                 <div class="product-item">
-                    <a class="thumb" href="/../product-detail/m-series.php">
-                        <img src="../..../../images//products/Rental-LED/M-series-1.jpg" alt="M-series" class="short" style="width: 90%" />
+                    <a class="thumb" href="/product-detail/m-series.php">
+                        <img src="../images/products/Rental-LED/M-series-1.jpg" alt="M-series" class="short" style="width: 90%" />
                     </a>
-                    <a class="list-title" href="/../product-detail/m-series.php">
-                        <span class="current">M SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="/product-detail/m-series.php">
+                        <span class="current">Rental LED Video Wall Panel</span><span class="more">M Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/../product-detail/v-series.php">
-                        <img src="../..../../images//products/Fine-Pitch/V-series-1.jpg" alt="v-series" class="short" style="width: 93%" />
+                    <a class="thumb" href="/product-detail/v-series.php">
+                        <img src="../images/products/Fine-Pitch/V-series-1.jpg" alt="v-series" class="short" style="width: 93%" />
                     </a>
-                    <a class="list-title" href="/../product-detail/v-series.php">
-                        <span class="current">V SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="/product-detail/v-series.php">
+                        <span class="current">Fine Pitch LED Video Wall</span><span class="more">V Series</span>
                     </a>
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="/products/custom-led.php">
-                        <img src="../..../../images//products/custom-led/custom-led.jpg" alt="custom-led" class="short" style="width: 90%" />
+                        <img src="../images/products/custom-led/custom-led.jpg" alt="custom-led" class="short" style="width: 90%" />
                     </a>
                     <a class="list-title" href="/products/custom-led.php">
-                        <span class="current">CUSTOM LED DISPLAY</span><span class="more">View More</span>
+                        <span class="current">Custom LED Video Wall</span><span class="more">Custom LED Display</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/hd-series.php">
-                        <img src="../..../../images//products/Fine-Pitch/HD-SERIES-2.jpg" alt="hd-series"  style="width: 93%"/>
+                    <a class="thumb" href="product-detail/hd-series.php">
+                        <img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" alt="hd-series"  style="width: 93%"/>
                     </a>
-                    <a class="list-title" href="../product-detail/hd-series.php">
-                        <span class="current">HD SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="/../product-detail/a-series.php">
-                        <img src="../..../../images//products/Rental-LED/A-series-1.jpg" alt="a-series" class="short" style="width: 95%" />
-                    </a>
-                    <a class="list-title" href="/../product-detail/a-series.php">
-                        <span class="current">A SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="product-detail/hd-series.php">
+                        <span class="current">Direct View LED Video Wall</span><span class="more">HD Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/../product-detail/tf-series.php">
-                        <img src="../..../../images//products/Creative-LED/tf-1.jpg" alt="tf-series" style="width: auto;" />
+                    <a class="thumb" href="/product-detail/a-series.php">
+                        <img src="../images/products/Rental-LED/A-series-1.jpg" alt="a-series" class="short" style="width: 95%" />
                     </a>
-                    <a class="list-title" href="/../product-detail/tf-series.php">
-                        <span class="current">TF SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="/../product-detail/x-series.php">
-                        <img src="../..../../images//products/Commercial-LED/X-series-1.jpg" alt="x-series" class="short" />
-                    </a>
-                    <a class="list-title" href="/../product-detail/x-series.php">
-                        <span class="current">X SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="/product-detail/a-series.php">
+                        <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/../product-detail/mc-series.php">
-                        <img src="../..../../images//home/MC SERIES.jpg" alt="mc-series"/>
+                    <a class="thumb" href="/product-detail/tf-series.php">
+                        <img src="../images/products/Creative-LED/tf-1.jpg" alt="tf-series" style="width: auto;" />
                     </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <span class="current">MC SERIES</span><span class="more">View More</span>
+                    <a class="list-title" href="/product-detail/tf-series.php">
+                        <span class="current">LED Film Display Screen</span><span class="more">TF Series</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="/product-detail/x-series.php">
+                        <img src="../images/products/Commercial-LED/X-series-1.jpg" alt="x-series" class="short" />
+                    </a>
+                    <a class="list-title" href="/product-detail/x-series.php">
+                        <span class="current">Outdoor LED Display Screen</span><span class="more">X Series</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="/product-detail/mc-series.php">
+                        <img src="../images/home/MC SERIES.jpg" alt="mc-series"/>
+                    </a>
+                    <a class="list-title" href="product-detail/mc-series.php">
+                        <span class="current">LED Advertising Display Screen</span><span class="more">MC Series</span>
                     </a>
                 </div>
             </div>
         </div>
-        <div class="spec-content" style="display: flex; flex-direction: column; background: #f2f2f2;">
+        <div class="spec-content product-section" style="display: flex; flex-direction: column; background: #f2f2f2;">
             <div class="head-title">
                 <h2 style="margin-bottom: 0;">Products & Solutions</h2>
                 <p>Cinstar LED video wall panel solutions cater to all your applications</p>
             </div>
-            <div class="content series-list-content" style="margin: 0 auto;">
+            <div class="content series-list-content">
                 <div class="series-box">
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-direct-view-led-14.jpg" /></div>
                         <p>Cinstar direct view LED video wall panels are versatile and customizable for a wide variety of installations like wall mounted LED video wall panel, all-in-one LED TV screen and movable LED digital poster display. Our direct view LED video wall panels are designed with solid quality to satisfy all your high profile applications in TV studio, corporate showroom, control room, conference room, board room and home cinema etc.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">Direct View LED Video Wall</div>
+                            <div class="title-border-button">Direct View LED Video Wall</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-indoor-led-display-15.jpg" /></div>
                         <p>Cinstar indoor LED video wall panels offer a wide range of pixel pitches and panel designs for your options. Featuring top tier LEDs, high refresh rate driver IC and ultra-sleek panel construction, all our indoor LED video wall panels are the ideal solutions for both rental events and advertisings, ensuring vibrant color, high quality image production and bringing you more happy clients. You deserve a reliable LED display screen manufacturer for your business.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">Indoor LED Display Screen</div>
+                            <div class="title-border-button">Indoor LED Display Screen</div>
                         </div>
                     </div>
                     <div class="series-item">
@@ -286,55 +306,55 @@
                         
                         <p>Featuring high brightness (more than 5500nits) and excellent IP rating (IP65), Cinstar outdoor LED video wall panels serve as the most reliable video display for both outdoor stage rental and outdoor LED advertising. All Cinstar outdoor LED video wall panels can be maintained from front or rear side to ensure the quick installation and easy maintenance. Cinstar can be the best  LED display screen manufacturer for your outdoor LED video wall panels.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">Outdoor LED Display Screen</div>
+                            <div class="title-border-button">Outdoor LED Display Screen</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-rental-led-display-17.jpg" /></div>
                         <p>Designed with black LEDs, superb refresh rate(3840Hz) and great grayscale, Cinstar rental LED video wall panels can easily deliver top image quality for all rental events like music festival, concert tour, corporate event, Gala, award ceremony etc. With magnetic module and practical modular design, Cinstar rental LED video wall panels can be built and dismantled quick and easy. Contact us for cost effective rental LED video wall panel solutions.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">Rental LED Display Screen</div>
+                            <div class="title-border-button">Rental LED Display Screen</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-event-led-display-18.jpg" /></div>
                         <p>Cinstar has a series of quality rental LED video wall panels for events, church applications and stage rental events etc. To cater to all types of installations, Cinstar rental LED video wall panels can be built with truss suspension, ground/floor stacking or simply wall mounted. If you are looking for a trustworthy LED display screen manufacturer for your rental events, try out Cinstar rental LED video wall panels and our supreme quality services.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">LED Screens for Event</div>
+                            <div class="title-border-button">LED Screens for Event</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-advertising-display-19.jpg" /></div>
                         <p>As a leading reliable LED display screen manufacturer in China, all Cinstar advertising LED video wall panels are developed with top stability and durability to overcome any harsh weather conditions to achieve the 24/7 operations. Cinstar LED video wall panels can be customized to satisfy all kinds of installations and requirements on creative shapes. We aim to be a value-added partner to you and help to expand your business with max support.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">LED Advertising Display</div>
+                            <div class="title-border-button">LED Advertising Display</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-3d-led-display-20.jpg" /></div>
                         <p>Would you like your LED display screen to stand out from the crowd and become a remarkable iconic landscape, Cinstar 3D LED video wall panel display is for sure your first choice. No matter you want to get a seamless sharp right angle or truly smooth curve to deliver the most visual impact advertising to get the viewers engaged, Cinstar 3D LED video wall panels screen can reach all your expectations and ensuring you the best 3D LED display.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">3D LED Display Screen</div>
+                            <div class="title-border-button">3D LED Display Screen</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-creative-led-display-21.jpg" /></div>
                         <p>Cinstar creative LED video wall panels offer wide options like holographic LED film screen, transparent LED video wall display, flexible LED module and dance floor LED video wall panels etc, to strengthen your competitiveness and stand out from your rivals with creative LED video wall solutions. Serving as the industry leading LED display screen manufacturer, Cinstar will supply you the creative LED video wall panels with best design and quality.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;" style="display: block;">Creative LED Display Screen</div>
+                            <div class="title-border-button">Creative LED Display Screen</div>
                         </div>
                     </div>
                     <div class="series-item">
                         <div class="img-box"><img src="../images/home-new/product-custom-led-display-22.jpg" /></div>
                         <p>Cinstar offers OEM & ODM services for any customized LED video wall panel request from our customers. Our custom LED video wall displays can satisfy the very diversified applications like LED cube display, LED sphere screen, digital LED shelf, LED cylindrical display, taxi top LED sign, LED DJ booth and LED trumpet display etc. They can working as LED video walls and also the creative decoration to the open space. A great visual solution for creative design.</p>
                         <div class="title-box-change">
-                            <div class="title-border-button" style="display: block;">Custom LED Display Screen</div>
+                            <div class="title-border-button">Custom LED Display Screen</div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="choose">
+        <div class="choose product-section">
             <div class="head-title choose-header">
                 <h2><a href="about/">Why Choose Cinstar</a></h2>
             </div>
@@ -347,9 +367,9 @@
                         <div class="title">
                                 LED EXPERTS
                         </div>
-                        <div class="content">
+                        <p>
                             As industry veterans, our team have managed thousands of LED projects and passionate about fulfilling customer's ideas by high quality visual LED landscapes.
-                        </div>
+                        </p>
                     </div>
                 </div>
                 <div class="iconItem">
@@ -360,9 +380,9 @@
                         <div class="title">
                                 TRUSTWORTHY
                         </div>
-                        <div class="content">
+                        <p>
                             Cinstar is committed to be a reliable partner behind customers by providing quality LED products and integrated services. We do our part and never compete with them.
-                        </div>
+                        </p>
                     </div>
                 </div>
                 <div class="iconItem">
@@ -373,9 +393,9 @@
                         <div class="title half-title">
                                 DIVERSITY 
                         </div>
-                        <div class="content">
+                        <p>
                             We have highly comprehensive product lines which cover very wide range of applications and equipped qualified certificates which compatible with EU or US standards
-                        </div>
+                        </p>
                     </div>
                 </div>
                 <div class="iconItem">
@@ -386,17 +406,15 @@
                         <div class="title">
                                 MANUFACTURING
                         </div>
-                        <div class="content">
+                        <p>
                             We believe that quality is critical to satisfying customers. By using a variety of top-class equipment, we are the manufacturer of indoor and outdoor led display the finest products with the highest quality of standards.
 
-                        </div>
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- why choose cinstar?? -->
-        <!-- what our customer say?? -->
-        <div class="customer">
+        <div class="customer product-section">
             <div class="head-title">
                 <h2>What Our Customers Say</h2>
             </div>
@@ -457,11 +475,10 @@
                 </ul>
             </div>
         </div>
-        <!-- what our customer say?? -->
-        <!-- case?? -->
-        <div class="caseStudy">
+        <div class="caseStudy product-section">
             <div class="head-title gallery-title">
                 <h2><a href="gallery/">Projects Gallery</a></h2>
+                <p>Cinstar cost effective LED video wall panels support your project</p>
             </div>
             <div class="case-list">
                 <div class="case-item">
@@ -514,7 +531,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="../images//home/Campbell Park 4.8mm.jpg" alt="Campbell Park 4.8mm"/>
+                        <img src="../images/home/Campbell Park 4.8mm.jpg" alt="Campbell Park 4.8mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Campbell Park 4.8mm LED Video Display</span>
@@ -522,7 +539,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="../images//home/ESPN Conference Room 1.56mm.jpg" alt="ESPN Conference Room 1.56mm"/>
+                        <img src="../images/home/ESPN Conference Room 1.56mm.jpg" alt="ESPN Conference Room 1.56mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">ESPN 1.56mm LED Screen Display</span>
@@ -530,7 +547,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="../images//home/Mosco Airport 10mm.jpg" alt="Mosco Airport 10mm"/>
+                        <img src="../images/home/Mosco Airport 10mm.jpg" alt="Mosco Airport 10mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Mosco Airport 10mm LED Video Display</span>
@@ -538,7 +555,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="../images//home/New Zealand Shopping Mall 6mm.jpg" alt="New Zealand Shopping Mall 6mm"/>
+                        <img src="../images/home/New Zealand Shopping Mall 6mm.jpg" alt="New Zealand Shopping Mall 6mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">New Zealand 6mm LED Screen Display</span>
@@ -546,7 +563,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="../images//home/Strickly Star 3.9mm.jpg" alt="Strickly Star 3.9mm"/>
+                        <img src="../images/home/Strickly Star 3.9mm.jpg" alt="Strickly Star 3.9mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Strickly Star 3.9mm LED Video Display</span>
@@ -554,24 +571,23 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="../images//home/Swizerland Conference room 1.2mm.jpg" alt="Swizerland Conference room 1.2mm"/>
+                        <img src="../images/home/Swizerland Conference room 1.2mm.jpg" alt="Swizerland Conference room 1.2mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Swizerland 1.2mm LED Screen Display</span>
                     </span>
                 </div>
             </div>
+            
         </div>
-        <!-- case?? -->
-        <!-- news?? -->
-        <div class="news" style="background: #f2f2f2">
+        <div class="news product-section" style="background: #f2f2f2">
             <div class="head-title">
-                <h2><a href="news/">LATEST NEWS</a></h2>
+                <h2><a href="news/">Latest News</a></h2>
             </div>
             <div class="news-list">
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-07-08.php">
-                        <img src="/../..../../images//news/media-cube-led-video-wall-panel-2.jpg" alt="image"/>
+                        <img src="../images//news/media-cube-led-video-wall-panel-2.jpg" alt="image"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -585,7 +601,7 @@
                 </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-01-26.php">
-                        <img src="/../..../../images//news/2024-01-26-1.jpg" alt="image"/>
+                        <img src="../images//news/2024-01-26-1.jpg" alt="image"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -599,7 +615,7 @@
                 </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2023-11-13.php">
-                        <img src="/../..../../images//news/2023-11-13-1.jpg" alt="image"/>
+                        <img src="../images//news/2023-11-13-1.jpg" alt="image"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -613,7 +629,7 @@
                 </div>
             </div>
         </div>
-        <div class="news contact-detail">
+        <div class="contact-detail product-section">
             <div class="head-title">
                 <h2>Get In Touch</h2>
                 <p>Contact Cinstar for your tailored LED video wall panel solution</p>
@@ -635,7 +651,6 @@
                 </div>
             </form>
         </div>
-        <!-- new?? -->
         <?php include('../inc/foot.php'); ?>
     </div>
     <?php include('../inc/js.php'); ?>
@@ -656,8 +671,6 @@
                 delay: 20000,
             })
             let screenWidth = $(window).width();
-            console.log("screenWidth",screenWidth)
-            // ???????????
             if(screenWidth>1200) {
                 $('.imgList li').css('width',screenWidth*0.93*0.32)
                 let length = $('.imgList li').length;
@@ -695,33 +708,5 @@
         })
         // $('.imgList').css('left',Math.ceil(-liWidth));
     </script>
-<script type="application/ld+json">
-        {
-              "@context": "http://schema.org",
-              "@type": "Organization",
-              "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Baoan district",
-                "addressRegion": "Shenzhen, China",
-                "postalCode": "518000",
-                "streetAddress": "Building A, Hengchangrong technology park,
-
-Shiyan street"
-                 
-              },
-                
-              "name": "cinstar",
-              "alternateName": ["cinstar-led"],
-              "telephone": "+86-183 2088 9297",
-              "logo":"https://www.cinstar-led.com/../..../../images//logo.png",
-              "email": "sales@cinstar-led.com",
-              "url": "https://www.cinstar-led.com",
-              "sameAs":["https://www.facebook.com/Cinstarled"]
-            },
-        }
-    </script>
-
-
-    
 </body> 
 </html>

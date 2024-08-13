@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>Indoor LED Display Screen & Video Wall - Indoor LED Advertising & Rental </title>
     <meta name="description" content="Indoor LED display screens are the most preferred video wall solutions for both indoor advertising and rental activities. Try out Cinstar LED display screens for your projects!" />

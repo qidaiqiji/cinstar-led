@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>LED Stage Screen & Video Wall - LED Screen for Stage Events</title>
     <meta name="description" content="Cinstar offers the most reliable & creative LED stage screen wall. Contact us for the best rental LED display screen for stage solutions with affordable prices." />

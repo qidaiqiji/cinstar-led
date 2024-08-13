@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>Direct View LED Video Wall & Display Screen - Fine Pitch LED Display Screen</title>
     <meta name="description" content="Cinstar's direct view LED video walls provide crystal clear image/video for ultimate visual impact. Best fine pitch LED display screen solutions for UHD image production." />

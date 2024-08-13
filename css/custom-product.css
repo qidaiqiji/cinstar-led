@@ -6,27 +6,6 @@ p {
 img {
     width: 100%;
 }
-.product-banner{
-    margin-top: 100px;
-    width: 100%;
-    position: relative;
-}
-.img-cover{
-    width: 5rem;
-    height: .75rem;
-    text-align: center;
-    background: rgba(255,255,255,.5);
-    color:#bc261a;
-    position: absolute;
-    bottom: .375rem;
-    left: 0;
-    font-size: .425rem;
-    font-weight: bolder;
-    line-height: .75rem;
-}
-.product-banner img{
-    width: 100%;
-}
 .detail-section {
     width: 100%;
     padding-top: 50px;
@@ -175,18 +154,8 @@ img {
     .instruction h3 {
         font-size: 22px;
     }
-    .img-cover {
-        width: 400px;
-        height: 60px;
-        bottom: 30px;
-        font-size: 34px;
-        line-height: 60px;
-    }
 }
 @media (max-width:1200px){
-    .img-cover {
-        font-size: 28px;
-    }
     .brief {
         flex-direction: column;
         align-items: center;
@@ -225,11 +194,6 @@ img {
         margin-top: 20px;
     }
 }
-@media (max-width: 1024px){
-    .product-banner{
-        margin-top: 60px;
-    }
-}
 @media (max-width: 768px){
     .img-box {
         margin-right: 0;
@@ -239,11 +203,6 @@ img {
     }
 }
 @media (max-width:576px){
-    .product-banner{
-        height:200px;
-        max-width: 100%;
-        /* margin-top: 0; */
-    }
     .instruction h2 {
         font-size: 22px;
     }
@@ -264,9 +223,6 @@ img {
     .detail-section .detail-section {
         padding-top: 0;
         padding-bottom: 10px;
-    }
-    .detail-section .img-cover {
-        max-width: 100%;
     }
     .detail-section .instruction p, .img-desc, .inquery {
         font-size: 16px;

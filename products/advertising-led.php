@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/new-product.css">
     <title>LED Advertising Screen Display & Video Board - Cinstar LED</title>
     <meta name="description" content="Cinstar offers the most cost effective and quality assured LED advertising screen display for both indoor and outdoor advertising venues." />
