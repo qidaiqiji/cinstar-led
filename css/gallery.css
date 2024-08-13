@@ -1,10 +1,10 @@
 .gallery-container {
-    margin-top:1.4rem;
+    margin-top: 2.25rem;
     min-height: 100%;
 }
 .galleryBox{
     width: 90%;
-    margin: 0.7rem auto;
+    margin: 1.125rem auto;
     display: flex;
     justify-content: space-between;
 }
@@ -21,55 +21,69 @@
     height: 100%;
 }
 .galleryDesc h3{
-    line-height: .8rem;
-    font-size: 0.17rem;
+    line-height: 1.275rem;
+    font-size: .275rem;
     text-align: center;
     font-weight: bold;
 }
 .galleryDesc a:hover{
     color:#bc261a;
 }
-@media (min-width: 1025px){
-    .img img{
-        transform: scale(1);
-        transition: all 0.4s ease;
-    }
-    .img img:hover{
-        transform: scale(1.1)
+@media (max-width: 1500px){
+    .galleryDesc h3 {
+        line-height: 102px;
+        font-size: 22px;
     }
 }
 @media (max-width: 1024px){
-    .gallery-container{
-        margin-top:1.2rem;
+    .gallery-container {
+        margin-top: 140px;
     }
     .img{
         height: 170px;
     }
+    .img img{
+        transform: scale(1);
+        transition: all 0.4s ease;
+    }
+    .galleryBox {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .galleryDesc h3 {
+        font-size: 20px;
+    }
 }
-@media (min-width: 768px) and (max-width: 1023px){
+@media (max-width: 768px) {
     .gallery-container {
-        margin-top:0.8rem;
+        margin-top:60px;
     }
     .img{
         height: 130px;
     }
-}
-@media (max-width: 767px) {
-    .gallery-container {
-        margin-top:0.8rem;
+    .galleryDesc h3{
+        font-size: 18px;
     }
-    .galleryBox{
+  
+}
+@media (max-width: 576px) {
+    .galleryBox {
         display: block;
     }
-    .imgsBox{
+    .imgsBox {
         width: 100%;
         margin-bottom: 20px;
     }
-    .img{
-        height: 220px;
+    .img {
+        width: 100%;
+        height: auto;
     }
-    .galleryDesc h3{
-        font-size: 14px;
+    .galleryDesc h3 {
+        font-size: 16px;
+        line-height: 40px;
     }
-  
+    .galleryBox {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
 }

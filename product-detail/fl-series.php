@@ -103,7 +103,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/FL-series-4.jpg" alt="FL SERIES"/>
                 </div>

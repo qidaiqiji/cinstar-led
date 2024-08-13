@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/custom-product.css">
     <title>Custom LED Display I LED Cube Screen I LED Sphere Display I Cinstar LED</title>
     <meta name="description" content="Thanks to exceptional capability of R&D and supply chain management, Cinstar is delighted to offer custom LED display solution to exceed our customers’ expectations on creativity, quality and cost. Wanna stand out from the crowd with something really eyeball catching? Try Cinstar custom LED display right now!" />
@@ -12,10 +13,15 @@
     <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
-    <div class="container">
-       <div class="product-banner">
-            <img src="../images/products/custom-led/custom-banner.jpg" alt="Custom-led"/>
-            <div class="img-cover">Custom LED Display</div>
+    <div class="container new-product-container">
+        <div class="product-banner">
+            <img src="../images/products/custom-led/custom-banner.jpg" alt="rental-led"/>
+            <div class="img-cover"></div>
+            <div class="text-cover">
+                <h1>Custom LED Display</h1>
+                <span>Creatively Tailored LED Video Wall Solutions</span>
+                <div class="border-button">Get A Quote Now</div>
+            </div>
         </div>
         <!-- 产品参数 -->
         <div class="detail-section">

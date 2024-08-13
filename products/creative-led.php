@@ -3,23 +3,25 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/product.css">
+    <link rel="stylesheet" href="../css/messageBox.css">
     <title>Stage LED screens, Stage led display | Cinstar-led</title>
     <meta name="description" content="Cinstar brings the best led solutions in the form of LED Display Board for wide range of applications. We have best collection of led display signs that are perfect for digital advertising for any business." />
     <meta name="keywords" content="creative LED display, transparent LED display, poster LED display, Cinstar-led, LED digital sinage, flexible LED screen wall, transparent LED wall, programmable LED display" />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
-    <div class="container">
-        <!-- 导航开始 -->
+    <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Creative-LED/banner.jpg" alt="market-fine"/>
-            <div class="img-cover">Creative LED Display</div>
+            <img src="../images/products/Creative-LED/banner.jpg" alt="rental-led"/>
+            <div class="img-cover"></div>
+            <div class="text-cover">
+                <h1>Creative LED Display</h1>
+                <span>Creative LED Display Screens Optimize Your Business</span>
+                <div class="border-button">Get A Quote Now</div>
+            </div>
         </div>
-       
-         <!-- 产品参数开始 -->
          <div class="spce-container">
             <div class="specification">
                 <div class="icon-new">

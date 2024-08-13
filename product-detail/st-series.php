@@ -103,7 +103,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/ST-series-4.jpg" alt="ST SERIES"/>
                 </div>
@@ -115,7 +115,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">High Protective Grade IP65</h2>
                     <p>
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/ST-series-6.jpg" alt="ST SERIES"/>
                 </div>

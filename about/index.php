@@ -4,7 +4,6 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/about.css">
-    <link rel="stylesheet" href="../css/support.css">
     <title>Dynamic Visual Experiences with Innovative Solutions at Cinstar LED</title>
     <meta name="description" content="Elevate your visual communication and captivate audiences with high-quality, customizable display solutions from Cinstar LED." />
     <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer" />
@@ -14,10 +13,6 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container about-container">
-        
-        <div class="head-title">
-            <h1>WELCOME TO CINSTAR</h1>
-        </div>
         <div class="about-img">
             <img src="../images/banner_about.jpg" alt="banner"/>
         </div>
@@ -60,7 +55,7 @@
         <div >
            
             <div class="head-title">
-                <h2>SERVICES CINSTAR PROVIDES</h2>
+                <h2>Services Cinstar Provides</h2>
             </div>
             <div class="support-icon">
                 <div class="icon-item">

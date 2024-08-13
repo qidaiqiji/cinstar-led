@@ -94,8 +94,8 @@
             <div class="sub-title">
                 <span>TR Series Features</span>
             </div>
-            <div class="iconsList tr-icons">
-                <div class="iconItems">
+            <div class="iconsList">
+                <div class="iconItems" style="width: 25%">
                     <div class="iconCricle">
                         <i class="fa fa-eye"></i>
                     </div>

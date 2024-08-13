@@ -1,31 +1,40 @@
+<head>
+    <link rel="stylesheet" href="../css/footer.css">
+</head>
 <div class="sepreate"></div>
 <div class="footer">
     <div class="footer-container">
         <div class="footer-item footer-products">
             <div class="footer-title">
-                <a href="../products">PRODUCTS</a>
+                <a href="../products">Products</a>
             </div>
             <div class="footer-detail">
-                <p><a href="../products/rental-led.php">Rental LED Display</a></p>
-                <p><a href="../products/commercial-led.php">Commercial LED Display</a></p>
-                <p><a href="../products/fine-pitch.php">Fine Pitch LED Display</a></p>
-                <p><a href="../products/creative-led.php">Creative LED Display</a></p>
-                <p><a href="../products/stadium-led-screen.php">Stadium LED Screen</a></p>
+                <p><a href="../products/rental-led.php">Direct View LED</a></p>
+                <p><a href="../products/commercial-led.php">Rental LED Display</a></p>
+                <p><a href="../products/fine-pitch.php">LED Stage Screen</a></p>
+                <p><a href="../products/creative-led.php">Indoor LED Display</a></p>
+                <p><a href="../products/stadium-led-screen.php">Creative LED Display</a></p>
+                <p><a href="../products/creative-led.php">Custom LED Display</a></p>
+                <p><a href="../products/stadium-led-screen.php">Digital LED Billboard</a></p>
             </div>
         </div>
         <div class="footer-item footer-gallery">
             <div class="footer-title">
-                <a href="../gallery">GALLERY</a>
+                <a href="../gallery">Solutions</a>
             </div>
             <div class="footer-detail">
-                <p><a href="../gallery-detail/rental-cases.php">Rental Event Cases</a></p>
-                <p><a href="../gallery-detail/fixed-cases.php">Fixed Install Cases</a></p>
-                <p><a href="../gallery-detail/fine-pitch-cases.php">Fine Pitch Cases</a></p>
+                <p><a href="../gallery-detail/rental-cases.php">3D LED Display Sceen</a></p>
+                <p><a href="../gallery-detail/fixed-cases.php">LED Advertising Display</a></p>
+                <p><a href="../gallery-detail/fine-pitch-cases.php">Commercial LED Display</a></p>
+                <p><a href="../gallery-detail/rental-cases.php">LED Screens for Events</a></p>
+                <p><a href="../gallery-detail/fixed-cases.php">LED Screen for Church</a></p>
+                <p><a href="../gallery-detail/fine-pitch-cases.php">Concert LED Screen</a></p>
+                <p><a href="../gallery-detail/fine-pitch-cases.php">Outdoor LED Display Screen</a></p>
             </div>
         </div>
         <div class="footer-item input-item">
             <div class="footer-title">
-                GET A QUOTE
+                Get A Quote
             </div>
             <div class="footer-detail">
                 <form id="myform" name="myform" method="post" action="/quotes/Index/index" onSubmit="return Check()">
@@ -74,7 +83,7 @@ function Check()
 </script>
         <div class="footer-item footer-contact">
             <div class="footer-title">
-                <a href="../contact">CONTACT</a>
+                <a href="../contact">Contact</a>
             </div>
             <div class="footer-detail">
                 <a class="companyName">Cinstar Electronics  Co., Limited</a>

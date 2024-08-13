@@ -104,7 +104,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/NL-Series-4.jpg" alt="NL SERIES"/>
                 </div>
@@ -116,7 +116,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Easy Maintenance And  Multiple Installations</h2>
                     <p>

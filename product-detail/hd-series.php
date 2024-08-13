@@ -73,7 +73,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="product-img hd-img" style="width: 47%">
+            <div class="product-img" style="width: 47%">
                 <img src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES"/>
             </div>
         </div>
@@ -103,19 +103,19 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/HD-SERIES-4.jpg" style="width: 100%" alt="HD SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
                     <p>
-                    Cinstar HD Series LED video display applies innovative jumper cable free connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and lower failure rate.
+                    Cinstar HD Series LED video display applies innovative jumper cable free connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and failure rate.
                     </p>
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Exceptional Visual Experience</h2>
                     <p>

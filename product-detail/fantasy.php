@@ -13,7 +13,7 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container">
-        <div class="topContainer">
+        <div class="topContainer" style="margin-top: 130px">
             <div class="topImg">
                 <img src="../images/products/fantasy/Fan1.jpg" alt="Fantasy Series"/>
                 <div class="fantasy-title">
@@ -66,7 +66,7 @@
                         <img src="../images/home/Xposter.jpg" alt="xposter"/>
                     </a>
                     <a class="list-title" href="../product-detail/xposter.php">
-                        <h3 class="current">Xposter</h3><span class="more">View More</span>
+                        <span class="current">Xposter</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
@@ -74,7 +74,7 @@
                         <img src="../images/home/TR SERIES.jpg" class="short" alt="tr-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/tr-series.php">
-                        <h3 class="current">TR SERIES</h3><span class="more">View More</span>
+                        <span class="current">TR SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
@@ -82,7 +82,7 @@
                         <img src="../images/home/MC SERIES.jpg" alt="mc-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/mc-series.php">
-                        <h3 class="current">MC SERIES</h3><span class="more">View More</span>
+                        <span class="current">MC SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">

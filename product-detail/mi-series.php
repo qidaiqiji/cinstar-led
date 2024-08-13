@@ -104,7 +104,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/MI-series-4.jpg" alt="MI SERIES"/>
                 </div>
@@ -116,7 +116,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Suspension And Floor Stacking</h2>
                     <p>
@@ -128,7 +128,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/MI-series-6.jpg" alt="MI SERIES"/>
                 </div>
@@ -144,7 +144,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>MI SERIES Features</span>
+                <span>MI Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -189,7 +189,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>MI SERIES Showcase</span>
+                <span>MI Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">

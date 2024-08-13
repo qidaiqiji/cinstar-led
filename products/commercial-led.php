@@ -3,20 +3,24 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="stylesheet" href="../css/product-banner.css">
     <link rel="stylesheet" href="../css/product.css">
+    <link rel="stylesheet" href="../css/messageBox.css">
     <title>Outdoor LED Display Screen for Bright, Vibrant, & Impactful Visual Solutions</title>
     <meta name="description" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />
     <meta name="keywords" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
-    <div class="container">
-        <!-- 导航开始 -->
+    <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Commercial-LED/banner.jpg" alt="commercial"/>
-            <div class="img-cover">Commercial LED Display</div>
+            <img src="../images/products/Commercial-LED/banner.jpg" alt="rental-led"/>
+            <div class="img-cover"></div>
+            <div class="text-cover">
+                <h1>Commercial LED Display</h1>
+                <span>Indoor & Outdoor LED Advertising Board Display</span>
+                <div class="border-button">Get A Quote Now</div>
+            </div>
         </div>
         <div class="spce-container">
             <div class="specification">

@@ -19,7 +19,7 @@
       
         <div class="sort-box">
             <div class="head-title">
-                <h2>CINSTAR LED DISPLAY PRODUCTS</h2>
+                <h2>Cinstar LED Display Products</h2>
             </div>
             <div class="sort-list">
                 <div class="sort-item">

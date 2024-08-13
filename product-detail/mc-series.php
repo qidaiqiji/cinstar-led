@@ -104,7 +104,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/MC SERIES3.jpg" alt="MC SERIES"/>
                 </div>
@@ -116,7 +116,7 @@
                 </div>
             </div>
             <hr class="under-line"/>
-            <div class="detail lower">
+            <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Extremely Simplified Install</h2>
                     <p>
