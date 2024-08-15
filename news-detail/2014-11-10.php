@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>Cinstar LED display shinning on Zinzino International Annual Event</title>
     <meta name="description" content="Several weeks ago, Cinstar has delivered one big LED display for Zinzino international annual event held in Telenor Arena in Stockholm. This arena is the biggest one in Sweden and is now a very hot place for all kinds of concerts and events. For this show, all the LED displays were Cinstar LM3.9, more than 180sqm in total including the three main screens and lots of vertical banners and decorative LED displays." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

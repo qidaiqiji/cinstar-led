@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/about.css">
+    <link rel="stylesheet" href="../css/about-240814.css">
     <title>Dynamic Visual Experiences with Innovative Solutions at Cinstar LED</title>
     <meta name="description" content="Elevate your visual communication and captivate audiences with high-quality, customizable display solutions from Cinstar LED." />
     <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer" />

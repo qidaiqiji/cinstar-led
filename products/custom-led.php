@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/custom-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/custom-product-240814.css">
     <title>Custom LED Display I LED Cube Screen I LED Sphere Display I Cinstar LED</title>
     <meta name="description" content="Thanks to exceptional capability of R&D and supply chain management, Cinstar is delighted to offer custom LED display solution to exceed our customers’ expectations on creativity, quality and cost. Wanna stand out from the crowd with something really eyeball catching? Try Cinstar custom LED display right now!" />
     <meta name="keywords" content="custom LED display, creative LED screen, led cube display, led sphere screen, led circular display, led cylindrical display, taxi led display sign, hexagon led display screen, led dj booth display, led trumpet display, led shelf display sign, led diamond display, led letter logo display, led display screen" />

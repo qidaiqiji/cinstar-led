@@ -630,8 +630,8 @@
         font-size: 30px;
     }
 }
-@media (min-width: 1121px) and (max-width:1550px) {
-    /* .header-menu {
+@media (min-width: 1025px) and (max-width:1550px) {
+    .header-menu {
         width: 80%;
-    } */
+    }
 } 

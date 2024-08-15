@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/news.css">
+    <link rel="stylesheet" href="../css/news-240814.css">
     <title>Our News Page | Company Insights | Cinstar-Led</title>
     <meta name="description" content="We believe in keeping our customers upto date; that’s why this portal is designed to keep consumers updated about the latest happenings both in the company and the market." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, transparent LED display, creative LED screen, poster LED wall, Indoor LED display, outdoor LED display, commercial LED display, LED digital signage" />

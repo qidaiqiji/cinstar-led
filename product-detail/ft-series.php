@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>Outdoor Display Board | Outdoor LED Sign Boards, Outdoor Digital Screen</title>
     <meta name="description" content="Cinstar FT series outdoor display board supports front or rear service access for specific installation. The high brightness and great stability of the outdoor digital screen enable it a preferred outdoor LED sign boards for your commercial outdoor advertising business." />
     <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens" />

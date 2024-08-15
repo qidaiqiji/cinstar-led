@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
     <title>LED Screens For Events</title>
     <meta name="description" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />
     <meta name="keywords" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, indoor/outdoor events, commercial events, and digital signage." />  
@@ -33,8 +33,8 @@
                 Cinstar LED is dedicated to being your trusted provider of LED screens for events, presenting supreme visual quality with high refresh rate and brightness. We offer tailored event LED screen solutions to match your specific demand.</p>
             </div>
         </div>
-        <div class="spec-content">
-            <div class="content events-recommend">
+        <div class="spce-container">
+            <div class="events-recommend">
                 <h2>Recommended LED Screens for Events</h2>
                 <div class="events-recommend-box">
                     <div class="specification">

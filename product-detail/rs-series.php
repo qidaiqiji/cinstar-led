@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>Led Billboard Advertising | Led Display Signs for Church</title>
     <meta name="description" content="Cinstar RS series outdoor Led Billboard Advertising. Led Display Signs for Church shows best image quality with high contrast and brightness." />
     <meta name="keywords" content="outdoor led display rental, outdoor led screen panel, outdoor led display panel, outdoor event production, outdoor led panel screen, outdoor led display, outdoor led screen" />

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>65sqm Cinstar DB6 for New Zealand installation</title>
     <meta name="description" content="Large scale LED display is always the preferred channel for outdoor commercial media not only for its high brightness, vivid color and wide viewing angle, but also its unlimited dimension and brilliant visual impact." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

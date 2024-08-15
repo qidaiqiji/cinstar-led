@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>LED Rental | Rental LED Display, LED Screen Rental, Stage LED | Cinstar-led</title>
     <meta name="description" content="Cinstar CR series offers advanced, high-performance rental LED display for stage rental applications. The lightweight and slim panel is great for LED screen rental. If you are looking for LED rental for touring & event production, CR series is the right choice." />
     <meta name="keywords" content="LED rental, rental LED display, LED screen rental, stage LED, stage rental LED screen, rental event LED wall, LED video wall rental" />

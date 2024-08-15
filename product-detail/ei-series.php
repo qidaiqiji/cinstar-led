@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>LED Board Manufacturer | Cheap LED Display, LED Video Display | Cinstar-led</title>
     <meta name="description" content="Cinstar EI series LED video display screen is specially designed to meet both install and rental applications. Its fast lock system and magnetic modules enable easier installation and maintenance. If you are looking for a LED board manufacturer for a cheap LED display, we may have what you need." />
     <meta name="keywords" content="LED board manufacturer, cheap LED display, LED video display screen, LED video screen price, LED screen for hire" />

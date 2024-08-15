@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/contact.css">
+    <link rel="stylesheet" href="../css/contact-240814.css">
     <title>Contact Us – Cinstar-LED</title>
     <meta name="description" content="Feel free to contact our support team for varied custom queries, help, and feedback. We have a huge responsive support team waiting for you to serve." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier" />

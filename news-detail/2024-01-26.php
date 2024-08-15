@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</title>
     <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display" />
     <meta name="After the first pilot fine pitch LED video wall has been verified so qualified to deliver top class image performance, here comes 3 sets of Cinstar fine pitch LED video wall U1.2 for low scale production. Each set of the LED video wall is consists of 5x6 panels of 600x337.5mm to achieve ultra-high resolution of 2400x1600 and have been delivered to Atlanta, Chicago and London respectively. " />

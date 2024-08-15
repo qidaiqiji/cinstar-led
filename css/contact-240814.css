@@ -93,9 +93,9 @@
     color:#bc261a;
     font-weight: bold;
 }
-.btn .submit:hover{
-    color:#fff;
-}
+/* .btn .submit:hover{
+    color:#bc261a;
+} */
 @media (max-width:1500px) {
     .contact-box .head-title h1 {
         font-size: 42px;

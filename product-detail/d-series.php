@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>Interactive LED Dance Floor | LED Floor Screen | Creative LED Dance Floor Display | Cinstar-led</title>
     <meta name="description" content="Cinstar D series interactive led dance floor display screen can be applied to shopping mall, night club and concerts to create attractive atmosphere. We offer  wide variety of led floor screen for all your high profile and budget projects." />
     <meta name="keywords" content="interactive led display, interactive led floor screen, interactive led dance floor display, creative led dance floor screen, led floor display screen, interactive led floor, " />

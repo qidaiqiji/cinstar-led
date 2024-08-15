@@ -24,9 +24,9 @@ img {
     background-position: center;
     background-size:cover;
 }
-/* .vx-bg {
+.vx-bg {
     background: url(../images/bgs/vx-bg.jpg);
-} */
+}
 .cr-bg {
     background: url(../images/bgs/cr-bg.jpg);
 }
@@ -42,25 +42,25 @@ img {
 .hd-bg {
     background: url(../images/bgs/hd-bg.jpg);
 }
-/* .lm-bg {
+.lm-bg {
     background: url(../images/bgs/lm-bg.jpg);
-} */
+}
 .mc-bg {
     background: url(../images/bgs/mc-bg.jpg);
 }
-/* .nl-bg {
+.nl-bg {
     background: url(../images/bgs/nl-bg.jpg);
-} */
+}
 .tr-bg {
     background: url(../images/bgs/tr-bg.jpg);
 }
 .ts-bg {
     background: url(../images/bgs/ts-bg.jpg);
 }
-/* .ec-bg {
+.ec-bg {
     background: url(../images/bgs/ec-bg.jpg);
     background-position: center;
-} */
+}
 .ma-bg {
     background: url(../images/bgs/ma-bg.jpg);
 }
@@ -82,9 +82,9 @@ img {
 .rs-bg {
     background: url(../images/bgs/rs-bg.jpg);
 }
-/* .tl-bg {
+.tl-bg {
     background: url(../images/bgs/tl-bg.jpg);
-} */
+}
 .mi-bg {
     background: url(../images/bgs/mi-bg.jpg);
 }

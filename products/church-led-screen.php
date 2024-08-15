@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/messageBox.css">
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
     <title>LED Screen for Church - Church LED Screen Display & Video Wall </title>
     <meta name="description" content="Top quality LED display screen for church, clear image and multiple installations! Contact us for best church LED video wall screen solutions!" />
     <meta name="keywords" content="LED screen for church, LED display for church, church LED screen, church LED video wall, church LED display, LED church screen, rental LED display screen, LED video wall display" />  

@@ -3,8 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Outdoor LED Display Screen & Board - Outdoor LED Video Wall Panel</title>
     <meta name="description" content="Check out Cinstar outdoor LED display screen, video walls and LED display board for durable performance. Buy the best outdoor LED display at Cinstar." />
     <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display" />  
@@ -348,22 +349,11 @@
                 <p><b>Installation Permit Issue</b></p>
                 <p>Each installation is constrained by a multitude of regulations, permits, and compliance standards. Navigating through this bureaucratic complexity is comparable to managing the physical structure. With its extensive expertise covering various regions, Cinstar is proficient to provide expert guidance throughout this process, guaranteeing that your outdoor LED display screen shines vividly while adhering to legal regulations.</p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

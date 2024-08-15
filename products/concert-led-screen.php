@@ -3,8 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Concert LED Screen Display - Rental LED Screen for Concert Stage Events</title>
     <meta name="description" content="Cinstar's concert LED screen display delivers the most eye-catching visual experience. Deploy our rental LED screen for your concert rental stage events now." />
     <meta name="keywords" content="concert LED screen, Concert led display, led screen for concert, rental LED display screen, event LED screen, LED stage screen, stage rental LED screen, LED concert screen" />  
@@ -318,22 +319,11 @@
                 </div>
                 <p>For a number of reasons, including the fact that they last a long time and can breathe new life into your event, concert LED screens should be seriously considered if they haven't been before. The events are made even more unforgettable by the large concert LED screens, which contribute to the ambiance and atmosphere in a significant manner. The large LED concert screens also make sure that even in large venues, people who aren't up near to the stage can still watch the artists performing, which keeps them more engaged. Thus, it aids their ability to capture high-quality images of the event.  In addition to a single large LED screen, strategically placed flying screens can help those in the crowd who are sitting further away from the stage see the performance.</p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

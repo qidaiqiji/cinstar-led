@@ -17,8 +17,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product.css">
-    <link rel="stylesheet" href="../css/messageBox.css">
+    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer" />  
     <meta name="p:domain_verify" content="55405faff2c022df8ded4e9440511b8f"/>
     <meta name="msvalidate.01" content="05393303A9AC7E2D8DCF3B48AD511318" />

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>Top notch quality Led Screen | es.cinstar-led</title>
     <meta name="Here you can read all the knowledge about Led screen which are used giant purpose! " />
 </head>

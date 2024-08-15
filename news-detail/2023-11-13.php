@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>China Creative LED Display I Custom LED Screen Solution I LED Cube Display - Cinstar</title>
     <meta name="keywords" content="Creative LED Display, Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
     <meta name="When the market is in floods of same products and everyone is busy competing on the price, it is more difficult than ever to win trust, but easier to lose project" />

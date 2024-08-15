@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>Outdoor LED sign | LED Advertising Screen | LED Sign Board | Outdoor LED Advertising | Cinstar-led</title>
     <meta name="description" content="Cinstar CT series outdoor LED advertising screen is with top stability and durability to create more business value for your outdoor led advertising. Our outdoor led sign is ideal to meet all of your out of home advertising activities. " />
     <meta name="keywords" content="outdoor led advertising board, outdoor led display, outdoor led screen display, outdoor led billboard, outdoor advertising billboard, outdoor digital sign screen, led display advertising, led advertising screen" />

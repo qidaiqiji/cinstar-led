@@ -3,18 +3,16 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>LED Advertising Screen Display & Video Board - Cinstar LED</title>
     <meta name="description" content="Cinstar offers the most cost effective and quality assured LED advertising screen display for both indoor and outdoor advertising venues." />
     <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board" />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="new-product-container">
-        <!-- 导航开始 -->
         <div class="product-banner">
             <img src="../images/products/new-page/led-advertising-display/led-advertising-display-1.jpg" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
@@ -271,22 +269,11 @@
                 <p>For example, if you're considering installing an LED advertising screen on a building's facade facing the road. It is important to obtain permission from the building owner before proceeding, followed by obtaining the necessary permit from your community. Finally, the permit from the Roads Administration or a similar department may be obtained. Policies regarding permits vary across different regions and countries.</p>
                 <p>It is important for you to determine the status of the permit and crucial to ensure that the purchasing is done only when the permit is ready or nearly completion. Otherwise, all your efforts may go to waste. </p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

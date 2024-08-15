@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>Merry Christmas and Happy New Year 2019</title>
     <meta name="description" content="Dear customers, thank you so much for your support in the productive 2018. Cinstar hereby sincerely wish you a great Christmas holiday and a wonderful new year ahead. We will continuously provide you the quality LED products and services as always!" />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

@@ -3,8 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Digital LED Billboard - Outdoor LED Display Billboard Advertising</title>
     <meta name="description" content="Cinstar's outdoor digital LED display billboard solutions can deliver the most eye-catching visuals to promote brand and help boost your advertising business." />
     <meta name="keywords" content="led billboard, digital led billboard, led display billboard, outdoor led billboard, led billboard for advertising, led billboard screen, led billboard display, led display billboard, outdoor advertising billboard" />  
@@ -317,22 +318,11 @@
                 <p>Furthermore, as a valued customer, you have the opportunity to personally visit our plant and receive instruction from our team of experts. </p>
                 <p>Finally, becoming one of our dealers is a great way to secure a long-term position in this field. Annually, we will share the latest technology and keep your knowledge updated with the trend. </p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

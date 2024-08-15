@@ -3,8 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>LED Stage Screen & Video Wall - LED Screen for Stage Events</title>
     <meta name="description" content="Cinstar offers the most reliable & creative LED stage screen wall. Contact us for the best rental LED display screen for stage solutions with affordable prices." />
     <meta name="keywords" content="LED stage screen, stage LED video wall, stage LED wall, LED screen for stage, rental LED display, event LED screen, LED screen for events, LED display manufacturer" />  
@@ -355,22 +356,10 @@
                 <p>We are certain that our advice will assist you in effortlessly choosing the optimal LED stage screen for your business, future event, or production. Cinstar is dedicated to delivering top-notch LED stage displays that cater to a wide range of requirements and budgets. </p>
                 <p>We strongly suggest you to contact us for tailored assistance in choosing the ideal LED stage screen solution that fulfills your precise needs. Feel free to contact us to learn more about the most optimal choices available. </p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
-    </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

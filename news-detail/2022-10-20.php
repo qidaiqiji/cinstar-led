@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>The largest outdoor LED advertising screen in Finland</title>
     <meta name="With the substantial collaboration of Cinstar team and its combined Finnish partner, one giant outdoor LED advertising screen was eventually installed and has become the largest outdoor LED advertising screen in Finland since its installation" />
 </head>

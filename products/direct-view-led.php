@@ -3,18 +3,16 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Direct View LED Video Wall & Display Screen - Fine Pitch LED Display Screen</title>
     <meta name="description" content="Cinstar's direct view LED video walls provide crystal clear image/video for ultimate visual impact. Best fine pitch LED display screen solutions for UHD image production." />
     <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel" />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="new-product-container">
-        <!-- 导航开始 -->
         <div class="product-banner">
             <img src="../images/products/new-page/direct-view-led/direct-view-led-1.jpg" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
@@ -269,22 +267,11 @@
                 <p><b>Great Caution Required</b></p>
                 <p>Our fine pitch LED display screen uses magnetic modules and is equipped with vacuum service tool for maintenance purposes. However, the great caution is necessary when working with the module to prevent any potential damage to the LEDs and PCB board. When it comes to maintenance work, a high level of professionalism and expertise is required to repair broken LEDs. To avoid further damages, when the pixel pitch goes lower than P1.2, we suggest that you will express the modules to our local partners for repairing.</p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

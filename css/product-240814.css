@@ -1,5 +1,8 @@
 @charset "utf-8";
 /* 产品总页 */
+img {
+    width: 100%;
+}
 .sort-box {
     padding-top: 1.125rem;
     font-size: .225rem;
@@ -19,10 +22,6 @@
     width: 48%;
     display: flex;
     align-items: center;
-}
-.sort-img img{
-    width: 100%;
-    height: 100%;    
 }
 .sort-detail{
     width: 46%;
@@ -45,104 +44,6 @@
 }
 .sub-title h3 a:hover{
     color: #bc261a;
-}
-/* 新样式 */
-.spce-container {
-    width: 90%;
-    margin: 0.9rem auto;
-    display: flex;
-    flex-wrap: wrap;
-    /* margin-bottom: 1.2rem; */
-}
-.specification {
-    width: 31%;
-    margin-right: 2%;
-    box-shadow: 0 0 10px rgb(0 0 0 / 16%);
-    margin-top: 0.6rem;
-    position: relative;
-}
-.product-img {
-    position: relative;
-}
-.product-img > a:first-child {
-    display: block;
-    width: 100%;
-    height: 5.1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.product-img a img {
-    width: 80%;
-}
-.icon-new {
-    position: absolute;
-    left: 0;
-    top: 0;
-    color: #fff;
-    font-size: 12px;
-    border: 20px solid #bc261a;
-    border-bottom: 20px solid #fff;
-    border-right: 20px solid #fff;
-}
-.icon-new .icon-content {
-    position: absolute;
-    display: inline-block;
-    transform: rotate(-45deg);
-    left: -20px;
-    top: -14px;
-}
-.spec-title {
-    display: block;
-    width: 100%;
-    height: 0.8rem;
-    line-height: 0.8rem;
-    text-align: center;
-    background: #595a58;
-    font-size: .3rem;
-    color: #fff;
-    font-weight: bold;
-}
-.spec-detail {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-    background: rgba(188,38,26,.7);
-    color: #fff;
-    padding: 0.5rem;
-    flex-direction: column;
-    justify-content: center;
-    box-sizing: border-box;
-    display: none;
-}
-.spec-detail .series-title {
-    margin: 0.3rem 0;
-    font-weight: bold;
-    text-align: center;
-    font-size: .36rem;
-
-}
-.spec-detail p {
-    margin-bottom: 6px;
-    font-size: .23rem;
-}
-.spec-detail ul {
-    list-style: disc;
-    padding: 0 0.1rem;
-    margin-top: 10px;
-    font-size: .23rem;
-}
-.spec-detail ul li {
-    margin-bottom: 6px;
-}
-.product-img:hover .spec-detail{
-    display: flex;
-}
-.product-img:hover .spec-title{
-    background: #fff;
-    color: #fff;
 }
 /* --------内容样式---------- */
 
@@ -194,10 +95,6 @@
     overflow: hidden;
     margin-bottom: 20px;
 }
-.img-box img{
-    width: 100%;
-    height: 100%;
-}
 .chapter-box{
     padding: 20px;
     box-sizing: border-box;
@@ -232,6 +129,9 @@
 }
 
 @media (max-width: 1500px) {
+    .spec-detail .series-title {
+        font-size: 28px;
+    }
     .blog-content {
         margin-top: 100px;
     }
@@ -288,38 +188,10 @@
     .sort-detail .read-more {
         font-size: 18px;
     }
-    .specification {
-        width: 45%;
-    }
-    .img-cover {
-        width: 400px;
-        height: 60px;
-        bottom: 30px;
-        font-size: 34px;
-        line-height: 60px;
-    }
-    .product-img > a:first-child {
-        height: 350px;
-    }
-    /* .product-img a img {
-        transform: scale(0.5);
-    } */
-    .spec-title {
-        height: 50px;
-        line-height: 50px;
-        font-size: 22px;
-    }
 }
 @media (max-width: 991px) {
     .blog-content .title {
         font-size: 24px;
-    }
-    /* .product-img a img {
-        transform: scale(0.7);
-    } */
-    .spce-container {
-        margin-top: 0;
-        margin-bottom: 0;
     }
 }
 @media (max-width: 768px){
@@ -331,12 +203,6 @@
     }
 }
 @media (max-width: 576px){
-    .specification {
-        width: 90%;
-    }
-    .spce-container {
-        margin-right: 0;
-    }
     .sort-item {
         flex-wrap: wrap;
         margin-top: 20px;
@@ -354,23 +220,12 @@
     .sort-list {
         margin-bottom: 0;
     }
-    .product-img > a:first-child {
-        height: 240px;
-    }
     .img-cover {
         width: 250px;
         height: 50px;
         bottom: 30px;
         font-size: 22px;
         line-height: 50px;
-    }
-    .product-img a img {
-        transform: scale(0.8);
-    }
-    .spec-title {
-        height: 50px;
-        line-height: 50px;
-        font-size: 20px;
     }
     .chapter-title {
         margin: 30px 0;

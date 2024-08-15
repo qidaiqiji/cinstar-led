@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/gallery.css">
+    <link rel="stylesheet" href="../css/gallery-240814.css">
     <title>Our Gallery | Led Display Gallery | Cinstar Electronics</title>
     <meta name="description" content="Cinstar provides fascinating displays of led products in different countries of the world. We have sophisticated project management experience and are capable of all kinds of installations." />
     <meta name="keywords" content="LED video screen supplier, commercial LED screen wall, giant LED billboard, digital LED screen display wall" />

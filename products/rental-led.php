@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/messageBox.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240814.css">
+    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/new-product-240814.css">
     <title>Rental LED Display Screen & Video Wall for Stage Event - LED Wall Rental</title>
     <meta name="description" content="Wanna try out a quality rental LED video wall for your rental events? Cinstar rental LED display screens are perfect for stage events, tour production and corporate event etc." />
     <meta name="keywords" content="rental LED display, rental LED screen, rental LED display screen, LED wall rental, rental LED video wall, LED stage screen, LED concert screen, Event LED screen, rental LED wall" />  

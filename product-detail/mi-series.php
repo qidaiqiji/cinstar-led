@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>LED Display Screen Rental | Outdoor LED Screen Rental | LED Screen Panel | Indoor Panel Screen | Cinstar-led</title>
     <meta name="description" content="Cinstar MI series LED rental panel screen offers the best image quality for your indoor and outdoor LED rental events. Our LED display rental is the most cost-effective solution for your rental event productions." />
     <meta name="keywords" content="LED screen rental, LED display rental, Indoor LED rental Panel, Outdoor LED Rental, LED panel rental, Indoor outdoor LED panel" />

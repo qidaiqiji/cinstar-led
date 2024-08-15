@@ -70,7 +70,7 @@
                                             <span>Digital LED Billboard</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/3d-led-display.php">
-                                            <span>3D Led Display</span>
+                                            <span>3D LED Display</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/commercial-led.php">
                                             <span>Commercial LED Display</span>

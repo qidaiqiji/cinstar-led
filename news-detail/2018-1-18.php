@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240814.css">
     <title>LED display accelerates smart city constructions</title>
     <meta name="description" content="Smart city is composed of convenient transportation, considerate public services, advanced urban comprehensive management operating platform and other aspects. In these projects, LED display is playing a critical role to build 'smart city'." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

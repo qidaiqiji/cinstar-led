@@ -124,9 +124,8 @@ ul.unorder-list li {
     width: 100%;
     background: #bc261a;
     box-sizing: border-box;
-    /* padding: 0.4rem 0; */
 }
-.choose-header a, .choose-header a:hover{
+.choose-header a, .choose-header a:hover, .choose-header p{
     color:#fff;
 }
 .choose-header h2::after {
@@ -136,7 +135,6 @@ ul.unorder-list li {
     width: 90%;
     display: flex;
     margin: 0 auto;
-    /* margin-bottom: 0; */
     justify-content: space-between;
     flex-wrap: wrap;
 }

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240814.css">
     <title>Video Wall Display | Cinstar-led, 4K LED Display | LED Video Screen</title>
     <meta name="description" content="Cinstar NL series video wall display provides a superior HD image with high contrast ratio 6000:1, deep blacks and vibrant colours. The test qualified narrow pixel pitch LED is guaranteed that is will be a flawless LED video screen for your TV production." />
     <meta name="keywords" content=" video wall display, narrow pixel pitch LED, LED video screen, conference room LED screen, fine pitch LED video panel, LED screen message board, 2K video wall display" />
