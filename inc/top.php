@@ -43,7 +43,7 @@
                                             <span>LED Screens For Events</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/church-led-screen.php">
-                                            <span>LED Screens For Church</span>
+                                            <span>LED Screen For Church</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/stage-led-screen.php">
                                             <span>LED Stage Screen</span>

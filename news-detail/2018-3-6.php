@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240814.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>LED display leads the market demand on digital signage</title>
     <meta name="description" content="Recent data shows that the growth on digital signage at an annual rate of 18.3% in the coming 3-4 years. Both LCD and LED displays will play a key role on the growth, but research shows that more than half of the demand will be generated from big screen in 2019." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

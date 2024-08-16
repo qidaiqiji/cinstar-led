@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240814.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Infinite potential in led display market</title>
     <meta name="description" content="In recent years, transparent LED display has achieved great technological breakthrough. For example, it enables LEDs integrated to glass which promotes the development of transparent LED display. The market gives high expectation on such creative and innovative LED product thanks to its great transparency, light weight, easy installation, energy saving and environmental protection. It is more like an artistic craft rather than industrial product and will play an irreplaceable role to city beauty decorations." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

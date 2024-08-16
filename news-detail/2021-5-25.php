@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240814.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>The reasons why you need to upgrade your projector & LCD video wall</title>
     <meta name="description" content="Thanks to the breakthrough of encapsulation technology, lower and lower pixel pitches like 1.25mm, 0.9mm and 0.7mm can now be applied to deliver ultra-high resolution to meet the rapidly growing market demand on Micro pitch LED video wall solutions. It is a new era for LED screen industry, but a big challenge to the very traditional display technology, for example the projector and LCD video wall." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

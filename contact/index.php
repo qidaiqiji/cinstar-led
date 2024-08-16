@@ -3,20 +3,17 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/contact-240814.css">
+    <link rel="stylesheet" href="../css/contact-240815.css">
     <title>Contact Us – Cinstar-LED</title>
     <meta name="description" content="Feel free to contact our support team for varied custom queries, help, and feedback. We have a huge responsive support team waiting for you to serve." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier" />
 </head>
 <body class="page-index .menu-open">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="container">
         <div class="contact-box">
-           
             <div class="head-title">
-                <h1>Contact Us</h1>
+                <h2>Contact Us</h2>
             </div>
             <div class="contact-head">
                 <div class="contact-item">
@@ -90,7 +87,6 @@ function Checks()
 }
 </script>
         <?php include('../inc/foot.php'); ?>
-            <!-- 底部结束 -->
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("contact");</script>

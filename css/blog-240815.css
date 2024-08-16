@@ -128,17 +128,14 @@
     
 }
 @media (max-width:1200px){
-    .bg{
-        margin-top: 60px;
-    }
     .blog-item{
         width: 31%;
         max-height: 500px;
     }
 }
 @media (max-width:1024px){
-    .detail-title .title span {
-        font-size: 28px;
+    .detail-title{
+        margin-top: 60px;
     }
     .blog-title h2 {
         font-size: 20px;
@@ -152,8 +149,8 @@
         height: 160px;
     }
     .detail-title .title span {
-        height: 40px;
-        line-height: 40px;
+        height: 44px;
+        line-height: 44px;
     }
     .blog-list{
         justify-content: space-around;
@@ -164,7 +161,7 @@
 }
 @media (max-width:576px){
     .detail-title .title span {
-        font-size: 24px;
+        font-size: 28px;
     }
     .blog-item{
         width: 90%;

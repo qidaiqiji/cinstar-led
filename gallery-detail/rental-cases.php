@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/galleryDetail-240814.css">
+    <link rel="stylesheet" href="../css/galleryDetail-240816.css">
     <title>Indoor LED Wall | Cinstar-led, Indoor Rental LED Display, LED Video Screen</title>
     <meta name="description" content="Cinstar has delivered thousands square meters LED display for live production, corporate event, music festival, awards ceremony and stage rental application. No matter it is high profile show or budget event, you can always find the right product here." />
     <meta name="keywords" content="Indoor LED wall, indoor rental LED display, outdoor rental LED display, fine pitch LED video screen" />
@@ -15,7 +15,7 @@
     <div class="container gallery-container">
        
         <div class="head-title">
-            <h2>RENTAL EVENT CASES</h2>
+            <h2>Rental Event Cases</h2>
         </div>
         <div class="gallery-wrap">
             <div class="gallery-list">
@@ -215,7 +215,7 @@
             htms += `<div class="gallery-item">
                         <div class="gallery-left">
                             <p>${item.line1}</p>
-                            <h3>${item.line2}</h3>
+                            <p>${item.line2}</p>
                             <p>${item.line3}</p>
                         </div>
                         <div class="gallery-img">

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/blog-240814.css">
+    <link rel="stylesheet" href="../css/blog-240815.css">
     <title>Led Technology | Led Academy | Cinstar-Led</title>
     <meta name="description" content="Cinstar LED academy provides high-quality information about led technology and some other tips to readers and consumers of led products and tech lovers" />
     <meta name="keywords" content="LED screen display, LED forum, LED technology, Cinstar-led, LED display screen, LED screen, LED video wall, LED billboard display, rental LED display, commercial LED display, advertising LED display" />
@@ -20,7 +20,7 @@ html, body {
     <div class="container">
         <div class="detail-title bg">
             <div class="title">
-                <span>LED ACADEMY</span>
+                <span>LED Academy</span>
             </div>
         </div>
         <div class="blog-container">

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240814.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Seamless UHD LED home cinema upgrades visual effects</title>
     <meta name="With the tremendous demand and rigorous requirement on high profile digital LED video wall, the fine pitch LED screen display is occupying a critical market position to challenge and beat the dominance of very traditional visual solutions like LCD screen and projectors. What makes the fine pixel pitch LED screen display a rising star is attributed to its unparalleled features as below" />
 </head>

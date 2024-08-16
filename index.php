@@ -19,7 +19,7 @@
     <title>Cinstar-LED.com Your Stunning Visual LED Display Screen for Commercial Outdoor, Indoor and Rental.</title>
     <link rel="stylesheet" href="css/custom-product-240814.css">
     <link rel="stylesheet" href="css/common-home-240814.css">
-    <link rel="stylesheet" href="css/contact-240814.css">
+    <link rel="stylesheet" href="css/contact-240815.css">
     <link rel="stylesheet" href="css/main-240814.css">
 </head>
 <body class="page-index">

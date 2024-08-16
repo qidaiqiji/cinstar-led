@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240814.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Cinstar outdoor curtain screen decorates COOP Arena</title>
     <meta name="description" content="LED display is now the trend of OOH advertising for its seamless splicing, excellent image quality and manageable content comparing to traditional printing advertising. Except the normal wall mounted installation billboard, another kind of LED display is widely used for both OOH advertising and building façade decoration, which is called curtain or mesh screens." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

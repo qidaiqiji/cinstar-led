@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240814.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Innovative transparent LED film screen wall debuts</title>
     <meta name="After months of diligent and trouble shootings, Cinstar team debuted its very innovative transparent LED film screen to bring more possibilities to the industry and create more opportunities and installation scenarios to our clients." />
 </head>

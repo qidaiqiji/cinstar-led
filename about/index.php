@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/about-240814.css">
+    <link rel="stylesheet" href="../css/about-240815.css">
     <title>Dynamic Visual Experiences with Innovative Solutions at Cinstar LED</title>
     <meta name="description" content="Elevate your visual communication and captivate audiences with high-quality, customizable display solutions from Cinstar LED." />
     <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer" />
@@ -80,22 +80,13 @@
             <p>
                 As a customer satisfaction-oriented service provider, Cinstar not only supply quality LED products, but also fast and considerate support. From initial ideas to accomplished projects, Cinstar always stands with customers, listening their thought or suggestion and respond quick to their request or complaint. Cinstar continuously supports customers to enhance product commercial value and achieve business success through strict project management and satisfying after-sale services.
             </p>
-            <p class="desc-title"><b><h3>24/7 Phone Service</h3></b></p>
-            <p>
-                
-Whenever there is new project request, urgent technical support or general quality issue complaint, we can be reached in real time. And we promise to feedback a clear schedule of solution within 24 hours. 
-            </p>
-            <p class="desc-title"><b><h3>Pre-Sales Service</h3></b></p>
-            <p>
-                
-Installation environment investigation and evaluation, solution recommendation and confirmation, customized design if needed, technical drawing of installation frame, product function inspection before delivery etc. 
-            </p>
-            <p class="desc-title"><b><h3>On-Site Service</h3></b></p>
-            <p>
-                
-If needed, our experienced engineers can be assigned to provide professional installation guidance and free on-site technical training. On-site screen calibration, on-site configuration and testing etc.
-            </p>
-            <p class="desc-title"><b><h3>After Sales Service</h3></b></p>
+            <p class="desc-title"><b>24/7 Phone Service</b></p>
+            <p>Whenever there is new project request, urgent technical support or general quality issue complaint, we can be reached in real time. And we promise to feedback a clear schedule of solution within 24 hours. </p>
+            <p class="desc-title"><b>Pre-Sales Service</b></p>
+            <p>Installation environment investigation and evaluation, solution recommendation and confirmation, customized design if needed, technical drawing of installation frame, product function inspection before delivery etc. </p>
+            <p class="desc-title"><b>On-Site Service</b></p>
+            <p>If needed, our experienced engineers can be assigned to provide professional installation guidance and free on-site technical training. On-site screen calibration, on-site configuration and testing etc.</p>
+            <p class="desc-title"><b>After Sales Service</b></p>
             <div class="last">
                 Free maintenance within warranty period. 
                 Charged favorable cost for labor and material, if warranty period expires;

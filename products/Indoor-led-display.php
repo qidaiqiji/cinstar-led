@@ -16,7 +16,7 @@
     <!-- 头部结束 -->
     <div class="new-product-container">
         <!-- 导航开始 -->
-        <div class="product-banner">
+        <div class="product-banner" style="height: 8rem">
             <img src="../images/products/new-page/Indoor-led-display/indoor-led-display-1.jpg" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
