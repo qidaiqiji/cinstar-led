@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Cinstar Stadium LED Screen with High-Performance LED Displays for Immersive Sporting Experiences at Cinstar-LED.com</title>
     <meta name="description" content="Elevate the stadium experience with Cinstar LED's state-of-the-art Stadium LED Screens. Immerse your audience in stunning visuals and captivating displays." />
@@ -19,7 +19,7 @@
             <div class="text-cover">
                 <h1>Stadium LED Display</h1>
                 <span>Perimeter Stadium LED Displays Lighten Sports Arena</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spce-container">

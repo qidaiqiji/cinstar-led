@@ -475,14 +475,20 @@ table .thead{
         height: 50px;
         line-height: 50px;
     }
+    .sub-title span {
+        font-size: 34px;
+    }
+    .sub-title span::after {
+        top: 50px;
+    }
 }
 @media (max-width: 1024px){
     .detail-title  {
         margin-top: 60px;
     }
-    .detail-title .title span {
+    /* .detail-title .title span {
         font-size: 28px;
-    }
+    } */
     .detail-title .top-title {
         font-size: 22px;
     }
@@ -492,14 +498,8 @@ table .thead{
     .product-desc .right-desc .title{
         margin-bottom: 0;
     }
-    .sub-title span {
-        font-size: 34px;
-    }
     .img-wrap .caseItem{
         height: auto;
-    }
-    .sub-title span::after {
-        top: 50px;
     }
 }
 @media (max-width: 992px){
@@ -630,7 +630,7 @@ table .thead{
     }
     .half{
         width:100%;
-        height: 100%
+        height: 100%;
     }
     .topContainer .topImg{
         width: 78%;
@@ -638,6 +638,9 @@ table .thead{
     .img-part{
         width: 80%;
         order: 1;
+    }
+    .img-big .img-part{
+        width: 100%;
     }
     .mobile-hide{
         display: none;
@@ -671,9 +674,6 @@ table .thead{
     }
     .ft-series .desc-part p{
         line-height: 24px;
-    }
-    .product-box{
-        margin-top: 40px;
     }
     .icon-desc{
         font-size: 14px;

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>3 Tips to Build Your High-Value Added Digital LED Billboard</title>
     <meta name="description" content="3 Tips to Build Your High-Value Added Digital LED Billboard.Digitalized advertising is now becoming an irresistible trend in the high developed advertising industry, which keeps challenging and squeezing the market share of traditional print billboard advertising." />

@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/messageBox-240814.css">
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/new-product-240817.css">
     <title>LED Screen for Church - Church LED Screen Display & Video Wall </title>
     <meta name="description" content="Top quality LED display screen for church, clear image and multiple installations! Contact us for best church LED video wall screen solutions!" />
     <meta name="keywords" content="LED screen for church, LED display for church, church LED screen, church LED video wall, church LED display, LED church screen, rental LED display screen, LED video wall display" />  
@@ -22,7 +22,7 @@
             <div class="text-cover">
                 <h1>LED Screen for Church</h1>
                 <span>The Best Church LED Screen Solutions For House of Worship</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container" style="background: #fff">
@@ -50,7 +50,7 @@
                             <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
                         </div>
                         <p>Church LED poster screen is highly versatile, featuring easy mobility with two wheels beneath the stand. It is exceptionally slim and elegant in design. The item can be affixed to a wall, positioned upright, suspended, or organized in imaginative manners. Multiple devices can be interconnected to create a sizable LED video wall display without gaps, which can be easily assembled and disassembled by a single person within one minute. It is ideal for church stage performances, where the church LED screen can serve as a backdrop to enhance the atmosphere and provide various installation options and dynamic arrangements.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/fl-series.php"><img src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
@@ -59,7 +59,7 @@
                             <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>
                         </div>
                         <p>When it comes to the creation of astonishing visual effects and dramatic visuals, flexible church LED screens are the most dynamic and creative solutions. The ability to be molded into any form and curved allows for the creation of a display that is nearly seamless, with genuine aesthetics in line with the architectural style of the church. This helps to elevate the atmosphere and enhance the solemnity of the church. With its high brightness, contrast ratio, and refresh rate, the flexible church LED screen guarantees the best color reproduction in images that are crystal clear and vibrant, providing your congregation with an engaging and captivating experience.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.jpg" /></a>
@@ -68,7 +68,7 @@
                             <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>
                         </div>
                         <p>In order to provide your congregation with worship experiences that are visually impactful, the Cinstar church LED screen is the best solution for your church application. This product provides a display that is fully seamless, making it suitable for any use, from small-scale church events to big congregations that can number in the hundreds. In addition to having a high gray scale, refresh rate, and contrast ratio, it also has exceptional visual quality, which enables it to offer images that are crisp and clear, allowing you to communicate with each and every attendee. Cinstar church LED screen is for sure the most preferrable video solution to upgrade your church to the next level. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 90%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
@@ -77,7 +77,7 @@
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>Front service LED video wall display is widely applied in church installations. Cinstar front service church LED screen is quite convenient to utilize even in compact environments such as stages, concerts, pubs, residences, and similar venues. In addition, it is also utilized in various other locations such as meeting room, hotel, club, showroom, restaurant, and numerous others. The LED panel can be easily reached from the front due to the front servicable church LED video wall design, which is particularly beneficial for sites with limited room for maintenance. This design also enhances the process of installing and dismantling the screen, hence potentially enhancing efficiency.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
@@ -86,7 +86,7 @@
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>To some very high end occasions, the direct view LED is also applied to deliver top class image quality. With a pixel pitch range that extends from 0.7mm to 2.5mm, Cinstar direct view LED church display is able to accommodate a broad variety of image quality levels, making it suitable for a variety of churches and event productions. Cinstar direct view LED church screen that can be installed against the wall and features front installation and front maintenance can significantly reduce the space required for the installation process. The breathtaking image quality of our direct view LED church screen can allow you show images and videos with more details and better imgae contrast.  </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/x-series.php"><img style="width: 90%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
@@ -95,7 +95,7 @@
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Applying Cinstar outdoor LED screen for church, you can make your content visible in any weathers, making it an ideal choice for outdoor worship or even for a fairground event. With IP65 rating, it is able to withstand the infiltration of water and dust, ensuring that it is very reliable and suited for use in tough settings. Besides, its high brightness can be adjusted automatically, which enables it to display images that are crisp and clear even when exposed to sunlight. A digital LED sign placed along the roadside or a church LED screen installed at the front of your church can inform those who are passing by about the services that are being held, which may encourage them to become new members.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -112,9 +112,9 @@
                             <div class="title">
                             Better Visibility
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             During church events, the church LED video wall can be utilized to display a variety of pictures connected to the sermon topics, including song lyrics, prayers, messages, and other illustrations. This makes it simpler for the members of your congregation to keep up with what is going on during the services and allows them to participate more actively in the worship experience.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -125,9 +125,9 @@
                             <div class="title">
                                 More Possibilities
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Your church or synagogue will attract a greater number of visitors with the help of Cinstar church LED video wall screen, and will leave a more enduring impression on them that will remain with them for the rest of their lives. Additionally, the visuals will assist you in connecting with younger generations that are accustomed to different forms of digital communication.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -138,9 +138,9 @@
                             <div class="title half-title">
                             Cost Effectiveness
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar LED church screens have a high life expectancy of more than 100,000 hours, which can result in significant cost savings and make it very cost effective in its whole lifespan. Our LED screens for churches are all equipped with smart control, making it extremely simple to manage remotely by using the applications on your mobile device, personal computer, or laptop.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -151,9 +151,9 @@
                             <div class="title">
                             Customization Available
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Customization is possible with Cinstar LED display for church to upgrade your house of worship. By customizing the church LED screen to meet the budget, you can decide the dimensions, shape, and resolution etc. Cinstar LED screen for church provides you with everything to design and implement unique LED video displays for your synagogue or church.
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -170,11 +170,11 @@
                         <p>By adopting the LED screen for church, you may add photos, phrases, and videos to bring each image, song, scripture, and sermon to life and get all members more engaged.</p>
                         <p>Using these multimedia system, the church may build a remarkable church LED screen that draws people in and helps them grow in their faith. </p>
                         <p>A variety of indoor LED display screens are available from Cinstar LED. In addition, we have a suite of fully developed solutions that can cater to all of your needs.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img style="width: 100%;"  src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" /></div>
+                    <div class="application-img-spec"><img  src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Church LED Stage Screen</h3>
                         <p>The ease of installation and maintenance, along with the excellent quality of visual performance, are the noteworthy features of an LED stage screen.</p>
@@ -182,7 +182,7 @@
                         <p>Modular design allows for easy assembly and disassembly, which can save you time, money, and effort during installation and maintenance.</p>
                         <p>
                         Cinstar church LED screens are easily transportable and can be dismantled for use in various settings, making them ideal for church outreach, community events, and more.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
@@ -194,7 +194,7 @@
                         <p>(1) Greet guests with warmth and hospitality;</p>
                         <p>(2) Deliver vital announcements to the congregation; </p>
                         <p>(3) Inspire active engagement in events</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
@@ -204,7 +204,7 @@
                         <p>Churches can use the outdoor advertising LED display screens as LED signs both inside and outside of the church building</p>
                         <p>Welcome messages, worship times, critical information, scripture references, and other relevant content can all be shown on the LED display for church.</p>
                         <p>Outdoor LED screens for churches have a high protection level, so they can withstand various weather conditions. The outdoor church LED screen is bright, so it can be seen clearly even in direct sunshine and is possible to have a full color display.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>

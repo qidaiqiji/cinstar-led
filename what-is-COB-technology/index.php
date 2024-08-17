@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>What is COB Encapsulation Technology?</title>
     <meta name="description" content="What is COB Encapsulation Technology.COB stands for Chip on Board, is a new encapsulation technology which encapsulates LED chip (rather than LED lamp) directly to PCB board." />

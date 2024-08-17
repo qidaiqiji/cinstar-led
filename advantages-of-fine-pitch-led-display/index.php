@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Advantages of Fine Pitch LED Display</title>
     <meta name="description" content="In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED display got a big increase on the market share and has been widely used for high profile and high end applications for its <a href="../">ultra-high resolution and stunning image performance</a>. Although much higher cost than other kind of video equipment like projector and LCD video wall, it is still favored by the market" />

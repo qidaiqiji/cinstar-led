@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>5 Tips to Extend Lifespan of Your Advertising LED Billboard</title>
     <meta name="description" content="5 Tips to Extend Lifespan of Your Advertising LED Billboard,As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to deliver excellent visual impact" />

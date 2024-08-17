@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>How to Eliminate Moiré Effect on LED Display?</title>
     <meta name="description" content="When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the LED display screen." />

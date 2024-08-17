@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>The Key Applications and Advantages of Outdoor LED Display</title>
     <meta name="description" content="With the development of digital technology and market preference, the types of outdoor advertising have shown a diversified trend. When we look around the city" />

@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Outdoor LED Display Screen for Bright, Vibrant, & Impactful Visual Solutions</title>
     <meta name="description" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />
@@ -19,7 +19,7 @@
             <div class="text-cover">
                 <h1>Commercial LED Display</h1>
                 <span>Indoor & Outdoor LED Advertising Board Display</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spce-container">

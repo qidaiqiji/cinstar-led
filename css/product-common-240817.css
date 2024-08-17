@@ -41,6 +41,7 @@
     margin-top: 0.13rem;
     font-weight: bold;
     font-size: 0.25rem;
+    color: #fff;
 }
 /* 新样式 */
 .spce-container {
@@ -190,10 +191,10 @@
 @media (max-width: 991px){
     .spce-container {
         margin-top: 0;
-        margin-bottom: 0;
+        margin-bottom: 40px;
     }
     .new-product-container .product-banner {
-        height: 3rem;
+        height: 2.7rem!important;
     }
     .new-product-container .product-banner .text-cover h1 {
         font-size: 0.26rem;
@@ -216,12 +217,6 @@
     }
     .new-product-container .spec-content p {
         font-size: 16px;
-    }
-    /* .new-product-container .spec-content h2 {
-        font-size: 0.26rem;
-    } */
-    .new-product-container .border-button {
-        font-size: 14px;
     }
     .new-product-container .border-button {
         width: auto;

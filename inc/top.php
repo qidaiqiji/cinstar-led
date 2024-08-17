@@ -159,7 +159,8 @@
             </div>
             <!-- mobile header开始 -->
             <div class="mobile-header" id="mobile-header">
-                <span class="iconfont">&#xe660;</span>
+                <span class="iconfont menu">&#xe660;</span>
+                <span class="fa fa-close"></span>
             </div>
             <!-- mobile header 结束 -->
         </div>

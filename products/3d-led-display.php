@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/messageBox-240814.css">
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/new-product-240817.css">
     <title>3D LED Display Screen & Video Wall - 3D LED Billboard Advertising</title>
     <meta name="description" content="3D LED display screen provides dynamic visual enjoyment 3D effect. Try out our 3D LED video wall billboard for immersive naked eye 3D advertising." />
     <meta name="keywords" content="3D led display, 3D led screen, 3D led display screen, 3D led billboard, 3D led video wall, 3D led wall, 3D led sign, 3D led signboard, 3D led signage, 3D led advertising" />  
@@ -22,7 +22,7 @@
             <div class="text-cover">
                 <h1>3D LED Display</h1>
                 <span>Outdoor Naked Eye 3D LED Screen Advertising</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
@@ -47,7 +47,7 @@
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Outdoor 3D LED billboard is now playing a vital role for outdoor advertising campaigns due to its vivid and dynamic image performance. It can greatly attract the attentions of viewers to the giant 3D LED display billboard. Cinstar outdoor 3D LED billboard can achieve naked eye 3D effect by customizing the cabinet to right angle or smooth curve. A 3D LED display billboard can get more exposure for brands and products than normal LED billboard.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
@@ -56,7 +56,7 @@
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>Indoor 3D LED display billboard occupies a crucial position for the advertising in shopping malls and retail stores. With customized 3D effect image/video contents, the LED billboard can promote the brand or product in a more vibrant way. Featuring ultra-light weight and seamless 90 degree connection, Cinstar indoor 3D LED screen billboard is widely applied to deliver visual appealing advertisement. If you want to make your advertising campaigns stand out, try Cinstar 3D LED displays!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%;" src="../images/home/MC SERIES.jpg" /></a>
@@ -65,7 +65,7 @@
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
                         </div>
                         <p>Cinstar curtain outdoor 3D LED display billboard boasts an impressive lifespan of 100,000 hours and offers an expansive 2-year warranty service. We have developed the best 3D LED display billboard that boasts high-quality LED screen features and offers a wide range of pixels. Cinstar 3D LED screen is suitable for many applications, such as shopping malls, commercial street and office buildings. Choose Cinstar for your best 3D LED screen manufacturer!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -82,9 +82,9 @@
                             <div class="title">
                             All Weather Operation
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Featuring IP65 rating, Cinstar 3D LED video wall is designed to withstand various weather conditions. Our 3D LED screen features waterproofing, dustproofing, and anti-corrosion capabilities, allowing it to endure all kinds of weathers such as storm, rain, snow etc., refrain from experiencing any degradation. 
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -95,9 +95,9 @@
                             <div class="title">
                             Wide Viewing Angle
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             3D LED displays offer improved viewing ranges, covering both the angle and distance from which 3D content can be easily viewed.  Cinstar 3D LED video wall offers a wide viewing angle of up to 178 degrees Celsius, enhancing the viewing experience for potential customers and passersby. It helps to optimize your ROI.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -108,9 +108,9 @@
                             <div class="title half-title">
                             Visual Enjoyment
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             We manufacture 3D LED screens that have a significant impact on our daily lives, particularly in relation to video content, which is an important factor to take into consideration. We showcased visually appealing content that offers a distinctive LED viewing experience. A quality 3D LED display can bring you an excellent visual enjoyment.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -121,9 +121,9 @@
                             <div class="title">
                             Value-Added Solutions
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar specializes in the manufacturing of 3D LED displays, which are expected to have significant economic potential in the future. The larger dimensions and pixel density of our 3D LED display screen enhance the realistic quality of the visuals. Cinstar 3D LED screen display helps to achieve an authentic appearance while boosting your business. 
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -141,9 +141,9 @@
                 <p>3D LED Displays have become increasingly popular as advertising platforms, both in the present and for the foreseeable future. It represents the pinnacle of visual communication and is aesthetically appealing to the public. 3D LED display screen frequently serves to communicate the brand's message to customers, establishing a public space that embraces technology and prioritizes aesthetics.</p>
             </div>
         </div>
-        <div class="spec-content">
+        <div class="spec-content choose-content" style="background: #fff">
             <div class="content">
-                <div class="img-box" style="display: flex;justify-content: center; margin-bottom: 60px">
+                <div class="img-box" style="display: flex;justify-content: center">
                     <img style="width: 70%" src="../images/products/new-page/3d-led-display/3d-led-display-4.jpg" />
                 </div>
                 <p>For years, Cinstar 3D LED displays have been a popular choice for both workspace and commercial use. It excels in performance, which is why it is widely used, particularly in the advertising industry. We have developed a cutting-edge 3D LED billboard, representing the forefront of technological advancements.</p>
@@ -158,7 +158,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>

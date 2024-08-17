@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/new-product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Indoor LED Display Screen & Video Wall - Indoor LED Advertising & Rental </title>
     <meta name="description" content="Indoor LED display screens are the most preferred video wall solutions for both indoor advertising and rental activities. Try out Cinstar LED display screens for your projects!" />
@@ -22,7 +22,7 @@
             <div class="text-cover">
                 <h1>Indoor LED Display</h1>
                 <span>The Most Cost Effective Indoor LED Display Screen</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
@@ -44,7 +44,7 @@
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
                         </div>
                         <p>Rental indoor LED display plays a vital role in AV industry by delivering large format images without any gaps. With features of light weight, modular and curveable design, Cinstar rental indoor LED video wall can be built to get any flat or creative set-ups and with no limit on the screen size, which makes it an ideal video equipment for any kind of rental events and stage settings. Wanna have a top quality indoor rental LED screen for your events? Try out Cinstar LED display solutions!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
@@ -53,7 +53,7 @@
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>Featuring front install and front service, Cinstar indoor LED displays can be directly wall mounted for easy installation and maintenance. Which makes it the best choice for advertising in shopping malls, retail shops and chain stores. Besides, indoor LED screen is used to display advertisements and deliver messages and information in transportation hub like airport, train station and bus station etc. Cinstar offers the most cost effective indoor LED displays for your business.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
@@ -62,7 +62,7 @@
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct View LED video wall display is the current most favored digital board for applications in control room, conference room, TV studio and board room etc, to deliver the most impactful visual effect. Ultra-slim panel and seamless connection enable the direct view LED video wall the best choice for large format wall mounted LED TV displays which can be served as home cinema or corporate show room. Cinstar direct view LED wall is with assured quality but very cost effective!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 60%;" src="../images/products/Creative-LED/tf-1-1.jpg" /></a>
@@ -71,7 +71,7 @@
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>
                         </div>
                         <p>Indoor LED film screen is an innovative solution designed to meet the indoor advertising LED signage requirements. Cinstar indoor LED film screen is characterized by its ultra-thin design, flexibility in sizes, and self-adhesive tiles. It is effortless to install and can be customized to fulfill your specific needs. With its wide pitches and customizable display design, this solution is ideal for various application scenarios, including retail advertising, trade shows, and exhibits.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/v-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
@@ -80,7 +80,7 @@
                             <a class="title-border-button" href="../product-detail/v-series.php">V Series Product</a>
                         </div>
                         <p>As a key application of indoor LED video walls, the fine pitch LED screen is playing a vital role in UHD industry and is increasingly challenging the dominant position of traditional LCD display signage. Cinstar fine pitch indoor LED screen is versatile to be built as seamless LED video wall, All-in-one LED wall and LED digital poster etc, creating more business possibilities for our customers. If you are looking for a reliable fine pitch LED display manufacturer, contact us now!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/fl-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
@@ -89,7 +89,7 @@
                             <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>
                         </div>
                         <p>A flexible indoor LED display can eliminate the panel's limitations, allowing architects and designers to implement their creative designs in steel structures that better suit their vision. For captivating advertising purposes, Cinstar flexible indoor LED display can be adopted extensively to build ultra-smooth cylinder LED screens in transportation hubs and retail centers. With boost in traffic and 360 degree advertising, its commercial value will increase dramatically.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>
@@ -117,9 +117,9 @@
                             <div class="title">
                             High Resolution Display
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             The indoor LED video wall can offer wide pixel pitch selection from P0.7 to P4 for any applications and requirements. Cinstar indoor LED display screens are clear and bright, which can increase the visibility of the advertisement and any images on it, attracting more engaging potential customers for the brand promotion activities. 
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -130,9 +130,9 @@
                             <div class="title">
                             Quick & Easy Installation 
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar indoor LED video wall supports both front and rear service, which makes the installation extremely easy to be performed. The slim and light weight design of Cinstar indoor LED display screen can greatly save the cost on steel structures and labors. A quality LED display solution will bring you more business and enhance your reputation.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -143,9 +143,9 @@
                             <div class="title half-title">
                             High Reliability
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Designed with quality materials and advanced manufacturing process, Cinstar indoor LED display screens are highly guaranteed with 24/7 uninterrupted operation, excellent high stability and reliability and the best image production. Cinstar indoor LED video walls can be used for at least 5-10 years and which will greatly optimize your ROI
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -156,9 +156,9 @@
                             <div class="title">
                             Customizable Solutions
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar indoor LED display screen solutions can be customized to meet the requirement of any project, no matter what the size or shape of the display you desire. A customized indoor LED display screen solution can strengthen your competitiveness and earn you more opportunities to win projects. Cinstar is cooperative to help grow your business!
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>

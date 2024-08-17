@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240814.css">
+    <link rel="stylesheet" href="../css/product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>What to be Considered Before and After Purchasing Outdoor LED Display</title>
     <meta name="description" content="In recent years, with the rapid development of LED technology，LED display has been widely recognized as the most preferred media channel by various industries. When comes to the installation environment, which can be divided into indoor and outdoor categories. Due to the particularity of different applications, how to choose the right LED product and perform normative installation and maintenance have become some kind of knowledge that LED display owners are supposed to master" />

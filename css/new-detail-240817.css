@@ -6,6 +6,20 @@ p {
 img {
     width: 100%;
 }
+.detail-title{
+    width: 100%;
+    background: #000;
+    font-size: .4rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    height: 3rem;
+    color:#fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .bg{
     background-repeat:no-repeat;
     background-position: center;
@@ -16,8 +30,35 @@ img {
     background-position: center;
     background-image: url(../images/bgs/ec-bg.jpg);
 }
+
+.detail-title .title span{
+    display: inline-block;
+    font-size: .425rem;
+    font-weight: bold;
+    height: .95rem;
+    line-height: .95rem;
+    position: relative;
+}
+.detail-title .title span::after{
+    content: "";
+    display: block;
+    width: 70%;
+    height: 1px;
+    background: #fff;
+    position: absolute;
+    left: 50%;
+    margin-left: -35%;
+    bottom: -1px;
+}
+.detail-title .top-title{
+    font-size: .35rem;
+    height: .625rem;
+    line-height: .625rem;
+    margin-top: .25rem;
+}
 .new-detail-title {
     padding: 0;
+    font-size: .5rem;
 }
 .new-detail-title .title {
     position: absolute;
@@ -27,18 +68,10 @@ img {
     bottom: 0;
     background: rgba(0, 0, 0, 0.6);
 }
-.top-title{
-    font-size: 0.24rem;
-    height: 0.4rem;
-    line-height: 0.4rem;
-    padding: 0.2rem 0;
-    
-}
 .detail-section {
     width: 75%;
-    margin: 0 auto;
+    margin: 50px auto;
     display: flex;
-    margin-bottom: 50px;
 }
 .brief {
     display: flex;
@@ -186,15 +219,15 @@ img {
     width: 60%;
     margin: 0 auto;
     margin-bottom: 80px;
+    color: #fff;
 }
 .text-content .new-detail-title {
-    color: #fff;
-    font-size: .5rem;
+    /* color: #fff; */
     padding: .625rem 0;
     text-align: center;
 }
 .text-content p {
-    color: #fff;
+    /* color: #fff; */
 }
 .product-new-detail .detail .content1 {
     margin-top: 2.25rem;
@@ -208,11 +241,7 @@ img {
     color: #fff;
     text-align: left;
     background: none;
-    font-size: .5rem;
     padding-bottom: .25rem;
-}
-.detail-content p {
-    line-height: 1.5;
 }
 .videoContainer{
     width: 100%;
@@ -292,6 +321,12 @@ table .thead{
     margin-top:0.6rem;
 }
 @media (max-width: 1500px) {
+    .detail-title .title span {
+        font-size: 34px;
+    }
+    .detail-title .top-title {
+        font-size: 28px;
+    }
     p {
         font-size: 18px;
     }
@@ -301,8 +336,8 @@ table .thead{
     .instruction h3 {
         font-size: 22px;
     }
-    .text-content .new-detail-title, .instruction h2 {
-        font-size: 40px;
+    .new-detail-title, .instruction h2 {
+        font-size: 38px;
     }
     .sub-title span {
         font-size: 34px;
@@ -311,7 +346,13 @@ table .thead{
         top: 50px;
     }
 }
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
+    .detail-title  {
+        margin-top: 60px;
+    }
+    .detail-title .top-title {
+        font-size: 22px;
+    }
     .brief {
         flex-direction: column;
         align-items: center;
@@ -320,7 +361,6 @@ table .thead{
         width: 80%;
         margin-top: 0.5rem;
     }
-    
     .product-new-detail .detail .detail-cover {
         display: none;
     }
@@ -329,14 +369,25 @@ table .thead{
     }
 }
 @media (max-width: 992px) {
-    .text-content .new-detail-title, .instruction h2 {
-        font-size: 0.3rem;
+    .instruction h2 {
+        font-size: 32px;;
     }
-    .text-content .new-detail-title {
-        padding: 0.35rem 0;
+    .detail-title {
+        height: 160px;
+    }
+    .detail-title .top-title {
+        margin-top: 0;
+    }
+    .detail-title .title span {
+        height: 40px;
+        line-height: 40px;
     }
     .text-content {
-        margin-bottom: 0.35rem;
+        margin-bottom: 40px;
+        width: 80%;
+    }
+    .text-content .new-detail-title {
+        padding: 40px 0;
     }
 }
 @media (max-width: 768px){
@@ -353,5 +404,29 @@ table .thead{
     }
     .table-detail {
         display: none;
+    }
+}
+@media (max-width: 576px){
+    .new-detail-title, .instruction h2 {
+        font-size: 26px;
+    }
+    .text-content .new-detail-title {
+        padding: 20px 0;
+    }
+    .detail-title .title span {
+        font-size: 24px;
+    }
+    .detail-title .top-title {
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    .detail-section, .brief {
+        width: 100%;
+    }
+    .img-box {
+        margin-right: 0;
+    }
+    .sub-title span{
+        font-size: 28px;
     }
 }

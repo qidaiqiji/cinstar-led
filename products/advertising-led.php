@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/new-product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>LED Advertising Screen Display & Video Board - Cinstar LED</title>
     <meta name="description" content="Cinstar offers the most cost effective and quality assured LED advertising screen display for both indoor and outdoor advertising venues." />
@@ -19,7 +19,7 @@
             <div class="text-cover">
                 <h1>LED Advertising Display</h1>
                 <span>Best Performance LED Advertising Screen Delight Your DOOH</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
@@ -41,7 +41,7 @@
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>The direct view LED advertising display is constructed using a high-precision die-cast aluminum frame and highlights an exceptionally compact and lightweight design. The LED cabinet is only 4.8kg and 30mm in thickness. Significantly lighter than conventional LED cabinets. This direct view LED advertising screen is extensively utilized in conference rooms, meeting rooms, TV studios, and home cinemas to provide a magnificent visual experience. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
@@ -50,7 +50,7 @@
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>The indoor advertising LED display applies top quality die-cast aluminum and an ultra-thin frame to ensure a lightweight design. The LED  cabinet can be customized to accommodate different sizes in order to fulfill all dimension requirements. The Cinstar indoor advertising LED screens are designed with front install and front service capabilities, making them well-suited for a range of settings including airports, shopping malls, retail stores, show rooms and exhibition centers etc.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
@@ -59,7 +59,7 @@
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Outdoor LED billboards are constructed with outstanding resistance and superior durability. The Cinstar outdoor advertising LED display screen guarantees enhanced stability during installation, ensuring safety and facilitating easy maintenance. This outdoor LED advertising screen could be developed as both a flat LED billboard and a curved 3D LED display. These LED advertising screens efficiently showcase your brand and adverts in a visually captivating manner.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 80%;" src="../images/home/FT SERIES.jpg" /></a>
@@ -68,7 +68,7 @@
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
                         </div>
                         <p>Digital advertising LED video screens feature sleek industrial designs and deliver dependable operation. Cinstar outdoor commercial advertising LED screens are designed with high resolution, ultra-wide viewing angle, optimized  reliability, and high contrast to ensure the viewing experience of top-quality images and videos. These advertising outdoor LED display screens offer a range of dimensions to fit any specific location, granting your business with more opportunities. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 40%;" src="../images/home/MC SERIES.jpg" /></a>
@@ -77,7 +77,7 @@
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
                         </div>
                         <p>The Curtain LED advertising display is known for its ultra slim and lightweight panel, making it incredibly easy to install and maintain. This not only saves on installation costs but also ensures a hassle-free experience. Due to its impressive features, it has become a popular choice for large-scale stage events and building facade LED advertising. Cinstar Curtain LED advertising screen provides the ideal solution for your advertising needs, offering high-quality and affordable products. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 74%;" src="../images/products/Creative-LED/tf-1-1.jpg" /></a>
@@ -86,7 +86,7 @@
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>
                         </div>
                         <p>YThe transparent LED advertising screen is a superior substitute for traditional static outdoor billboards, enhancing the effectiveness of your advertising. Cinstar transparent LED advertising display is featured by superb transparency and high stability with IP65 rating. It is designed with high brightness 5000nits, guaranteeing enhanced visibility and display quality. By using our LED advertising board, you can effectively display your advertisements in a more dynamic manner. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -103,9 +103,9 @@
                             <div class="title">
                             Optimized Cost
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             The LED screen for advertising can be easily installed by deploying modular LED panels. All the items could be quickly assembled and disassembled. That implies that it is simple to replace the damaged components without having to dismantle the entire screen. Such versatile LED display for advertising contributes in reducing both labor expenses and time consumption effectively.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -116,9 +116,9 @@
                             <div class="title">
                             Top Durability
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar delivers robust and long-lasting commercial LED screens. The finished LED advertising displays were built from durable steel structures, in contrast to the conventional LED displays that utilize fragile substances prone to easy damage. Cinstar offers extremely durable commercial LED displays for advertising purposes, catering to the needs of all our customers.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -129,9 +129,9 @@
                             <div class="title half-title">
                             Vibrant Effect
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Having a vibrant LED advertising screen display is crucial, particularly when promoting your business or brands. Cinstar enhances them with captivating videos and image displays, allowing the advertising LED display to showcase lifelike visual effects. With these striking effects, the passer-bys are immediately captivated and compelled to watch the dynamic outdoor advertising LED displays.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -142,9 +142,9 @@
                             <div class="title">
                             Assured Stability
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar guarantees that LED advertising screens will remain stable no matter where they are set up.  This is a very important factor to keep in mind while mounting commercial advertising LED displays. In any case, the fallen parts pose a serious threat. Additionally, all our LED advertising display screens are engineered to withstand extreme conditions of both temperature and weather.
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -157,7 +157,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>

@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240814.css">
-    <link rel="stylesheet" href="../css/new-product-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240817.css">
+    <link rel="stylesheet" href="../css/new-product-240817.css">
     <link rel="stylesheet" href="../css/messageBox-240814.css">
     <title>Digital LED Billboard - Outdoor LED Display Billboard Advertising</title>
     <meta name="description" content="Cinstar's outdoor digital LED display billboard solutions can deliver the most eye-catching visuals to promote brand and help boost your advertising business." />
@@ -22,7 +22,7 @@
             <div class="text-cover">
                 <h1>Digital LED Billboard</h1>
                 <span>The Most Reliable LED Display Billboard For Advertising </span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
@@ -45,7 +45,7 @@
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Outdoor digital LED billboards serve as an effective means of establishing a connection between individuals and a particular brand. Cinstar outdoor digital LED Billboard is user-friendly and constructed of top quality and durable materials. These characteristics enable it ideal for harsh climatic circumstances, like rainfall, high temperatures, dust, and other similar conditions. Feel free to reach out to us for a favorable outdoor LED digital billboard solution!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
@@ -54,7 +54,7 @@
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>Cinstar indoor LED billboard advertising has the capability to display vibrant and appealing advertisements continuously without any interruptions. You can place a giant LED billboard in locations where they are very visible and unlikely to be overlooked by passersby. By adopting this strategy, your marketing becomes more seamless in establishing connections and imposing influence on your target market.  Request a fast quotation immediately!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 40%" src="../images/home/MC SERIES.jpg" /></a>
@@ -63,7 +63,7 @@
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
                         </div>
                         <p>Discover a different approach to your out-of-home advertising with Cinstar. Our curtain LED display billboards incorporate the latest technology, allowing you to enjoy an immersive digital LED billboard with excellent transparency, lightweight design, and cost-effective advantages. Our company specializes in providing outdoor curtain LED display billboards that can be customized to meet the specific needs of your projects. Contact us immediately!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
@@ -72,7 +72,7 @@
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct view LED digital billboard is widely used in a lot of installation scenarios like conference room, meeting room, board room, TV studio, corporate showroom and home cinema etc, to deliver top image quality. Direct view LED display billboard can easily achieve 2K, 4K even 8K with a very limited display size. If you are looking for a high profile and cost effective direct view LED digital billboard display for your business, Cinstar would be your first choice.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%" src="../images/home/FT SERIES.jpg" /></a>
@@ -81,7 +81,7 @@
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
                         </div>
                         <p>Outdoor LED billboard advertising display is the most popular and cost effective channel for DOOH advertising campaigns, due to its top stability, excellent image performance and extraordinary operation lifespan. Placing an outdoor LED digital billboard at any of the high traffic location, it can easily cover very wide range of audiences and ultimately boost the brand influence and in return create more commercial value and maximize your return on the investment. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/ts-series.php"><img style="width: 50%" src="../images/home/TS Series.jpg" /></a>
@@ -90,7 +90,7 @@
                             <a class="title-border-button" href="../product-detail/ts-series.php">TS Series Product</a>
                         </div>
                         <p>Transparent LED display billboard is for sure the most eye catching advertising device for shopping mall and retail store advertising. Featuring top transparency, ultra-light and slim panel and high brightness, transparent LED display billboard can turn your glass wall into an impressive advertising screen which can maintain the vivid advertisement and don't block the sunlight and sight see through. Contact us now for a custom transparent LED display billboard for your advertising. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -102,7 +102,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>
@@ -118,9 +118,9 @@
                             <div class="title">
                             Top Reliability
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar digital LED billboards have passed a series of stringent tests to ensure their durability and performance. These tests include thermal shock tests, salt spray and corrosion tests, UV resistance tests, and more. Outdoor LED billboards are designed with a high level of durability and are specifically made to withstand outdoor weather conditions.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -131,9 +131,9 @@
                             <div class="title">
                             High Brightness
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             The digital LED billboard manufactured by Cinstar boasts an impressive brightness range of 1000-7,000 nits for all types of indoor and outdoor advertising. Cinstar outdoor LED billboards stand out from competitors by offering a highly cost-effective solution that delivers dynamic content visible from any angle, day or night.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -144,9 +144,9 @@
                             <div class="title half-title">
                             Easy to Install
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar digital LED billboards are meticulously developed by a team of talented technicians, implementing exceptional craftsmanship to provide a swift, effortless, and flawless installation process. Our LED display billboards have the potential to significantly save your expenses on frames and help you keep your profit margin.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -157,9 +157,9 @@
                             <div class="title">
                             Tailored Solutions
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             We recognize the significance of your advertising intentions and the well-chosen installation locations. With broad selection of LED display products, we can supply LED billboards that could be tailored to meet your specific requirements. Whether it's the dimension, pixel pitch, or design, we can always exceed your expectations.
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -169,41 +169,41 @@
             <div class="content application-list">
                 <h2>Why Choose Cinstar Outdoor LED Billboard</h2>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Cost Effective Digital LED Billboard</h3>
                         <p>Cinstar LED billboards offer a highly favorable return on investment. Indeed, they maintain a tremendously extended existence. Instead of implementing conventional painting techniques for LED billboards, you may go for cutting-edge technology to ensure that your advertisements remain vivid, easily seen, and durable throughout time.</p>
                         <p>
                         Cinstar specializes in manufacturing custom outdoor LED billboards that meet your specific project requirements. We collaborate with skilled engineers to produce visually appealing displays that are certain to capture people's attention and increase audience engagement.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-3.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">LED Digital Signage Billboard </h3>
                         <p>Cinstar specializes in manufacturing digital signage systems for all types of LED digital billboards. These displays are capable of playing intriguing content and performing concurrent tasks efficiently.</p>
                         <p><b>Billboard advertising management</b> - Your mobile phone, or any other digital device, gives you the flexibility to manage the effectiveness of your ads on LED display billboard whenever you want. Additionally, you can monitor the live advertisements displayed on the screen to maximize your marketing effectiveness.</p>
                         <p><b>Streaming content displaying</b> - Applying streaming video channels from platforms like YouTube can be a valuable tool for incorporating visually captivating material. It is possible to create a content collection that can be interchanged with advertisements. Therefore, your content will possess a greater influence, amplifying its effectiveness than conventional LED signs.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-4.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-4.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Affordable Outdoor LED Billboard </h3>
                         <p>Rest assured, there's no need to manually update the content on your signs. Digital LED billboards designed with advanced digital technology can help you save both money and time. In addition to the convenience of digital platforms, you can also enjoy cost savings by eliminating the printing. LED billboards offer a wide range of possibilities for creating promoting information and motivating messages.</p>
                         <p>Cinstar outdoor LED billboards are available in a wide range of shapes, designs, and sizes, allowing them to be used effectively for all purposes. The LED billboard sign can be utilized for promoting products, conveying notifications, and various other purposes.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/digital-led-billboard/digital-led-billboard-5.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-5.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Customized LED Billboard Advertising</h3>
                         <p>Our LED billboard advertising is well-designed and developed with great attention to details. The outdoor LED billboards endure a thorough manufacturing procedure, adhering to international standards and performing strict quality controls. Besides, it includes state-of-the-art software technology, skilled installation guidance, and ongoing customer support and service.</p>
                         <p>Cinstar LED billboard offers captivating visuals with vibrant colors and exceptional clarity. These LED digital billboards are efficient advertising network and provide a quicker return on investment compared to other forms of advertising. If you have any LED Billboard requirements, feel free to reach us today!</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
