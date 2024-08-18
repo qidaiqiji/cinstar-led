@@ -45,7 +45,9 @@
     width: 35%;
 }
 .input-item .input-line {
+    margin: 0;
     margin-top: 10px;
+    padding: 0;
 }
 form input{
     height: .35rem;
@@ -169,7 +171,7 @@ textarea{
         font-size: 14px;
     }
     textarea {
-        width: 98%;
+        width: 96%;
     }
 }
 @media (max-width: 576px) {

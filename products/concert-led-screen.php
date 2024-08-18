@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Concert LED Screen Display - Rental LED Screen for Concert Stage Events</title>
     <meta name="description" content="Cinstar's concert LED screen display delivers the most eye-catching visual experience. Deploy our rental LED screen for your concert rental stage events now." />
     <meta name="keywords" content="concert LED screen, Concert led display, led screen for concert, rental LED display screen, event LED screen, LED stage screen, stage rental LED screen, LED concert screen" />  
@@ -56,7 +56,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Concert LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -65,7 +65,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 50%" src="../images/home/Xposter.jpg" /></a>
+                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 50%" class="img-longer" src="../images/home/Xposter.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Concert LED Screen Poster</h3>
                             <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
@@ -74,7 +74,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 70%" src="../images/products/Creative-LED/tf-1-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 70%" class="img-long" src="../images/products/Creative-LED/tf-1-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Concert LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>

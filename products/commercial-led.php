@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Screen for Bright, Vibrant, & Impactful Visual Solutions</title>
     <meta name="description" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />
     <meta name="keywords" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />  

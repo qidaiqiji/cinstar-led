@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
     <title>LED Screen for Church - Church LED Screen Display & Video Wall </title>
     <meta name="description" content="Top quality LED display screen for church, clear image and multiple installations! Contact us for best church LED video wall screen solutions!" />
     <meta name="keywords" content="LED screen for church, LED display for church, church LED screen, church LED video wall, church LED display, LED church screen, rental LED display screen, LED video wall display" />  
@@ -44,7 +44,7 @@
                 <h2>Cinstar LED Screen for Church</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 50%" src="../images/home/Xposter.jpg" /></a>
+                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 48%" class="img-longer" src="../images/home/Xposter.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Church LED Poster Screen</h3>
                             <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
@@ -53,7 +53,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/fl-series.php"><img src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/fl-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Flexible Church LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>
@@ -62,7 +62,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/a-series.php"><img style="width: 80%" src="../images/products/Rental-LED/A-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Quality Church LED Screen </h3>
                             <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>
@@ -71,7 +71,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 90%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Front Service Church LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -89,7 +89,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 90%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Screen for Church</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -174,7 +174,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img  src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" /></div>
+                    <img style="width: 45%;" src="../images/products/new-page/LED-screen-for-church/LED-screen-for-church-3.jpg" />
                     <div class="application-right">
                         <h3 class="title">Church LED Stage Screen</h3>
                         <p>The ease of installation and maintenance, along with the excellent quality of visual performance, are the noteworthy features of an LED stage screen.</p>

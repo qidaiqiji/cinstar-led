@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Advertising Screen Display & Video Board - Cinstar LED</title>
     <meta name="description" content="Cinstar offers the most cost effective and quality assured LED advertising screen display for both indoor and outdoor advertising venues." />
     <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board" />  
@@ -44,7 +44,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Advertising LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -53,7 +53,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -62,7 +62,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 80%;" src="../images/home/FT SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%;" src="../images/home/FT SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3> Commercial Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -71,7 +71,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 40%;" src="../images/home/MC SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%;" src="../images/home/MC SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Curtain LED Advertising Display</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>

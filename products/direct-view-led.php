@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED Video Wall & Display Screen - Fine Pitch LED Display Screen</title>
     <meta name="description" content="Cinstar's direct view LED video walls provide crystal clear image/video for ultimate visual impact. Best fine pitch LED display screen solutions for UHD image production." />
     <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel" />  
@@ -35,7 +35,7 @@
                 <h2>Cinstar Direct View LED Displays</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img style="width: 110%;" src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -44,7 +44,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/v-series.php"><img src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch LED Display</h3>
                             <a class="title-border-button" href="../product-detail/v-series.php">V Series Product</a>
@@ -53,7 +53,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/u-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/U-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/u-series.php"><img style="width: 70%;" class="img-long" src="../images/products/Commercial-LED/U-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/u-series.php">U Series Product</a>

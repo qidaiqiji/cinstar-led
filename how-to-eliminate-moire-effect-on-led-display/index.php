@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How to Eliminate Moiré Effect on LED Display?</title>
     <meta name="description" content="When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the LED display screen." />
     <meta name="keywords" content="outdoor LED display, LED display, LED screen, Cinstar-led, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  

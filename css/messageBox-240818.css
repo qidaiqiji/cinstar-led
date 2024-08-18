@@ -42,19 +42,15 @@
 .message-wrapper input {
     height: .45rem;
 }
-
 .message-wrapper textarea {
     margin-top: 0;
 }
-
 .message-wrapper input::-webkit-input-placeholder {
     color: #666;
 }
-
 .message-wrapper textarea::-webkit-input-placeholder {
     color: #666;
 }
-
 .fix {
     position: fixed;
     right: 5%;
@@ -79,7 +75,7 @@
 }
 
 /* 响应式 */
-@media(max-width:1200px) {
+@media(max-width:1024px) {
     .message-box {
         display: none;
     }

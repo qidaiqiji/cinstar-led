@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
     <title>3D LED Display Screen & Video Wall - 3D LED Billboard Advertising</title>
     <meta name="description" content="3D LED display screen provides dynamic visual enjoyment 3D effect. Try out our 3D LED video wall billboard for immersive naked eye 3D advertising." />
     <meta name="keywords" content="3D led display, 3D led screen, 3D led display screen, 3D led billboard, 3D led video wall, 3D led wall, 3D led sign, 3D led signboard, 3D led signage, 3D led advertising" />  
@@ -41,7 +41,7 @@
                 <h2>Cinstar 3D LED Billboard Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor 3D LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -50,7 +50,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor 3D LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>

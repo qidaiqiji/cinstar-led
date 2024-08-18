@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Indoor LED Display Screen & Video Wall - Indoor LED Advertising & Rental </title>
     <meta name="description" content="Indoor LED display screens are the most preferred video wall solutions for both indoor advertising and rental activities. Try out Cinstar LED display screens for your projects!" />
     <meta name="keywords" content="indoor led screen, indoor led display, indoor led display screen, indoor led video wall, indoor led wall, indoor led sign, indoor led panel, indoor led billboard, indoor led video screen" />  
@@ -38,7 +38,7 @@
                 <h2>Cinstar Indoor LED Video Wall Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 70%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Display Rental </h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -47,7 +47,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Screen Advertising </h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -74,7 +74,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Indoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/v-series.php">V Series Product</a>
@@ -83,7 +83,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/fl-series.php"><img style="width: 80%;" src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/fl-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/FL-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Flexible Indoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/fl-series.php">FL Series Product</a>

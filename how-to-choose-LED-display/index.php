@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>What to Look into When Choosing LED Display?</title>
     <meta name="description" content="What to Look into When Choosing LED Display?As LED display is widely applied to all walks of life and getting more and more attentions, how to identify the right product from hundreds of manufacturers is what you should learn about in your daily work. It is a big topic and requires your profound knowledge of LED display industry, which can’t be done within one week or two months. But if you are a green hand to LED display, here are what you should look into to identify the quality of LED displays" />
     <meta name="keywords" content="LED display screen, outdoor LED display, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display,  LED display manufacturer." />  

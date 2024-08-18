@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Screen & Board - Outdoor LED Video Wall Panel</title>
     <meta name="description" content="Check out Cinstar outdoor LED display screen, video walls and LED display board for durable performance. Buy the best outdoor LED display at Cinstar." />
     <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display" />  
@@ -39,7 +39,7 @@
                 <h2>Cinstar Outdoor LED Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 90%" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%" class="img-long" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Outdoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -48,7 +48,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 45%" src="../images/home/MC SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Curtain LED Display Screen</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -57,7 +57,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 90%" src="../images/home/FT SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 80%" class="img-long" src="../images/home/FT SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Front Service Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -66,7 +66,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 65%" src="../images/home/TR SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 60%" src="../images/home/TR SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/tr-series.php">TR Series Product</a>
@@ -169,7 +169,7 @@
             <div class="content application-list">
                 <h2>Cinstar Outdoor LED Display Screen Applications</h2>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg" /></div>
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg" />
                     <div class="application-right">
                         <h3 class="title">Commercial LED Advertising Screen </h3>
                         <p><b>Marketing</b></p>

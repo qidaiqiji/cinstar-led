@@ -13,6 +13,9 @@
     left: 0;
     top: 0;
 }
+.new-product-container .product-banner img {
+    height: auto;
+}
 .new-product-container .product-banner .img-cover {
     background: rgba(0, 0, 0, 0.5);
 }
@@ -150,21 +153,22 @@
     }
 }
 @media (max-width: 1200px){
-    .new-product-container .product-banner {
-        margin-top: 60px;
-    }
-    .new-product-container .product-banner .text-cover span {
+    /* .new-product-container .product-banner .text-cover span {
         font-size: 0.35rem;
-    }
-    .new-product-container .border-button {
+    } */
+    /* .new-product-container .border-button {
         width: 2.8rem;
         padding: 0.24rem 0.48rem;
         font-size: 0.35rem;
-    }
+    } */
 }
 @media (max-width: 1024px){
+    .new-product-container .product-banner {
+        margin-top: 60px;
+    }
     .specification {
         width: 45%;
+        margin: 20px 2.5%;
     }
     .img-cover {
         width: 400px;
@@ -187,6 +191,16 @@
     .product-img:hover .spec-title{
         background: #595a58;
     }
+    .new-product-container .border-button {
+        width: auto;
+        min-width: 140px;
+        padding: 12px 20px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .new-product-container .product-banner .text-cover span {
+        margin: 20px 0;
+    }
 }
 @media (max-width: 991px){
     .spce-container {
@@ -199,17 +213,16 @@
     .new-product-container .product-banner .text-cover h1 {
         font-size: 0.26rem;
     }
-    .new-product-container .product-banner .text-cover span {
+    /* .new-product-container .product-banner .text-cover span {
         font-size: 18px;
-        margin: 20px 0;
-    }
-    .new-product-container .border-button {
+    } */
+    /* .new-product-container .border-button {
         width: 1.4rem;
         height: 0.25rem;
         padding: 0.1rem 0.2rem;
         line-height: 0.25rem;
         font-size: 0.16rem;
-    }
+    } */
 }
 @media (max-width: 768px){
     .new-product-container .product-banner .text-cover h1 {
@@ -218,12 +231,7 @@
     .new-product-container .spec-content p {
         font-size: 16px;
     }
-    .new-product-container .border-button {
-        width: auto;
-        min-width: 140px;
-        padding: 12px 20px;
-        font-size: 16px;
-    }
+    
 }
 @media (max-width: 576px){
     .specification {
@@ -243,16 +251,22 @@
         line-height: 50px;
         font-size: 20px;
     }
+    .new-product-container .product-banner {
+        height: 200px!important;
+    }
     .new-product-container .product-banner .text-cover h1 {
         font-size: 24px;
     }
     .new-product-container .product-banner .text-cover span {
         font-size: 16px;
-        margin: 10px 0;
+        margin: 14px 0;
         text-align: center;
     }
     .new-product-container .border-button {
-        padding: 10px 16px;
-
+        padding: 4px 10px;
+        font-size: 16px;
+    }
+    .new-product-container .product-banner img {
+        height: 100%;
     }
 }

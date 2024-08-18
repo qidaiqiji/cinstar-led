@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240817.css">
-    <link rel="stylesheet" href="../css/new-product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Digital LED Billboard - Outdoor LED Display Billboard Advertising</title>
     <meta name="description" content="Cinstar's outdoor digital LED display billboard solutions can deliver the most eye-catching visuals to promote brand and help boost your advertising business." />
     <meta name="keywords" content="led billboard, digital led billboard, led display billboard, outdoor led billboard, led billboard for advertising, led billboard screen, led billboard display, led display billboard, outdoor advertising billboard" />  
@@ -39,7 +39,7 @@
                 <h2>Cinstar LED Display Billboard Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%"  src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 70%"  src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Digital LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -48,7 +48,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%" src="../images/products/Commercial-LED/Innox-1.png" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Billboard Advertising</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -57,7 +57,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 40%" src="../images/home/MC SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Curtain LED Display Billboard</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -84,7 +84,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ts-series.php"><img style="width: 50%" src="../images/home/TS Series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ts-series.php"><img style="width: 46%" src="../images/home/TS Series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Transparent LED Display Billboard</h3>
                             <a class="title-border-button" href="../product-detail/ts-series.php">TS Series Product</a>

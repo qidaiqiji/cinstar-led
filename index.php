@@ -17,10 +17,10 @@
     <meta name="description" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, events, and digital signage." />
     <meta name="keywords" content="Transform your space with Cinstar LED innovative lighting solutions. Analyze our diverse range of premium LED displays and screen panels for dynamic presentations, events, and digital signage." />  
     <title>Cinstar-LED.com Your Stunning Visual LED Display Screen for Commercial Outdoor, Indoor and Rental.</title>
-    <link rel="stylesheet" href="css/custom-product-240814.css">
+    <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240814.css">
     <link rel="stylesheet" href="css/contact-240815.css">
-    <link rel="stylesheet" href="css/main-240814.css">
+    <link rel="stylesheet" href="css/main-240818.css">
 </head>
 <body class="page-index">
     <?php include('inc/top.php'); ?>   
@@ -59,8 +59,31 @@
                 </li>
             </ul>
         </div>
+        <div class="detail-section profile-mobile">
+            <div class="head-title">
+                <h2>Cinstar Profile</h2>
+            </div>
+            <div class="profile-content">
+                <p>As a leading sophisticated LED display screen manufacturer in China, Cinstar is dedicated to offering a wide range of LED video wall panels to grow and expand your business. We are honored to get involved into each of your project and propose you a tailored LED visual solution！</p>
+                <div class="profile-mark">
+                    <div class="profile-mark-item" style="width: 20%;">
+                        <span class="mark-title">2012</span>
+                        <span>Established</span>
+                    </div>
+                    <div class="profile-mark-item">
+                        <span class="mark-title">+1200 Projects</span>
+                        <span>Delivered</span>
+                    </div>
+                    <div class="profile-mark-item">
+                        <span class="mark-title">+50 Countries</span>
+                        <span>Exported</span>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
         <div class="profile">
-            <img src="images/home-new/banner-cinstar-1.jpg" />
+            <img src="../images/home-new/banner-cinstar-1.jpg" />
             <div class="profile-content">
                 <div class="profile-dialog">
                     <h2>Cinstar Profile</h2>
@@ -568,7 +591,7 @@
             <div class="news-list">
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-07-08.php">
-                        <img src="images//news/media-cube-led-video-wall-panel-2.jpg" alt="image"/>
+                        <img src="../images//news/media-cube-led-video-wall-panel-2.jpg" alt="image"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -579,10 +602,11 @@
                         Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years.
                         </div>
                     </div>
+                    <hr class="under-line"/>
                 </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-01-26.php">
-                        <img src="images//news/2024-01-26-1.jpg" alt="image"/>
+                        <img src="../images//news/2024-01-26-1.jpg" alt="image"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -593,10 +617,11 @@
                         After the first pilot fine pitch LED video wall has been verified so qualified to deliver top class image performance, here comes 3 sets of Cinstar fine pitch LED video wall U1.2 for low scale production. Each set of the LED video wall is consists of 5x6 panels of 600x337.5mm to achieve ultra-high resolution of 2400x1600 and have been delivered to Atlanta, Chicago and London respectively. 
                         </div>
                     </div>
+                    <hr class="under-line"/>
                 </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2023-11-13.php">
-                        <img src="images//news/2023-11-13-1.jpg" alt="image"/>
+                        <img src="../images//news/2023-11-13-1.jpg" alt="image"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">

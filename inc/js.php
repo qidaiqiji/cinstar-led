@@ -1,8 +1,8 @@
 <script src="../utils/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
-    // document.addEventListener('contextmenu', function (e) {
-    //     e.preventDefault();
-    // });
+    document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+    });
     document.addEventListener('selectstart', function (e) {
         e.preventDefault();
     });
@@ -19,6 +19,34 @@
             } 
         })
     })
+    function Checks()
+    {
+        if (document.myforms.name.value.length==""){
+            alert ("Your name is null");
+            document.myforms.name.focus();
+            return false;
+        }
+    if (document.myforms.company.value.length==""){
+            alert ("Company name is null");
+            document.myforms.company.focus();
+            return false;
+        }
+        if (document.myforms.email.value.length==""){
+            alert ("Email is null");
+            document.myforms.email.focus();
+            return false;
+        }
+        if (document.myforms.tel.value.length==""){
+            alert ("Telephone is null");
+            document.myforms.tel.focus();
+            return false;
+        }
+        if (document.myforms.contents.value.length==""){
+            alert ("Message is null");
+            document.myforms.contents.focus();
+            return false;
+        }   
+    }
 </script>
 <script type="text/javascript">
     $("#mobile-header").click(function(){

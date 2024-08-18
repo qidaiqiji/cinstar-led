@@ -62,10 +62,13 @@ ul.unorder-list li {
     background: #bc261a;
     color:#fff;
 }
+.profile-mobile {
+    display: none;
+}
 .profile {
     position: relative;
 }
-.profile-content {
+.profile .profile-content {
     background: rgba(0, 0, 0, 0.5);
     position: absolute;
     left: 0;
@@ -79,17 +82,17 @@ ul.unorder-list li {
     justify-content: space-between;
     align-items: center;
 }
-.profile-content p, .profile-content span {
+.profile .profile-content p, .profile .profile-content span {
     font-size: .225rem;
 }
-.profile-content .profile-dialog {
+.profile .profile-content .profile-dialog {
     width: 40%;
 }
-.profile-content .profile-dialog h2 {
+.profile .profile-content .profile-dialog h2 {
     margin-bottom: 0.4rem;
     font-size: .35rem;
 }
-.profile-content .profile-dialog h2::after {
+.profile .profile-content .profile-dialog h2::after {
     display: block;
     content: '';
     width: 34%;
@@ -108,7 +111,7 @@ ul.unorder-list li {
     flex-direction: column;
     justify-content: center;
 }
-.profile-content .profile-mark .profile-mark-item .mark-title {
+.profile-mark-item .mark-title {
     color: #bc261a;
     font-size: .3rem;
     font-weight: 800;
@@ -246,10 +249,11 @@ ul.unorder-list li {
 .case-list .case-thumb{
    display: inline-block;
    width: 100%;
-   height: 244px;
+   height: 300px;
 }
 .case-list .case-thumb img{
     width: 100%;
+    height: 100%;
 }
 .case-list .case-title {
     position: absolute;
@@ -324,6 +328,9 @@ ul.unorder-list li {
     -webkit-line-clamp: 4;
     overflow: hidden;
 }
+.under-line {
+    display: none;
+}
 .contact-detail {
     margin-bottom: 0;
     background: #fff;
@@ -336,8 +343,16 @@ ul.unorder-list li {
     margin-top: .5rem;
     font-weight: 800;
 }
+.detail-section {
+    padding-top: 0;
+}
 .contact-body {
     margin-top: 0;
+}
+@media (min-width: 1025px) and (max-width:1400px) {
+    .case-list .case-thumb{
+        height: 240px;
+     }
 }
 @media (max-width: 1500px){
     .banner .view-more {
@@ -345,13 +360,13 @@ ul.unorder-list li {
         line-height: 26px;
         font-size: 14px;
     }
-    .profile-content p, .profile-content span, .case-list .case-title {
+    .profile .profile-content p, .profile .profile-content span, .case-list .case-title {
         font-size: 18px;
     }
-    .profile-content .profile-mark .profile-mark-item .mark-title {
+    .profile .profile-mark-item .mark-title {
         font-size: 24px;
     }
-    .profile-content .profile-dialog h2 {
+    .profile .profile-content .profile-dialog h2 {
         font-size: 26px;
     }
     .news-detail .news-title h3 {
@@ -376,13 +391,13 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 1024px){
-    .profile-content p, .profile-content span{
+    .profile .profile-content p, .profile .profile-content span{
         font-size: 16px;
     }
-    .profile-content .profile-mark .profile-mark-item .mark-title {
+    .profile .profile-mark-item .mark-title {
         font-size: 20px;
     }
-    .profile-content .profile-dialog h2 {
+    .profile .profile-content .profile-dialog h2 {
         font-size: 22px;
     }
     .iconItem{
@@ -436,20 +451,20 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 992px){
-    .profile-content {
+    .profile .profile-content {
         padding: 20px;
     }
-    .profile-content .profile-dialog {
+    .profile .profile-content .profile-dialog {
         width: 42%;
     }
-    .profile-content .profile-dialog h2 {
+    .profile .profile-content .profile-dialog h2 {
         margin-bottom: 0;
         font-size: 20px;
     }
-    .profile-content .profile-mark .profile-mark-item .mark-title {
+    .profile-mark-item .mark-title {
         font-size: 16px;
     }
-    .profile-content p, .profile-content span{
+    .profile .profile-content p, .profile .profile-content span{
         font-size: 14px;
     }
     .news-list .news-thumb{
@@ -512,6 +527,10 @@ ul.unorder-list li {
     } */
 }
 @media (max-width: 576px) {
+    .under-line {
+        display: block;
+        margin-top: 20px;
+    }
     .news-list, .iconList {
         justify-content: center;
     }
@@ -523,5 +542,27 @@ ul.unorder-list li {
     }
     .profile, .dots {
         display: none;
+    }
+    .profile-mobile {
+        display: block;
+        color: #fff;
+        background: #000;
+        padding: 20px 0;
+    }
+    .profile-mobile .profile-content .profile-mark {
+        width: 100%;
+        margin: 20px 0;
+        display: flex;
+        justify-content: space-around;
+    }
+    .profile-mobile .profile-mark-item span {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .profile-mobile p {
+        margin: 30px auto;
+        width: 90%;
+
     }
 }

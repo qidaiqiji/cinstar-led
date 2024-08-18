@@ -7,9 +7,6 @@ img {
     overflow-y: hidden;
     margin-top: 100px;
 }
-.new-product-container .product-banner img {
-    height: auto;
-}
 .sort-box {
     padding-top: 1.125rem;
     font-size: .225rem;

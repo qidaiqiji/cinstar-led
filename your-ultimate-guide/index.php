@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240817.css">
-    <link rel="stylesheet" href="../css/messageBox-240814.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Your Ultimate Guide to LED Display Rental 2022</title>
     <meta name="description" content="LED display is the trending cutting edge technology that has been used for almost all the mainstream events that were successful hits in recent years. Anything and everything related to renting LED displays is discussed briefly in this article. Read till the end! " />
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
