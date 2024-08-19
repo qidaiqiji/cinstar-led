@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240815.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>LED Rental Panel | Indoor Outdoor LED Panel Screen | LED Screen Rental | Cinstar-led</title>
     <meta name="description" content="Featuring wide pixel pitches from indoor 2.6mm, 2.9mm, 3.9mm to outdoor 3.9mm, 4.8mm and 5.6mm, Cinstar TL series rental LED panel has two panel sizes 500x500mm and 500x1000mm to meet any of your LED rental event productions." />
     <meta name="keywords" content="Rental LED screen, Indoor LED Rental Panel, Outdoor LED Rental Panel, Rental events panel, indoor LED panel, outdoor led panel, led panel rental, led screen rental" />

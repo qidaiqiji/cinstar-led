@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/product-common-240819.css">
     <link rel="stylesheet" href="../css/new-product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Indoor LED Display Screen & Video Wall - Indoor LED Advertising & Rental </title>
@@ -74,10 +74,10 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ch-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/CH-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Indoor LED Screen</h3>
-                            <a class="title-border-button" href="../product-detail/v-series.php">V Series Product</a>
+                            <a class="title-border-button" href="../product-detail/ch-series.php">CH Series Product</a>
                         </div>
                         <p>As a key application of indoor LED video walls, the fine pitch LED screen is playing a vital role in UHD industry and is increasingly challenging the dominant position of traditional LCD display signage. Cinstar fine pitch indoor LED screen is versatile to be built as seamless LED video wall, All-in-one LED wall and LED digital poster etc, creating more business possibilities for our customers. If you are looking for a reliable fine pitch LED display manufacturer, contact us now!</p>
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>

@@ -25,13 +25,13 @@
                 <div class="contact-item">
                     <div class="icon-box"><i class="fa fa-phone"></i></div>
                     <p class="title">Phone call</p>
-                    <p>+86 755 33969838</p>
+                    <p>+86 18320889297（<a href="https://api.whatsapp.com/send?l=en&phone=8618320889297" target="_blank" style="color:#0bbb27;font-weight:bold">WhatsApp</a>）</p>
                 </div>
                 <div class="contact-item">
                     <div class="icon-box"><i class="fa fa-envelope-o"></i></div>
                     <p class="title">E-mail</p>
                     <p>Cinstar Electronics Co., Limited</p>
-                    <a href="mailto:sales@cinstar-led.com" style="cursor: pointer;">sales@cinstar-led.com</a>
+                    <a href="mailto:sales@cinstar-led.com" style="cursor: pointer;color:#0909f2">sales@cinstar-led.com</a>
                 </div>
             </div>
         </div>
@@ -56,36 +56,6 @@
                 </div>
             </form>
         </div>
-<script language="javascript">
-function Checks()
-{
-    if (document.myforms.name.value.length==""){
-        alert ("Your name is null");
-        document.myforms.name.focus();
-        return false;
-    }
- if (document.myforms.company.value.length==""){
-        alert ("Company name is null");
-        document.myforms.company.focus();
-        return false;
-    }
-    if (document.myforms.email.value.length==""){
-        alert ("Email is null");
-        document.myforms.email.focus();
-        return false;
-    }
-    if (document.myforms.tel.value.length==""){
-        alert ("Telephone is null");
-        document.myforms.tel.focus();
-        return false;
-    }
-    if (document.myforms.contents.value.length==""){
-        alert ("Message is null");
-        document.myforms.contents.focus();
-        return false;
-    }   
-}
-</script>
         <?php include('../inc/foot.php'); ?>
     </div>
     <?php include('../inc/js.php'); ?>

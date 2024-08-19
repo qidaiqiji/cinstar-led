@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240815.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>Indoor LED Display Screen, Commercial Advertising LED Panel Sign</title>
     <meta name="description" content="Cinstar Innox series are the best LED display screen solution for indoor commercial advertising application. It supports 100% front installation and maintenance. What is more, it can be customized to concave and convex curves and also cube designs." />
     <meta name="keywords" content="LED board manufacturer, cheap LED display, LED video display screen, LED video screen price, LED screen for hire" />

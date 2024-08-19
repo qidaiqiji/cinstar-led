@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240815.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>Stage LED Screen | Indoor Outdoor Rental LED Display | LED Video Wall Rental | Cinstar-led</title>
     <meta name="description" content="Cinstar EC series LED video screen offers versatile LED screen solutions for a wide variety of LED display rental applications. Ergonomic engineering panel and practical user-friendly design enable a perfect operation experience" />
     <meta name="keywords" content="LED video screen, LED display rental, LED screen,  LED display panel, LED video display, cinstar, cinstar-led" />

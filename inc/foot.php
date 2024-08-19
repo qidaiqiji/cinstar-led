@@ -6,7 +6,7 @@
     <div class="footer-container">
         <div class="footer-item footer-products">
             <div class="footer-title">
-                <a href="../products">Products</a>
+                <span>Products</span>
             </div>
             <div class="footer-detail">
                 <p><a href="../products/direct-view-led.php">Direct View LED</a></p>
@@ -20,16 +20,16 @@
         </div>
         <div class="footer-item footer-gallery">
             <div class="footer-title">
-                <a href="../gallery">Solutions</a>
+                <span>Solutions</span>
             </div>
             <div class="footer-detail">
-                <p><a href="../gallery-detail/3d-led-display.php">3D LED Display Screen</a></p>
-                <p><a href="../gallery-detail/advertising-led.php">LED Advertising Display</a></p>
-                <p><a href="../gallery-detail/commercial-led.php">Commercial LED Display</a></p>
-                <p><a href="../gallery-detail/event-led-screen.php">LED Screens for Events</a></p>
-                <p><a href="../gallery-detail/church-led-screen.php">LED Screen for Church</a></p>
-                <p><a href="../gallery-detail/concert-led-screen.php">Concert LED Screen</a></p>
-                <p><a href="../gallery-detail/outdoor-led-display.php">Outdoor LED Display Screen</a></p>
+                <p><a href="../products/3d-led-display.php">3D LED Display Screen</a></p>
+                <p><a href="../products/advertising-led.php">LED Advertising Display</a></p>
+                <p><a href="../products/commercial-led.php">Commercial LED Display</a></p>
+                <p><a href="../products/event-led-screen.php">LED Screens for Events</a></p>
+                <p><a href="../products/church-led-screen.php">LED Screen for Church</a></p>
+                <p><a href="../products/concert-led-screen.php">Concert LED Screen</a></p>
+                <p><a href="../products/outdoor-led-display.php">Outdoor LED Display Screen</a></p>
             </div>
         </div>
         <div class="footer-item input-item">
@@ -83,7 +83,7 @@ function Check()
 </script>
         <div class="footer-item footer-contact">
             <div class="footer-title">
-                <a href="../contact">Contact</a>
+                <span>Contact</span>
             </div>
             <div class="footer-detail">
                 <a class="companyName">Cinstar Electronics  Co., Limited</a>
@@ -92,7 +92,7 @@ function Check()
                 <!-- <a class="phone">+86 183 2088 9297</a> -->
             </div>
             <div class="footer-social">
-                <a href="https://api.whatsapp.com/send?l=en&phone=8618320889297" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                <a href="https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour" target="_blank"><i class="fa fa-facebook-f"></i></a>
                 <a href="https://www.instagram.com/cinstarled/" target="_blank"><i class="fa fa-instagram"></i></a>
                 <a href="https://twitter.com/Cinstar_led" target="_blank"><i class="fa fa-twitter"></i></a>
             </div>

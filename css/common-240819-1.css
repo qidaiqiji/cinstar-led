@@ -134,18 +134,13 @@
     -webkit-transition: transform .3s ease;
     transition: transform .3s ease;
 }
-/* .subMenu, .product-item__img img {
-    -moz-backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-} */
 .subMenu-ul {
     background-color: #fff;
 }
 .subMenu-link {
     position: relative;
     display: block;
-    height: 50px;
+    height: .625rem;
     text-align: center;
     color: #333;
 }
@@ -269,6 +264,31 @@
 .list-title .more{
     display: none;
 }
+.whatsicon {
+    position: fixed;
+    right: 6px;
+    top: 77%;
+    z-index: 999999;
+    transform: translateY(-50%);
+}
+.whatsicon a {
+    overflow: hidden;
+    width: 80px;
+    height: 80px;
+    display: block;
+    color: #0bbb27;
+    font-size: 80px;
+    text-align: right;
+    line-height: 80px;
+}
+.subMenu {
+    width: 2.5rem;
+}
+.thirdMenu-item {
+    width: 2.5rem;
+    height: .625rem;
+    right: -2.5rem;
+}
 @media (min-width: 1025px) {
     .header.fixed {
         padding-top: 10px;
@@ -297,7 +317,6 @@
         top: 100%;
         left: 50%;
         margin-left: -100px;
-        width: 200px;
     }
     .subMenu.active{
         margin-top: 10px;
@@ -315,10 +334,7 @@
     }
     .thirdMenu-item {
         position: absolute;
-        width: 200px;
-        height: 50px;
         background: #fff;
-        right: -200px;
         top: 0;
         color: #000;
         display: none;
@@ -387,8 +403,17 @@
     .menu-link {
         font-size: 15px;
     }
+    .subMenu, .thirdMenu-item  {
+        width: 200px;
+    }
+    .subMenu-link {
+        height: 50px;
+    }
     .subMenu-link span {
         font-size: 14px;
+    }
+    .thirdMenu-item {
+        right: -200px;
     }
 }
 @media (max-width: 1200px) {
@@ -583,6 +608,7 @@
         color: #fff;
         text-align: left;
         width: 100%;
+        height: 50px;
     }
     .subMenu-link span {
         font-weight: normal;
@@ -629,6 +655,12 @@
     }
     .head-title h2, .head-title span {
         font-size: 30px;
+    }
+    .whatsicon a {
+        width: 50px;
+        height: 50px;
+        font-size: 50px;
+        line-height: 50px;
     }
 }
 @media (min-width: 1025px) and (max-width:1550px) {

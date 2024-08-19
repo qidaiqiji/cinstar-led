@@ -11,9 +11,10 @@ ul.unorder-list li {
 .banner{
     max-width: 100%;
     position: relative;
-    overflow: auto;
+    overflow-y: hidden;
     text-align: center;
     margin-top:100px;
+    /* height: 600px!important; */
 }
 .banner ul, ol{
     list-style: none; 
@@ -23,9 +24,13 @@ ul.unorder-list li {
     float: left; 
     padding: 0;
     position: relative;
+    height: 7.5rem!important;
 }
 .banner img, .profile img{
     width: 100%;
+}
+.banner img {
+    height: 100%;
 }
 .dots { position: absolute; left: 0; right: 0; bottom: 20px;}
 .dots li { 
@@ -45,22 +50,6 @@ ul.unorder-list li {
 .dots li.active {
 	background: #fff;
 	opacity: 1;
-}
-.banner .view-more {
-    display: inline-block;
-    background:#fff;
-    width:100px;
-    height: .325rem;
-    line-height:.325rem;
-    text-align:center;
-    border-radius:4px;
-    position: absolute;
-    font-weight: bold;
-    font-size: .175rem;
-}
-.banner .view-more:hover{
-    background: #bc261a;
-    color:#fff;
 }
 .profile-mobile {
     display: none;
@@ -222,13 +211,8 @@ ul.unorder-list li {
     margin-top: 0.5rem;
     font-size: 16px;
 }
-/* .gallery-title a{
-    color:#000;
-} */
 .caseStudy{
-    /* color:#fff; */
     width: 100%;
-    /* padding: 0.4rem 0; */
     background:#fff;
 }
 .case-list{
@@ -273,12 +257,6 @@ ul.unorder-list li {
 }
 .case-list .case-item:hover .case-title{
     left:0;
-}
-.news{
-    /* width: 100%; */
-    /* padding: 0.4rem 0;
-    background: #fff;
-    background: #bc261a; */
 }
 .news-list{
     width: 90%;
@@ -349,16 +327,24 @@ ul.unorder-list li {
 .contact-body {
     margin-top: 0;
 }
+.img-box {
+    margin-right: 0;
+    width: 8rem;
+}
+.img-box .img {
+    width: 8rem;
+}
+.img-list {
+    width: 7.98rem;
+}
 @media (min-width: 1025px) and (max-width:1400px) {
     .case-list .case-thumb{
         height: 240px;
      }
 }
 @media (max-width: 1500px){
-    .banner .view-more {
-        height: 26px;
-        line-height: 26px;
-        font-size: 14px;
+    .banner ul li {
+        height: 600px!important;
     }
     .profile .profile-content p, .profile .profile-content span, .case-list .case-title {
         font-size: 18px;
@@ -380,6 +366,9 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 1200px){
+    .banner ul li {
+        height: 500px!important;
+    }
     .news-list .news-thumb{
         height: 200px;
     }
@@ -391,6 +380,9 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 1024px){
+    .banner ul li {
+        height: 400px!important;
+    }
     .profile .profile-content p, .profile .profile-content span{
         font-size: 16px;
     }
@@ -399,6 +391,9 @@ ul.unorder-list li {
     }
     .profile .profile-content .profile-dialog h2 {
         font-size: 22px;
+    }
+    .brief {
+        padding-top: 0!important;
     }
     .iconItem{
         width: 45%;
@@ -470,12 +465,6 @@ ul.unorder-list li {
     .news-list .news-thumb{
         height: 1.2rem;
     }
-    /* .contact-body {
-        margin-top: 0.5rem;
-    }
-    .iconList {
-        margin:0.3rem auto;
-    } */
     .iconItem {
         margin-top: 30px;
     }
@@ -488,9 +477,6 @@ ul.unorder-list li {
     .product-section .head-title {
         margin-bottom: 0.4rem;
     }
-    .customer {
-        /* padding-bottom: 0; */
-    }
 }
 @media (max-width: 768px) {
     .news-list .news-item:last-child{
@@ -502,9 +488,6 @@ ul.unorder-list li {
         height: 40px;
         line-height: 40px;
         font-size: 14px;
-    }
-    .banner .view-more {
-        display: none;
     }
     .quote .quote-content{
         line-height: 20px;
@@ -522,11 +505,11 @@ ul.unorder-list li {
     #customer-box ul li{
         height: 300px;
     }
-    /* .quote{
-        margin-top: 0;
-    } */
 }
 @media (max-width: 576px) {
+    .banner ul li {
+        height: 240px!important;
+    }
     .under-line {
         display: block;
         margin-top: 20px;

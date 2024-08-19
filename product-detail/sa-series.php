@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240815.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>Sport Arena LED Display | Stadium LED Advertising | Outdoor LED Advertising Screen | Cinstar-led</title>
     <meta name="description" content="Cinstar SA seires outdoor stadium led banner display is the most cost effective stadium led advertising solution for all outdoor stadium and sport arena to maximize your ROI." />
     <meta name="keywords" content="sport arena led display, stadium led advertising, outdoor led advertising, outdoor stadium led display, stadium led screen, stadium advertising billboard, sports led display, sport arena led screen, led perimeter banner screen" />

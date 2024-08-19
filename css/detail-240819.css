@@ -693,6 +693,7 @@ table .thead{
     .product-img{
         width: 80%!important;
         order:1;
+        margin-top: 20px;
     }
     .spec-detail{
         width: 100%;

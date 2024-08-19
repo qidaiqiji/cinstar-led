@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240818.css">
+    <link rel="stylesheet" href="../css/product-common-240819.css">
     <link rel="stylesheet" href="../css/new-product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Concert LED Screen Display - Rental LED Screen for Concert Stage Events</title>

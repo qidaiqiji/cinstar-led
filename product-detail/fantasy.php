@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240815.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>3D Hologram LED Fan | 3D Holographic LED Display</title>
     <meta name="description" content="Eye-catching holographic style image that attracts attentions immediately Perfect traffic catcher for business. Extremely easy installation that fit in all environment. Portable for trade shows and rentals" />
     <meta name="keywords" content="holograhpic LED fan, 3D LED fan, 3D LED display, 3D holographic LED fan" />

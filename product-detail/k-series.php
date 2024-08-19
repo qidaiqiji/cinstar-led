@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240815.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>4k LED Screen Rental Panel | Digital Advertising Billboard | Direct View LED</title>
     <meta name="description" content="Cinstar K series 4k LED Screen Rental Panel display is ideal forDigital Advertising Billboard. Direct View LED for indoor and outdoor stage event." />
     <meta name="keywords" content="led rental panel, indoor led rental screen, outdoor led rental display, LED rental, event rental led panel, led rental video screen, event led display, corporate event led screen, led display rental, led screen rental, led display panel rental" />

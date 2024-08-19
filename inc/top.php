@@ -165,4 +165,9 @@
             <!-- mobile header 结束 -->
         </div>
     </div>
+    <div class="whatsicon">
+        <a href="https://api.whatsapp.com/send?l=en&phone=8618320889297" target="_blank">
+            <i class="fa fa-whatsapp"></i>
+        </a>
+    </div>
 </header>
