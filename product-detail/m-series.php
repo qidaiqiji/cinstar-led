@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>Stage Rental LED Display I Indoor Outdoor LED Screen Rental I LED Display for Events - Cinstar</title>
     <meta name="description" content="Cinstar M series stage rental led display is the best stage led screen for events in AV industry. It can be used as indoor rental led video screen, outdoor mobile led video wall for award ceremony, corporate event, car show, exhibition, music festival and all kinds of event productions, to deliver strong impact visual effect and excellent immersive experience." />
     <meta name="keywords" content="rental led display, rental led screen, indoor rental led display, outdoor rental led display, stage led display, stage led screen, led video wall rental, led video screen hire, led display for events, led video display, led display screen rental, cinstar led" />
@@ -149,7 +149,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>M SERIES Features</span>
+                <span>M Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -194,7 +194,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>M SERIES Showcase</span>
+                <span>M Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">

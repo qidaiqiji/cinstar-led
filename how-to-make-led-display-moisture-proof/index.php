@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product.css">
-    <link rel="stylesheet" href="../css/messageBox.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How to Make Your LED Display Moisture-Proof in Summer?</title>
     <meta name="description" content="The rainy and humid weather in summer brings no good to LED display. The pervasive vapor will increase the humidity in the air and affect the normal operation of LED display. Long-term high humidity environment may cause damage to electronic components and lead to problems like dead lamp, dark light, short circuit and open circuit, resulting in performance failure and impairing function and life of LED display. Then how to make your LED display moisture-proof is an issue that needs to be solved to both <a href="../products">indoor and outdoor LED display</a>. Here are some tips we gonna share with you." />
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  

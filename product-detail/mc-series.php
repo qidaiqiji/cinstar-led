@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>LED Advertising Display | LED Video Curtain, Outdoor Display Board</title>
     <meta name="description" content="Cinstar LED advertising display MC series is specifically designed to cater to large format building facades installations. The great advantage of its light weight cabinet makes it a second-to-none solution for giant LED video curtain or huge outdoor digital board." />
     <meta name="keywords" content="LED advertising display, LED video curtainl, outdoor display board, curtain LED display, mesh LED screen wall, outdoor LED display board" />

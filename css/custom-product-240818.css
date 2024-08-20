@@ -6,6 +6,9 @@ p {
 img {
     width: 100%;
 }
+.new-product-container .product-banner img {
+    height: 100%;
+}
 .detail-section {
     width: 100%;
     padding-top: 50px;
@@ -155,7 +158,7 @@ img {
         font-size: 22px;
     }
 }
-@media (max-width:1200px){
+@media (max-width:1024px){
     .brief {
         flex-direction: column;
         align-items: center;
@@ -165,6 +168,9 @@ img {
         margin-top: 30px;
         font-size: 18px;
         order: 2;
+    }
+    .img-box {
+        margin-right: 0;
     }
     .img-box, .img-box .img {
         width: 500px;

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>Outdoor LED Display Board | Cinstar-led, Digital Billboard Advertising</title>
     <meta name="description" content="Cinstar outdoor LED display board DB series adopts high strength die-cast aluminum and magnalium cabinet for better digital billboard advertising.  Its excellent heat dissipation makes the cooling system not needed even for giant display wall." />
     <meta name="keywords" content="outdoor LED display board, digital billboard advertising, large screen display, outdoor LED wall screens, electric LED signs, advertising display board, outdoor LED advertising screens" />

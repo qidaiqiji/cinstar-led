@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Cinstar CR4.8 screen walks into Belfast Cathedral church</title>
     <meta name="description" content="Thanks to the general recognition from more industries, LED display is now playing a more and more important role in people’s daily life. Take the church for example, except its initial function of spreading God’s message, it is also holding some interesting activities like fashion weeks, story sharing gatherings etc. More and more people can participate into the activity and have better experience with the help of LED displays." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

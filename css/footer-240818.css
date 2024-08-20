@@ -45,7 +45,9 @@
     width: 35%;
 }
 .input-item .input-line {
+    margin: 0;
     margin-top: 10px;
+    padding: 0;
 }
 form input{
     height: .35rem;
@@ -115,6 +117,13 @@ textarea{
     color:#bc261a;
 }
 @media (max-width: 1500px) {
+    form input {
+        height: 28px;
+        width: 120px;
+    }
+    textarea{
+        width: 260px;
+    }
     .footer-title a, .footer-item .footer-title {
         font-size: 20px;
     }
@@ -143,13 +152,14 @@ textarea{
     }
     form input {
         height: 30px;
+        margin-right: 0;
     }
     .input-line{
         display: flex;
         justify-content: space-between;
     }
     .input-line input {
-        width: 42%;
+        width: 46%;
     }
     .input-item .footer-title {
         margin-bottom: 20px;
@@ -161,7 +171,7 @@ textarea{
         font-size: 14px;
     }
     textarea {
-        width: 98%;
+        width: 96%;
     }
 }
 @media (max-width: 576px) {
@@ -189,5 +199,8 @@ textarea{
     }
     .foot-submit{
         margin: 10px auto;
+    }
+    .footer-detail a:not(:first-child) {
+        justify-content: center;
     }
 }

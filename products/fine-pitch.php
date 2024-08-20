@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/product.css">
-    <link rel="stylesheet" href="../css/messageBox.css">
+    <link rel="stylesheet" href="../css/product-common-240819.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Wall | Indoor LED Display | Indoor LED Screen - Cinstar</title>
     <meta name="description" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings." />
     <meta name="keywords" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings." />  
@@ -19,7 +19,7 @@
             <div class="text-cover">
                 <h1>Fine Pitch LED Display</h1>
                 <span>4K UHD Fine Pixel Pitch LED Video Display Screen</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spce-container">
@@ -128,35 +128,12 @@
                     <a  href="../product-detail/u-series.php" class="spec-title">U SERIES</a>
                 </div>
             </div>
-            <!-- <div class="specification">
-                <div class="product-img img-bigger">
-                    <a href="../product-detail/nl-series.php">
-                        <img src="../images/products/Fine-Pitch/NL-Series-1.jpg" alt="NL SERIES"/>
-                        <div class="spec-detail">
-                            <h2 class="series-title">NL SERIES</h2>
-                            <p>Pixel Pitch (mm): 1.25 / 1.56 / 1.66 / 1.92</p>
-                            <p>Brightness (nits): >700</p>
-                            <p>Refresh Rate(Hz): 2880-3840</p>
-                            <p>Application: Indoor Fixed</p>
-                            <ul>
-                                <li>High refresh rate, great grey scale level</li>
-                                <li>High contrast ratio and wide color gamut</li>
-                                <li>Ultra-high CNC precision die-cast aluminum housing</li>
-                                <li>Fully front installable & serviceable</li>
-                                <li>Extremely wide viewing angle 160</li>
-                                <li>Available in wall mounting and ground stacking installations</li>    
-                            </ul>
-                        </div>
-                    </a>
-                    <a  href="../product-detail/nl-series.php" class="spec-title">NL SERIES</a>
-                </div>
-            </div> -->
         </div>
         <hr class="under-line"/>
         <!-- 产品参数结束 -->
         <div class="content-container">
             <div class="content">
-                <h2 class="title">A Great Solution For Indoor Led Display</h2>
+                <h2 class="title">A Great Solution For Indoor LED Display</h2>
                 <p>
                 Cinstar brings the best indoor led display screens in a range of high-resolution indoor applications. You can find our LED display showing seamless 2K, 4K, and even 8K resolution indoor led screens. 
                 </p>  

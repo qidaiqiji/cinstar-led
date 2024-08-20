@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product.css">
-    <link rel="stylesheet" href="../css/messageBox.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Pros and Cons of Digital LED billboard advertising truck</title>
     <meta name="description" content="Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?" />
     <meta name="keywords" content="Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?">

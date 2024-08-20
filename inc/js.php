@@ -1,5 +1,11 @@
 <script src="../utils/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
+    // document.addEventListener('contextmenu', function (e) {
+    //     e.preventDefault();
+    // });
+    document.addEventListener('selectstart', function (e) {
+        e.preventDefault();
+    });
     $(document).ready(function() {
         $(".subMenu-ul .subMenu-link").each(function(){
             $this = $(this);
@@ -13,6 +19,34 @@
             } 
         })
     })
+    function Checks()
+    {
+        if (document.myforms.name.value.length==""){
+            alert ("Your name is null");
+            document.myforms.name.focus();
+            return false;
+        }
+    if (document.myforms.company.value.length==""){
+            alert ("Company name is null");
+            document.myforms.company.focus();
+            return false;
+        }
+        if (document.myforms.email.value.length==""){
+            alert ("Email is null");
+            document.myforms.email.focus();
+            return false;
+        }
+        if (document.myforms.tel.value.length==""){
+            alert ("Telephone is null");
+            document.myforms.tel.focus();
+            return false;
+        }
+        if (document.myforms.contents.value.length==""){
+            alert ("Message is null");
+            document.myforms.contents.focus();
+            return false;
+        }   
+    }
 </script>
 <script type="text/javascript">
     $("#mobile-header").click(function(){
@@ -91,25 +125,31 @@
 
     }
 </script>
-<script>
+<script type="text/javascript">
     $(".target").click(function () {
     $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
         return false;
     });
-    const messageLeft = $(".message-box").offset().left;
-    const messageTop = $(".message-box").offset().top;
-    const messageWidth = $(".content-container").innerWidth();
-    $(window).scroll(function(){
-        if($(window).scrollTop()>messageTop+300) {
-            $(".message-box").addClass("fix");
-            $(".message-box").css({
-                // 'left':messageLeft + 60,
-                // 'width':messageWidth*0.3,
-            })
-        }else{
-            $(".message-box").removeClass("fix")
-        }
-    })
+    function messageBoxFixed() {
+        const messageLeft = $(".message-box").offset().left;
+        const messageTop = $(".message-box").offset().top;
+        const messageWidth = $(".content-container").innerWidth();
+        $(window).scroll(function(){
+            if($(window).scrollTop()>messageTop+300) {
+                $(".message-box").addClass("fix");
+                $(".message-box").css({
+                    // 'left':messageLeft + 60,
+                    // 'width':messageWidth*0.3,
+                })
+            }else{
+                $(".message-box").removeClass("fix")
+            }
+        })
+    }
+    if($(window).width() > 1025) {
+        messageBoxFixed()
+    }
+    window.addEventListener('resize', messageBoxFixed);
 </script>
 <script type="text/javascript">
     function scrollImg(boxclass, listclass) {

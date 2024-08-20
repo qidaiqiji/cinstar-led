@@ -9,7 +9,7 @@
 </style>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>How To Trade In Quality LED Displays | Cinstar LED</title>
     <meta name="description" content="As LED technology has advanced over recent years, LED displays have become more versatile. An LED display is basically a screen display technology that employs LED panels as a light source. " />
     <meta name="keywords" content="As LED technology has advanced over recent years, LED displays have become more versatile. An LED display is basically a screen display technology that employs LED panels as a light source. " />

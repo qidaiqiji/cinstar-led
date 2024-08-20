@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>40sqm Cinstar FT10 Installed in Denmark</title>
     <meta name="description" content="Wherever you are in urban city or country side, LED display is now easy to seen in our livelihood. Except wall mounted on building, stand column beside road, there are more and more locations becoming popular to install commercial LED display. Take parking lot for example, when cars became one indispensable part of our life" />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

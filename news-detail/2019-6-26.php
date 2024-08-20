@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Cinstar 40.5sqm fine pitch HD1.56 LED video display to France</title>
     <meta name="description" content="In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED video display got a big increase on the market share and has been widely used for high profile and high end applications for its ultra-high resolution and stunning image performance. It is like a pop star in the applications of TV studio, conference room, control room and board room etc." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

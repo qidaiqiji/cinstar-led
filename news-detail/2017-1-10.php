@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>130sqm Cinstar VX3.9 participates Missionary Party</title>
     <meta name="description" content="Several weeks ago, Cinstar LED display was honored to be participated into one special Christian party to deliver image effect for the stage performance. The screens on this party were Cinstar VX3.9, 130sqm in total, including one big main screen as background and four vertical banners to achieve creative stage effect. All the screens were stacking on the floor to get a better visual effect." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

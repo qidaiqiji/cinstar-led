@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>126sqm Cinstar CR3.9 screen promotes INFINITY on Dubai Auto Show</title>
     <meta name="description" content="Except for commercial advertising, LED display now has much wider range of applications. One of the star application must be the auto show. As we know, auto enterprise cares much on brand reputation, when they are attending auto show, they are looking any possible way to present the best aspect of their vehicles and company impression. LED display as the current best way for visual demonstration is favored by all automakers. " />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

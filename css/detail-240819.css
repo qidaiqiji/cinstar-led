@@ -24,9 +24,9 @@ img {
     background-position: center;
     background-size:cover;
 }
-/* .vx-bg {
+.vx-bg {
     background: url(../images/bgs/vx-bg.jpg);
-} */
+}
 .cr-bg {
     background: url(../images/bgs/cr-bg.jpg);
 }
@@ -42,25 +42,25 @@ img {
 .hd-bg {
     background: url(../images/bgs/hd-bg.jpg);
 }
-/* .lm-bg {
+.lm-bg {
     background: url(../images/bgs/lm-bg.jpg);
-} */
+}
 .mc-bg {
     background: url(../images/bgs/mc-bg.jpg);
 }
-/* .nl-bg {
+.nl-bg {
     background: url(../images/bgs/nl-bg.jpg);
-} */
+}
 .tr-bg {
     background: url(../images/bgs/tr-bg.jpg);
 }
 .ts-bg {
     background: url(../images/bgs/ts-bg.jpg);
 }
-/* .ec-bg {
+.ec-bg {
     background: url(../images/bgs/ec-bg.jpg);
     background-position: center;
-} */
+}
 .ma-bg {
     background: url(../images/bgs/ma-bg.jpg);
 }
@@ -82,9 +82,9 @@ img {
 .rs-bg {
     background: url(../images/bgs/rs-bg.jpg);
 }
-/* .tl-bg {
+.tl-bg {
     background: url(../images/bgs/tl-bg.jpg);
-} */
+}
 .mi-bg {
     background: url(../images/bgs/mi-bg.jpg);
 }
@@ -475,14 +475,20 @@ table .thead{
         height: 50px;
         line-height: 50px;
     }
+    .sub-title span {
+        font-size: 34px;
+    }
+    .sub-title span::after {
+        top: 50px;
+    }
 }
 @media (max-width: 1024px){
     .detail-title  {
         margin-top: 60px;
     }
-    .detail-title .title span {
+    /* .detail-title .title span {
         font-size: 28px;
-    }
+    } */
     .detail-title .top-title {
         font-size: 22px;
     }
@@ -492,17 +498,11 @@ table .thead{
     .product-desc .right-desc .title{
         margin-bottom: 0;
     }
-    .sub-title span {
-        font-size: 34px;
-    }
     .img-wrap .caseItem{
         height: auto;
     }
-    .sub-title span::after {
-        top: 50px;
-    }
 }
-@media (max-width: 992px){
+@media (max-width: 991px){
     .detail-title {
         height: 160px;
     }
@@ -630,7 +630,7 @@ table .thead{
     }
     .half{
         width:100%;
-        height: 100%
+        height: 100%;
     }
     .topContainer .topImg{
         width: 78%;
@@ -638,6 +638,9 @@ table .thead{
     .img-part{
         width: 80%;
         order: 1;
+    }
+    .img-big .img-part{
+        width: 100%;
     }
     .mobile-hide{
         display: none;
@@ -672,9 +675,6 @@ table .thead{
     .ft-series .desc-part p{
         line-height: 24px;
     }
-    .product-box{
-        margin-top: 40px;
-    }
     .icon-desc{
         font-size: 14px;
     }
@@ -693,6 +693,7 @@ table .thead{
     .product-img{
         width: 80%!important;
         order:1;
+        margin-top: 20px;
     }
     .spec-detail{
         width: 100%;

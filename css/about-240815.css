@@ -6,8 +6,9 @@
 .about-img{
     width: 100%;
 }
-.about-img img{
+img{
     width: 100%;
+    height: 100%;
 }
 .about-desc{
     margin:0.6rem auto;
@@ -40,10 +41,6 @@
     width: 32%;
     max-height: 240px;
     margin: 0.1rem 0;
-}
-.img-item img{
-    width: 100%;
-    height: 100%;
 }
 .support-icon{
     width: 90%;
@@ -90,6 +87,9 @@
 }
 .support-desc b{
     text-transform:capitalize ;
+    display: block;
+    margin-bottom: 16px;
+    font-size: 20px;
 }
 .support-desc .desc-title{
     margin-bottom: 0;
@@ -114,6 +114,9 @@
     }
 }
 @media (max-width: 1024px){
+    .about-container{
+        margin-top:60px;
+    }
     .icon-item .icon-title {
         font-size: 18px;
     }
@@ -121,20 +124,11 @@
         width: 100%;
         font-size: 16px;
     }
-    .about-container{
-        margin-top:1.2rem;
-    }
     .support-desc>p, .last, .list{
         font-size: 16px;
     }
 }
-@media (max-width: 992px){
-    .about-container {
-        margin-top: 60px;
-    }
-    .about-desc {
-        margin: 60px auto;
-    }
+@media (max-width: 991px){
     .support-desc>p {
         margin-bottom: 30px;
     }
@@ -144,9 +138,6 @@
     }
 }
 @media (max-width: 768px) {
-    .about-container {
-        margin-top:0;
-    }
     .img-item {
         width: 48%;
         height: auto;
@@ -178,7 +169,4 @@
     }
 }
 @media (max-width: 576px) {
-    .about-container {
-        margin-top:10px;
-    }
 }

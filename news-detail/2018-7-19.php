@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>10sqm Cinstar NL1.2 for Switzerland conference room installation</title>
     <meta name="description" content="Benefited from technology breakthrough of LED encapsulation, fine pitch LED display is now a new trend for LED applications for its higher capacity module and far better resolution. With the technology becoming matured, the market dominated by LCD video wall facing big challenges from LED display. The main competition concentrated on control room, monitor room, TV studio and conference rooms where ultra-high resolution is needed to deliver crystal clear image quality. High brightness, high refresh rate, wide color gamut, low failure rate and truly seamless connection are what the features the LCD can’t compete with." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

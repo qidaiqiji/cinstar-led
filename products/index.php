@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product.css">
+    <link rel="stylesheet" href="../css/product-240818.css">
     <title>Outstanding Led Display Products | Best Leds For Indoor And Outdoor Application | Cinstar-Led</title>
     <meta name="description" content="Cinstar has a comprehensive range of led screen products designed for a variety of indoor and outdoor broadcasting requirements. We design standard and custom products for a variety of industry-specific consumers. " />
     <meta name="keywords" content="rental LED display, commercial LED display, creative LED display, creative LED screen display, LED display, LED screen, LED screen board, LED wall screen, LED digital screen, LED digital display" />
@@ -12,11 +12,10 @@
     <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
-    <div class="container">
+    <div class="container new-product-container">
         <div class="product-banner">
             <img src="../images/products/product-home/products-banner.jpg" alt="commercial"/>
         </div>
-      
         <div class="sort-box">
             <div class="head-title">
                 <h2>Cinstar LED Display Products</h2>

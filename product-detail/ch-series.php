@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail.css">
+    <link rel="stylesheet" href="../css/detail-240819.css">
     <title>Direct View LED Wall | LED Video Wall Panels | Fine Pitch LED Display | Cinstar LED</title>
     <meta name="description" content="Cinstar CH series high profile COB direct view LED video wall panels can deliver the most impact visual experience and top durability. The best fine pitch LED display screen solution for high profile installations like TV studio, conference room, control room and home cinema etc." />
     <meta name="keywords" content="direct view LED, direct view led wall, direct view led video wall, led video wall panel, fine pitch led display, fine pitch led screen, narrow pixel pitch led display, led display screen, indoor led display" />
@@ -78,7 +78,7 @@
             </div>
         </div>
         <!-- 产品详情 -->
-        <div class="product-detail hd-series">
+        <div class="product-detail img-big">
             <div class="detail">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/CH-series-2.jpg" style="width: 100%" alt="CH SERIES"/>
@@ -95,7 +95,7 @@
                     <p>Comparing with conventional SMD, the flip chip COB direct view LED video wall panels are greatly upgraded to deliver the 360° all-around protection against the external impacts like moisture-resistant, dust-resistant, anti-collision and anti-oxidation etc, ensuring the LED video wall long-lasting operation.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-3.jpg" style="width: 90%" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-3.jpg" style="width: 100%" alt="CH SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>

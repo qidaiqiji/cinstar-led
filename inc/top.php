@@ -43,7 +43,7 @@
                                             <span>LED Screens For Events</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/church-led-screen.php">
-                                            <span>LED Screens For Church</span>
+                                            <span>LED Screen For Church</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/stage-led-screen.php">
                                             <span>LED Stage Screen</span>
@@ -70,7 +70,7 @@
                                             <span>Digital LED Billboard</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/3d-led-display.php">
-                                            <span>3D Led Display</span>
+                                            <span>3D LED Display</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/commercial-led.php">
                                             <span>Commercial LED Display</span>
@@ -159,9 +159,15 @@
             </div>
             <!-- mobile header开始 -->
             <div class="mobile-header" id="mobile-header">
-                <span class="iconfont">&#xe660;</span>
+                <span class="iconfont menu">&#xe660;</span>
+                <span class="fa fa-close"></span>
             </div>
             <!-- mobile header 结束 -->
         </div>
+    </div>
+    <div class="whatsicon">
+        <a href="https://api.whatsapp.com/send?l=en&phone=8618320889297" target="_blank">
+            <i class="fa fa-whatsapp"></i>
+        </a>
     </div>
 </header>

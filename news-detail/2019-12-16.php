@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>2 years operation no any dead pixels, Cinstar 5.9mm in Koskikeskus</title>
     <meta name="description" content="As an industrial product, there is no possibility for any manufacturer to produce any perfect LED display. But a LED display with high profile quality can get rid of most annoying aftersales troubles and in return to strengthen your business relationship with your clients and enhance your reputation on the market." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

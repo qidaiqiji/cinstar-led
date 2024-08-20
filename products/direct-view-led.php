@@ -3,25 +3,23 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240819.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED Video Wall & Display Screen - Fine Pitch LED Display Screen</title>
     <meta name="description" content="Cinstar's direct view LED video walls provide crystal clear image/video for ultimate visual impact. Best fine pitch LED display screen solutions for UHD image production." />
     <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel" />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="new-product-container">
-        <!-- 导航开始 -->
         <div class="product-banner">
             <img src="../images/products/new-page/direct-view-led/direct-view-led-1.jpg" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Direct View LED</h1>
                 <span>UHD Visual Impact Fine Pitch LED Video Wall</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
@@ -37,31 +35,31 @@
                 <h2>Cinstar Direct View LED Displays</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img style="width: 110%;" src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct View LED wall display is a cutting-edge product designed to meet the growing need for superior LED video display. Cinstar direct view LED boasts a super high refreshing display and fast frame changing, ensuring a visually stunning experience. With its perfect color saturation, it consistently delivers the best image production. With impressive greyscale, pixel density, brightness, and contrast ratio, Cinstar direct view LED video wall thrives at accurately reproducing the vibrant colors of images and videos.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/v-series.php"><img src="../images/products/Fine-Pitch/V-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ch-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/CH-series-1.jpg" /></a>
                         <div class="title-box-change">
-                            <h3>Fine Pitch LED Display</h3>
-                            <a class="title-border-button" href="../product-detail/v-series.php">V Series Product</a>
+                            <h3>COB Fine Pitch LED Display</h3>
+                            <a class="title-border-button" href="../product-detail/ch-series.php">CH Series Product</a>
                         </div>
                         <p>Cinstar fine pitch LED display has gained a strong reputation as a reliable and popular technology that is highly desired by customers worldwide. It produces high-quality images, videos, and other content. In addition, it consumes a minimal amount of power. Cinstar fine pixel pitch LED displays are widely utilized in a variety of locations like airports, banks, restaurants, subways, hospitals, and showrooms. Cinstar's fine pitch LED displays offer an exceptional video solution that delivers an unparalleled viewing experience.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/u-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/U-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ec-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/EC-series-1.jpg" /></a>
                         <div class="title-box-change">
-                            <h3>Direct View LED Video Wall</h3>
-                            <a class="title-border-button" href="../product-detail/u-series.php">U Series Product</a>
+                            <h3>COB Direct View LED Video Wall</h3>
+                            <a class="title-border-button" href="../product-detail/ec-series.php">EC Series Product</a>
                         </div>
                         <p>The direct view LED video wall has become highly regarded due to its impressive features such as high resolution, high brightness, excellent display effect and great cost performance. Whether it's for TV studios, home cinema, conference rooms, board rooms, or control rooms, Cinstar direct view LED video wall is the ideal option for showcasing highly detailed and visually stunning images. If you need a superior direct view LED video wall for your projects, Cinstar is the best choice for you. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -78,9 +76,9 @@
                             <div class="title">
                             Supreme Visual
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Direct view LED is designed to meet the high image quality demands of various industries. It offers seamless splicing and low energy consumption, making it a reliable choice. Featuring a pitch as low as P0.9, Cinstar direct view LED wall displays are capable of producing stunning visuals with ultra-high definition quality and are perfect for a wide range of applications.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -91,9 +89,9 @@
                             <div class="title">
                             High Reliability
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Cinstar fine pitch LED displays are designed with top tier LEDs and driver ICs, ensuring superior reliability and performance. Once it is installed, Cinstar direct view LED video wall is guaranteed to deliver solid and terrific visual productions. All the features make Cinstar fine pitch LED video wall a great video tool for effectively advertising your business services and brand promotions. 
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -104,9 +102,9 @@
                             <div class="title half-title">
                             Optimized ROI
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             By applying top quality materials and matured LED technology, Cinstar direct view LED video wall can operate with an extensive lifespan of 60,000 to 100,000 hours. With the feature of long lifespan and top quality, Cinstar direct view LED can greatly optimize your ROI and create more commercial values for your business. Contact us freely for any inquiry!
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -117,9 +115,9 @@
                             <div class="title">
                             Cost Efficient Solution
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                             Benefitting from our excellent supply chain management and standard mass production, all Cinstar direct view LED is much cost effective than most other suppliers, even at the same quality level. You can obtain a high-quality fine pitch LED video wall that meets your budgetary constraints. Our selection of direct view LED displays offers both cost-effectiveness and versatility.
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -145,7 +143,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>
@@ -269,22 +267,11 @@
                 <p><b>Great Caution Required</b></p>
                 <p>Our fine pitch LED display screen uses magnetic modules and is equipped with vacuum service tool for maintenance purposes. However, the great caution is necessary when working with the module to prevent any potential damage to the LEDs and PCB board. When it comes to maintenance work, a high level of professionalism and expertise is required to repair broken LEDs. To avoid further damages, when the pixel pitch goes lower than P1.2, we suggest that you will express the modules to our local partners for repairing.</p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
     </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>

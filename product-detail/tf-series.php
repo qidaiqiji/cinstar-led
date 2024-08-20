@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/new-detail.css">
+    <link rel="stylesheet" href="../css/new-detail-240817.css">
     <title>Outdoor Stadium LED Display | LED Perimeter Banner Screen | Sport Arena LED Advertising | Cinstar-led</title>
     <meta name="description" content="Cinstar TF series outdoor stadium led perimeter display system can be used as perimeter banner LED screen and LED scoreboard for both indoor and outdoor sport arena to show clear image led advertising." />
     <meta name="keywords" content="sport led display, sport led screen, sport arena perimeter banner screen, stadium led display, sport stadium led screen, led score board system, stadium led advertising, outdoor stadium perimeter banner display" />

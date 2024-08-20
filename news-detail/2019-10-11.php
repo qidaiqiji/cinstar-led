@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail.css">
+    <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>80 panels of HD2.3 installed at Christ Lutheran Church in USA</title>
     <meta name="description" content="During Chinese National Day festival, our customer delivered 80 panels of Cinstar HD series 2.3mm to Christ Lutheran Church in California, USA. Before that, the church was using projector for the visual delivering, but they were tired of the inaccuracy brightness of projector and finally decided to replace it with high quality image performance LED display solution. The screen fits nicely with the front of the stage and the image is crystal clear from entire sanctuary seating area" />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

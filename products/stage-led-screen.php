@@ -3,25 +3,23 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-banner.css">
-    <link rel="stylesheet" href="../css/new-product.css">
+    <link rel="stylesheet" href="../css/product-common-240819.css">
+    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Stage Screen & Video Wall - LED Screen for Stage Events</title>
     <meta name="description" content="Cinstar offers the most reliable & creative LED stage screen wall. Contact us for the best rental LED display screen for stage solutions with affordable prices." />
     <meta name="keywords" content="LED stage screen, stage LED video wall, stage LED wall, LED screen for stage, rental LED display, event LED screen, LED screen for events, LED display manufacturer" />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="new-product-container">
-        <!-- 导航开始 -->
         <div class="product-banner">
             <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-1.jpg" alt="rental-led"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>LED Stage Screen</h1>
                 <span>Level Up Your Events With Cinstar Stage LED Wall</span>
-                <div class="border-button">Get A Quote Now</div>
+                <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
@@ -43,16 +41,16 @@
                             <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>
                         </div>
                         <p>Indoor rental LED stage screen is crafted with utmost precision using high-quality die-cast aluminum materials. A quality stage LED video wall provides a more immersive viewing experience, higher refresh rate, greater contrast ratio, and higher resolution. Cinstar LED stage screen can for sure bring you a very different experience on quality and cost effectiveness.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Rental LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
                         </div>
                         <p>Outdoor rental LED stage screen is designed to meet the IP65 waterproof and is suited for any outdoor stage event applications. Stage LED wall provides a high level of brightness to ensure a clear and high-quality performance, even in daytime conditions. By applying Cinstar LED stage screen, you are allowed to build the LED walls as what you like, to be flat, curved or any creative design you desired.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
@@ -61,34 +59,34 @@
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct view LED stage screen is an ideal video solution for any kind of event applications which require top quality images and high profile performance. A direct view LED stage screen can deliver a strong impact to audiences and get all them engages. Cinstar stage LED wall can meet all requirements on image quality and venue budgets to make sure it will be your best LED screen for stages and events. </p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 80%" src="../images/products/Rental-LED/n-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/n-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Cost Efficient Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/n-series.php">N Series Product</a>
                         </div>
                         <p>Featuring front installation and front service, stage LED video wall is simple to install and maintain. All the excellent features make LED stage screen the most effective and economical display suitable for a variety of applications, no matter comes to short term or long term investment. Cinstar stage LED wall guarantees attendees a sophisticated and exceptional viewing experience and level up your business.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 60%" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 60%" class="img-longer" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Wide Choice Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/e-series.php">E Series Product</a>
                         </div>
                         <p>Stage LED wall has a very wide viewing angle for all attendees to have an engages and immersive visual experience. Cinstar LED stage screen varies in size and weight to cater to all your specific event requirement. Our stage LED video wall can meet all your demand on the budget by choosing from a variety of pixel pitches, including 1.25mm, 2.5mm, 3.9mm, 4.8mm, and more.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 75%" src="../images/products/Rental-LED/t-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 75%" class="img-long" src="../images/products/Rental-LED/t-series.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Creative Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/t-series.php">T Series Product</a>
                         </div>
                         <p>No matter what effect you wanna achieve, creative stage LED video wall can make it happen. With combination of top class materials, Cinstar LED stage screen ensures crisp visuals and flicker-free entertainment for any of your events. From large-scale events to intimate stage backdrops, the creative stage LED wall can always deliver you the best visual performance as what you imagined.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -105,9 +103,9 @@
                             <div class="title">
                                 Slim Panel Design
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                                 The LED stage screen is specifically engineered with an exceptionally slim and lightweight cabinet to facilitate convenient transportation. Cinstar stage LED wall provides rapid assembly and disassembly within a second. Due of its distinct benefits, the LED stage screen has the potential to gradually replace conventional video projector/projection with digital LED video wall display.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -118,9 +116,9 @@
                             <div class="title">
                                 More Possibilities
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                                 The advent of LED stage screen has shaken up the AV industry and brought more possibilities for all kinds of event productions. With a wide range of sizes and pixel pitches, Cinstar stage LED video wall is capable of providing viewers with eye-popping visual effects, vibrant images, and immersive visual experiences. Cinstar stage LED screen is for sure the best choice for your next events.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -131,9 +129,9 @@
                             <div class="title half-title">
                                 Expert LED System 
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                                 Our LED stage screen is outfitted with a proficient audio and video system that is capable of processing a number of different signals. With Cinstar stage LED video wall, the quality of the signal processing is maintained, and is able to play images with a high level of reproduction. Not only is it simple to set up and relocate, but we also offer it at a price that is competitive.
-                            </div>
+                            </p>
                         </div>
                     </div>
                     <div class="iconItem">
@@ -144,9 +142,9 @@
                             <div class="title">
                                 Excellent Visual Impact
                             </div>
-                            <div class="icon-part">
+                            <p class="icon-part">
                                 Our Cinstar LED stage screen utilizes current top quality LEDs. By doing so, Cinstar stage LED walls are guaranteed to produce a high grayscale, high contrast, high refresh rate, and high definition. Besides, Cintar LED screens for events can fulfill the requirements of live streaming as well as the needs of stage broadcasting requirements. If you are looking for a quality LED screen for stage, just contact us at any time!
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -156,7 +154,7 @@
             <div class="content application-list">
                 <h2>LED Stage Screen Applications</h2>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-2.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-2.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Concert LED Stage Screen</h3>
                         <b>Background visual display</b>
@@ -165,73 +163,73 @@
                         </p>
                         <b>Stage design integration</b>
                         <p>LED stage screens are typically incorporated with stage design to offer an integrated visual experience. To achieve a cohesive aesthetic impression, the arrangement and content of the stage LED video walls must be in sync with the elements of the stage.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-3.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-3.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Opera & Theatre Stage LED Wall</h3>
                         <b>Excellent live performance</b>
                         <p>Stage LED wall can be utilized to display artists' and bands' real-time performances, providing a better view of the stage for the audience. This is of utmost importance for venues with huge stages or for spectators situated far from the performance area.</p>
                         <b>Incorporate dramatic effects</b>
                         <p>By applying meticulously crafted stage screen effects, a stage LED display wall can produce dramatic effects that enhance the transformation and intensity of the stage. This involves utilizing advanced techniques such as lasers and smoke to complement the theater LED stage screen.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-4.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-4.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Lecture & Presentation LED Stage Screen</h3>
                         <b>Visual and audiovisual support</b>
                         <p>Integrating images and video content into your speech can enhance the liveliness of your topic. LED stage screen has the capability to display high-definition images and videos, which can enhance the visual attractiveness of the speeches.</p>
                         <b>Interactivity and real-time updates</b>
                         <p>Certain sophisticated stage LED wall screen technologies enable presenters to engage with the audience through features like real-time voting results and responding to audience questioning.  Furthermore, the presenter has the ability to modify the information shown on the screen at any time in order to align with the advancement of the speech.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-5.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-5.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Trade Show LED Stage Screen</h3>
                         <b>Branding and advertising</b>
                         <p>During trade shows or industry expos, a LED screen for stage can be utilized to promote a brand by showcasing exhibitors' adverts, product details, and brand information. In lectures, it can also serve as a means for sponsor marketing.</p>
                         <b>Real-time updates and modifications</b>
                         <p>The LED stage screen has the ability to immediately alter the displayed content in response to the ongoing course of the event, including speaker schedules, special events, and so on. This versatility is also valuable for modifying lecture content or display information.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-6.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-6.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">TV Studio LED Stage Screen</h3>
                         <b>Environment creation and theme presentation</b>
                         <p>The stage LED video wall has the ability to generate many environments and themes for live TV by changing backdrops, patterns, and animations. A quality LED stage screen can enhance the audience's immersion in live events.</p>
                         <b>Simultaneous multi-screen playback</b>
                         <p>During multi-camera live broadcasts, the content shown on the LED stage screen can be simultaneously played on numerous displays, offering the audience a comprehensive and multi-perspective live viewing experience.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-7.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-7.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Award Ceremony LED Stage Screen</h3>
                         <b>Winners and presenters introduction </b>
                         <p>To help the audience get to know the participants better, the stage LED screen can showcase the presenters' and winners' bios, which can include images, accomplishments, and relevant background information etc.</p>
                         <b>Event theme presentation</b>
                         <p>LED stage screen enhances the overall ambiance and visual impact of the ceremony by showcasing patterns, animations, and backgrounds that are relevant to the theme of the award ceremony.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
                 <div class="application-item">
-                    <div style="width: 50%;display: flex;align-items: center"><img style="width: 100%;" src="../images/products/new-page/LED-stage-screen/LED-stage-screen-8.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-8.jpg" /></div>
                     <div class="application-right">
                         <h3 class="title">Fashion Show LED Stage Screen Wall</h3>
                         <b>Background and decorations enhancement</b>
                         <p>Stage LED screen wall can be utilized to highlight virtual backgrounds and surroundings, offering fashion shows a range of settings that align with apparel design and themes. The stage LED wall enables designers to showcase their work in various settings without necessity of changing the stage setup.</p>
                         <b>Costume design displaying</b>
                         <p>By utilizing stage LED screen wall technology, designers can showcase distinctive clothing design effects, like dynamic patterns and color transformations. The LED stage screen enhances the visual appeal of the costumes on stage, giving them a more vibrant and exclusive appearance.</p>
-                        <div class="series-border-button">Get A Quote Now</div>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>
             </div>
@@ -254,7 +252,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <div class="contact-banner-button">Contact Us Now</div>
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>
@@ -355,22 +353,10 @@
                 <p>We are certain that our advice will assist you in effortlessly choosing the optimal LED stage screen for your business, future event, or production. Cinstar is dedicated to delivering top-notch LED stage displays that cater to a wide range of requirements and budgets. </p>
                 <p>We strongly suggest you to contact us for tailored assistance in choosing the ideal LED stage screen solution that fulfills your precise needs. Feel free to contact us to learn more about the most optimal choices available. </p>
             </div>
+            <?php include('../inc/messageBox.php'); ?>
         </div>
-
-        <!-- 产品参数结束 -->
         <?php include('../inc/foot.php'); ?>
-    </div>
-    <!-- <div class="container">
-        
-        
-    </div> -->
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>
-    <!-- <script>
-        $(".target").click(function () {
-        $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
-            return false;
-        });
-    </script> -->
 </body> 
 </html>
