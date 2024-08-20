@@ -165,12 +165,6 @@ img {
     }
 }
 @media (max-width: 1199px) {
-    .blog-content {
-        margin-top: 60px;
-    }
-    .blog-content .content, .content {
-        width: 100%;
-    }
     .title {
         font-size: 26px;
     }
@@ -196,8 +190,14 @@ img {
     .sort-detail .read-more {
         font-size: 18px;
     }
+    .blog-content .content, .content {
+        width: 100%;
+    }
 }
 @media (max-width: 991px) {
+    .blog-content {
+        margin-top: 60px;
+    }
     .blog-content .title {
         font-size: 24px;
     }

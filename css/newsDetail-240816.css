@@ -107,7 +107,7 @@ h2 {
         overflow: hidden;
     }
 }
-@media (max-width:992px){
+@media (max-width: 991px){
     .news-detail {
         margin-bottom: 40px;
     }

@@ -1,8 +1,8 @@
 <script src="../utils/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
-    document.addEventListener('contextmenu', function (e) {
-        e.preventDefault();
-    });
+    // document.addEventListener('contextmenu', function (e) {
+    //     e.preventDefault();
+    // });
     document.addEventListener('selectstart', function (e) {
         e.preventDefault();
     });
@@ -125,25 +125,31 @@
 
     }
 </script>
-<script>
+<script type="text/javascript">
     $(".target").click(function () {
     $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
         return false;
     });
-    const messageLeft = $(".message-box").offset().left;
-    const messageTop = $(".message-box").offset().top;
-    const messageWidth = $(".content-container").innerWidth();
-    $(window).scroll(function(){
-        if($(window).scrollTop()>messageTop+300) {
-            $(".message-box").addClass("fix");
-            $(".message-box").css({
-                // 'left':messageLeft + 60,
-                // 'width':messageWidth*0.3,
-            })
-        }else{
-            $(".message-box").removeClass("fix")
-        }
-    })
+    function messageBoxFixed() {
+        const messageLeft = $(".message-box").offset().left;
+        const messageTop = $(".message-box").offset().top;
+        const messageWidth = $(".content-container").innerWidth();
+        $(window).scroll(function(){
+            if($(window).scrollTop()>messageTop+300) {
+                $(".message-box").addClass("fix");
+                $(".message-box").css({
+                    // 'left':messageLeft + 60,
+                    // 'width':messageWidth*0.3,
+                })
+            }else{
+                $(".message-box").removeClass("fix")
+            }
+        })
+    }
+    if($(window).width() > 1025) {
+        messageBoxFixed()
+    }
+    window.addEventListener('resize', messageBoxFixed);
 </script>
 <script type="text/javascript">
     function scrollImg(boxclass, listclass) {

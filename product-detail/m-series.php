@@ -149,7 +149,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>M SERIES Features</span>
+                <span>M Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -194,7 +194,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>M SERIES Showcase</span>
+                <span>M Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">

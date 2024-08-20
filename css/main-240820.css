@@ -445,7 +445,7 @@ ul.unorder-list li {
         padding: 0 10px;
     }
 }
-@media (max-width: 992px){
+@media (max-width: 991px){
     .profile .profile-content {
         padding: 20px;
     }

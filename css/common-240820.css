@@ -636,7 +636,7 @@
         font-size: 38px;
     }
 }
-@media (max-width: 992px) {
+@media (max-width: 991px) {
     .product-item {
         width: 45%;
         margin-right: 2.5%;

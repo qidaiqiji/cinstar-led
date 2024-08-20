@@ -502,7 +502,7 @@ table .thead{
         height: auto;
     }
 }
-@media (max-width: 992px){
+@media (max-width: 991px){
     .detail-title {
         height: 160px;
     }

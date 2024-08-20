@@ -1,14 +1,10 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-767120070"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FEP9HXTB68"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'AW-767120070');
-</script>
-<!-- Event snippet for Website traffic conversion page -->
-<script>
-    gtag('event', 'conversion', {'send_to': 'AW-767120070/vvGACPTs9O0BEMal5e0C'});
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FEP9HXTB68');
 </script>
 <meta charset="UTF-8">
 <meta name="viewport"
