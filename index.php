@@ -18,9 +18,9 @@
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen" />  
     <title>LED Video Wall Panels | LED Display Screen Manufacturer | Cinstar LED</title>
     <link rel="stylesheet" href="css/custom-product-240818.css">
-    <link rel="stylesheet" href="css/common-home-240819-1.css">
+    <link rel="stylesheet" href="css/common-home-240820.css">
     <link rel="stylesheet" href="css/contact-240815.css">
-    <link rel="stylesheet" href="css/main-240819-1.css">
+    <link rel="stylesheet" href="css/main-240820.css">
 </head>
 <body class="page-index">
     <?php include('inc/top.php'); ?>   
