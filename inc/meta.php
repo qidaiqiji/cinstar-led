@@ -6,6 +6,10 @@
   gtag('js', new Date());
   gtag('config', 'G-FEP9HXTB68');
 </script>
+<!-- Event snippet for Website traffic conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-767120070/vvGACPTs9O0BEMal5e0C'});
+</script>
 <meta charset="UTF-8">
 <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">

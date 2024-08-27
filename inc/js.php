@@ -1,8 +1,8 @@
 <script src="../utils/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
-    // document.addEventListener('contextmenu', function (e) {
-    //     e.preventDefault();
-    // });
+    document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+    });
     document.addEventListener('selectstart', function (e) {
         e.preventDefault();
     });
