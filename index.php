@@ -25,6 +25,10 @@
 </head>
 
 <body class="page-index">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBDRNKJB"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include('inc/top.php'); ?>   
     <div class="container new-product-container">        
         <div class="banner">
