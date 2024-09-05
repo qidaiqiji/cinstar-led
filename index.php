@@ -21,7 +21,9 @@
     <link rel="stylesheet" href="css/common-home-240827.css">
     <link rel="stylesheet" href="css/contact-240815.css">
     <link rel="stylesheet" href="css/main-240820.css">
+<meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
 </head>
+
 <body class="page-index">
     <?php include('inc/top.php'); ?>   
     <div class="container new-product-container">        
