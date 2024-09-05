@@ -1,5 +1,7 @@
 User-Agent: *
+Allow: /
 Disallow: /quotes/
 Disallow: /quotes/hzajadm/
 Disallow: /quotes/Home/
 Disallow: /quotes/Framework/
+Sitemap: https://www.cinstar-led.com/sitemap.xml
