@@ -14,7 +14,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="new-product-container">
         <div class="product-banner">
-            <img src="../images/products/new-page/direct-view-led/direct-view-led-1.jpg" alt="concert-led-screen-1"/>
+            <img src="../images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Direct View LED</h1>
@@ -137,7 +137,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.jpg" />
+            <img src="../images/home-new/contact-banner.webp" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

@@ -560,7 +560,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short" alt="tr-series"/>
+                        <img src="../images/home/TR-SERIES.webp" class="short" alt="tr-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/tr-series.php">
                         <span class="current">TR SERIES</span><span class="more">View More</span>
@@ -568,7 +568,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC SERIES.jpg" alt="mc-series"/>
+                        <img src="../images/home/MC-SERIES.jpg" alt="mc-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/mc-series.php">
                         <span class="current">MC SERIES</span><span class="more">View More</span>
@@ -576,7 +576,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.jpg" alt="xposter"/>
+                        <img src="../images/home/Xposter.webp" alt="xposter"/>
                     </a>
                     <a class="list-title" href="../product-detail/xposter.php">
                         <span class="current">Xposter</span><span class="more">View More</span>
@@ -585,7 +585,7 @@
                 
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/db-series.php">
-                        <img src="../images/home/DB Series.jpg" class="shorter" alt="db-series"/>
+                        <img src="../images/home/DB-Series.webp" class="shorter" alt="db-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/db-series.php">
                         <span class="current">DB SERIES</span><span class="more">View More</span>

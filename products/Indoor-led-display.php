@@ -38,7 +38,7 @@
                 <h2>Cinstar Indoor LED Video Wall Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 70%;" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 70%;" src="../images/products/Rental-LED/M-series-1.webp" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Display Rental </h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -95,7 +95,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.jpg" />
+            <img src="../images/home-new/contact-banner.webp" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

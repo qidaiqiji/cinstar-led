@@ -81,7 +81,7 @@
         <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" style="width: 100%" alt="HD SERIES"/>
+                    <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra High Definition LED Video Display</h2>
@@ -574,7 +574,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/nl-series.php">
-                        <img src="../images/home/NL Series.jpg"  class="short thumb-bigger" alt="NL Series"/>
+                        <img src="../images/home/NL-Series.webp"  class="short thumb-bigger" alt="NL Series"/>
                     </a>
                     <a class="list-title" href="../product-detail/nl-series.php">
                         <span class="current">NL SERIES</span><span class="more">View More</span>
@@ -582,7 +582,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR SERIES.jpg" alt="CR SERIES"/>
+                        <img src="../images/home/CR-SERIES.webp" alt="CR SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/cr-series.php">
                         <span class="current">CR SERIES</span><span class="more">View More</span>
@@ -590,7 +590,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short" alt="TR SERIES"/>
+                        <img src="../images/home/TR-SERIES.webp" class="short" alt="TR SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/tr-series.php">
                         <span class="current">TR SERIES</span><span class="more">View More</span>
@@ -598,7 +598,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.jpg" alt="xposter"/>
+                        <img src="../images/home/Xposter.webp" alt="xposter"/>
                     </a>
                     <a class="list-title" href="../product-detail/xposter.php">
                         <span class="current">Xposter</span><span class="more">View More</span>

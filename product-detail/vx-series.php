@@ -603,7 +603,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR SERIES.jpg" alt="cr-series"/>
+                        <img src="../images/home/CR-SERIES.webp" alt="cr-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/cr-series.php">
                         <span class="current">CR SERIES</span><span class="more">View More</span>
@@ -611,7 +611,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM SERIES.jpg" alt="lm-series"/>
+                        <img src="../images/home/LM-SERIES.webp" alt="lm-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/lm-series.php">
                         <span class="current">LM SERIES</span><span class="more">View More</span>
@@ -619,7 +619,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short" alt="tr-series"/>
+                        <img src="../images/home/TR-SERIES.webp" class="short" alt="tr-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/tr-series.php">
                         <span class="current">TR SERIES</span><span class="more">View More</span>
@@ -627,7 +627,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ei-series.php">
-                        <img src="../images/home/EI Series.jpg" class="shorter" alt="ei-series"/>
+                        <img src="../images/home/EI-Series.webp" class="shorter" alt="ei-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/ei-series.php">
                         <span class="current">EI SERIES</span><span class="more">View More</span>

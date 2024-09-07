@@ -86,5 +86,5 @@ if($hrefLink != '')
 }
 ?>
 
-<link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css">
+<link rel="preload" href="../css/font-awesome/css/font-awesome.min.css" as="style" onload="this.rel='stylesheet'">
 <link rel="icon" href="../images/favicon.ico">

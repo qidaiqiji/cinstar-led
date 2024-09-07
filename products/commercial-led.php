@@ -138,7 +138,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ft-series.php">
-                        <img src="../images/products/Commercial-LED/FT SERIES.jpg" alt="FT SERIES"/>
+                        <img src="../images/products/Commercial-LED/FT-SERIES.webp" alt="FT SERIES"/>
                         <div class="spec-detail">
                             <h2 class="series-title">FT SERIES</h2>
                             <p>Pixel Pitch (mm): 4.81 / 5.95 / 6.67 / 8 / 10</p>

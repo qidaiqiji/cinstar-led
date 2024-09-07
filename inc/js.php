@@ -1,11 +1,12 @@
+
 <script src="../utils/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
-    document.addEventListener('contextmenu', function (e) {
-        e.preventDefault();
-    });
-    document.addEventListener('selectstart', function (e) {
-        e.preventDefault();
-    });
+    // document.addEventListener('contextmenu', function (e) {
+    //     e.preventDefault();
+    // });
+    // document.addEventListener('selectstart', function (e) {
+    //     e.preventDefault();
+    // });
     $(document).ready(function() {
         $(".subMenu-ul .subMenu-link").each(function(){
             $this = $(this);
@@ -52,24 +53,6 @@
     $("#mobile-header").click(function(){
         $(".page-index").toggleClass('menu-open')
     })
-    $('.has-sub').on('click', function(e){
-    if($(window).width() < 1025) {
-        // e.preventDefault();
-        // var menuItem = $(this).parents('.menu-item');
-        // var subMenu = menuItem.find('.subMenu');
-        // var subMenuLength = menuItem.find('.subMenu-ul li').length;
-        // var url = $(this).attr('href');
-        // if (menuItem.hasClass('active')) {
-        //     location.href = url;
-        // } else {
-        //     menuItem.addClass('active');
-        //     subMenu.css({
-        //         height: subMenuLength * 50
-        //     });
-        // }
-    }
-    });
-
     $(window).on("scroll",function(){
         if($(window).scrollTop()>0) {
             $(".header").addClass("fixed")
@@ -137,16 +120,12 @@
         $(window).scroll(function(){
             if($(window).scrollTop()>messageTop+300) {
                 $(".message-box").addClass("fix");
-                $(".message-box").css({
-                    // 'left':messageLeft + 60,
-                    // 'width':messageWidth*0.3,
-                })
             }else{
                 $(".message-box").removeClass("fix")
             }
         })
     }
-    if($(window).width() > 1025) {
+    if($(window).width() > 1025 && $(".message-box").length > 0) {
         messageBoxFixed()
     }
     window.addEventListener('resize', messageBoxFixed);

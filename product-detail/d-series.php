@@ -593,7 +593,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/fantasy.php">
-                        <img src="../images/home/FANTASY.jpg" alt="fantasy"/>
+                        <img src="../images/home/FANTASY.webp" alt="fantasy"/>
                     </a>
                     <a class="list-title" href="../product-detail/fantasy.php">
                         <span class="current">FANTASY</span><span class="more">View More</span>
@@ -601,7 +601,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS Series.jpg" class="ts-series"/>
+                        <img src="../images/home/TS-Series.webp" class="ts-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/ts-series.php">
                         <span class="current">TS SERIES</span><span class="more">View More</span>

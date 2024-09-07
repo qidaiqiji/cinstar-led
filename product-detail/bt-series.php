@@ -548,7 +548,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT SERIES.jpg" class="short" alt="FT SERIES"/>
+                        <img src="../images/home/FT-SERIES.webp" class="short" alt="FT SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/ft-series.php">
                         <span class="current">FT SERIES</span><span class="more">View More</span>

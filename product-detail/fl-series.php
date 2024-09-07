@@ -491,7 +491,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short" alt="TR SERIES"/>
+                        <img src="../images/home/TR-SERIES.webp" class="short" alt="TR SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/tr-series.php">
                         <span class="current">TR SERIES</span><span class="more">View More</span>
@@ -507,7 +507,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/fantasy.php">
-                        <img src="../images/home/FANTASY.jpg" alt="fantasy"/>
+                        <img src="../images/home/FANTASY.webp" alt="fantasy"/>
                     </a>
                     <a class="list-title" href="../product-detail/fantasy.php">
                         <span class="current">FANTASY</span><span class="more">View More</span>

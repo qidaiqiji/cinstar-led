@@ -16,7 +16,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner">
-            <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-1.jpg" alt="rental-led"/>
+            <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-1.webp" alt="rental-led"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>LED Screens For Events</h1>
@@ -40,7 +40,7 @@
                     <div class="specification">
                         <div class="product-img img-bigger">
                             <a href="../product-detail/m-series.php">
-                                <img src="../images/products/Rental-LED/M-series-1.jpg" alt="M SERIES" style="width: 90%" />
+                                <img src="../images/products/Rental-LED/M-series-1.webp" alt="M SERIES" style="width: 90%" />
                                 <div class="spec-detail">
                                     <h2 class="series-title">M SERIES</h2>
                                     <p>Pixel Pitch (mm): Indoor 2.6 / 2.84 / 2.97 / 3.91</p>
@@ -401,7 +401,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.jpg" />
+            <img src="../images/home-new/contact-banner.webp" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

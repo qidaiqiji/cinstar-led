@@ -44,7 +44,7 @@
                 <h2>Cinstar LED Screen for Church</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 48%" class="img-longer" src="../images/home/Xposter.jpg" /></a>
+                        <a class="img-box" href="../product-detail/xposter.php"><img style="width: 48%" class="img-longer" src="../images/home/Xposter.webp" /></a>
                         <div class="title-box-change">
                             <h3>Church LED Poster Screen</h3>
                             <a class="title-border-button" href="../product-detail/xposter.php">Xposter Series Product</a>
@@ -227,7 +227,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.jpg" />
+            <img src="../images/home-new/contact-banner.webp" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

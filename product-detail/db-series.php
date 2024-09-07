@@ -593,7 +593,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT SERIES.jpg" class="short"/>
+                        <img src="../images/home/FT-SERIES.webp" class="short"/>
                     </a>
                     <a class="list-title" href="../product-detail/ft-series.php">
                         <span class="current">FT SERIES</span><span class="more">View More</span>
@@ -601,7 +601,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC SERIES.jpg"/>
+                        <img src="../images/home/MC-SERIES.jpg"/>
                     </a>
                     <a class="list-title" href="../product-detail/mc-series.php">
                         <span class="current">MC SERIES</span><span class="more">View More</span>
@@ -609,7 +609,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS Series.jpg" class="ts-series"/>
+                        <img src="../images/home/TS-Series.webp" class="ts-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/ts-series.php">
                         <span class="current">TS SERIES</span><span class="more">View More</span>
@@ -617,7 +617,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ei-series.php">
-                        <img src="../images/home/EI Series.jpg"  class="shorter"/>
+                        <img src="../images/home/EI-Series.webp"  class="shorter"/>
                     </a>
                     <a class="list-title" href="../product-detail/ei-series.php">
                         <span class="current">EI SERIES</span><span class="more">View More</span>

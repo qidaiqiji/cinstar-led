@@ -45,6 +45,7 @@
         url('./iconfont/iconfont.woff') format('woff'),
         url('./iconfont/iconfont.ttf') format('truetype'),
         url('./iconfont/iconfont.svg#iconfont') format('svg');
+        font-display: swap;
 }
 .iconfont {
     font-family: "iconfont" !important;

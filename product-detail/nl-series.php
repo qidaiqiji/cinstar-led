@@ -584,7 +584,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM SERIES.jpg" alt="LM SERIES"/>
+                        <img src="../images/home/LM-SERIES.webp" alt="LM SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/lm-series.php">
                         <span class="current">LM SERIES</span><span class="more">View More</span>
@@ -592,7 +592,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS Series.jpg" class="ts-series" alt="TS SERIES"/>
+                        <img src="../images/home/TS-Series.webp" class="ts-series" alt="TS SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/ts-series.php">
                         <span class="current">TS SERIES</span><span class="more">View More</span>
@@ -600,7 +600,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.jpg" alt="xposter"/>
+                        <img src="../images/home/Xposter.webp" alt="xposter"/>
                     </a>
                     <a class="list-title" href="../product-detail/xposter.php">
                         <span class="current">Xposter</span><span class="more">View More</span>

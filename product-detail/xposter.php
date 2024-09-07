@@ -250,7 +250,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS Series.jpg" class="ts-series" alt="ts-series"/>
+                        <img src="../images/home/TS-Series.webp" class="ts-series" alt="ts-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/ts-series.php">
                         <span class="current">TS SERIES</span><span class="more">View More</span>
@@ -258,7 +258,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM SERIES.jpg" alt="lm-series"/>
+                        <img src="../images/home/LM-SERIES.webp" alt="lm-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/lm-series.php">
                         <span class="current">LM SERIES</span><span class="more">View More</span>
@@ -266,7 +266,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC SERIES.jpg" alt="mc-series"/>
+                        <img src="../images/home/MC-SERIES.jpg" alt="mc-series"/>
                     </a>
                     <a class="list-title" href="../product-detail/mc-series.php">
                         <span class="current">MC SERIES</span><span class="more">View More</span>

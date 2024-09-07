@@ -563,7 +563,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR SERIES.jpg"  class="shorter" alt="CR SERIES" style="width: 55%"/>
+                        <img src="../images/home/CR-SERIES.webp"  class="shorter" alt="CR SERIES" style="width: 55%"/>
                     </a>
                     <a class="list-title" href="../product-detail/cr-series.php">
                         <span class="current">CR SERIES</span><span class="more">View More</span>

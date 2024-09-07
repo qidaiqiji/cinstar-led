@@ -526,7 +526,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC SERIES.jpg"/>
+                        <img src="../images/home/MC-SERIES.jpg"/>
                     </a>
                     <a class="list-title" href="../product-detail/mc-series.php">
                         <span class="current">MC SERIES</span><span class="more">View More</span>
@@ -534,7 +534,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT SERIES.jpg" class="short" alt="FT SERIES"/>
+                        <img src="../images/home/FT-SERIES.webp" class="short" alt="FT SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/ft-series.php">
                         <span class="current">FT SERIES</span><span class="more">View More</span>

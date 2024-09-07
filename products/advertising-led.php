@@ -62,7 +62,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%;" src="../images/home/FT SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%;" src="../images/home/FT-SERIES.webp" /></a>
                         <div class="title-box-change">
                             <h3> Commercial Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -71,7 +71,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%;" src="../images/home/MC SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%;" src="../images/home/MC-SERIES.jpg" /></a>
                         <div class="title-box-change">
                             <h3>Curtain LED Advertising Display</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -151,7 +151,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.jpg" />
+            <img src="../images/home-new/contact-banner.webp" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

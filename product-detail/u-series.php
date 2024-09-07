@@ -591,7 +591,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/nl-series.php">
-                        <img src="../images/home/NL Series.jpg"  class="short thumb-bigger" alt="NL Series"/>
+                        <img src="../images/home/NL-Series.webp"  class="short thumb-bigger" alt="NL Series"/>
                     </a>
                     <a class="list-title" href="../product-detail/nl-series.php">
                         <span class="current">NL SERIES</span><span class="more">View More</span>

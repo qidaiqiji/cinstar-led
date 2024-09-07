@@ -48,7 +48,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%;" class="img-long" src="../images/products/Rental-LED/M-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%;" class="img-long" src="../images/products/Rental-LED/M-series-1.webp" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Rental LED Display</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -168,7 +168,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.jpg" />
+            <img src="../images/home-new/contact-banner.webp" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

@@ -600,7 +600,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS Series.jpg" class="ts-series" alt="TS SERIES"/>
+                        <img src="../images/home/TS-Series.webp" class="ts-series" alt="TS SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/ts-series.php">
                         <span class="current">TS SERIES</span><span class="more">View More</span>

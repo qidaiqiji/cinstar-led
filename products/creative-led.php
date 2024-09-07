@@ -165,7 +165,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.jpg" alt="Xposter" style="width: 55%"/>
+                        <img src="../images/home/Xposter.webp" alt="Xposter" style="width: 55%"/>
                         <div class="spec-detail">
                             <h2 class="series-title">XPOSTER</h2>
                             <p>Pixel Pitch (mm): 1.8 / 2.5</p>

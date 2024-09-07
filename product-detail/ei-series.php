@@ -602,7 +602,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM SERIES.jpg"/>
+                        <img src="../images/home/LM-SERIES.webp"/>
                     </a>
                     <a class="list-title" href="../product-detail/lm-series.php">
                         <span class="current">LM SERIES</span><span class="more">View More</span>
@@ -618,7 +618,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short"/>
+                        <img src="../images/home/TR-SERIES.webp" class="short"/>
                     </a>
                     <a class="list-title" href="../product-detail/tr-series.php">
                         <span class="current">TR SERIES</span><span class="more">View More</span>
@@ -626,7 +626,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT SERIES.jpg" class="short"/>
+                        <img src="../images/home/FT-SERIES.webp" class="short"/>
                     </a>
                     <a class="list-title" href="../product-detail/ft-series.php">
                         <span class="current">FT SERIES</span><span class="more">View More</span>

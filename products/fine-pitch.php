@@ -66,7 +66,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/hd-series.php">
-                        <img src="../images/products/Fine-Pitch/HD-SERIES-2.jpg" style="width: 100%" alt="HD SERIES"/>
+                        <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES"/>
                         <div class="spec-detail">
                             <h2 class="series-title">HD SERIES</h2>
                             <p>Pixel Pitch (mm): 0.93 / 1.25 / 1.56 / 1.87</p>

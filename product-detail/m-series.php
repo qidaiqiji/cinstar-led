@@ -75,7 +75,7 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Rental-LED/M-series-1.jpg" alt="M SERIES"/>
+                <img src="../images/products/Rental-LED/M-series-1.webp" alt="M SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->

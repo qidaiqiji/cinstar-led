@@ -38,7 +38,7 @@
                 href: '../news-detail/2024-01-26.php'
             },
             {
-                imgSrc:'../images/news/2023-11-13-1.jpg',
+                imgSrc:'../images/news/2023-11-13-1.webp',
                 title:'Cinstar creative LED display solutions boost your business ',
                 data:'2023-11-13',
                 detail:'When the market is in floods of same products and everyone is busy competing on the price, it is more difficult than ever to win trust, but easier to lose project',
