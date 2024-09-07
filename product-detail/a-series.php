@@ -21,7 +21,7 @@
         </div>
         <div class="topContainer" style="margin-top:80px">
             <div class="topImg">
-                <img src="../images/products/Rental-LED/A-series-1.jpg" alt="A SERIES"/>
+                <img src="../images/products/Rental-LED/A-series-1.webp" alt="A SERIES"/>
                 <h2 class="fantasy-title">
                 A Series
                 </h2>

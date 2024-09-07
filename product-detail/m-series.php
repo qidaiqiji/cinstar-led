@@ -652,7 +652,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/a-series.php">
-                        <img src="../images/products/Rental-LED/A-series-1.jpg" class="shorter" style="width: 88%" alt="K SERIES"/>
+                        <img src="../images/products/Rental-LED/A-series-1.webp" class="shorter" style="width: 88%" alt="K SERIES"/>
                     </a>
                     <a class="list-title" href="../product-detail/a-series.php">
                         <span class="current">A SERIES</span><span class="more">View More</span>

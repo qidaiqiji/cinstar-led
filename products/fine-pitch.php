@@ -26,7 +26,7 @@
         <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ch-series.php">
-                        <img src="../images/products/Fine-Pitch/CH-series-1.jpg" style="width: 100%" alt="CH SERIES"/>
+                        <img src="../images/products/Fine-Pitch/CH-series-1.webp" style="width: 100%" alt="CH SERIES"/>
                         <div class="spec-detail">
                             <h2 class="series-title">CH SERIES</h2>
                             <p>Pixel Pitch (mm): 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -46,7 +46,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ec-series.php">
-                        <img src="../images/products/Fine-Pitch/EC-series-1.jpg" style="width: 100%" alt="EC SERIES"/>
+                        <img src="../images/products/Fine-Pitch/EC-series-1.webp" style="width: 100%" alt="EC SERIES"/>
                         <div class="spec-detail">
                             <h2 class="series-title">EC SERIES</h2>
                             <p>Pixel Pitch (mm): 0.62 / 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>

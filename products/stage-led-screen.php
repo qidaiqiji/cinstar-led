@@ -35,7 +35,7 @@
                 <h2>Cinstar LED Stage Screen Product</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.webp" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Rental LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>

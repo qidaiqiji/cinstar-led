@@ -62,7 +62,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/a-series.php"><img style="width: 80%" src="../images/products/Rental-LED/A-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/a-series.php"><img style="width: 80%" src="../images/products/Rental-LED/A-series-1.webp" /></a>
                         <div class="title-box-change">
                             <h3>Quality Church LED Screen </h3>
                             <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>

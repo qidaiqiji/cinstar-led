@@ -74,7 +74,7 @@
                 </div>
             </div>
             <div class="product-img hd-img" style="width: 47%">
-                <img src="../images/products/Fine-Pitch/CH-series-1.jpg" alt="CH SERIES"/>
+                <img src="../images/products/Fine-Pitch/CH-series-1.webp" alt="CH SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
@@ -616,7 +616,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/ec-series.php">
-                        <img style="width: 95%" src="../images/products/Fine-Pitch/EC-series-1.jpg"  class="short" alt="EC Series"/>
+                        <img style="width: 95%" src="../images/products/Fine-Pitch/EC-series-1.webp"  class="short" alt="EC Series"/>
                     </a>
                     <a class="list-title" href="../product-detail/ch-series.php">
                         <span class="current">EC SERIES</span><span class="more">View More</span>

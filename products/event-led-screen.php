@@ -61,7 +61,7 @@
                     <div class="specification">
                         <div class="product-img img-bigger">
                             <a href="../product-detail/a-series.php">
-                                <img src="../images/products/Rental-LED/A-series-1.jpg" alt="A SERIES" style="width: 90%" />
+                                <img src="../images/products/Rental-LED/A-series-1.webp" alt="A SERIES" style="width: 90%" />
                                 <div class="spec-detail">
                                     <h2 class="series-title">A SERIES</h2>
                                     <p>Pixel Pitch (mm): 1.56 / 1.95 / 2.97 / 3.91</p>

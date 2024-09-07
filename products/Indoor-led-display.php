@@ -17,7 +17,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner" style="height: 8rem">
-            <img src="../images/products/new-page/Indoor-led-display/indoor-led-display-1.jpg" alt="concert-led-screen-1"/>
+            <img src="../images/products/new-page/Indoor-led-display/indoor-led-display-1.webp" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Indoor LED Display</h1>
@@ -74,7 +74,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ch-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/CH-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ch-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/CH-series-1.webp" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Indoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/ch-series.php">CH Series Product</a>

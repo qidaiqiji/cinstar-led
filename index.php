@@ -42,7 +42,7 @@
                     </a>
                 </li>
                 <li>
-                    <img loading="lazy" src="images/products/new-page/3d-led-display/3d-led-display-1.jpg" alt="3d-led-display"/>
+                    <img loading="lazy" src="images/products/new-page/3d-led-display/3d-led-display-1.webp" alt="3d-led-display"/>
                     <a href="../products/3d-led-display.php" class="text-cover">
                         <h1>3D LED Display</h1>
                         <span>Outdoor Naked Eye 3D LED Screen Advertising</span>
@@ -50,14 +50,14 @@
                     </a>
                 </li>
                 <li>
-                    <img loading="lazy" src="images/products/new-page/Indoor-led-display/indoor-led-display-1.jpg" alt="indoor-led-display"/>
+                    <img loading="lazy" src="images/products/new-page/Indoor-led-display/indoor-led-display-1.webp" alt="indoor-led-display"/>
                     <a href="../products/indoor-led-display.php" class="text-cover">
                         <h1>Indoor LED Display</h1>
                         <span>The Most Cost Effective Indoor LED Display Screen</span>
                         <span class="border-button">Get More Information</span>
                     </a>
                 </li>
-                <li>
+                <!-- <li>
                     <img loading="lazy" src="images/products/new-page/LED-screens-for-events/LED-screens-for-events-1.webp" alt="LED-screens-for-events"/>
                     <a href="../products/event-led-screen.php" class="text-cover">
                         <h1>LED Screens For Events</h1>
@@ -72,7 +72,7 @@
                         <span>Boost Your Business With Cinstar Outdoor LED Display Board</span>
                         <span class="border-button">Get More Information</span>
                     </a>
-                </li>
+                </li> -->
             </ul>
         </div>
         <div class="detail-section profile-mobile">
@@ -235,7 +235,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/ch-series.php">
-                        <img src="images/products/Fine-Pitch/CH-series-1.jpg" alt="ch-series" class="short" style="width: 93%" />
+                        <img src="images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%" />
                     </a>
                     <a class="list-title" href="/product-detail/ch-series.php">
                         <span class="current">DVLED COB</span><span class="more">CH Series</span>
@@ -243,7 +243,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/ec-series.php">
-                        <img src="images/products/Fine-Pitch/EC-series-1.jpg" alt="ec-series" style="width: 93%"/>
+                        <img src="images/products/Fine-Pitch/EC-series-1.webp" alt="ec-series" style="width: 93%"/>
                     </a>
                     <a class="list-title" href="product-detail/ec-series.php">
                         <span class="current">Fine Pitch LED Display</span><span class="more">EC Series</span>
@@ -275,7 +275,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/a-series.php">
-                        <img src="images/products/Rental-LED/A-series-1.jpg" alt="a-series" class="short" style="width: 95%" />
+                        <img src="images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%" />
                     </a>
                     <a class="list-title" href="/product-detail/a-series.php">
                         <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
