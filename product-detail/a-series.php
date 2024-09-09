@@ -54,7 +54,7 @@
         <div class="product-detail ec-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-2.jpg" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-2.webp" alt="A SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Optimized PCB Board Design</h2>
@@ -72,13 +72,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-3.jpg" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-3.webp" alt="A SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-4.jpg" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-4.webp" alt="A SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Highly Integrated Control Unit </h2>
@@ -96,13 +96,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-5.jpg" class="special" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-5.webp" class="special" alt="A SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-6.jpg" alt="A SERIES" style="width: 100%"/>
+                    <img src="../images/products/Rental-LED/A-series-6.webp" alt="A SERIES" style="width: 100%"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Practical Corner Protection Flip</h2>
@@ -120,13 +120,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-7.jpg" class="special" alt="A SERIES" style="width: 100%"/>
+                    <img src="../images/products/Rental-LED/A-series-7.webp" class="special" alt="A SERIES" style="width: 100%"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-8.jpg" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-8.webp" alt="A SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Suspension And Floor Stacking Available</h2>

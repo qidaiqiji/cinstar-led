@@ -75,14 +75,14 @@
                 </div>
             </div>
             <div class="product-img small-long" style="width: 30%">
-                <img src="../images/products/Rental-LED/E-series-1.jpg" alt="E SERIES"/>
+                <img src="../images/products/Rental-LED/E-series-1.webp" alt="E SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-2.jpg" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-2.webp" alt="E SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Profile Robust Mechanical Design </h2>
@@ -100,13 +100,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-3.jpg" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-3.webp" alt="E SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-4.jpg" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-4.webp" alt="E SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Versatile Creative Installation</h2>
@@ -124,13 +124,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-5.jpg" class="special" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-5.webp" class="special" alt="E SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-6.jpg" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-6.webp" alt="E SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Practical Corner Protection Design</h2>
@@ -148,13 +148,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-7.jpg" class="special" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-7.webp" class="special" alt="E SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-8.jpg" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-8.webp" alt="E SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Two Panel Sizes Maximize Your Events Possibilities</h2>
@@ -172,7 +172,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-9.jpg" class="special" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-9.webp" class="special" alt="E SERIES"/>
                 </div>
             </div>
         </div>
@@ -228,13 +228,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Rental-LED/E-series-10.jpg" alt="Cinstar E2.6 Indoor Rental LED Video Wall"/>
+                    <img src="../images/products/Rental-LED/E-series-10.webp" alt="Cinstar E2.6 Indoor Rental LED Video Wall"/>
                     <a class="case-title">
                         <span class="current">Cinstar E2.6 Indoor Rental LED Video Wall</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Rental-LED/E-series-11.jpg" alt="Cinstar E3.9 Outdoor Event Rental LED Video Wall"/>
+                    <img src="../images/products/Rental-LED/E-series-11.webp" alt="Cinstar E3.9 Outdoor Event Rental LED Video Wall"/>
                     <a class="case-title">
                         <span class="current">Cinstar E3.9 Outdoor Event Rental LED Video Wall</span>
                     </a>

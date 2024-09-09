@@ -83,7 +83,7 @@
                     <div class="specification">
                         <div class="product-img img-bigger">
                             <a href="../product-detail/e-series.php">
-                                <img src="../images/products/Rental-LED/E-series-1.jpg" class="long-img" alt="E SERIES" style="width: 70%" />
+                                <img src="../images/products/Rental-LED/E-series-1.webp" class="long-img" alt="E SERIES" style="width: 70%" />
                                 <div class="spec-detail">
                                     <h2 class="series-title">E SERIES</h2>
                                     <p>Pixel Pitch (mm): 2.6 / 2.9 / 3.9</p>
@@ -106,7 +106,7 @@
                     <div class="specification">
                         <div class="product-img img-bigger">
                             <a href="../product-detail/n-series.php">
-                                <img src="../images/products/Rental-LED/n-series.jpg" class="long-img" alt="N SERIES" style="width: 95%" />
+                                <img src="../images/products/Rental-LED/n-series.webp" class="long-img" alt="N SERIES" style="width: 95%" />
                                 <div class="spec-detail">
                                     <h2 class="series-title">N SERIES</h2>
                                     <p>Pixel Pitch (mm): 1.9 / 2.6 / 2.9 / 3.9 / 4.8</p>
@@ -127,7 +127,7 @@
                     <div class="specification">
                         <div class="product-img img-bigger">
                             <a href="../product-detail/t-series.php">
-                                <img src="../images/products/Rental-LED/t-series.jpg" class="long-img" alt="T SERIES" style="width: 80%" />
+                                <img src="../images/products/Rental-LED/t-series.webp" class="long-img" alt="T SERIES" style="width: 80%" />
                                 <div class="spec-detail">
                                     <h2 class="series-title">T SERIES</h2>
                                     <p>Pixel Pitch (mm): 1.9 / 2.6 / 2.9 / 3.9 / 4.8</p>

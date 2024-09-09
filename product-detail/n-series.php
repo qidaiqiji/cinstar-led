@@ -75,13 +75,13 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Rental-LED/n-series.jpg" alt="n-SERIES"/>
+                <img src="../images/products/Rental-LED/n-series.webp" alt="n-SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Rental-LED/LM-Case-Show.jpg" alt="n-Case-Show"/>
+                <img src="../images/products/Rental-LED/LM-Case-Show.webp" alt="n-Case-Show"/>
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">Quick And Easy LED Displays</h2>

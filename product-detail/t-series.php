@@ -75,13 +75,13 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Rental-LED/t-series.jpg" alt="T-SERIES"/>
+                <img src="../images/products/Rental-LED/t-series.webp" alt="T-SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Rental-LED/VX-Case-Show.jpg" alt="T-Case-Show"/>
+                <img src="../images/products/Rental-LED/VX-Case-Show.webp" alt="T-Case-Show"/>
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">User-Friendly LED Video Displays</h2>

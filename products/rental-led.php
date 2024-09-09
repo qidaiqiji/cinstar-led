@@ -17,7 +17,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner">
-            <img src="../images/products/Rental-LED/banner.jpg" alt="rental-led"/>
+            <img src="../images/products/Rental-LED/banner.webp" alt="rental-led"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Rental LED Display Screen</h1>
@@ -57,7 +57,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 47%;" class="img-longer" src="../images/products/Rental-LED/E-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 47%;" class="img-longer" src="../images/products/Rental-LED/E-series-1.webp" /></a>
                         <div class="title-box-change">
                             <h3>LED Wall Rental Screen</h3>
                             <a class="title-border-button" href="../product-detail/e-series.php">E Series Product</a>
@@ -66,7 +66,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 70%;" class="img-long" src="../images/products/Rental-LED/n-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 70%;" class="img-long" src="../images/products/Rental-LED/n-series.webp" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/n-series.php">N Series Product</a>
@@ -75,7 +75,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 65%;" class="img-long" src="../images/products/Rental-LED/t-series.jpg" /></a>
+                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 65%;" class="img-long" src="../images/products/Rental-LED/t-series.webp" /></a>
                         <div class="title-box-change">
                             <h3>Rental LED Display Screen</h3>
                             <a class="title-border-button" href="../product-detail/t-series.php">T Series Product</a>
