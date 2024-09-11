@@ -94,19 +94,6 @@
 			default: level1 = "";
 		}
 	}
-    function BannerSlide(container,arrowClass) {
-        var unsliders = $(container).unslider({
-            fluid:true,
-            delay: 5000,
-        })
-        var sliders = unsliders.data('unslider');
-        
-        $(arrowClass).click(function() {
-            var fn = this.className.split(' ')[1];
-            sliders[fn]();
-        });
-
-    }
 </script>
 <script type="text/javascript">
     $(".target").click(function () {

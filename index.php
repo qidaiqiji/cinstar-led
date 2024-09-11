@@ -17,63 +17,48 @@
     <meta name="description" content="As a leading China LED display screen manufacturer, Cinstar supplies fine pitch LED wall, direct view LED, custom LED display, rental and advertising LED video wall panels to support our customers to grow their business." />
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen" />  
     <title>LED Video Wall Panels | LED Display Screen Manufacturer | Cinstar LED</title>
+    <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240827.css">
     <link rel="stylesheet" href="css/contact-240815.css">
-    <link rel="stylesheet" href="css/main-240820.css">
-<meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
+    <link rel="stylesheet" href="css/main-240911.css">
+    <meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
 </head>
-
 <body class="page-index">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBDRNKJB"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <?php include('inc/top.php'); ?>   
-    <div class="container new-product-container">        
-        <div class="banner">
-            <ul>
-                <li>
-                    <img loading="lazy" src="images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct-view-led"/>   
-                    <a href="../products/direct-view-led.php" class="text-cover">
+    <div class="container new-product-container">   
+    <div class="swiper banner">
+            <ul class="swiper-wrapper">
+                <li class="swiper-slide">
+                    <img src="images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct-view-led"/>   
+                    <a href="products/direct-view-led.php" class="text-cover">
                         <h1>Direct View LED</h1>
                         <span>UHD Visual Impact Fine Pitch LED Video Wall</span>
                         <span class="border-button">Get More Information</span>
                     </a>
                 </li>
-                <li>
+                <li class="swiper-slide">
                     <img loading="lazy" src="images/products/new-page/3d-led-display/3d-led-display-1.webp" alt="3d-led-display"/>
-                    <a href="../products/3d-led-display.php" class="text-cover">
+                    <a href="products/3d-led-display.php" class="text-cover">
                         <h1>3D LED Display</h1>
                         <span>Outdoor Naked Eye 3D LED Screen Advertising</span>
                         <span class="border-button">Get More Information</span>
                     </a>
                 </li>
-                <li>
+                <li class="swiper-slide">
                     <img loading="lazy" src="images/products/new-page/Indoor-led-display/indoor-led-display-1.webp" alt="indoor-led-display"/>
-                    <a href="../products/indoor-led-display.php" class="text-cover">
+                    <a href="products/indoor-led-display.php" class="text-cover">
                         <h1>Indoor LED Display</h1>
                         <span>The Most Cost Effective Indoor LED Display Screen</span>
                         <span class="border-button">Get More Information</span>
                     </a>
                 </li>
-                <!-- <li>
-                    <img loading="lazy" src="images/products/new-page/LED-screens-for-events/LED-screens-for-events-1.webp" alt="LED-screens-for-events"/>
-                    <a href="../products/event-led-screen.php" class="text-cover">
-                        <h1>LED Screens For Events</h1>
-                        <span>The Most Versatile Indoor & Outdoor Rental LED Screens For Events</span>
-                        <span class="border-button">Get More Information</span>
-                    </a>
-                </li>
-                <li>
-                    <img loading="lazy" src="images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-1.jpg" alt="outdoor-led-display"/>
-                    <a href="../products/outdoor-led-display.php" class="text-cover">
-                        <h1>Outdoor LED Display Screen</h1>
-                        <span>Boost Your Business With Cinstar Outdoor LED Display Board</span>
-                        <span class="border-button">Get More Information</span>
-                    </a>
-                </li> -->
             </ul>
+            <div class="swiper-pagination"></div>
         </div>
         <div class="detail-section profile-mobile">
             <div class="head-title">
@@ -678,14 +663,20 @@
     <?php include('inc/js.php'); ?>
     <script>GetCurStyle("home");</script>
     <script src="utils/unslider.min.js"></script>
+    <script src="utils/swiper-bundle.min.js"></script>
     <script>
         $(document).ready(function() {
-            $(".banner").unslider({
-                speed: 500,
-                delay: 5000,
-                dots:true,
-                fluid:true,
-            })
+            var swiper = new Swiper(".banner", {
+                centeredSlides: true,
+                autoplay: {
+                    delay: 2500,
+                    disableOnInteraction: false,
+                },
+                pagination: {
+                    el: ".swiper-pagination",
+                    clickable: true,
+                },
+            });
             $('#customer-box').unslider({
                 fluid:true,
                 dots:true,

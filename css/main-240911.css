@@ -14,7 +14,9 @@ ul.unorder-list li {
     overflow-y: hidden;
     text-align: center;
     margin-top:100px;
-    /* height: 600px!important; */
+}
+.mobile-show {
+    display: none;
 }
 .banner ul, ol{
     list-style: none; 
@@ -24,13 +26,14 @@ ul.unorder-list li {
     float: left; 
     padding: 0;
     position: relative;
-    height: 7.5rem!important;
 }
 .banner img, .profile img{
     width: 100%;
 }
 .banner img {
+    display: block;
     height: 100%;
+    object-fit: cover;
 }
 .dots { position: absolute; left: 0; right: 0; bottom: 20px;}
 .dots li { 
@@ -343,9 +346,6 @@ ul.unorder-list li {
      }
 }
 @media (max-width: 1500px){
-    .banner ul li {
-        height: 600px!important;
-    }
     .profile .profile-content p, .profile .profile-content span, .case-list .case-title {
         font-size: 18px;
     }
@@ -366,9 +366,6 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 1200px){
-    .banner ul li {
-        height: 500px!important;
-    }
     .news-list .news-thumb{
         height: 200px;
     }
@@ -380,9 +377,6 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 1024px){
-    .banner ul li {
-        height: 400px!important;
-    }
     .profile .profile-content p, .profile .profile-content span{
         font-size: 16px;
     }
@@ -507,8 +501,11 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 576px) {
-    .banner ul li {
-        height: 240px!important;
+    .mobile-show {
+        display: block;
+    }
+    .mobile-hide {
+        display: none;
     }
     .under-line {
         display: block;
