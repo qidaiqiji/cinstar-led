@@ -5,7 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>The largest outdoor LED advertising screen in Finland</title>
-    <meta name="With the substantial collaboration of Cinstar team and its combined Finnish partner, one giant outdoor LED advertising screen was eventually installed and has become the largest outdoor LED advertising screen in Finland since its installation" />
+    <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
+    <meta name="description" content="With the substantial collaboration of Cinstar team and its combined Finnish partner, one giant outdoor LED advertising screen was eventually installed and has become the largest outdoor LED advertising screen in Finland since its installation" />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->

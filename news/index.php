@@ -24,6 +24,13 @@
     <script>
         let data = [
             {
+                imgSrc:'../images/news/direct-view-led-news.jpg',
+                title:'CH1.2 COB direct view LED video wall panels delivered to USA high school',
+                data:'2024-09-11',
+                detail:'Benefit from encapsulation advancement and big drop in cost, COB technology is getting matured and challenging conventional SMD technology a lot at the direct view LED video wall applications like television broadcast studio, conference room, meeting room, board room, command center and home cinema etc. COB can easily achieve the pixel pitch lower than 0.9mm, such as 0.62mmm, 0.78mm are available now. ',
+                href: '../news-detail/2024-09-11.php'
+            },
+            {
                 imgSrc:'../images/news/media-cube-led-video-wall-panel-2.jpg',
                 title:'108SQM media cube LED video wall panels for ice hockey arena',
                 data:'2024-07-08',

@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>108SQM media cube LED video wall panels for ice hockey arena</title>
     <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display" />
-    <meta name="Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years. " />
+    <meta name="description" content="Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years. " />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -47,6 +47,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="2024-09-11.php">CH1.2 COB direct view LED video wall panels delivered to USA high school</a></h3>
         <h3><span>Next :</span><a href="2024-01-26.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
     </div>
         <!-- 底部开始 -->

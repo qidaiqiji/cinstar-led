@@ -5,7 +5,7 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</title>
-    <meta name="Great thanks to SSS who trusted and chose Cinstar LED as supplier of its pilot project of dozen portals located around the world. Cinstar team won’t fail the trust and will perform best to deliver our promises to the expectations from customer." />
+    <meta name="description" content="Great thanks to SSS who trusted and chose Cinstar LED as supplier of its pilot project of dozen portals located around the world. Cinstar team won’t fail the trust and will perform best to deliver our promises to the expectations from customer." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
 </head>
 <body class="page-index .menu-open">

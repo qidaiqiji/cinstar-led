@@ -15,6 +15,10 @@ ul.unorder-list li {
     text-align: center;
     margin-top:100px;
 }
+.swiper-pagination-bullet-active {
+    background: #bc261a;
+    border: 1px solid #bc261a; 
+}
 .mobile-show {
     display: none;
 }
@@ -34,25 +38,6 @@ ul.unorder-list li {
     display: block;
     height: 100%;
     object-fit: cover;
-}
-.dots { position: absolute; left: 0; right: 0; bottom: 20px;}
-.dots li { 
-	display: inline-block; 
-	width: 8px; 
-	height: 8px; 
-	margin: 0 8px; 
-	text-indent: -999em; 
-	border: 2px solid #fff; 
-	border-radius: 6px; 
-	cursor: pointer; 
-	opacity: .4; 
-	-webkit-transition: background .5s, opacity .5s; 
-	-moz-transition: background .5s, opacity .5s; 
-	transition: background .5s, opacity .5s;
-}
-.dots li.active {
-	background: #fff;
-	opacity: 1;
 }
 .profile-mobile {
     display: none;
@@ -166,16 +151,12 @@ ul.unorder-list li {
 }
 .customer{
     margin: 0 auto;
-    /* padding-top: 0.5rem;
-    padding-bottom: 0.1rem; */
     background: #f2f2f2;
 }
 #customer-box {
     width: 100%;
     height: 100%;
-    /* margin-top: 0.5rem; */
     position: relative;
-    overflow: auto;    
 }
 #customer-box ul li{
     float: left;
@@ -184,16 +165,6 @@ ul.unorder-list li {
     padding-top: 0.3rem;
     box-sizing: border-box;
     text-align: center;
-}
-#customer-box .dots {
-    text-align: center;
-}
-#customer-box .dots li { 
-    border: 1px solid rgba(0,0,0,.4); 
-}
-#customer-box .dots li.active {
-    background: #bc261a;
-    border: 1px solid #bc261a; 
 }
 .quote{
     width: 70%;

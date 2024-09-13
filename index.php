@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240827.css">
     <link rel="stylesheet" href="css/contact-240815.css">
-    <link rel="stylesheet" href="css/main-240911.css">
+    <link rel="stylesheet" href="css/main-240911-1.css">
     <meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
 </head>
 <body class="page-index">
@@ -30,8 +30,20 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <?php include('inc/top.php'); ?>   
-    <div class="container new-product-container">   
-    <div class="swiper banner">
+    <div class="container new-product-container">
+        <div class="banner mobile-show">
+            <ul class="swiper-wrapper">
+                <li class="swiper-slide">
+                    <img src="../images/products/new-page/Indoor-led-display/indoor-led-display-1-2.webp" alt="indoor-led-display"/>
+                    <a href="products/indoor-led-display.php" class="text-cover">
+                        <h1>Indoor LED Display</h1>
+                        <span>The Most Cost Effective Indoor LED Display Screen</span>
+                        <span class="border-button">Get More Information</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="swiper banner mobile-hide">
             <ul class="swiper-wrapper">
                 <li class="swiper-slide">
                     <img src="images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct-view-led"/>   
@@ -226,7 +238,7 @@
                         <span class="current">DVLED COB</span><span class="more">CH Series</span>
                     </a>
                 </div>
-                <div class="product-item">
+                <div class="product-item mobile-hide">
                     <a class="thumb" href="/product-detail/ec-series.php">
                         <img src="images/products/Fine-Pitch/EC-series-1.webp" alt="ec-series" style="width: 93%"/>
                     </a>
@@ -250,7 +262,7 @@
                         <span class="current">Outdoor LED Display Screen</span><span class="more">X Series</span>
                     </a>
                 </div>
-                <div class="product-item">
+                <div class="product-item mobile-hide">
                     <a class="thumb" href="product-detail/hd-series.php">
                         <img src="images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%"/>
                     </a>
@@ -258,7 +270,7 @@
                         <span class="current">Direct View LED Video Wall</span><span class="more">HD Series</span>
                     </a>
                 </div>
-                <div class="product-item">
+                <div class="product-item mobile-hide">
                     <a class="thumb" href="/product-detail/a-series.php">
                         <img src="images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%" />
                     </a>
@@ -266,7 +278,7 @@
                         <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
                     </a>
                 </div>
-                <div class="product-item">
+                <div class="product-item mobile-hide">
                     <a class="thumb" href="/products/custom-led.php">
                         <img src="images/products/custom-led/custom-led.jpg" alt="custom-led" class="short" style="width: 90%" />
                     </a>
@@ -422,9 +434,9 @@
                 <h2>What Our Customers Say</h2>
                 <p>Cinstar quality LED video wall panels enhance your reputation</p>
             </div>
-            <div id="customer-box">
-                <ul>
-                    <li>
+            <div id="customer-box" class="swiper">
+                <ul class="swiper-wrapper">
+                    <li class="swiper-slide">
                         <div class="quote">
                             <p class="quote-content">
                                 <i class="iconfont left-icon">&#xe6a1;</i>
@@ -435,7 +447,7 @@
                             <p class="author">– Garrett Henderson – Complete AV Solutions</p>
                         </div>
                     </li>
-                    <li>
+                    <li class="swiper-slide">
                         <div class="quote">
                             <p class="quote-content">
                                 <i class="iconfont left-icon">&#xe6a1;</i>
@@ -445,7 +457,7 @@
                             <p class="author">– Anthony Van Andel – AV Direct CC</p>
                         </div>
                     </li>
-                    <li>
+                    <li class="swiper-slide">
                         <div class="quote">
                             <p class="quote-content">
                                 <i class="iconfont left-icon">&#xe6a1;</i>
@@ -455,8 +467,7 @@
                             <p class="author">– Matthew Shankle – ADTI Media</p>
                         </div>
                     </li>
-                    
-                    <li>
+                    <li class="swiper-slide">
                         <div class="quote">
                             <p class="quote-content">
                                 <i class="iconfont left-icon">&#xe6a1;</i>
@@ -466,7 +477,7 @@
                             <p class="author">– Jens Løvaas – Hove West</p>
                         </div>
                     </li>
-                    <li>
+                    <li class="swiper-slide">
                         <div class="quote">
                             <p class="quote-content">
                                 <i class="iconfont left-icon">&#xe6a1;</i>
@@ -477,6 +488,7 @@
                         </div>
                     </li>
                 </ul>
+                <div class="swiper-pagination"></div>
             </div>
         </div>
         <div class="caseStudy product-section">
@@ -533,7 +545,7 @@
                         <span class="current">P8 LED Digital Billboard</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
                         <img src="images/home/Campbell-Park-4.8mm.jpg" alt="Campbell Park 4.8mm"/>
                     </span>
@@ -541,7 +553,7 @@
                         <span class="current">Campbell Park 4.8mm LED Video Display</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
                         <img src="images/home/ESPN-Conference-Room-1.56mm.jpg" alt="ESPN Conference Room 1.56mm"/>
                     </span>
@@ -549,7 +561,7 @@
                         <span class="current">ESPN 1.56mm LED Screen Display</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
                         <img src="images/home/Mosco-Airport-10mm.webp" alt="Mosco Airport 10mm"/>
                     </span>
@@ -557,7 +569,7 @@
                         <span class="current">Mosco Airport 10mm LED Video Display</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
                         <img src="images/home/New-Zealand-Shopping-Mall-6mm.webp" alt="New Zealand Shopping Mall 6mm"/>
                     </span>
@@ -565,7 +577,7 @@
                         <span class="current">New Zealand 6mm LED Screen Display</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
                         <img src="images/home/Strickly-Star-3.9mm.webp" alt="Strickly Star 3.9mm"/>
                     </span>
@@ -573,7 +585,7 @@
                         <span class="current">Strickly Star 3.9mm LED Video Display</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
                         <img src="images/home/Swizerland-Conference-room-1.2mm.webp" alt="Swizerland Conference room 1.2mm"/>
                     </span>
@@ -590,6 +602,20 @@
                 <p>Stay with Cinstar for new project & LED video wall panel launch</p>
             </div>
             <div class="news-list">
+                <div class="news-item">
+                    <a class="news-thumb" href="news-detail/2024-09-11.php">
+                        <img src="images/news/direct-view-led-news.jpg" alt="direct-view-led-news"/>
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>CH1.2 COB direct view LED video wall panels delivered to USA high school </h3>
+                            <p class="date">2024-09-11</p>
+                        </div>
+                        <div class="news-desc">
+                            Benefit from encapsulation advancement and big drop in cost, COB technology is getting matured and challenging conventional SMD technology a lot at the direct view LED video wall applications like television broadcast studio, conference room, meeting room, board room, command center and home cinema etc. COB can easily achieve the pixel pitch lower than 0.9mm, such as 0.62mmm, 0.78mm are available now. 
+                        </div>
+                    </div>
+                </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-07-08.php">
                         <img src="images/news/media-cube-led-video-wall-panel-2.jpg" alt="image"/>
@@ -620,20 +646,6 @@
                     </div>
                     <hr class="under-line"/>
                 </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2023-11-13.php">
-                        <img src="images/news/2023-11-13-1.webp" alt="image"/>
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>Cinstar creative LED display solutions boost your business</h3>
-                            <p class="date">2023-11-13</p>
-                        </div>
-                        <div class="news-desc">
-                        When the market is in floods of same products and everyone is busy competing on the price, it is more difficult than ever to win trust, but easier to lose project. For such an awkward situation, did you figure out your strategy to cope with it? If you are struggling HOW to stand out from the crowd, you can try Cinstar creative LED display to customize your solution and make yourself irreplaceable to your clients. 
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
         <div class="contact-detail product-section">
@@ -662,7 +674,6 @@
     </div>
     <?php include('inc/js.php'); ?>
     <script>GetCurStyle("home");</script>
-    <script src="utils/unslider.min.js"></script>
     <script src="utils/swiper-bundle.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -677,12 +688,17 @@
                     clickable: true,
                 },
             });
-            $('#customer-box').unslider({
-                fluid:true,
-                dots:true,
-                speed: 500,
-                delay: 20000,
-            })
+            var customer = new Swiper("#customer-box", {
+                centeredSlides: true,
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false,
+                },
+                pagination: {
+                    el: ".swiper-pagination",
+                    clickable: true,
+                },
+            });
             let screenWidth = $(window).width();
             if(screenWidth>1200) {
                 $('.imgList li').css('width',screenWidth*0.93*0.32)

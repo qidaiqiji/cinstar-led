@@ -75,7 +75,7 @@
                 </div>
             </div>
             <div class="product-img small-big">
-                <img src="../images/products/Commercial-LED/FT-SERIES.webp" alt="FT SERIES"/>
+                <img src="../images/products/home/FT-SERIES.webp" alt="FT SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->

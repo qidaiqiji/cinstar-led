@@ -4,8 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240816.css">
-    <title>Top notch quality Led Screen | es.cinstar-led</title>
-    <meta name="Here you can read all the knowledge about Led screen which are used giant purpose! " />
+    <title>Top notch quality Led Screen</title>
+    <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
+    <meta name="description" content="Here you can read all the knowledge about Led screen which are used giant purpose! " />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->

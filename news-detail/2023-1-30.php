@@ -5,7 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Seamless UHD LED home cinema upgrades visual effects</title>
-    <meta name="With the tremendous demand and rigorous requirement on high profile digital LED video wall, the fine pitch LED screen display is occupying a critical market position to challenge and beat the dominance of very traditional visual solutions like LCD screen and projectors. What makes the fine pixel pitch LED screen display a rising star is attributed to its unparalleled features as below" />
+    <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
+    <meta name="description" content="With the tremendous demand and rigorous requirement on high profile digital LED video wall, the fine pitch LED screen display is occupying a critical market position to challenge and beat the dominance of very traditional visual solutions like LCD screen and projectors. What makes the fine pixel pitch LED screen display a rising star is attributed to its unparalleled features as below" />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
