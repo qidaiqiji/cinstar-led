@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Fine Pitch LED Video Wall | LED Video Wall Panel | Cinstar LED</title>
     <meta name="description" content="Cinstar EC series COB fine pitch LED video wall panels can meet all your expectations on price and quality. Your first choice for control room and conference room installations etc." />
     <meta name="keywords" content="fine pitch LED display, fine pitch LED video wall, fine pitch LED screen, LED video wall, LED wall panel, narrow pixel pitch LED display, LED display screen" />
@@ -587,6 +587,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

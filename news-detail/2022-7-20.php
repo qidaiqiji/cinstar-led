@@ -31,7 +31,7 @@
     </div>
     <div class="related-news">
         <h3><span>Previous :</span><a href="2022-10-20.php">The largest outdoor LED advertising screen in Finland</a></h3>
-        <h3><span>Next :</span><a href="pros-and-cons-of-digital-led-billboard-advertising-truck.php">Pros And Cons Of Digital LED Billboard Advertising Truck</a></h3>
+        <h3><span>Next :</span><a href="2022-2-10.php">How to maintain LED screen in Autumn and Winter</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

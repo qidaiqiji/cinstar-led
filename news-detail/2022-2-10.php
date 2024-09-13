@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="pros-and-cons-of-digital-led-billboard-advertising-truck.php">Pros And Cons Of Digital LED Billboard Advertising Truck</a></h3>
+        <h3><span>Previous :</span><a href="2022-7-20.php">The methods of cleaning outdoor LED screens</a></h3>
         <h3><span>Next :</span><a href="2021-11-17.php">Cinstar outdoor LED screen decorates Finland shopping mall</a></h3>
     </div>
         <!-- 底部开始 -->

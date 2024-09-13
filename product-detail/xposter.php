@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Poster LED Display | Cinstar-led, Creative LED Display, Screen, Panel</title>
     <meta name="description" content="Cinstar Xposter is widely used in clothes stores, shopping malls, exhibitions, hotels and wedding ceremony etc. Its exquisite appearance, outstanding performance and versatile function makes it the first option for commercial advertising." />
     <meta name="keywords" content="Poster LED display, advertising LED poster, advertising digital poster, commercial digital LED poster, LED digital poster screen, LED digital poster display" />
@@ -233,6 +233,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Concert LED Screen | Cinstar-led, LED Panel Screen | Best LED Video Screen</title>
     <meta name="description" content="Cinstar concert LED screen T Series equipped with a fast locking system for rapid construction, a curving system allowing both convex and concave configurations, hanging and ground stacking installation. This LED panel screen will be the best LED video screen for you." />
     <meta name="keywords" content="Concert LED screen, LED panel screen, best LED video screen, LED video wall rental, outdoor rental LED videowall, outdoor LED screen hire, event production LED screen" />
@@ -534,6 +534,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

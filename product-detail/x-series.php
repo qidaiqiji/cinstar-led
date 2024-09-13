@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor Advertising LED Billboard Display I Commercial LED Display Screen I Cinstar-led.com.</title>
     <meta name="description" content="Cinstar X series outdoor display board supports front or rear service access for specific installation. The high brightness and great stability of the outdoor digital screen enable it a preferred outdoor LED sign boards for your commercial outdoor advertising business." />
     <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens" />
@@ -646,6 +646,17 @@ The handles and locks can extremely accelerate the installation and make it real
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

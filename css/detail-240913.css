@@ -450,7 +450,56 @@ table .thead{
 }
 .under-line {
     display: none;
-} 
+}
+.contact-banner {
+    position: relative;
+}
+.contact-banner img {
+    width: 100%;
+}
+.contact-banner-content {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0.5rem;
+    color: #fff;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.contact-banner-content .contact-banner-dialog {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.375rem;
+}
+.contact-banner-content .contact-banner-dialog p {
+    font-size: 0.375rem;
+    font-weight: 800;
+}
+.contact-banner-content .contact-banner-mark {
+    width: 45%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.contact-banner-button {
+    cursor: pointer;
+    font-size: .3rem;
+    padding: 0.25rem .5rem;
+    border: 2px solid #bc261a;
+    color: #fff;
+    font-weight: bold;
+}
+.contact-banner-button:hover {
+    color: #fff;
+    background: #bc261a;
+}
 @media (max-width: 1500px){
     .container, table, .key-feature ul, td {
         font-size: 16px;
@@ -477,6 +526,12 @@ table .thead{
     .sub-title span::after {
         top: 50px;
     }
+    .contact-banner-content .contact-banner-dialog p {
+        font-size: 30px;
+    }
+    .contact-banner-button {
+        font-size: 24px;
+    }
 }
 @media (max-width: 1024px){
     .detail-title  {
@@ -496,6 +551,13 @@ table .thead{
     }
     .img-wrap .caseItem{
         height: auto;
+    }
+    .contact-banner-content .contact-banner-dialog p {
+        font-size: 24px;
+    }
+    .contact-banner-button {
+        font-size: 20px;
+        padding: 10px 24px;
     }
 }
 @media (max-width: 991px){
@@ -579,6 +641,12 @@ table .thead{
 @media (max-width: 768px){
     td{
         font-size: 14px;
+    }
+    .contact-banner-content .contact-banner-dialog p {
+        font-size: 20px;
+    }
+    .contact-banner-button {
+        font-size: 16px;
     }
 }
 @media (max-width: 576px){
@@ -724,7 +792,14 @@ table .thead{
         font-size: 24px;
         font-weight: bold;
     }
-   .videoContainer{
-       display: none;
-   }
+    .videoContainer{
+        display: none;
+    }
+   .contact-banner-content .contact-banner-dialog p {
+        font-size: 14px
+    }
+    .contact-banner-button {
+        font-size: 12px;
+        padding: 8px 14px;
+    }
 }

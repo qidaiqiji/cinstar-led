@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/new-detail-240817.css">
+    <link rel="stylesheet" href="../css/new-detail-240913.css">
     <title>Transparent LED Film Display Screen | Flexible LED Video Wall</title>
     <meta name="description" content="Cinstar transparent holographic LED film screen display is best for indoor glass wall advertising at 4S store, shopping mall and retail shop. " />
     <meta name="keywords" content="led film screen, led film display, flexible led display, led advertising display, holographic led screen, led video wall display" />
@@ -454,6 +454,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

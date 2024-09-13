@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Sport Arena LED Display | Stadium LED Advertising | Outdoor LED Advertising Screen | Cinstar-led</title>
     <meta name="description" content="Cinstar SA seires outdoor stadium led banner display is the most cost effective stadium led advertising solution for all outdoor stadium and sport arena to maximize your ROI." />
     <meta name="keywords" content="sport arena led display, stadium led advertising, outdoor led advertising, outdoor stadium led display, stadium led screen, stadium advertising billboard, sports led display, sport arena led screen, led perimeter banner screen" />
@@ -514,6 +514,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

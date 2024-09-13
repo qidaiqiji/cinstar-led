@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Indoor LED display Screen | Led Video Display Screen Wall</title>
     <meta name="description" content="We offer Indoor LED display Screen, Led Video Display Screen Wall, LED Billboard Advertising, Led Display Signs for Church. Contact us Now." />
     <meta name="keywords" content="rental LED display, indoor rental LED display, p3.9 LED display, Indoor stage rental, rental LED panel, rental LED tiles, rental LED module, Rental events LED display board" />
@@ -534,6 +534,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

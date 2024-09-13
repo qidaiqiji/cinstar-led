@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>HD LED Display | Cinstar-led, LED Video Wall Display, 4K LED Screen Wall</title>
     <meta name="description" content="Cinstar HD series offers the finest HD LED display suitable for the most demanding applications where a 2K or 4K LED screen wall is a need in a fixed installation environment. Need a high quality LED video wall display for your project? Cinstar has what you need!" />
     <meta name="keywords" content="hd LED display, LED video wall display, 4K LED screen wall, UHD LED video screen, large-format LED signage, mobile LED TV, 1.56mm LED display, 1.2mm LED screen panel" />
@@ -565,6 +565,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

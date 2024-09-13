@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>4k LED Screen Rental Panel | Digital Advertising Billboard | Direct View LED</title>
     <meta name="description" content="Cinstar K series 4k LED Screen Rental Panel display is ideal forDigital Advertising Billboard. Direct View LED for indoor and outdoor stage event." />
     <meta name="keywords" content="led rental panel, indoor led rental screen, outdoor led rental display, LED rental, event rental led panel, led rental video screen, event led display, corporate event led screen, led display rental, led screen rental, led display panel rental" />
@@ -530,6 +530,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

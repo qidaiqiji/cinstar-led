@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor Advertising Billboard | LED Advertising Billboard | Outdoor LED Billboard | Outdoor LED Screen | Cinstar-led</title>
     <meta name="description" content="Cinstar MA series outdoor LED billboard features magnesium panel for high reliability outdoor LED advertising. Our outdoor LED advertising billboard is your best choice for digital out of home advertising." />
     <meta name="keywords" content="outdoor led screen, outdoor led display, outdoor led advertising screen, outdoor led billboard, outdoor led display advertising, digital advertising billboard, out of home led advertising billboard" />
@@ -501,6 +501,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

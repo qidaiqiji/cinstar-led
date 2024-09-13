@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Transparent LED Display | LED Curtain | LED Mesh Display | Cinstar-led</title>
     <meta name="description" content="Cinstar transparent LED display TR series offers ultra-high transparency screens for indoor rental and fixed installations. It can be used as LED backdrop curtain on stage event and also LED mesh display for window commercial advertising." />
     <meta name="keywords" content="transparent LED display, LED backdrop curtain, LED mesh display, GOB transparent LED display, advertising transparent LED wall, commercial transparent LED display screen" />
@@ -436,6 +436,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

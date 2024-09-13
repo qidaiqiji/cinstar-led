@@ -87,13 +87,6 @@
                 href: '../news-detail/2022-7-20.php'
             },
             {
-                imgSrc:'../images/news/jhjs.png',
-                title:'Pros and Cons of Digital LED billboard advertising truck',
-                data:'2022-4-22',
-                detail:`Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?`,
-                href: '../news-detail/pros-and-cons-of-digital-led-billboard-advertising-truck.php',
-            },
-            {
                 imgSrc:'../images/news/2022-2-10.jpg',
                 title:'How to maintain LED screen in Autumn and Winter',
                 data:'2022-02-10',

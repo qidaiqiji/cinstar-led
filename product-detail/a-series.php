@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/detail-240819.css">
+    <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Stage LED Screen | Indoor Outdoor Rental LED Display | LED Video Wall Rental | Cinstar-led</title>
     <meta name="description" content="Cinstar EC series LED video screen offers versatile LED screen solutions for a wide variety of LED display rental applications. Ergonomic engineering panel and practical user-friendly design enable a perfect operation experience" />
     <meta name="keywords" content="LED video screen, LED display rental, LED screen,  LED display panel, LED video display, cinstar, cinstar-led" />
@@ -578,6 +578,17 @@
                         </tr>
                     </tbody>
                 </table>
+            </div>
+        </div>
+        <div class="contact-banner">
+            <img src="../images/home-new/contact-banner.webp" />
+            <div class="contact-banner-content">
+                <div class="contact-banner-dialog">
+                    <p>Wanna Upgrade Your Next Projects?</p>
+                </div>
+                <div class="contact-banner-mark">
+                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>
