@@ -235,45 +235,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-            <div class="product-item">
-                    <a class="thumb" href="../product-detail/fl-series.php">
-                        <img src="../images/products/Commercial-LED/FL-series-1.jpg" class="short" alt="fl-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/fl-series.php">
-                        <span class="current">FL SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS-Series.webp" class="ts-series" alt="ts-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ts-series.php">
-                        <span class="current">TS SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM-SERIES.webp" alt="lm-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/lm-series.php">
-                        <span class="current">LM SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC-SERIES.jpg" alt="mc-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <span class="current">MC SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

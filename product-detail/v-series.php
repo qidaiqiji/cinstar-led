@@ -592,45 +592,6 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/nl-series.php">
-                        <img src="../images/home/NL-Series.webp"  class="short thumb-bigger" alt="NL Series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/nl-series.php">
-                        <span class="current">NL SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR-SERIES.webp" alt="CR SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/cr-series.php">
-                        <span class="current">CR SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR-SERIES.webp" class="short" alt="TR SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <span class="current">TR SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.webp" alt="xposter"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/xposter.php">
-                        <span class="current">Xposter</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

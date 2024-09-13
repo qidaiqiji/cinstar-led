@@ -69,28 +69,6 @@
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/ct-series.php">
-                        <img src="../images/products/Commercial-LED/CT-series-1.jpg" alt="CT SERIES"/>
-                        <div class="spec-detail">
-                            <h2 class="series-title">CT SERIES</h2>
-                            <p>Pixel Pitch (mm): 6.67 / 8 / 10 / 16</p>
-                            <p>Brightness (nits): >6500</p>
-                            <p>Refresh Rate(Hz): &lt;3840</p>
-                            <p>Application: Outdoor Advertising</p>
-                            <ul>
-                                <li>High profile magnesium alloy panel </li>
-                                <li>Top stability & durability advertising board</li>
-                                <li>Fast installation & easy maintenance</li>
-                                <li>Slim and light weight panel design</li>
-                                <li>Stunning high value advertising solution</li>
-                            </ul>
-                        </div>
-                    </a>
-                    <a  href="../product-detail/ma-series.php" class="spec-title">CT SERIES</a>
-                </div>
-            </div>
-            <div class="specification">
-                <div class="product-img img-bigger">
                     <a href="../product-detail/innox-series.php">
                         <img src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES"/>
                         <div class="spec-detail">
@@ -138,7 +116,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ft-series.php">
-                        <img src="../images/products/home/FT-SERIES.webp" alt="FT SERIES"/>
+                        <img src="../images/home/FT-SERIES.webp" alt="FT SERIES"/>
                         <div class="spec-detail">
                             <h2 class="series-title">FT SERIES</h2>
                             <p>Pixel Pitch (mm): 4.81 / 5.95 / 6.67 / 8 / 10</p>
@@ -156,29 +134,6 @@
                         </div>
                     </a>
                     <a  href="../product-detail/ft-series.php" class="spec-title">FT SERIES</a>
-                </div>
-            </div>
-            <div class="specification">
-                <div class="product-img img-bigger">
-                    <a href="../product-detail/db-series.php">
-                        <img src="../images/products/Commercial-LED/DB-SERIES.jpg" alt="DB SERIES" style="width: 70%"/>
-                        <div class="spec-detail">
-                            <h2 class="series-title">DB SERIES</h2>
-                            <p>Pixel Pitch (mm): 4 / 5 / 6 / 8 / 10</p>
-                            <p>Brightness (nits): up to 7000</p>
-                            <p>Refresh Rate(Hz): >1920</p>
-                            <p>Application: Outdoor Fixed</p>
-                            <ul>
-                                <li>Unparalleled IP68 protection of module</li>
-                                <li>High brightness, high refresh rate and great grey scale</li>
-                                <li>Ultra slim and light weight cabinet</li>
-                                <li>All-weather around-the-clock operation </li>
-                                <li>Advanced heat dissipation system</li>
-                                <li>Front or rear services for options</li>
-                            </ul>
-                        </div>
-                    </a>
-                    <a  href="../product-detail/db-series.php" class="spec-title">DB SERIES</a>
                 </div>
             </div>
             <div class="specification">
@@ -201,29 +156,6 @@
                         </div>
                     </a>
                     <a  href="../product-detail/st-series.php" class="spec-title">ST SERIES</a>
-                </div>
-            </div>
-            <div class="specification">
-                <div class="product-img img-bigger">
-                    <a href="../product-detail/ei-series.php">
-                        <img src="../images/products/Commercial-LED/EI-SERIES.jpg" alt="EI SERIES" style="width: 60%"/>
-                        <div class="spec-detail">
-                            <h2 class="series-title">EI SERIES</h2>
-                            <p>Pixel Pitch (mm): 3.9 / 4.8 / 5.6 / 5.9</p>
-                            <p>Brightness (nits): up to 5000</p>
-                            <p>Refresh Rate(Hz): >1920</p>
-                            <p>Application: Fixed/Rental</p>
-                            <ul>
-                                <li>Designed for both install and rental applications</li>
-                                <li>Ultra slim and light weight die-cast aluminum panel</li>
-                                <li>Available in both indoor and outdoor options</li>
-                                <li>Fast lock system for quick and easy assembly </li>
-                                <li>500x500mm and 500x1000mm panels for choice</li>
-                                <li>Brilliant visual performance</li>    
-                            </ul>
-                        </div>
-                    </a>
-                    <a  href="../product-detail/ei-series.php" class="spec-title">EI SERIES</a>
                 </div>
             </div>
         </div>

@@ -645,45 +645,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/a-series.php">
-                        <img src="../images/products/Rental-LED/A-series-1.webp" class="shorter" style="width: 88%" alt="K SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/a-series.php">
-                        <span class="current">A SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/x-series.php">
-                        <img src="../images/products/Commercial-LED/X-series-1.jpg" class="short" alt="X SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/x-series.php">
-                        <span class="current">X SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/tf-series.php">
-                        <img src="../images/products/Creative-LED/tf-1.jpg" class="shorter" alt="TF SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/tf-series.php">
-                        <span class="current">TF SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/u-series.php">
-                        <img src="../images/products/Commercial-LED/U-series-1.jpg" class="short" alt="u-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/u-series.php">
-                        <span class="current">U SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

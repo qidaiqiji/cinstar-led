@@ -436,7 +436,7 @@ table .thead{
     margin: 0 auto;
     text-align: center;
 }
-.table-detail .sub-title span::after, .related .sub-title span::after, .videoContainer .sub-title span::after{
+.table-detail .sub-title span::after, .videoContainer .sub-title span::after{
     background: #bc261a;
 }
 .table-wrap{
@@ -445,12 +445,8 @@ table .thead{
 .table-wrap table{
     width: 100%;
 }
-.related, .features, .show-cases, .table-detail {
+.features, .show-cases, .table-detail {
     padding: .975rem 0;
-}
-.related{
-    text-align: center;
-    padding-top: 0;
 }
 .under-line {
     display: none;
@@ -516,7 +512,7 @@ table .thead{
     td{
         padding: 10px;
     }
-    .related, .features, .show-cases, .table-detail {
+    .features, .show-cases, .table-detail {
         padding: 40px 0;
     }
     .desc-part .title {

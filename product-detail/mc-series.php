@@ -534,45 +534,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR-SERIES.webp" class="short" alt="TR SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <span class="current">TR SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT-SERIES.webp" class="short" alt="FT SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ft-series.php">
-                        <span class="current">FT SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/db-series.php">
-                        <img src="../images/home/DB-Series.webp" class="shorter" alt="DB SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/db-series.php">
-                        <span class="current">DB SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ei-series.php">
-                        <img src="../images/home/EI-Series.webp"  class="shorter" alt="EI SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ei-series.php">
-                        <span class="current">EI SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

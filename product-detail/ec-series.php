@@ -589,45 +589,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ch-series.php">
-                        <img src="../images/products/Fine-Pitch/CH-series-1.webp"  class="short thumb-bigger" alt="CH Series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ch-series.php">
-                        <span class="current">CH SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/hd-series.php">
-                        <img style="width: 90%" src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/hd-series.php">
-                        <span class="current">HD SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/v-series.php">
-                        <img style="width: 85%" src="../images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/v-series.php">
-                        <span class="current">V SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/innox-series.php">
-                        <img style="width: 80%" src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/innox-series.php">
-                        <span class="current">INNOX SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

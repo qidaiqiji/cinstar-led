@@ -438,45 +438,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS-Series.webp" class="ts-series" alt="TS-SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ts-series.php">
-                        <span class="current">TS SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/fantasy.php">
-                        <img src="../images/home/FANTASY.webp" alt="fantasy"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/fantasy.php">
-                        <span class="current">FANTASY</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.webp" alt="xposter"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/xposter.php">
-                        <span class="current">Xposter</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC-SERIES.jpg" alt="mc-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <span class="current">MC SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

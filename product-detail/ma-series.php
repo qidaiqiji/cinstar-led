@@ -503,45 +503,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ct-series.php">
-                        <img src="../images/products/Commercial-LED/CT-series-1.jpg" class="short" alt="CT SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ct-series.php">
-                        <span class="current">CT SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/innox-series.php">
-                        <img src="../images/products/Commercial-LED/Innox-1.png" class="shorter" alt="INNOX SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/innox-series.php">
-                        <span class="current">INNOX SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC-SERIES.jpg"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <span class="current">MC SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT-SERIES.webp" class="short" alt="FT SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ft-series.php">
-                        <span class="current">FT SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

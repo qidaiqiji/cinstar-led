@@ -553,46 +553,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR-SERIES.webp" class="short" alt="tr-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <span class="current">TR SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC-SERIES.jpg" alt="mc-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <span class="current">MC SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.webp" alt="xposter"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/xposter.php">
-                        <span class="current">Xposter</span><span class="more">View More</span>
-                    </a>
-                </div>
-                
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/db-series.php">
-                        <img src="../images/home/DB-Series.webp" class="shorter" alt="db-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/db-series.php">
-                        <span class="current">DB SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

@@ -658,55 +658,7 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/u-series.php">
-                        <img src="../images/products/Commercial-LED/U-series-1.jpg" alt="u-series"  style="width: 80%"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/u-series.php">
-                        <span class="current">U SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT-SERIES.webp" alt="FT SERIES" class="short"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ft-series.php">
-                        <span class="current">FT SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/k-series.php">
-                        <img src="../images/products/Commercial-LED/K-series-1.jpg" class="shorter" alt="K SERIES" style="width: 80%"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/k-series.php">
-                        <span class="current">K SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ei-series.php">
-                        <img src="../images/home/EI-Series.webp" alt="EI SERIES" class="shorter" />
-                    </a>
-                    <a class="list-title" href="../product-detail/ei-series.php">
-                        <span class="current">EI SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <!-- <div class="product-item">
-                    <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.webp" alt="xposter"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/xposter.php">
-                        <span class="current">Xposter</span><span class="more">View More</span>
-                    </a>
-                </div> -->
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
-            <!-- 底部结束 -->
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("products");</script>

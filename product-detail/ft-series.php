@@ -75,7 +75,7 @@
                 </div>
             </div>
             <div class="product-img small-big">
-                <img src="../images/products/home/FT-SERIES.webp" alt="FT SERIES"/>
+                <img src="../images/home/FT-SERIES.webp" alt="FT SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
@@ -633,45 +633,6 @@
                         </tr>
                     </tbody>
                 </table>
-            </div>
-        </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC-SERIES.jpg" alt="mc-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <span class="current">MC SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/db-series.php">
-                        <img src="../images/home/DB-Series.webp" class="shorter" alt="db-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/db-series.php">
-                        <span class="current">DB SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/u-series.php">
-                        <img src="../images/products/Commercial-LED/U-series-1.jpg" alt="u-series"  style="width: 80%"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/u-series.php">
-                        <span class="current">U SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR-SERIES.webp" class="short" alt="tr-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <span class="current">TR SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>

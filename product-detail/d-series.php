@@ -578,45 +578,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/fl-series.php">
-                        <img src="../images/products/Commercial-LED/FL-series-1.jpg" class="short" alt="fl-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/fl-series.php">
-                        <span class="current">FL SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/fantasy.php">
-                        <img src="../images/home/FANTASY.webp" alt="fantasy"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/fantasy.php">
-                        <span class="current">FANTASY</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS-Series.webp" class="ts-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ts-series.php">
-                        <span class="current">TS SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/k-series.php">
-                        <img src="../images/products/Commercial-LED/K-series-1.jpg" alt="k-series" class="short" />
-                    </a>
-                    <a class="list-title" href="../product-detail/k-series.php">
-                        <span class="current">K SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

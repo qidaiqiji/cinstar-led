@@ -143,27 +143,6 @@
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/fantasy.php">
-                        <img src="../images/products/fantasy/Fan1.jpg" alt="fantasy" style="width: 75%"/>
-                        <div class="spec-detail">
-                            <h2 class="series-title">FANTASY</h2>
-                            <p>Diameter (mm): 420 / 560 / 650 / 1000</p>
-                            <p>Power Consumption (w): 10 - 75</p>
-                            <p>Controlling: WiFi / APP / Computer</p>
-                            <p>Application: Fixed/Rental</p>
-                            <ul>
-                                <li>Creative 3D holographic display technology</li>
-                                <li>Diversified dimension and multiple installation</li>
-                                <li>Portable design with easy operation</li>
-                                <li>Cost-effective display to attract potential customer</li>
-                            </ul>
-                        </div>
-                    </a>
-                    <a  href="../product-detail/fantasy.php" class="spec-title">FANTASY</a>
-                </div>
-            </div>
-            <div class="specification">
-                <div class="product-img img-bigger">
                     <a href="../product-detail/xposter.php">
                         <img src="../images/home/Xposter.webp" alt="Xposter" style="width: 55%"/>
                         <div class="spec-detail">

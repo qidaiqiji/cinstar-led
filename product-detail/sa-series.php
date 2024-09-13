@@ -516,45 +516,6 @@
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/bt-series.php">
-                        <img src="../images/products/Commercial-LED/BT-series-1.jpg" class="short" alt="bt-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/bt-series.php">
-                        <span class="current">BT SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ma-series.php">
-                        <img src="../images/products/Commercial-LED/MA-series-1.jpg" class="short" alt="MA SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ma-series.php">
-                        <span class="current">MA SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT-SERIES.webp" class="short" alt="FT SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ft-series.php">
-                        <span class="current">FT SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/db-series.php">
-                        <img src="../images/home/DB-Series.webp" class="shorter" alt="DB SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/db-series.php">
-                        <span class="current">DB SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>

@@ -648,45 +648,6 @@ The handles and locks can extremely accelerate the installation and make it real
                 </table>
             </div>
         </div>
-        <div class="related">
-            <div class="sub-title">
-                <span>Related Products</span>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/k-series.php">
-                        <img src="../images/products/Commercial-LED/K-series-1.jpg" class="shorter" style="width: 88%" alt="K SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/k-series.php">
-                        <span class="current">K SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mi-series.php">
-                        <img src="../images/products/Commercial-LED/MI-series-1.jpg" class="short" alt="MI SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mi-series.php">
-                        <span class="current">MI SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/d-series.php">
-                        <img src="../images/products/Commercial-LED/D-series-1.jpg" class="shorter" alt="D SERIES"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/d-series.php">
-                        <span class="current">D SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/fl-series.php">
-                        <img src="../images/products/Commercial-LED/FL-series-1.jpg" class="short" alt="fl-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/fl-series.php">
-                        <span class="current">FL SERIES</span><span class="more">View More</span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <?php include('../inc/foot.php'); ?>
             <!-- 底部结束 -->
     </div>
