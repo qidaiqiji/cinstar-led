@@ -9,6 +9,50 @@
     <title>Advanced Outdoor LED Display Screen | Cinstar LED</title>
     <meta name="description" content="Cinstar LED offers advanced outdoor LED display screen and video wall display board designed to cater to all your outdoor applications." />
     <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display" />  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cinstar LED",
+  "alternateName": "Cinstar",
+  "url": "https://www.cinstar-led.com/",
+  "logo": "https://www.cinstar-led.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+    "https://www.instagram.com/cinstarled/",
+    "https://twitter.com/Cinstar_led"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cinstar LED",
+  "url": "",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Outdoor LED Display Screen",
+  "image": "https://www.cinstar-led.com/images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg",
+  "description": "Cinstar LED's Outdoor LED display is a highly effective and dependable contemporary advertising tool that offers customers a great return on their investment.  Compared to traditional printed billboards, outdoor LED display board offers a range of benefits, they are more versatile, durable, and has a longer lifespan. Additionally, the outdoor LED display screen provides a high level of protection and can be used effectively for commercial purposes.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Cinstar LED"
+  }
+}
+</script>
+
 </head>
 <body class="page-index">
     <!-- 头部开始 -->

@@ -9,6 +9,50 @@
     <title>Immersive 3D LED Display Screen | Cinstar LED</title>
     <meta name="description" content="Step into the future of visuals with immersive 3D LED display screens from Cinstar LED. Our 3D LED video wall billboard is designed for high-impact visuals." />
     <meta name="keywords" content="3D led display, 3D led screen, 3D led display screen, 3D led billboard, 3D led video wall, 3D led wall, 3D led sign, 3D led signboard, 3D led signage, 3D led advertising" />  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cinstar LED",
+  "alternateName": "Cinstar",
+  "url": "https://www.cinstar-led.com/",
+  "logo": "https://www.cinstar-led.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+    "https://www.instagram.com/cinstarled/",
+    "https://twitter.com/Cinstar_led"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cinstar LED",
+  "url": "",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "3D  LED Display Solutions",
+  "image": "https://www.cinstar-led.com/images/products/new-page/3d-led-display/3d-led-display-2.jpg",
+  "description": "Cinstar offers outdoor naked eye 3D LED displays, which have been widely used for outdoor advertising purposes in shopping malls and retail stores to enhance product promotion. Cinstar delivers comprehensive 3D video advertising and media services, including the best 3D LED screen hardware cabinets, 3D video slip design, and installation of steel structures for 3D LED Guide.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Cinstar LED"
+  }
+}
+</script>
+
 </head>
 <body class="page-index">
     <!-- 头部开始 -->

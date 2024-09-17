@@ -62,6 +62,34 @@
     <link rel="stylesheet" href="css/contact-240815.css">
     <link rel="stylesheet" href="css/main-240917.css">
     <meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Cinstar LED",
+        "alternateName": "Cinstar",
+        "url": "https://www.cinstar-led.com/",
+        "logo": "https://www.cinstar-led.com/images/logo.png",
+        "sameAs": [
+            "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+            "https://www.instagram.com/cinstarled/",
+            "https://twitter.com/Cinstar_led"
+        ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Cinstar LED",
+        "url": "",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+            "query-input": "required name=search_term_string"
+        }
+    }
+</script>
 </head>
 <body class="page-index">
     <!-- Google Tag Manager (noscript) -->

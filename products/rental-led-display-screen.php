@@ -9,6 +9,50 @@
     <title>Rental LED Display Screen Solutions | Cinstar LED</title>
     <meta name="description" content="Looking for rental LED screens? Cinstar has you covered with high-performance, customizable rental LED displays and video walls for all events. " />
     <meta name="keywords" content="rental LED display, rental LED screen, rental LED display screen, LED wall rental, rental LED video wall, LED stage screen, LED concert screen, Event LED screen, rental LED wall" />  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cinstar LED",
+  "alternateName": "Cinstar",
+  "url": "https://www.cinstar-led.com/",
+  "logo": "https://www.cinstar-led.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+    "https://www.instagram.com/cinstarled/",
+    "https://twitter.com/Cinstar_led"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cinstar LED",
+  "url": "",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Cinstar Rental LED Display Solutions",
+  "image": "https://www.cinstar-led.com/images/products/new-page/rental-led-display-screen/rental-led-display-screen-1.jpg",
+  "description": "Cinstar provides a comprehensive selection of indoor & outdoor rental LED display screen products that are perfect for multiple applications such as events, stages, churches, television studios, exhibition centers, professional AV installations, and other events. Explore the perfect rental LED screen series for your event applications. Our indoor rental LED video wall display offers a range of pixel pitches, from P1.56mm to P3.9mm, delivering unparalleled clarity and detail. Regarding our outdoor rental LED display screen, we cater to pixel pitches ranging from P2.976mm to P5.95mm, ensuring optimal visibility in various outdoor applications.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Cinstar LED"
+  }
+}
+</script>
+
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
