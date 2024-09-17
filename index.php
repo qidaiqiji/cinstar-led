@@ -1,11 +1,50 @@
 ﻿<?php
     // Adding check to redirect all pages other than homepage that are being opened using homepage index.php file (use less pages)
     $explodedURL = explode('/',$_SERVER['REQUEST_URI']);
-
+    if ($explodedURL[2] == '3d-led-display.php') {
+        header("Location: https://www.cinstar-led.com/products/3d-led-display-screen.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'outdoor-led-display.php') {
+        header("Location: https://www.cinstar-led.com/products/outdoor-led-display-screen.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'advertising-led.php') {
+        header("Location: https://www.cinstar-led.com/products/led-advertising.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'digital-billboard.php') {
+        header("Location: https://www.cinstar-led.com/digital-led-billboard.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'rental-led.php') {
+        header("Location: https://www.cinstar-led.com/rental-led-display-screen.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'commercial-led.php') {
+        header("Location: https://www.cinstar-led.com/commercial-led-display.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'creative-led.php') {
+        header("Location: https://www.cinstar-led.com/creative-led-display.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'custom-led.php') {
+        header("Location: https://www.cinstar-led.com/custom-led-display.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'fine-pitch.php') {
+        header("Location: https://www.cinstar-led.com/fine-pitch-led-display.php"); 
+        exit();
+    }
+    if ($explodedURL[2] == 'stage-led-screen.php') {
+        header("Location: https://www.cinstar-led.com/led-stage-screen.php"); 
+        exit();
+    }
     if(count($explodedURL) > 2)
     {
         header("HTTP/1.1 301 Moved Permanently"); 
-        header("Location: https://www.cinstar-led.com/404.html"); 
+        header("Location: https://www.cinstar-led.com");
         exit();            
     }
 ?>
