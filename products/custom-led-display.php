@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240819.css">
+    <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/custom-product-240818.css">
     <title>Custom LED Display I LED Cube Screen I LED Sphere Display I Cinstar LED</title>
     <meta name="description" content="Thanks to exceptional capability of R&D and supply chain management, Cinstar is delighted to offer custom LED display solution to exceed our customers’ expectations on creativity, quality and cost. Wanna stand out from the crowd with something really eyeball catching? Try Cinstar custom LED display right now!" />

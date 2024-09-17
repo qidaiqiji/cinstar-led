@@ -27,7 +27,7 @@
                 </div>
                 <div class="sub-title"><h2>What is moiré effect?</h2></div>                
                 <p>
-                When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the <a href="../products/rental-led.php">LED display screen</a>. These ripples are called moiré pattern or moiré effect. Moiré effect is a visual perception that occurs when viewing a set of lines or dots that is superimposed on another set of lines or dots, where the sets differ in relative size, angle, or spacing.
+                When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the <a href="../products/rental-led-display-screen.php">LED display screen</a>. These ripples are called moiré pattern or moiré effect. Moiré effect is a visual perception that occurs when viewing a set of lines or dots that is superimposed on another set of lines or dots, where the sets differ in relative size, angle, or spacing.
                 </p>
                 <p>
                 The main effect of the moiré effect lies in TV camera. If the LED display has unbalanced illumination between pixels, the image quality on the LED display will be affected and cause glare when viewing the display at a close distance. Which sets a big challenge to TV studio production and other live production on video equipment.

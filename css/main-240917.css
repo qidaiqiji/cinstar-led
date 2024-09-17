@@ -39,6 +39,30 @@ ul.unorder-list li {
     height: 100%;
     object-fit: cover;
 }
+.home-h1{
+    background: #0f0f0f;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 0.8rem;
+}
+.home-h1 h1 {
+    font-size: 0.5rem;
+    position: relative;
+    display: inline-block;
+    font-weight: bolder;
+}
+.home-h1 h1::after {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 70%;
+    background: #bc261a;
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    margin-left: -35%;
+}
 .profile-mobile {
     display: none;
 }
@@ -317,6 +341,9 @@ ul.unorder-list li {
      }
 }
 @media (max-width: 1500px){
+    .home-h1 h1 {
+        font-size: 40px;
+    }
     .profile .profile-content p, .profile .profile-content span, .case-list .case-title {
         font-size: 18px;
     }
@@ -348,6 +375,9 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 1024px){
+    .home-h1 h1 {
+        font-size: 38px;
+    }
     .profile .profile-content p, .profile .profile-content span{
         font-size: 16px;
     }
@@ -436,7 +466,7 @@ ul.unorder-list li {
     .desc {
         margin-top: 0;
     }
-    .product-section {
+    .product-section, .home-h1 {
         padding: 0.4rem 0;
     }
     .product-section .head-title {
@@ -472,6 +502,14 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 576px) {
+    .home-h1 h1 {
+        font-size: 30px;
+        padding: 0 10px;
+    }
+    .home-h1 h1::after {
+        width: 40%;
+        margin-left: -20%;
+    }
     .mobile-show {
         display: block;
     }
@@ -497,7 +535,7 @@ ul.unorder-list li {
     .profile-mobile {
         display: block;
         color: #fff;
-        background: #000;
+        background: #0f0f0f;
         padding: 20px 0;
     }
     .profile-mobile .profile-content .profile-mark {
@@ -514,6 +552,6 @@ ul.unorder-list li {
     .profile-mobile p {
         margin: 30px auto;
         width: 90%;
-
+        margin-top: 0;
     }
 }

@@ -3,11 +3,11 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240819.css">
-    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/product-common-240917.css">
+    <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Outdoor LED Display Screen & Board - Outdoor LED Video Wall Panel</title>
-    <meta name="description" content="Check out Cinstar outdoor LED display screen, video walls and LED display board for durable performance. Buy the best outdoor LED display at Cinstar." />
+    <title>Advanced Outdoor LED Display Screen | Cinstar LED</title>
+    <meta name="description" content="Cinstar LED offers advanced outdoor LED display screen and video wall display board designed to cater to all your outdoor applications." />
     <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display" />  
 </head>
 <body class="page-index">
@@ -20,14 +20,14 @@
             <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-1.jpg" alt="concert-led-screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
-                <h1>Outdoor LED Display Screen</h1>
+                <p>Outdoor LED Display Screen</p>
                 <span>Boost Your Business With Cinstar Outdoor LED Display Board</span>
                 <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
             <div class="content text-content">
-                <h2>Cinstar Outdoor LED Display Screen Solutions</h2>
+                <h1>Advanced Outdoor LED Display Screen</h1>
                 <p>Outdoor LED display is a highly effective and dependable contemporary advertising tool that offers customers a great return on their investment.  Compared to traditional printed billboards, outdoor LED display board offers a range of benefits, they are more versatile, durable, and has a longer lifespan. Additionally, the outdoor LED display screen provides a high level of protection and can be used effectively for commercial purposes.</p>
                 <p>As a leading outdoor LED video wall manufacturer in the industry for more than 12 years, Cinstar have accumulated profound manufacturing experience and have sophisticated R&D team with more than 15 years of experience in the field of product design and development. All these capabilities and advantages allow us to produce high-quality, reliable outdoor LED screen.</p>
                 <p>We manufacture a range of outdoor LED display screens that offer diversity, optimal selection, and adaptability in defining a high-performance video wall. In addition, we offer high quality outdoor LED video walls specifically designed for commercial advertising use. These outdoor LED video walls are ideal for various applications, including retail, entertainment, corporate, and control rooms.</p>
@@ -39,7 +39,7 @@
                 <h2>Cinstar Outdoor LED Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%" class="img-long" src="../images/products/Commercial-LED/X-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%" class="img-long" src="../images/products/Commercial-LED/X-series-1.jpg" alt="X Series-1" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Outdoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -48,7 +48,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC-SERIES.jpg" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC-SERIES.jpg" alt="MC-SERIES" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Curtain LED Display Screen</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -57,7 +57,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 80%" class="img-long" src="../images/home/FT-SERIES.webp" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 80%" class="img-long" src="../images/home/FT-SERIES.webp" alt="FT Series" /></a>
                         <div class="title-box-change">
                             <h3>Front Service Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -66,7 +66,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 60%" src="../images/home/TR-SERIES.webp" /></a>
+                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 60%" src="../images/home/TR-SERIES.webp" alt="TR-SERIES" alt="TR-SERIES" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/tr-series.php">TR Series Product</a>
@@ -75,7 +75,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ma-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/MA-series-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/ma-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/MA-series-1.jpg" alt="MA-series" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Video Wall Display</h3>
                             <a class="title-border-button" href="../product-detail/ma-series.php">MA Series Product</a>
@@ -84,7 +84,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/st-series.php"><img style="width: 94%" src="../images/products/Commercial-LED/ST-series-1-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/st-series.php"><img style="width: 94%" src="../images/products/Commercial-LED/ST-series-1-1.jpg" alt="ST-series" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Display Board</h3>
                             <a class="title-border-button" href="../product-detail/st-series.php">ST Series Product</a>
@@ -169,7 +169,7 @@
             <div class="content application-list">
                 <h2>Cinstar Outdoor LED Display Screen Applications</h2>
                 <div class="application-item">
-                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-2.jpg" alt="Outdoor LED Display Screen-2" />
                     <div class="application-right">
                         <h3 class="title">Commercial LED Advertising Screen </h3>
                         <p><b>Marketing</b></p>
@@ -180,7 +180,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-3.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-3.jpg" alt="Outdoor LED Display Screen-3" />
                     <div class="application-right">
                         <h3 class="title">Shopping Mall LED Advertising Board</h3>
                         <p><b>Promotion</b></p>
@@ -191,7 +191,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-4.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-4.jpg" alt="Outdoor LED Display Screen-4" />
                     <div class="application-right">
                         <h3 class="title">Main Traffic Outdoor LED Display</h3>
                         <p><b>Traffic Information</b></p>
@@ -202,7 +202,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-5.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-5.jpg" alt="Outdoor LED Display Screen-5" />
                     <div class="application-right">
                         <h3 class="title">Tourist Attraction LED Billboard </h3>
                         <p><b>Promotion of Attractions</b></p>
@@ -213,7 +213,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-6.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-6.jpg" alt="Outdoor LED Display Screen-6" />
                     <div class="application-right">
                         <h3 class="title">Real Estate LED Advertising Screen</h3>
                         <p><b>Project Promotion</b></p>
@@ -224,7 +224,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-7.jpg" />
+                    <img style="width: 45%;" src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-7.jpg" alt="Outdoor LED Display Screen-7" />
                     <div class="application-right">
                         <h3 class="title">Sports Venue LED Billboard</h3>
                         <p><b>Food Advertising</b></p>
@@ -243,7 +243,7 @@
                 <p>
                 When diving into outdoor LED screen advertising, expect to uncover the structure, scientific principles, and creative craftsmanship that underlie these impressive digital displays. Whether you are a small business seeking to enhance local visibility or a marketing executive striving to establish a distinctive landmark, comprehending the intricacies of LED digital signage is crucial. With our experienced assistance, you may move forward with confidence.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-8.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-8.jpg" alt="Outdoor LED Display Screen-8" />
                 </div>
                 <div class="chapter-box">
                     <ul>
@@ -279,7 +279,7 @@
                 <p>Outdoor LED display screens are ideal for various outdoor venues, including stadiums, shopping malls, transportation hubs, and city squares. They fulfill vital functions in advertising, public information distribution, entertainment, and communications. </p>
                 <p>Due to the breakthrough in LED technology and significant cost reduction, outdoor LED video wall displays are increasingly used by advertising companies to present their advertisements in a more efficient and impactful manner. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-9.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-9.jpg" alt="Outdoor LED Display Screen-9" />
                 </div>
                 <h3 class="chapter-title" id="chapter2">Chapter 2  How Many Types of Outdoor LED Display Board?</h3>
                 <p>Explore the diverse world of outdoor LED displays, where each type has its own distinct characteristics and environment. With a deep understanding of the digital landscape, we provide a wide range of customized outdoor LED display board solutions to meet the unique needs of the advertising industry. Let's dive into these categories, gaining insight into their characteristics and how they flourish in their respective habitats.</p>
@@ -287,7 +287,7 @@
                 <p>Looking at the LED billboard advertising screen, a colossal structure that dominates highways and bustling city streets. These signs are more than just ordinary structures; they are iconic landmarks that leave a lasting impression. Imagine an extending canvas that captivates the minds of all who come across it, leaving a lasting impression on their memories.</p>
                 <p>Our outdoor LED display billboards are the epitome of grandeur, thoughtfully constructed to ensure unparalleled visibility and leave a lasting impact. From bustling urban landscapes to crowded highways, these giant LED advertising billboards serve as powerful messengers, spreading your brand's message far and wide.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-10.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-10.jpg" alt="Outdoor LED Display Screen-10" />
                 </div>
                 <p><b>Outdoor LED Poster Display </b></p>
                 <p>Here comes the outdoor LED poster display, which can be considered as the more elegant peers to LED advertising billboards. All of them are the street presenters of the LED world, demonstrating versatility and adaptability. These outdoor LED display screens are ideal for sidewalks, storefronts, and public spaces as they attract attention at a level that is easily noticeable by people. Our outdoor LED advertising display screen allows you to rapidly change your message to match the city's ever-changing atmosphere. This enables you to captivate clients with dynamic content that aligns with the pulse of the street.</p>
@@ -295,14 +295,14 @@
                 <p>Turn your focus towards outdoor advertising LED display screens, which are city canvasses that convert buildings into compelling landscapes.  These are not just advertisements, but aesthetically pleasing enhancements that combine visual creativity with business through a harmonious use of illumination. Cinstar's tailored outdoor LED display solutions have the ability to transform any wall, regardless of its shape or size, into a captivating visual entertainer, showcasing compelling graphics that captivate and inspire.</p>
                 <p>These adaptable outdoor LED screen displays dominate the urban scene, ranging from large LED screens covering tall skyscrapers to modest yet impressive improvements on little boutique businesses, turning the city into your private stage. Cinstar outdoor LED video wall offers the ability to integrate your messages into the dynamic visual landscape of urban areas, regardless of their size.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-11.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-11.jpg" alt="Outdoor LED Display Screen-11" />
                 </div>
                 <p><b>Mobile Outdoor LED Video Wall</b></p>
                 <p>As you stroll around the streets, you'll see a lot of mobile outdoor LED video walls. These special outdoor LED screens, which are installed to trailers, automobiles, or trucks, drive to the places where the people are, ensuring precise message delivery. The lead arsenal's agile marketers, they strike with pinpoint accuracy and then move on. With our mobile outdoor LED display board, you can create campaigns that adapt to the city's rhythms, unlike with static signage. You can easily elevate your business to the next level by applying Cinstar quality outdoor LED display screen solutions. </p>
                 <p><b>Custom Outdoor LED Display </b></p>
                 <p>Finally comes the custom outdoor LED display solutions, the versatile transformers of the LED industry. We are the chameleons, constantly adapting to meet your unique needs and thrive in any environment. The unique designs of our custom outdoor LED display screen brings your vision to life, regardless of whatever unconventional it may be. From curves that wrap around corners to abstract shapes that go against standard, our customized offerings illuminate your space in a truly remarkable way.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-12.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-12.jpg" alt="Outdoor LED Display Screen-12" />
                 </div>
                 <h3 class="chapter-title" id="chapter3">Chapter 3  What to Consider When Choose Outdoor LED Video Wall?</h3>
                 <p>Get ready to head out on an adventure to discover the ideal solution for outdoor LED video wall, where each element will serve as an essential piece of the puzzle. In these circumstances, the choices you make determine whether the visual message you convey is ordinary or spectacular.</p>
@@ -314,14 +314,14 @@
                 <p><b>IP Rating Level</b></p>
                 <p>Outdoor LED display board is exposed to various elements such as sunlight, rain, wind, and other potential hazards. Our robust outdoor LED display screen panels come into their element here, acting as powerful shields against severe weather conditions. Suppose your signage to be a knight in dazzling armor—it must be adaptive, long-lasting, and capable of withstanding any challenge that nature may present. Amidst extreme heat waves and severe thunderstorms, your sign remains unwavering, showcasing the perseverance and commitment of your brand.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-13.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-13.jpg" alt="Outdoor LED Display Screen-13" />
                 </div>
                 <p><b>Power Consumption</b></p>
                 <p>Nowadays, energy efficiency is not an option but a necessity as every watt counts. Streamlined technology effectively consumes electricity, demonstrating its commitment to environmental sustainability. Ultimately, this affects more than simply your profit margin. Reducing your carbon footprint and maintaining the perception of an environmentally concerned, future-focused brand are both highlighted by your commitment to Earth. Sustainable practices are proclaimed by our energy-efficient outdoor LED display screen solutions, which are far more than just signs.</p>
                 <p><b>Controlling Method</b></p>
                 <p>In the realm of LED messaging, the control interface serves as the primary orchestrator, manipulating events from behind the scenes. The adaptability of the outdoor LED video wall display is defined by how easily it can be instructed whether for conveying an essential update or conducting a multimedia show. Our services include features such as remote access, scheduled content deployment, and real-time adjustments, assuring that you have complete control over your message stream and the ability to capture your audience instantly.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-14.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-14.jpg" alt="Outdoor LED Display Screen-14" />
                 </div>
                 <h3 class="chapter-title" id="chapter4">Chapter 4  Installation Consideration of Outdoor LED Display Screen?</h3>
                 <p>Explore the practical facets of installing outdoor LED display screen, where physical elements correlate with technology. The task at hand extends beyond the easy task of installing a fixture, it requires the application of engineering principles to create a captivating viewing experience.</p>
@@ -331,7 +331,7 @@
                 <p>
                 Will your outdoor LED display screens function as a prominent landmark in the city or as a captivating point of interest along the road? Cinstar's competency in the field enables them to choose the optimal site, ensuring maximum visibility and effectiveness, while still complying with community regulations.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-15.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-15.jpg" alt="Outdoor LED Display Screen-15" />
                 </div>
                 <p><b>Structural Integrity & Stability</b></p>
                 <p>The foundation of an outdoor LED display board is the most powerful aspect of it. No matter if you're affixing the outdoor LED screen to an already-existing structure, a self-supporting pole, or a rooftop, you must ensure its structural integrity. </p>
@@ -342,7 +342,7 @@
                 <p><b>Installation Method Consideration</b></p>
                 <p>Installation methods differ significantly over different types of outdoor LED screen display solutions. Wall mounting, pole installation, and roof rigging etc, each requires distinct complexities and advantages. There is no sole method that can be generally used for all projects in this industry. Cinstar offers a variety of mounting options to not only securely install your outdoor LED video wall display sign, but also beautify the setting in a visually pleasing way. These mounting options are customized to match the unique architecture and practical requirements of the venue.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-16.jpg" />
+                    <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-16.jpg" alt="Outdoor LED Display Screen-16" />
                 </div>
                 <p><b>Collaboration & Control System</b></p>
                 <p>In today's fast-paced world of cutting-edge technology, your outdoor LED video wall screen goes beyond being just a static LED advertising billboard. It serves as a gateway to a vast digital network. Collaboration and management systems are essential for maintaining engaging content and effective operation. Efficient integration alongside powerful interaction are crucial through various connectivity options such as wireless, hardwired, or cloud-based platforms. We provide a comprehensive range of tools and infrastructure to ensure that your outdoor LED display board system remains operational and performing at its best.</p>

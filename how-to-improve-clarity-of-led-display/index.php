@@ -22,7 +22,7 @@
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 21, 2019</span>
                 </div>
-                <p>As the main carrier of commercial advertising and information broadcasting, LED display keeps close pace with the current market trend for <a href="../products/fine-pitch.php">high definition image production and better visual experience</a>. High-definition video can often make the image on the display more detailed and realistic and thus bring a more dramatic visual impact. There are two factors should be taken into consideration to achieve high-definition displaying. One is that the video source has to be full HD format, and the other is that the LED display has to be full HD resolution. </p>
+                <p>As the main carrier of commercial advertising and information broadcasting, LED display keeps close pace with the current market trend for <a href="../products/fine-pitch-led-display.php">high definition image production and better visual experience</a>. High-definition video can often make the image on the display more detailed and realistic and thus bring a more dramatic visual impact. There are two factors should be taken into consideration to achieve high-definition displaying. One is that the video source has to be full HD format, and the other is that the LED display has to be full HD resolution. </p>
                 <div class="img-box">
                     <img src="../images/blog/Blog8-1.jpg"/>
                 </div>
@@ -34,7 +34,7 @@
                 Contrast is one of the key factors which affect visual effects of LED display. Generally speaking, the higher the contrast, the clearer the image and the brighter the color. A LED display with high contrast ratio can display sharp and detailed image and ensuring an excellent gray level performance.
                 </p>
                 <p>
-                If you are looking for a LED display with <a href="../products/fine-pitch.php">high contrast ratio</a>, you should look into the LED type and module mask when doing the comparison. 
+                If you are looking for a LED display with <a href="../products/fine-pitch-led-display.php">high contrast ratio</a>, you should look into the LED type and module mask when doing the comparison. 
                 </p>
                 <div class="img-box">
                     <img src="../images/blog/Blog8-2.jpg"/>
@@ -46,14 +46,14 @@
                 Except the LED type, you also need to look at the module mask. Normally the darker the mask, the higher contrast ratio it will be. 
                 </p>
                 <p>
-                If you already had one LED display and would like to make the image on your display looks better, you should choose the image or video content with high contrast ratio. It is very practical for <a href="../products/commercial-led.php">commercial advertising billboard</a>, the high contrast ratio content can make the image on display looks really high profile and easier to get attractions.</p>
+                If you already had one LED display and would like to make the image on your display looks better, you should choose the image or video content with high contrast ratio. It is very practical for <a href="../products/commercial-led-display.php">commercial advertising billboard</a>, the high contrast ratio content can make the image on display looks really high profile and easier to get attractions.</p>
              
                 <p><b>Chapter 2 Improve the gray level of LED display</b></p>
                 <div class="img-box">
                     <img src="../images/blog/Blog8-3.jpg"/>
                 </div>
                <p>
-               Gray level refers to the brightness level that can be distinguished from the darkest to the brightest. The higher the gray level of the LED display, the richer and more vivid the color. The increase on gray level can greatly improve the color depth and enables the display level of the image color increasing geometrically. The gray level of LED display is normally 14bit~16bit, which ensures the LED display showing detailed image effect and makes it the current most preferred media solution for AV industry. With the development of hardware technology, the gray scale of LED display will be improved to a higher level to <a href="../products/fine-pitch.php">meet any high end visual experience</a>.
+               Gray level refers to the brightness level that can be distinguished from the darkest to the brightest. The higher the gray level of the LED display, the richer and more vivid the color. The increase on gray level can greatly improve the color depth and enables the display level of the image color increasing geometrically. The gray level of LED display is normally 14bit~16bit, which ensures the LED display showing detailed image effect and makes it the current most preferred media solution for AV industry. With the development of hardware technology, the gray scale of LED display will be improved to a higher level to <a href="../products/fine-pitch-led-display.php">meet any high end visual experience</a>.
                </p>
                <p><b>Chapter 3 Narrow the pixel pitch of LED display</b></p>
                <p>

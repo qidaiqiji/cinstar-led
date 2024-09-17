@@ -35,7 +35,7 @@
                     <img src="../images/blog/blog5-1.jpg"/>
                 </div>
                 <p>
-                LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="../products/commercial-led.php">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
+                LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="../products/commercial-led-display.php">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
                 </p>
                 <ul class="list">
                     <li>
@@ -94,7 +94,7 @@
                             Maintaining the stable power supply and making sure reliable grounding system. Do not use LED billboard at extreme weather conditions like strong thunderstorm and lightning. 
                         </p><p>
                             <i class="fa fa-angle-double-right"></i>
-                            When powering for a <a href="../products/commercial-led.php">giant LED billboard</a>, avoid powering the whole screen at the same time. The instantaneous power may cause severe impact to your powering system.
+                            When powering for a <a href="../products/commercial-led-display.php">giant LED billboard</a>, avoid powering the whole screen at the same time. The instantaneous power may cause severe impact to your powering system.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

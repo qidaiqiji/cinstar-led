@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-common-240819.css">
-    <link rel="stylesheet" href="../css/new-product-240818.css">
+    <link rel="stylesheet" href="../css/product-common-240917.css">
+    <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Concert LED Screen Display - Rental LED Screen for Concert Stage Events</title>
     <meta name="description" content="Cinstar's concert LED screen display delivers the most eye-catching visual experience. Deploy our rental LED screen for your concert rental stage events now." />

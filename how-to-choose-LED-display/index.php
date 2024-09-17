@@ -35,7 +35,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Brightness</h2></div>
                         <p>
-                        Brightness is a key parameter of LED display. Normally, high brightness will show more vivid and better image quality. But it doesn’t mean the higher brightness, the better the LED display. It is mainly decided by the installation environment and viewing distance. Generally speaking, 1000-1200nits is enough for indoor installation. 2500-5000nits for semi-outdoor installation. Outdoor installation requires more than 5500nits. But for <a href="../products/fine-pitch.php">fine pitch LED display</a>, 500-800nits works nicely. 
+                        Brightness is a key parameter of LED display. Normally, high brightness will show more vivid and better image quality. But it doesn’t mean the higher brightness, the better the LED display. It is mainly decided by the installation environment and viewing distance. Generally speaking, 1000-1200nits is enough for indoor installation. 2500-5000nits for semi-outdoor installation. Outdoor installation requires more than 5500nits. But for <a href="../products/fine-pitch-led-display.php">fine pitch LED display</a>, 500-800nits works nicely. 
                         </p>
                         <p>
                         In a word, if you can see the clear image on the display beyond minimum viewing distance and the brightness doesn’t bring stinging feeling to your eyes, then it is the brightness level you would need. 
@@ -44,7 +44,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Viewing angle</h2></div>
                         <p>
-                        As to LED display, wider viewing angle means more people can see the image from different directions. It including horizontal viewing angle and vertical viewing angle. At present, for indoor LED display, the horizontal viewing angle is 140-160degrees, the vertical viewing angle is 120-140degrees. For <a href="../products/commercial-led.php">outdoor LED display</a> (SMD), the horizontal angle is more than 120degrees, the vertical viewing angle is more than 100degrees. There are two elements which can affect the viewing angle: LED chips layout when encapsulated and the design of mask.
+                        As to LED display, wider viewing angle means more people can see the image from different directions. It including horizontal viewing angle and vertical viewing angle. At present, for indoor LED display, the horizontal viewing angle is 140-160degrees, the vertical viewing angle is 120-140degrees. For <a href="../products/commercial-led-display.php">outdoor LED display</a> (SMD), the horizontal angle is more than 120degrees, the vertical viewing angle is more than 100degrees. There are two elements which can affect the viewing angle: LED chips layout when encapsulated and the design of mask.
                         </p>
                     </li>
                     <li>
@@ -65,7 +65,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Contrast ratio</h2></div>
                         <p>
-                        When you looking at a LED display, if the image on it is pale and looks like covered by a veil, it is caused by low contrast ratio. As to LED display, the contrast ratio can’t be lower than 1000:1. It is mainly decided by the LED lamps and the mask of module. Normally, the black face LED and deep black mask will create higher contrast ratio than white LED. Which in return <a href="../products/rental-led.php">brings better image quality performance</a>.
+                        When you looking at a LED display, if the image on it is pale and looks like covered by a veil, it is caused by low contrast ratio. As to LED display, the contrast ratio can’t be lower than 1000:1. It is mainly decided by the LED lamps and the mask of module. Normally, the black face LED and deep black mask will create higher contrast ratio than white LED. Which in return <a href="../products/rental-led-display-screen.php">brings better image quality performance</a>.
                         </p>
                     </li>
                     <li>

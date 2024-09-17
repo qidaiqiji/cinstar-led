@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/gallery-240815.css">
-    <title>Our Gallery | Led Display Gallery | Cinstar Electronics</title>
-    <meta name="description" content="Cinstar provides fascinating displays of led products in different countries of the world. We have sophisticated project management experience and are capable of all kinds of installations." />
+    <title>Visual Excellence in LED Displays | Cinstar LED</title>
+    <meta name="description" content="Browse through Cinstar LED’s gallery to view stunning indoor, outdoor, and rental LED displays. Witness the visual impact we bring to clients." />
     <meta name="keywords" content="LED video screen supplier, commercial LED screen wall, giant LED billboard, digital LED screen display wall" />
 </head>
 <body class="page-index .menu-open">
@@ -15,7 +15,7 @@
     <div class="container gallery-container">
 
         <div class="head-title">
-            <h2>Projects Gallery</h2>
+            <h1>Visual Excellence in LED Displays</h1>
         </div>
         <div class="galleryBox">
             <div class="imgsBox">

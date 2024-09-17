@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/news-240816.css">
-    <title>Our News Page | Company Insights | Cinstar-Led</title>
-    <meta name="description" content="We believe in keeping our customers upto date; that’s why this portal is designed to keep consumers updated about the latest happenings both in the company and the market." />
+    <title>LED Industry News and Updates | Cinstar LED</title>
+    <meta name="description" content="Get the latest news from Cinstar LED, including product releases, company events, and industry news. Keep up with our latest achievements and innovations." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, transparent LED display, creative LED screen, poster LED wall, Indoor LED display, outdoor LED display, commercial LED display, LED digital signage" />
 </head>
 <body class="page-index .menu-open">
@@ -13,7 +13,7 @@
     <div class="news-container">
         <div class="news-list">
             <div class="head-title">
-                <h2>Cinstar News Center</h2>
+                <h1>LED Industry News and Updates</h1>
             </div>
             <div class="content-box">
             </div>

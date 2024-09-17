@@ -87,7 +87,7 @@
     bottom: 0;
     background: rgba(0, 0, 0, 0.3);
 }
-.new-product-container .text-cover h1 {
+.new-product-container .text-cover p{
     font-size: .68rem;
     font-weight: bold;
 }
@@ -143,8 +143,8 @@
         height: 30px;
         line-height: 30px;
     }
-    .new-product-container .text-cover h1 {
-        font-size: 32px;
+    .new-product-container .text-cover p {
+        font-size: 38px;
     }
     .new-product-container .text-cover span {
         margin: 20px 0;
@@ -172,7 +172,7 @@
     .new-product-container .series-list-content .series-item {
         width: 95%;
     }
-    .new-product-container .text-cover h1 {
+    .new-product-container .text-cover p {
         font-size: 30px;
     }
     .new-product-container .text-cover span {

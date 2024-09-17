@@ -10,12 +10,12 @@
             </div>
             <div class="footer-detail">
                 <p><a href="../products/direct-view-led.php">Direct View LED</a></p>
-                <p><a href="../products/rental-led.php">Rental LED Display</a></p>
-                <p><a href="../products/stage-led-screen.php">LED Stage Screen</a></p>
+                <p><a href="../products/rental-led-display-screen.php">Rental LED Display</a></p>
+                <p><a href="../products/led-stage-screen.php">LED Stage Screen</a></p>
                 <p><a href="../products/indoor-led-display.php">Indoor LED Display</a></p>
-                <p><a href="../products/creative-led.php">Creative LED Display</a></p>
-                <p><a href="../products/custom-led.php">Custom LED Display</a></p>
-                <p><a href="../products/digital-billboard.php">Digital LED Billboard</a></p>
+                <p><a href="../products/creative-led-display.php">Creative LED Display</a></p>
+                <p><a href="../products/custom-led-display.php">Custom LED Display</a></p>
+                <p><a href="../products/digital-led-billboard.php">Digital LED Billboard</a></p>
             </div>
         </div>
         <div class="footer-item footer-gallery">
@@ -23,13 +23,13 @@
                 <span>Solutions</span>
             </div>
             <div class="footer-detail">
-                <p><a href="../products/3d-led-display.php">3D LED Display Screen</a></p>
-                <p><a href="../products/advertising-led.php">LED Advertising Display</a></p>
-                <p><a href="../products/commercial-led.php">Commercial LED Display</a></p>
+                <p><a href="../products/3d-led-display-screen.php">3D LED Display Screen</a></p>
+                <p><a href="../products/led-advertising.php">LED Advertising Display</a></p>
+                <p><a href="../products/commercial-led-display.php">Commercial LED Display</a></p>
                 <p><a href="../products/event-led-screen.php">LED Screens for Events</a></p>
                 <p><a href="../products/church-led-screen.php">LED Screen for Church</a></p>
                 <p><a href="../products/concert-led-screen.php">Concert LED Screen</a></p>
-                <p><a href="../products/outdoor-led-display.php">Outdoor LED Display Screen</a></p>
+                <p><a href="../products/outdoor-led-display-screen.php ">Outdoor LED Display Screen</a></p>
             </div>
         </div>
         <div class="footer-item input-item">

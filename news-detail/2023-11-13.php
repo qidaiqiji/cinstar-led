@@ -82,7 +82,7 @@
                 </div>
                 <p>
                 For more customized creative LED display solutions, you can check this link for more detailed introduction: 
-                    <a href="https://www.cinstar-led.com/products/custom-led.php" style="color: blue">Creative LED Display</a>
+                    <a href="https://www.cinstar-led.com/products/custom-led-display.php" style="color: blue">Creative LED Display</a>
                 </p>
             </div>
         </div>

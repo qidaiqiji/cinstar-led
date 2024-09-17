@@ -29,7 +29,7 @@
                 Digitalized advertising is now becoming an irresistible trend in the high developed advertising industry, which keeps challenging and squeezing the market share of traditional print billboard advertising.
                 </p>
                 <p>
-                <a href="../products/commercial-led.php">LED billboard display</a>, as the current most advanced and practical medial solution, brings more opportunities and possibilities for both advertising agencies and sponsors. Driven by the trend, more and more static billboards were transformed into digital LED billboard displays. But there is one thing you should figure out, whether you want to install a new LED billboard display or plan to upgrade your existing static billboard, that is how to make your LED billboard display high value added. Here are 3 trips we’d like to share with you.
+                <a href="../products/commercial-led-display.php">LED billboard display</a>, as the current most advanced and practical medial solution, brings more opportunities and possibilities for both advertising agencies and sponsors. Driven by the trend, more and more static billboards were transformed into digital LED billboard displays. But there is one thing you should figure out, whether you want to install a new LED billboard display or plan to upgrade your existing static billboard, that is how to make your LED billboard display high value added. Here are 3 trips we’d like to share with you.
                 </p>
                 <ul class="list">
                     <li>

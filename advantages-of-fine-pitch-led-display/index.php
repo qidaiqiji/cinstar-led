@@ -33,7 +33,7 @@
                 Featuring ultra slim and sleek cabinet, simple and easy to install and maintain, flexible and convenient to use, fine pitch LED display screen requires a very narrowed space to install and achieves higher resolution with limited display area. The fine pitch LED display screen not only displays higher-definition graphics and videos, but also displays more detail and content of source image or video, especially in image stitching, which enabling truly seamless and arbitrarily large-area stitching. Seamless image connection and superb visual enjoyment are what LCD video wall can’t compete with. 
                 </p>
                 <p>
-                The key advantages of <a href="../products/fine-pitch.php">fine pitch LED display screen</a> are ultra-high definition display, excellent contrast ratio, high refresh rate and wide color gamut, which fully satisfy the requirements of most users for efficient information transmission, <a href="../products/fine-pitch.php">high profile image performance</a> and exquisite appearance. Therefore, the small-pitch LED display will be explosive. Favored by users.
+                The key advantages of <a href="../products/fine-pitch-led-display.php">fine pitch LED display screen</a> are ultra-high definition display, excellent contrast ratio, high refresh rate and wide color gamut, which fully satisfy the requirements of most users for efficient information transmission, <a href="../products/fine-pitch-led-display.php">high profile image performance</a> and exquisite appearance. Therefore, the small-pitch LED display will be explosive. Favored by users.
                 </p>
                 <p><b>Energy saving and environmental protection</b></p>
                 <div class="img-box">

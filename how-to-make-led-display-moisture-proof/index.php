@@ -41,7 +41,7 @@ If possible, a temperature and humidity monitor should be installed in the stora
                     <img src="../images/blog/Blog9-2.jpg"/>
                 </div>
                <p>
-               <a href="../products/commercial-led.php">Outdoor LED display</a> is designed to be waterproof but there is no way to stop the vapor and moisture. When installing LED display, a temperature and humidity sensor should also be installed to monitor the changes of the humidity. If the cabinet is already with monitor card, it can monitor the temperature, humidity, smoke, working condition of modules and power supply etc. Much advanced and convenient.
+               <a href="../products/commercial-led-display.php">Outdoor LED display</a> is designed to be waterproof but there is no way to stop the vapor and moisture. When installing LED display, a temperature and humidity sensor should also be installed to monitor the changes of the humidity. If the cabinet is already with monitor card, it can monitor the temperature, humidity, smoke, working condition of modules and power supply etc. Much advanced and convenient.
                </p>
                <p>
                The <a href="../">LED display</a> has to be inspected when it suffers its first rainy day or heavy rain after installation, to make sure there is no any sign of moisture, vapor, leak inside of the cabinet. Any problem found should be fixed immediately to prevent worse situation.
@@ -66,7 +66,7 @@ If the ambient humidity reaches higher than 65% RH, the LED display has to work 
                 If the ambient humidity ranges from 10% to 65%, for every half a month, the LED display should be taken out and light up to display video for at least 2 hours or more. If the ambient humidity is higher than 65% RH, the frequency will be every week and light up for more than 3 hours or more.
                 </p>
                 <p>
-                The indoor <a href="../products/rental-led.php">rental LED display</a> can’t be used for outdoor rental events, especially in the open air. If the LED display suffers water spraying by accident, turn off the power immediately first, then wipe away the water and dry it with dryer. After that, the LED panel should be placed for 2 hours and then light up for anther 2 hours.
+                The indoor <a href="../products/rental-led-display-screen.php">rental LED display</a> can’t be used for outdoor rental events, especially in the open air. If the LED display suffers water spraying by accident, turn off the power immediately first, then wipe away the water and dry it with dryer. After that, the LED panel should be placed for 2 hours and then light up for anther 2 hours.
                 </p>
                 <p>
                 In short, whether indoor or outdoor LED display, the most effective way to avoid moisture damage to the LED display is to use it frequently. A frequently used LED display screen suffers much smaller humidity effect than the less used display. The heat generated from working LED display can evaporate some vapor, thus greatly reducing the possibility of short circuit caused by moisture. </p>

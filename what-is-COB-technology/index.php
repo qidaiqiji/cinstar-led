@@ -63,12 +63,12 @@
                         <p>Due to the way of encapsulation, when broken LED happens, it is almost impossible to maintain the single LED. Then you need to get much more spare modules, which increases the purchase cost a lot.</p>
                         <p class="sub-title"><b>Lower color uniformity</b></p>
                         <p>
-                        SMD is with better color uniformity. Before soldering, all the SMD will go through sorting machine to be divided into different batches by their brightness and color gamut etc. Only the LEDs from same batch will be used for the screen, which <a href="../products/fine-pitch.php">ensuring great color and brightness uniformity</a>. Unfortunately, such method can’t be applied to COB.
+                        SMD is with better color uniformity. Before soldering, all the SMD will go through sorting machine to be divided into different batches by their brightness and color gamut etc. Only the LEDs from same batch will be used for the screen, which <a href="../products/fine-pitch-led-display.php">ensuring great color and brightness uniformity</a>. Unfortunately, such method can’t be applied to COB.
                         </p>
                         <p class="sub-title"><b>Higher production cost</b></p>
                         <p>Due to the technology limits, it is hard to maintain a high qualification rate. Which in return increases the production cost of COB LED and makes it less competitive than SMD LED.</p>
                         <p>
-                        At present, SMD is still the leading role in the display market (pixel pitch >1mm) for its matured and stable product performance, widely recognized application and a complete maintenance system. But with the improvement of COB encapsulation technology, when the market demand goes to 0.5-1mm, the wide application of COB will <a href="../products/fine-pitch.php">show its great advantages and values</a>.
+                        At present, SMD is still the leading role in the display market (pixel pitch >1mm) for its matured and stable product performance, widely recognized application and a complete maintenance system. But with the improvement of COB encapsulation technology, when the market demand goes to 0.5-1mm, the wide application of COB will <a href="../products/fine-pitch-led-display.php">show its great advantages and values</a>.
                         </p>
                     </li>
                 </ul>

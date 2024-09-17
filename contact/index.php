@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/contact-240815.css">
-    <title>Contact Us – Cinstar-LED</title>
-    <meta name="description" content="Feel free to contact our support team for varied custom queries, help, and feedback. We have a huge responsive support team waiting for you to serve." />
+    <title>Get in Touch with Us | Cinstar LED</title>
+    <meta name="description" content="Contact Cinstar LED for support, product details, or business inquiries. We’re dedicated to providing excellent customer service." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier" />
 </head>
 <body class="page-index .menu-open">
@@ -13,7 +13,7 @@
     <div class="container">
         <div class="contact-box">
             <div class="head-title">
-                <h2>Contact Us</h2>
+                <h1>Get in Touch</h1>
             </div>
             <div class="contact-head">
                 <div class="contact-item">

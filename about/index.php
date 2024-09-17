@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/about-240815.css">
-    <title>Dynamic Visual Experiences with Innovative Solutions at Cinstar LED</title>
-    <meta name="description" content="Elevate your visual communication and captivate audiences with high-quality, customizable display solutions from Cinstar LED." />
+    <title>About Our Global LED Display Solutions | Cinstar LED</title>
+    <meta name="description" content="Learn about Cinstar LED, a global provider of advanced LED display solutions, delivering superior products for outdoor, indoor, and rental applications." />
     <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer" />
 </head>
 <body class="page-index .menu-open">
@@ -17,6 +17,9 @@
             <img src="../images/banner_about.jpg" alt="banner"/>
         </div>
         <div class="about-desc">
+            <div class="head-title">
+                <h1 style="color: #000; margin-bottom: 20px;">About Our Global LED Display Solutions</h1>
+            </div>
             <div class="paragraph">
                Founded in 2012, Cinstar Electronics is a Chinese LED display manufacturer dedicated to designing and providing high quality LED products and competitive solutions for various applications. Our team are industry veterans with at least 5-year experiences and managed thousands of LED projects from rental events to commercial installations. Our products have been exported to over 40 countries and used in many high-profile installations and events worldwide.
             </div>

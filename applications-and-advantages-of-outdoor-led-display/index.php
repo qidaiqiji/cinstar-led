@@ -23,7 +23,7 @@
                     <span>July 15, 2019</span>
                 </div>
                 <p>
-                With the development of digital technology and market preference, the types of <a href="../products/commercial-led.php">outdoor advertising</a> have shown a diversified trend. When we look around the city, in addition to the very traditional print advertisements at bus shelter and metro station, we can also see the digital signage LCD display and big LED display screen advertisements. LED display is now becoming the current most efficient and preferred channel for commercial advertising. This article will discuss the main applications and advantages of outdoor LED display.
+                With the development of digital technology and market preference, the types of <a href="../products/commercial-led-display.php">outdoor advertising</a> have shown a diversified trend. When we look around the city, in addition to the very traditional print advertisements at bus shelter and metro station, we can also see the digital signage LCD display and big LED display screen advertisements. LED display is now becoming the current most efficient and preferred channel for commercial advertising. This article will discuss the main applications and advantages of outdoor LED display.
                 </p>
                 <div class="img-box">
                     <img src="../images/blog/Blog12-1.jpg"/>
@@ -56,7 +56,7 @@
                             <img src="../images/blog/Blog12-4.jpg"/>
                         </div>
                         <p>
-                        Featuring light weight panel, modular design, fast installation and dismantle, LED display is widely used as the main stage background on music festival, live production, concert, award ceremony and corporate event to deliver better visual experience, more engaging atmosphere and <a href="../products/rental-led.php">better stage effect</a>. On the one hand, the LED display can broadcast and replay the live event, so that long-distance audiences can also enjoy the performance. What more important is that the stage effect of LED display can expand the performance space and set off the stage atmosphere, which is extremely important in large-scale stage performances, concerts and music festivals.
+                        Featuring light weight panel, modular design, fast installation and dismantle, LED display is widely used as the main stage background on music festival, live production, concert, award ceremony and corporate event to deliver better visual experience, more engaging atmosphere and <a href="../products/rental-led-display-screen.php">better stage effect</a>. On the one hand, the LED display can broadcast and replay the live event, so that long-distance audiences can also enjoy the performance. What more important is that the stage effect of LED display can expand the performance space and set off the stage atmosphere, which is extremely important in large-scale stage performances, concerts and music festivals.
                         </p>
                     </li>
                     <li>

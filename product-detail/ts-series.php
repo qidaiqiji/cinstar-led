@@ -94,7 +94,7 @@
                 <div class="desc-part half">
                     <h2 class="title">Flexible Panel For Option</h2>
                     <p>                    
-                    Cinstar TS series LED video display offers different panel designs for specific installations. It can be flat or flexible to create eye-catching design like big wave or cylinder screens. A perfect choice for shopping mall, Auto 4S store, exhibitions, concert and theater installations. What is more, the <a href="https://www.cinstar-led.com/products/creative-led.php">LED display panel</a> can be customized to meet the glass wall building installation.
+                    Cinstar TS series LED video display offers different panel designs for specific installations. It can be flat or flexible to create eye-catching design like big wave or cylinder screens. A perfect choice for shopping mall, Auto 4S store, exhibitions, concert and theater installations. What is more, the <a href="https://www.cinstar-led.com/products/creative-led-display.php">LED display panel</a> can be customized to meet the glass wall building installation.
                     </p>
                 </div>
                 <div class="img-part half">

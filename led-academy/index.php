@@ -3,9 +3,9 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/blog-240815.css">
-    <title>Led Technology | Led Academy | Cinstar-Led</title>
-    <meta name="description" content="Cinstar LED academy provides high-quality information about led technology and some other tips to readers and consumers of led products and tech lovers" />
+    <link rel="stylesheet" href="../css/blog-240917.css">
+    <title>Your Guide to LED Technology | Cinstar LED</title>
+    <meta name="description" content="Explore Cinstar LED Academy for in-depth knowledge on LED technology. Access educational resources, tips, and updates on the LED industry." />
     <meta name="keywords" content="LED screen display, LED forum, LED technology, Cinstar-led, LED display screen, LED screen, LED video wall, LED billboard display, rental LED display, commercial LED display, advertising LED display" />
 </head>
 <style>
@@ -20,14 +20,14 @@ html, body {
     <div class="container">
         <div class="detail-title bg">
             <div class="title">
-                <span>LED Academy</span>
+                <h1>Your Guide to LED Technology</h1>
             </div>
         </div>
         <div class="blog-container">
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../applications-and-advantages-of-outdoor-led-display"><img src="../images/blog/Blog12-1.jpg" /></a>
+                        <a href="../applications-and-advantages-of-outdoor-led-display"><img src="../images/blog/Blog12-1.jpg" alt="Applications of Outdoor LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -44,7 +44,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../things-before-and-after-purchasing-led-display"><img src="../images/blog/Blog11-1.jpg" /></a>
+                        <a href="../things-before-and-after-purchasing-led-display"><img src="../images/blog/Blog11-1.jpg" alt="Purchase of Outdoor LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -61,7 +61,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../advantages-of-fine-pitch-led-display"><img src="../images/blog/Blog10-1.jpg" /></a>
+                        <a href="../advantages-of-fine-pitch-led-display"><img src="../images/blog/Blog10-1.jpg" alt="Advantages of Fine Pitch LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -78,7 +78,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../how-to-make-led-display-moisture-proof"><img src="../images/blog/Blog9-1.jpg" /></a>
+                        <a href="../how-to-make-led-display-moisture-proof"><img src="../images/blog/Blog9-1.jpg" alt="Moisture-Proof LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -95,7 +95,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../how-to-improve-clarity-of-led-display"><img src="../images/blog/Blog8-1.jpg" /></a>
+                        <a href="../how-to-improve-clarity-of-led-display"><img src="../images/blog/Blog8-1.jpg" alt="LED Display Clarity" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -112,7 +112,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../how-to-eliminate-moire-effect-on-led-display"><img src="../images/blog/Blog7-1.jpg" /></a>
+                        <a href="../how-to-eliminate-moire-effect-on-led-display"><img src="../images/blog/Blog7-1.jpg" alt="Eliminate Moire Effect" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -130,7 +130,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../why-need-creative-LED-display"><img src="../images/blog/blog6-1.jpg" /></a>
+                        <a href="../why-need-creative-LED-display"><img src="../images/blog/blog6-1.jpg" alt="Creative LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -147,7 +147,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../extend-lifespan-of-ED-display"><img src="../images/blog/blog5-1.jpg" /></a>
+                        <a href="../extend-lifespan-of-ED-display"><img src="../images/blog/blog5-1.jpg" alt="Advertising LED Billboard Lifespan" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -164,7 +164,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../what-is-COB-technology"><img src="../images/blog/blog2-1.jpg" /></a>
+                        <a href="../what-is-COB-technology"><img src="../images/blog/blog2-1.jpg" alt="COB Encapsulation Technology" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -181,7 +181,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../3things-when-install-LED-display"><img src="../images/blog/blog1-1.jpg" /></a>
+                        <a href="../3things-when-install-LED-display"><img src="../images/blog/blog1-1.jpg" alt="Installation of Outdoor LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -199,7 +199,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../tips-to-build-your-LED-billboard"><img src="../images/blog/blog3-1.jpg" /></a>
+                        <a href="../tips-to-build-your-LED-billboard"><img src="../images/blog/blog3-1.jpg" alt="Digital LED Billboard" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -216,7 +216,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../how-to-choose-LED-display"><img src="../images/blog/blog4-1.jpg" /></a>
+                        <a href="../how-to-choose-LED-display"><img src="../images/blog/blog4-1.jpg" alt="Choosing LED Display" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -233,7 +233,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../your-ultimate-guide"><img src="../images/blog/blog4-1.jpg" /></a>
+                        <a href="../your-ultimate-guide"><img src="../images/blog/blog4-1.jpg" alt="LED Display Rental" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
@@ -250,7 +250,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="../pros-and-cons-of-digital-led-billboard-advertising-truck"><img src="../images/news/maxresdefault.jpg" /></a>
+                        <a href="../pros-and-cons-of-digital-led-billboard-advertising-truck"><img src="../images/news/maxresdefault.jpg" alt="Digital LED Billboard Advertising" /></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">

@@ -31,7 +31,7 @@
                             <ul class="subMenu-ul">
                                 <li class="subMenu-item">
                                     <div class="menu-with-icon">
-                                        <a class="subMenu-link" href="../products/rental-led.php">
+                                        <a class="subMenu-link" href="../products/rental-led-display-screen.php">
                                             <span>Rental LED Display Screen</span>
                                         </a>
                                         <div class="menu-icon">
@@ -45,7 +45,7 @@
                                         <a class="subMenu-link" href="../products/church-led-screen.php">
                                             <span>LED Screen For Church</span>
                                         </a>
-                                        <a class="subMenu-link" href="../products/stage-led-screen.php">
+                                        <a class="subMenu-link" href="../products/led-stage-screen.php">
                                             <span>LED Stage Screen</span>
                                         </a>
                                         <a class="subMenu-link" href="../products/concert-led-screen.php">
@@ -55,7 +55,7 @@
                                 </li>
                                 <li class="subMenu-item">
                                     <div class="menu-with-icon">
-                                        <a class="subMenu-link" href="../products/outdoor-led-display.php">
+                                        <a class="subMenu-link" href="../products/outdoor-led-display-screen.php ">
                                             <span>Outdoor LED Display Screen</span>
                                         </a>
                                         <div class="menu-icon">
@@ -63,16 +63,16 @@
                                         </div>
                                     </div>
                                     <div class="thirdMenu-item">
-                                        <a class="subMenu-link" href="../products/advertising-led.php">
+                                        <a class="subMenu-link" href="../products/led-advertising.php">
                                             <span>LED Advertising Display</span>
                                         </a>
-                                        <a class="subMenu-link" href="../products/digital-billboard.php">
+                                        <a class="subMenu-link" href="../products/digital-led-billboard.php">
                                             <span>Digital LED Billboard</span>
                                         </a>
-                                        <a class="subMenu-link" href="../products/3d-led-display.php">
+                                        <a class="subMenu-link" href="../products/3d-led-display-screen.php">
                                             <span>3D LED Display</span>
                                         </a>
-                                        <a class="subMenu-link" href="../products/commercial-led.php">
+                                        <a class="subMenu-link" href="../products/commercial-led-display.php">
                                             <span>Commercial LED Display</span>
                                         </a>
                                     </div>
@@ -83,7 +83,7 @@
                                     </a>
                                 </li>
                                 <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../products/fine-pitch.php">
+                                    <a class="subMenu-link" href="../products/fine-pitch-led-display.php">
                                         <span>Fine Pitch LED Display</span>
                                     </a>
                                 </li>
@@ -93,12 +93,12 @@
                                     </a>
                                 </li>
                                 <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../products/custom-led.php">
+                                    <a class="subMenu-link" href="../products/custom-led-display.php">
                                         <span>Custom LED Display</span>
                                     </a>
                                 </li>
                                 <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../products/creative-led.php">
+                                    <a class="subMenu-link" href="../products/creative-led-display.php">
                                         <span>Creative LED Display</span>
                                     </a>
                                 </li>

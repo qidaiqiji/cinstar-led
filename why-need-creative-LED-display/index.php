@@ -58,7 +58,7 @@
                 <p>
                     The creative LED display is a kind of LED display which can be customized to any dimension and shape
                     according to specific project. As to the shapes they can create, the <a
-                        href="../products/creative-led.php">creative LED display</a> is mainly divided into the
+                        href="../products/creative-led-display.php">creative LED display</a> is mainly divided into the
                     following types:
                 </p>
                 <ul class="list">
@@ -85,7 +85,7 @@
                             center, science museum or Planetarium etc to provider an immersive fascinating visual
                             experience. In addition, they can also be designed to polyhedron display or giant
                             curved-surface ceiling LED display in theme park or aquarium to <a
-                                href="../products/commercial-led.php">deliver an impressive visual enjoyment</a>.
+                                href="../products/commercial-led-display.php">deliver an impressive visual enjoyment</a>.
                         </p>
                         <div class="img-box">
                             <img src="../images/blog/blog6-3.jpg">
@@ -97,7 +97,7 @@
                         </div>
                         <p>
                             The min unit of such display is the LED strip. They can be combined to any shapes you want
-                            to decorate stage or night club to <a href="../products/commercial-led.php">create cool and
+                            to decorate stage or night club to <a href="../products/commercial-led-display.php">create cool and
                                 eye-catching visual effect</a>. What is more, thousands of such LED strips could be
                             installed on facades of building or skyscraper and configured to be a giant LED video
                             display, similar to the famous Burji Dubai.
@@ -136,7 +136,7 @@
                             which will bring you more opportunities and better business.
                         </p>
                         <p>
-                            <a href="../products/rental-led.php">Cinstar rental LED displays</a> are capable of multiple
+                            <a href="../products/rental-led-display-screen.php">Cinstar rental LED displays</a> are capable of multiple
                             creative installations, fast set up and dismantle, easier to maintain and transport. We
                             assure you the excellent operation experience and the most cost-effective display solution.
                         </p>
@@ -155,7 +155,7 @@
                             wave effect. Such installation will make your billboard with much high value added and get
                             more campaign contracts on it.
                         </p>
-                        <p><a href="../products/commercial-led.php">Cinstar advertising billboard solution</a> supports
+                        <p><a href="../products/commercial-led-display.php">Cinstar advertising billboard solution</a> supports
                             any customized/OEM manufacturing for any of your project. The high performance and tested
                             quality and stability make every penny of your investment count.
                         </p>

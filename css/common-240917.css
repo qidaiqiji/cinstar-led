@@ -10,7 +10,7 @@
     width: 100%;
     text-align: center;
 }
-.head-title h2, .head-title span{
+.head-title h1, .head-title h2, .head-title span{
     display: inline-block;
     font-size: .5rem;
     position: relative;
@@ -20,7 +20,7 @@
     font-weight:bolder;
     color: #000;
 }
-.head-title h2::after, .head-title span::after{
+.head-title h1::after, .head-title h2::after, .head-title span::after{
     content: '';
     display: block;
     height: 2px;
@@ -398,7 +398,7 @@
         height: 60px;
         line-height: 60px;
     }
-    .head-title h2, .head-title span {
+    .head-title h1, .head-title h2, .head-title span {
         font-size: 40px;
     }
     .menu-link {
@@ -633,7 +633,7 @@
     .thumb .short {
         width: 90%;
     }
-    .head-title h2, .head-title span {
+    .head-title h1, .head-title h2, .head-title span {
         font-size: 38px;
     }
 }
@@ -654,7 +654,7 @@
     .product-item {
         width: 90%;
     }
-    .head-title h2, .head-title span {
+    .head-title h1, .head-title h2, .head-title span {
         font-size: 30px;
     }
     .whatsicon a {

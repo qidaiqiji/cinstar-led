@@ -30,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="stylesheet" href="../css/reset.css">
-<link rel="stylesheet" href="../css/common-240820.css">
+<link rel="stylesheet" href="../css/common-240917.css">
 
 <?php
  
@@ -49,10 +49,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     'https://www.cinstar-led.com'=>'https://es.cinstar-led.com',
                     'https://www.cinstar-led.com/about'=>'https://es.cinstar-led.com/sobre-nosotros',
                     'https://www.cinstar-led.com/products'=>'https://es.cinstar-led.com/productos',
-                    'https://www.cinstar-led.com/products/rental-led.php'=>'https://es.cinstar-led.com/productos/pantalla-led-de-alquiler.php',
-                    'https://www.cinstar-led.com/products/commercial-led.php'=>'https://es.cinstar-led.com/productos/pantalla-led-comercial.php',
-                    'https://www.cinstar-led.com/products/fine-pitch.php'=>'https://es.cinstar-led.com/productos/pantalla-led-de-paso-fino.php',
-                    'https://www.cinstar-led.com/products/creative-led.php'=>'https://es.cinstar-led.com/productos/pantalla-led-creativa.php',
+                    'https://www.cinstar-led.com/products/rental-led-display-screen.php'=>'https://es.cinstar-led.com/productos/pantalla-led-de-alquiler.php',
+                    'https://www.cinstar-led.com/products/commercial-led-display.php'=>'https://es.cinstar-led.com/productos/pantalla-led-comercial.php',
+                    'https://www.cinstar-led.com/products/fine-pitch-led-display.php'=>'https://es.cinstar-led.com/productos/pantalla-led-de-paso-fino.php',
+                    'https://www.cinstar-led.com/products/creative-led-display.php'=>'https://es.cinstar-led.com/productos/pantalla-led-creativa.php',
                     'https://www.cinstar-led.com/gallery'=>'https://es.cinstar-led.com/galeria',
                     'https://www.cinstar-led.com/contact'=>'https://es.cinstar-led.com/contactenos',
                     

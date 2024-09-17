@@ -110,7 +110,7 @@
                 <div class="desc-part half">
                     <h2 class="title">High Commercial Values</h2>
                     <p>
-                    Cinstar FL series soft module solution can be widely applied to build a super smooth cylinder <a href="https://www.cinstar-led.com/products/creative-led.php">LED video screen</a> at rail station, metro station, bus station and shopping centers for eye-catching advertising. High traffic and 360 degree advertising will greatly increase its business value. 
+                    Cinstar FL series soft module solution can be widely applied to build a super smooth cylinder <a href="https://www.cinstar-led.com/products/creative-led-display.php">LED video screen</a> at rail station, metro station, bus station and shopping centers for eye-catching advertising. High traffic and 360 degree advertising will greatly increase its business value. 
                     </p>
                 </div>
             </div>
