@@ -8,7 +8,51 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor & Indoor LED Advertising Display | Cinstar LED</title>
     <meta name="description" content="Explore LED advertising display screen solutions for both outdoor and indoor use from Cinstar LED. Experience high-quality displays that captivate audiences." />
-    <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board" />  
+    <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cinstar LED",
+  "alternateName": "Cinstar",
+  "url": "https://www.cinstar-led.com/",
+  "logo": "https://www.cinstar-led.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+    "https://www.instagram.com/cinstarled/",
+    "https://twitter.com/Cinstar_led"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cinstar LED",
+  "url": "",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script> 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "LED Advertising Display",
+  "image": "https://www.cinstar-led.com/images/products/new-page/led-advertising-display/led-advertising-display-2.jpg",
+  "description": "Cinstar LED screens for advertising are multimedia displays designed for indoor and outdoor advertising purposes, including a wide viewing angle and an array of light-emitting diodes known as pixels. The outdoor advertising LED displays are beneficial for outdoor use due to their display settings, which allow for visibility in sunlight. Cinstar LED advertising displays possess higher brightness levels compared to projectors, rendering them a feasible substitute for conventional projection advertising boards.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Cinstar LED"
+  }
+}
+</script>
+ 
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>

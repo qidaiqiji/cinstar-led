@@ -9,6 +9,50 @@
     <title>Digital LED Billboard | LED Advertising | Cinstar LED</title>
     <meta name="description" content="Transform your outdoor advertising with outdoor digital LED billboard. Cinstar LED advertising billboard offers High-quality displays designed for maximum impact." />
     <meta name="keywords" content="led billboard, digital led billboard, led display billboard, outdoor led billboard, led billboard for advertising, led billboard screen, led billboard display, led display billboard, outdoor advertising billboard" />  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cinstar LED",
+  "alternateName": "Cinstar",
+  "url": "https://www.cinstar-led.com/",
+  "logo": "https://www.cinstar-led.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+    "https://www.instagram.com/cinstarled/",
+    "https://twitter.com/Cinstar_led"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cinstar LED",
+  "url": "",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Cinstar Digital LED Billboard Advertising Solutions",
+  "image": "https://www.cinstar-led.com/images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg",
+  "description": "Cinstar digital LED billboards are a form of digital signage technology that enables efficient management and distribution of digital content to a wide-ranging audience. With the LED display billboard, you are free to explore your creativity by utilizing various multimedia elements such as audio, video, and photos. LED billboard advertising has the ability to display dynamic content instantly. This mode of expression is highly effective when installed in buildings or other locations.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Cinstar LED"
+  }
+}
+</script>
+
 </head>
 <body class="page-index">
     <!-- 头部开始 -->

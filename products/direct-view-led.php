@@ -9,6 +9,50 @@
     <title>Superior Direct View LED Video Wall | Cinstar LED</title>
     <meta name="description" content="Experience superior Direct View LED video walls from Cinstar LED. Our fine pitch LED video wall displays are designed for clarity and impressive visual impact." />
     <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel" />  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cinstar LED",
+  "alternateName": "Cinstar",
+  "url": "https://www.cinstar-led.com/",
+  "logo": "https://www.cinstar-led.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+    "https://www.instagram.com/cinstarled/",
+    "https://twitter.com/Cinstar_led"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cinstar LED",
+  "url": "",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Direct View LED",
+  "image": "https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-3.jpg",
+  "description": "Cinstar LED provides a diverse selection of direct view LED products that offer high definition video display, lightweight panel, thin profile, exceptional display performance, seamless splicing technology, and other advanced characteristics. Cinstar's direct view LED video wall solutions are consistently the optimal choice for all kinds of high profile installations for TV studio, conference room, show room and home cinema etc. Our products are available in various sizes and pixel configurations, ensuring that they can effectively meet all the requirements of your LED projects.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Cinstar LED"
+  }
+}
+</script>
+
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
