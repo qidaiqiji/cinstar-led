@@ -17,9 +17,8 @@
             <div class="title">
                 <span>CH SERIES</span>
             </div>
-            <div class="top-title">High Profile COB Direct View LED Video Wall</div>
+            <h1 class="top-title">High Profile COB Direct View LED Video Wall</h1>
         </div>
-       
         <div class="specification">
             <div class="spec-detail">
                 <table>

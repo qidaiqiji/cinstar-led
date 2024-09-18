@@ -17,9 +17,8 @@
             <div class="title">
                 <span>M SERIES</span>
             </div>
-            <div class="top-title">Indoor Outdoor Stage Rental LED Display</div>
+            <h1 class="top-title">Indoor Outdoor Stage Rental LED Display</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

@@ -17,9 +17,8 @@
             <div class="title">
                 <span>EC SERIES</span>
             </div>
-            <div class="top-title">COB Fine Pitch LED Video Wall Solutions</div>
+            <h1 class="top-title">COB Fine Pitch LED Video Wall Solutions</h1>
         </div>
-       
         <div class="specification">
             <div class="spec-detail">
                 <table>

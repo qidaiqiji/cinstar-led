@@ -23,7 +23,7 @@
                     <span>June 26, 2019</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog9-1.jpg"/>
+                    <img src="../images/blog/Blog9-1.jpg" alt="LED Display Moisture-Proof-1"/>
                 </div>
                 <p>
                 The rainy and humid weather in summer brings no good to LED display. The pervasive vapor will increase the humidity in the air and affect the normal operation of LED display. Long-term high humidity environment may cause damage to electronic components and lead to problems like dead lamp, dark light, short circuit and open circuit, resulting in performance failure and impairing function and life of LED display. Then how to make your LED display moisture-proof is an issue that needs to be solved to both <a href="../products">indoor and outdoor LED display</a>. Here are some tips we gonna share with you.
@@ -38,7 +38,7 @@ If possible, a temperature and humidity monitor should be installed in the stora
                 </p>
                 <p><b>Moisture-proof on outdoor LED display</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog9-2.jpg"/>
+                    <img src="../images/blog/Blog9-2.jpg" alt="LED Display Moisture-Proof-2"/>
                 </div>
                <p>
                <a href="../products/commercial-led-display.php">Outdoor LED display</a> is designed to be waterproof but there is no way to stop the vapor and moisture. When installing LED display, a temperature and humidity sensor should also be installed to monitor the changes of the humidity. If the cabinet is already with monitor card, it can monitor the temperature, humidity, smoke, working condition of modules and power supply etc. Much advanced and convenient.
@@ -51,7 +51,7 @@ If possible, a temperature and humidity monitor should be installed in the stora
                </p>
                <p><b>Moisture-proof on indoor LED display</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog9-3.jpg"/>
+                    <img src="../images/blog/Blog9-3.jpg" alt="LED Display Moisture-Proof-3"/>
                 </div>
                 <p><b>Indoor fixed LED display</b></p>
                 <p>

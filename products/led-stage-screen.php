@@ -14,7 +14,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="new-product-container">
         <div class="product-banner">
-            <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-1.jpg" alt="rental-led"/>
+            <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-1.jpg" alt="LED stage screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>LED Stage Screen</h1>
@@ -35,7 +35,7 @@
                 <h2>Cinstar LED Stage Screen Product</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.webp" /></a>
+                        <a class="img-box" href="../product-detail/a-series.php"><img src="../images/products/Rental-LED/A-series-1.webp" alt="A series" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Rental LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/a-series.php">A Series Product</a>
@@ -44,7 +44,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/M-series-1.webp" /></a>
+                        <a class="img-box" href="../product-detail/m-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/M-series-1.webp" alt="M series" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Rental LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/m-series.php">M Series Product</a>
@@ -53,7 +53,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD series" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Stage Screen</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -62,7 +62,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/n-series.webp" /></a>
+                        <a class="img-box" href="../product-detail/n-series.php"><img style="width: 80%" class="img-long" src="../images/products/Rental-LED/n-series.webp" alt="n series" /></a>
                         <div class="title-box-change">
                             <h3>Cost Efficient Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/n-series.php">N Series Product</a>
@@ -71,7 +71,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 60%" class="img-longer" src="../images/products/Rental-LED/E-series-1.webp" /></a>
+                        <a class="img-box" href="../product-detail/e-series.php"><img style="width: 60%" class="img-longer" src="../images/products/Rental-LED/E-series-1.webp" alt="E series" /></a>
                         <div class="title-box-change">
                             <h3>Wide Choice Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/e-series.php">E Series Product</a>
@@ -80,7 +80,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 75%" class="img-long" src="../images/products/Rental-LED/t-series.webp" /></a>
+                        <a class="img-box" href="../product-detail/t-series.php"><img style="width: 75%" class="img-long" src="../images/products/Rental-LED/t-series.webp" alt="t series" /></a>
                         <div class="title-box-change">
                             <h3>Creative Stage LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/t-series.php">T Series Product</a>
@@ -154,7 +154,7 @@
             <div class="content application-list">
                 <h2>LED Stage Screen Applications</h2>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-2.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-2.jpg" alt="LED stage screen-2" /></div>
                     <div class="application-right">
                         <h3 class="title">Concert LED Stage Screen</h3>
                         <b>Background visual display</b>
@@ -167,7 +167,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-3.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-3.jpg" alt="LED stage screen-3" /></div>
                     <div class="application-right">
                         <h3 class="title">Opera & Theatre Stage LED Wall</h3>
                         <b>Excellent live performance</b>
@@ -178,7 +178,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-4.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-4.jpg" alt="LED stage screen-4" /></div>
                     <div class="application-right">
                         <h3 class="title">Lecture & Presentation LED Stage Screen</h3>
                         <b>Visual and audiovisual support</b>
@@ -189,7 +189,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-5.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-5.jpg" alt="LED stage screen-5" /></div>
                     <div class="application-right">
                         <h3 class="title">Trade Show LED Stage Screen</h3>
                         <b>Branding and advertising</b>
@@ -200,7 +200,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-6.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-6.jpg" alt="LED stage screen-6" /></div>
                     <div class="application-right">
                         <h3 class="title">TV Studio LED Stage Screen</h3>
                         <b>Environment creation and theme presentation</b>
@@ -211,7 +211,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-7.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-7.jpg" alt="LED stage screen-7" /></div>
                     <div class="application-right">
                         <h3 class="title">Award Ceremony LED Stage Screen</h3>
                         <b>Winners and presenters introduction </b>
@@ -222,7 +222,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-8.jpg" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-8.jpg" alt="LED stage screen-8" /></div>
                     <div class="application-right">
                         <h3 class="title">Fashion Show LED Stage Screen Wall</h3>
                         <b>Background and decorations enhancement</b>
@@ -238,8 +238,8 @@
             <div class="content">
                 <h2>Why Choose Cinstar LED Stage Screen</h2>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-9.jpg" />
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-10.jpg"/>
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-9.jpg" alt="LED stage screen-9" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-10.jpg" alt="LED stage screen-10" />
                 </div>
                 <p>With more than 10 years experience of manufacturing and exporting LED stage screen worldwide. Our products adhere to rigorous quality control measures and have obtained many international certifications like FCC, CCC, RoHS, and CE. Cinstar stage LED wall product includes 2-3 years of warranty and after sales services.</p>
                 <p>As a manufacturer specialized in stage LED screens in China, Cinstar are pleased to assist you with your specific needs. We customized the shape, size, pixel pitch, features, and other requirements of your LED screens for stages. Our team have extensive professional expertise in this field, committed to fulfilling your diverse project needs. We ensure the production of superior products with consistent performance, all at a highly affordable price. The exceptional visual aesthetics of our stage LED wall screen will attract participants, organizers, investors, and others.</p>
@@ -264,7 +264,7 @@
                 <p>
                     We are an experienced company that manufactures and offers LED stage screens. We are pleased to impart our expertise after more than 10 years of providing dependable goods, unmatched service, and innovative solution, to support you grow your business.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-11.jpg" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-11.jpg" alt="LED stage screen-11" />
                 </div>
                 <div class="chapter-box">
                     <ul>
@@ -292,7 +292,7 @@
                 <p>LED stage screen is a sizable display panel composed of several light-emitting diodes (LED) that generate light when an electric current flows through them.</p>
                 <p>These LED screens are utilized for both indoor and outdoor events, including concerts, conferences, trade shows, exhibitions, and other similar occasions. Furthermore, these devices are frequently employed in commercial enterprises, educational institutions, and other establishments to promote products and convey information.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-12.jpg" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-12.jpg" alt="LED stage screen-12" />
                 </div>
                 <h3 class="chapter-title" id="chapter2">Chapter 2 Why Choose Stage LED Video Wall?</h3>
                 <p>LED stage screens have numerous benefits compared to conventional display screens like LCD or plasma.</p>
@@ -301,7 +301,7 @@
                 <p><b>Low Power Consumption: </b>Stage LED video wall screens exhibit a notable reduction in energy consumption as compared to alternative display screens, leading to decreased electricity expenses.</p>
                 <p><b>Durability: </b>LED stage screen panels have exceptional durability due to their construction with robust materials, resulting in a significantly extended lifespan as compared to conventional display screens.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-13.jpg" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-13.jpg" alt="LED stage screen-13" />
                 </div>
                 <h3 class="chapter-title" id="chapter3">Chapter 3 What to Consider When Purchasing LED Stage Screen</h3>
                 <p>Prior to selecting stage LED video wall screens, it is essential to take into account multiple elements that might impact the quality, performance, and ultimate value of your investment.</p>
@@ -318,7 +318,7 @@
                 <p>Exceeding the acceptable brightness level range might increase production costs due to the need for additional electricity and the potential for a shorter screen lifespan.</p>
                 <p>Hence, it is imperative to maintain a harmonious equilibrium between achieving adequate luminosity for excellent visual experience and managing production expenses effectively.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-14.jpg" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-14.jpg" alt="LED stage screen-14" />
                 </div>
                 <p><b>LED Stage Screen Pixel Pitch</b></p>
                 <p>LED stage screen quality and viewing distance depend on pixel pitch. Pixel pitch is the distance (typically in millimeters) between two consecutive pixel centers. A narrower pixel pitch increases screen resolution and vice versa.</p>
@@ -331,7 +331,7 @@
                 <p>Lower resolution can provide great quality at distances over 10 feet. Choosing a lesser resolution like HD (1280x720) or SD (640x480) might be cost-effective while maintaining a clear image. </p>
                 <p>Content on the screen is also important. If the content is mostly text or graphics, a higher resolution may improve legibility. However, a lower quality may work for video or photos.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-15.jpg" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-15.jpg" alt="LED stage screen-15" />
                 </div>
                 <p><b>LED Stage Display Refresh Rate </b></p>
                 <p>The refresh rate of LED stage screen is the frequency at which the image on the screen is updated every second. The frequency is quantified in Hertz (Hz) and can vary from 60Hz to 240Hz or higher. A greater refresh rate leads to enhanced motion fluidity and decreased blurring, particularly when seeing rapid movements like those in sports or action sequences. Nevertheless, a greater refresh rate can also lead to elevated eye strain for some viewers. </p>
@@ -344,7 +344,7 @@
                 <p>The dimensions of a LED stage screen display are also a crucial factor to take into account. While a larger screen may appear more spectacular, it is crucial to take consideration of the viewing distance.</p>
                 <p>An optimal LED stage screen size for a viewing distance of 10-20 feet would be in the range of 80-90 inches. For a larger venue with a viewing distance of 30 feet or more, a screen size of 120 inches or more would be appropriate.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-16.jpg" />
+                    <img src="../images/products/new-page/LED-stage-screen/LED-stage-screen-16.jpg" alt="LED stage screen-16" />
                 </div>
                 <p><b>Stage LED Wall Signal Inputs</b></p>
                 <p>The various input choices for stage LED wall screen can differ based on the type of event or production. Among the most popular signal input options are VGA, HDMI, and SDI. You must ensure that the LED stage screen offers input options that are compatible with the event's equipment.</p>

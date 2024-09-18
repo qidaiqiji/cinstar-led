@@ -23,7 +23,7 @@
                     <span>July 9, 2019</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog11-1.jpg"/>
+                    <img src="../images/blog/Blog11-1.jpg" alt="Purchasing Outdoor LED Display-1"/>
                 </div>
                 <p>
                 In recent years, with the rapid development of <a href="../">LED technology</a>, LED display has been widely recognized as the most preferred media channel by various industries. When comes to the installation environment, which can be divided into indoor and outdoor categories. Due to the particularity of different applications, how to choose the right LED product and perform normative installation and maintenance have become some kind of knowledge that LED display owners are supposed to master.
@@ -35,7 +35,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Product quality</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog11-2.jpg"/>
+                            <img src="../images/blog/Blog11-2.jpg" alt="Purchasing Outdoor LED Display-2"/>
                         </div>
                         <p><i class="fa fa-angle-double-right"></i><b>Whether the quality of the LED display meets the standards</b></p>
                         <p><b>Thermal design</b></p>
@@ -61,7 +61,7 @@
                         </p>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>External installation environment</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog11-3.jpg"/>
+                            <img src="../images/blog/Blog11-3.jpg" alt="Purchasing Outdoor LED Display-3"/>
                         </div>
                         <p>
                         According to statistics, for every 5 °C increase in external ambient temperature, the life of the cooling fan of the LED display will drop by about 50%. If the LED display is installed in the high temperature environment, the ventilator or air conditioner are necessary to create air circulation to cool the LED display and maintain its normal working temperature.
@@ -73,7 +73,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>User's maintenance awareness</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog11-4.jpg"/>
+                            <img src="../images/blog/Blog11-4.jpg" alt="Purchasing Outdoor LED Display-4"/>
                         </div>
                         <p>
                         With the continuous breakthrough of LED technology in recent years, more and more advertising agencies are investing big capital on LED display and upgrading their print billboards into <a href="../products/commercial-led-display.php">digital LED billboard displays</a> for better advertising and media content delivering. But a regular cleaning and maintenance work is usually neglected by many users. They may have no such awareness or simply think LED display requires no maintenance just like print billboard. 

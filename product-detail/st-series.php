@@ -17,9 +17,8 @@
             <div class="title">
                 <span>ST SERIES</span>
             </div>
-            <div class="top-title">Most Cost-Effective Outdoor Advertising Display Solution</div>
+            <h1 class="top-title">Most Cost-Effective Outdoor Advertising Display Solution</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">
@@ -74,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/ST-series-1.jpg" alt="ST SERIES"/>
+                <img src="../images/products/Commercial-LED/ST-series-1.jpg" alt="ST SERIES-1"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/ST-series-2.jpg" alt="ST SERIES"/>
+                    <img src="../images/products/Commercial-LED/ST-series-2.jpg" alt="ST SERIES-2"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Durable Classic Market Tested Design</h2>
@@ -99,13 +98,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/ST-series-3.jpg" alt="ST SERIES"/>
+                    <img src="../images/products/Commercial-LED/ST-series-3.jpg" alt="ST SERIES-3"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/ST-series-4.jpg" alt="ST SERIES"/>
+                    <img src="../images/products/Commercial-LED/ST-series-4.jpg" alt="ST SERIES-4"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Wide Range of Options</h2>
@@ -123,13 +122,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/ST-series-5.jpg" class="special" alt="ST SERIES"/>
+                    <img src="../images/products/Commercial-LED/ST-series-5.jpg" class="special" alt="ST SERIES-5"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/ST-series-6.jpg" alt="ST SERIES"/>
+                    <img src="../images/products/Commercial-LED/ST-series-6.jpg" alt="ST SERIES-6"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Super Wide Viewing Angle Maximize Your Advertising Venues </h2>
@@ -191,7 +190,7 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/ST-series-7.jpg" alt="Cinstar-8mm-Outdoor-Advertising-Billboard"/>
+                    <img src="../images/products/Commercial-LED/ST-series-7.jpg" alt="Cinstar 8mm Outdoor Advertising Billboard"/>
                     <a class="case-title">
                         <span class="current">Cinstar 8mm Outdoor Advertising Billboard</span>
                     </a>
@@ -504,7 +503,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

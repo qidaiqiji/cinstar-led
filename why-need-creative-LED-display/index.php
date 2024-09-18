@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer" />  
+    <meta name="description" content="When the market is flooding with same products, a different one will definitely get more attention and create more opportunities." />
     <meta name="p:domain_verify" content="55405faff2c022df8ded4e9440511b8f"/>
     <meta name="msvalidate.01" content="05393303A9AC7E2D8DCF3B48AD511318" />
     <title>LED Display Manufacturer | Indoor & Outdoor LED Display - Cinstar</title>
@@ -30,10 +31,6 @@
     <?php include('../inc/top.php'); ?>
     <!-- ???? -->
     <div class="container">
-        <!-- ???? -->
-        <!-- <div class="product-banner">
-            <img src="../images/markets/fine pitch/market-fine-3.jpg" alt="market-fine"/>
-        </div> -->
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title"> Why You Need a Creative LED Display?</h1>
@@ -42,7 +39,7 @@
                     <span>June 13, 2019</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/blog6-1.jpg">
+                    <img src="../images/blog/blog6-1.jpg" alt="Creative LED Display-1"/>
                 </div>
                 <p>
                     It is a fact that we will easily get bored and have aesthetic fatigue, if all the things around us
@@ -73,7 +70,7 @@
                             and other creative curved designs to attract attentions.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-2.jpg">
+                            <img src="../images/blog/blog6-2.jpg" alt="Creative LED Display-2"/>
                         </div>
                     </li>
                     <li>
@@ -88,7 +85,7 @@
                                 href="../products/commercial-led-display.php">deliver an impressive visual enjoyment</a>.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-3.jpg">
+                            <img src="../images/blog/blog6-3.jpg" alt="Creative LED Display-3"/>
                         </div>
                     </li>
                     <li>
@@ -115,7 +112,7 @@
                         </p>
 
                         <div class="img-box">
-                            <img src="../images/blog/blog6-4.jpg">
+                            <img src="../images/blog/blog6-4.jpg" alt="Creative LED Display-4"/>
                         </div>
                         <p>
                             After figuring out the types of creative LED display, you might be interested about what
@@ -128,7 +125,7 @@
                             is the only limit.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-5.jpg">
+                            <img src="../images/blog/blog6-5.jpg" alt="Creative LED Display-5"/>
                         </div>
                         <p>
                             Your clients are always happier to present a cooler and engaging atmosphere event for all
@@ -147,7 +144,7 @@
                             influential brands and sponsors.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-6.jpg">
+                            <img src="../images/blog/blog6-6.jpg" alt="Creative LED Display-6"/>
                         </div>
                         <p>
                             In addition, when you build LED billboard, you can integrate your display with rotating

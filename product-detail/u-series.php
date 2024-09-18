@@ -17,9 +17,8 @@
             <div class="title">
                 <span>U SERIES</span>
             </div>
-            <div class="top-title">UHD Fine Pitch LED Video Wall Solution</div>
+            <h1 class="top-title">UHD Fine Pitch LED Video Wall Solution</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

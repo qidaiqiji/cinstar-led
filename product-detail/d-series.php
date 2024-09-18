@@ -17,9 +17,8 @@
             <div class="title">
                 <span>D SERIES</span>
             </div>
-            <div class="top-title">Interactive LED Dance Floor Solution</div>
+            <h1 class="top-title">Interactive LED Dance Floor Solution</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">
@@ -75,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D SERIES"/>
+                <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D SERIES-1"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-2.jpg" alt="D SERIES"/>
+                    <img src="../images/products/Commercial-LED/D-series-2.jpg" alt="D SERIES-2"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">500x500mm & 500x1000mm Panels For Option</h2>
@@ -100,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-3.jpg" alt="D SERIES"/>
+                    <img src="../images/products/Commercial-LED/D-series-3.jpg" alt="D SERIES-3"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-4.jpg" alt="D SERIES"/>
+                    <img src="../images/products/Commercial-LED/D-series-4.jpg" alt="D SERIES-4"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Excellent Load-Bearing Performance</h2>
@@ -124,7 +123,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-5.jpg" alt="D SERIES"/>
+                    <img src="../images/products/Commercial-LED/D-series-5.jpg" alt="D SERIES-5"/>
                 </div>
             </div>
         </div>

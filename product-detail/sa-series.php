@@ -17,9 +17,8 @@
             <div class="title">
                 <span>SA SERIES</span>
             </div>
-            <div class="top-title">Cost-Effective Sport Arena Video Solution</div>
+            <h1 class="top-title">Cost-Effective Sport Arena Video Solution</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

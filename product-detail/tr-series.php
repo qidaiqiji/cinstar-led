@@ -17,9 +17,8 @@
             <div class="title">
                 <span>TR SERIES</span>
             </div>
-            <div class="top-title">Creative Effect LED Video Display Solutions</div>
+            <h1 class="top-title">Creative Effect LED Video Display Solutions</h1>
         </div>
- 
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

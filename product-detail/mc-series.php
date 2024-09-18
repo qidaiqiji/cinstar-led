@@ -17,9 +17,8 @@
             <div class="title">
                 <span>MC SERIES</span>
             </div>
-            <div class="top-title">Media Mesh LED Video Display Solutions</div>
+            <h1 class="top-title">Media Mesh LED Video Display Solutions</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

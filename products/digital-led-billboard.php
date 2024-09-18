@@ -61,7 +61,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner">
-            <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-1.jpg" alt="concert-led-screen-1"/>
+            <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-1.jpg" alt="digital led billboard-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>Digital LED Billboard</p>

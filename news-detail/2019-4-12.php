@@ -26,7 +26,7 @@
                     Recently, Cinstar has redesigned and Improved its website where users can enjoy a much better browsing experience on laptop, desktop, ipad and mobile phone. Come and check out the brand new style, you gonna like it!
                 </p>
                 <div class="img-box" style="width:25%"> 
-                    <img src="../images/home/LM-SERIES.webp"/>
+                    <img src="../images/home/LM-SERIES.webp" alt="LM SERIES"/>
                 </div>
                 <p>
                     Besides, we have updated more comprehensive product lines to create more choices for customers. For instance, the HD and NL series for control room and TV studio application, CR and LM series for rental event production, DB and MC series for outdoor application, Xposter and Fantasy for creative retail applications.

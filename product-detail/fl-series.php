@@ -17,9 +17,8 @@
             <div class="title">
                 <span>FL SERIES</span>
             </div>
-            <div class="top-title">Creative LED Video Screen Solution</div>
+            <h1 class="top-title">Creative LED Video Screen Solution</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

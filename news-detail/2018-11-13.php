@@ -20,8 +20,8 @@
             </div>
             <div class="content-box">
                 <div class="img-box several-imgs">
-                    <img src="../images/news/news4-1.jpg" alt="12sqm fine pitch 1.92mm delivery to Netherlands"/>
-                    <img src="../images/news/news4-2.jpg" alt="12sqm fine pitch 1.92mm delivery to Netherlands"/>
+                    <img src="../images/news/news4-1.jpg" alt="12sqm fine pitch 1.92mm delivery to Netherlands-1"/>
+                    <img src="../images/news/news4-2.jpg" alt="12sqm fine pitch 1.92mm delivery to Netherlands-2"/>
                 </div>
                 <p>
                     Recently in our factory, one stunning LED display will always attract your attention. It is one high profile narrow pitch 1.92mm video wall which is aging and ready to ship to Netherlands.
@@ -31,8 +31,8 @@
                 </p>
                 <p>Here is part of the aging screen, most panels were packed already. </p>
                 <div class="img-box several-imgs">
-                    <img src="../images/news/news4.jpg"/>
-                    <img src="../images/news/news4-3.jpg"/>
+                    <img src="../images/news/news4.jpg" alt="12sqm fine pitch 1.92mm delivery to Netherlands-3"/>
+                    <img src="../images/news/news4-3.jpg" alt="12sqm fine pitch 1.92mm delivery to Netherlands-4"/>
                 </div>
             </div>
         </div>

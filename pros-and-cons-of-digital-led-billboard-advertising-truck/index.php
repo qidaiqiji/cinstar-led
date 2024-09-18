@@ -22,7 +22,7 @@
                     <span><i class="fa fa-calendar"></i></span>
                     <span>2022/04/22</span>
                 </div>
-                <img src="../images/news/maxresdefault.jpg"/ class="img-responsive" style="max-width: 100%;">
+                <img src="../images/news/maxresdefault.jpg" class="img-responsive" style="max-width: 100%;" alt="Digital LED Billboard Advertising Truck" />
                 <br>
 
                 

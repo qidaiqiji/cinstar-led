@@ -16,7 +16,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner">
-            <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-1.webp" alt="rental-led"/>
+            <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-1.webp" alt="LED screens for events-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>LED Screens For Events</h1>
@@ -55,7 +55,7 @@
                                     </ul>
                                 </div>
                             </a>
-                            <a  href="../product-detail/m-series.php" class="spec-title">M SERIES</a>
+                            <a href="../product-detail/m-series.php" class="spec-title">M SERIES</a>
                         </div>
                     </div>
                     <div class="specification">
@@ -176,7 +176,7 @@
                 <h2>Cinstar LED Screens for Events Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-2.jpg" /></div>
+                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-2.jpg" alt="LED screens for events 2" /></div>
                         <div class="title-box-change">
                             <h3>P1.56 Indoor Rental Event LED Screen</h3>
                         </div>
@@ -184,7 +184,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-3.jpg" /></div>
+                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-3.jpg" alt="LED screens for events 3" /></div>
                         <div class="title-box-change">
                             <h3>P2.6 indoor LED Screens for Events</h3>
                         </div>
@@ -192,7 +192,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-4.jpg" /></div>
+                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-4.jpg" alt="LED screens for events 4" /></div>
                         <div class="title-box-change">
                             <h3>P3.9 Indoor Event LED Screen</h3>
                         </div>
@@ -200,7 +200,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-5.jpg" /></div>
+                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-5.jpg" alt="LED screens for events 5" /></div>
                         <div class="title-box-change">
                             <h3>P2.9 Outdoor LED Display for Events</h3>
                         </div>
@@ -208,7 +208,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-6.jpg" /></div>
+                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-6.jpg" alt="LED screens for events 6" /></div>
                         <div class="title-box-change">
                             <h3>P3.9 Outdoor LED Screens for Events</h3>
                         </div>
@@ -216,7 +216,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-7.jpg" /></div>
+                        <div class="img-box"><img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-7.jpg" alt="LED screens for events 7" /></div>
                         <div class="title-box-change">
                             <h3>P4.8 Best Outdoor Event LED Screen</h3>
                         </div>
@@ -230,7 +230,7 @@
             <div class="content application-list">
                 <h2>LED Screens for Events Application Scenarios</h2>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-8.jpg" />
+                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-8.jpg" alt="LED screens for events 8" />
                     <div class="application-right">
                         <h3 class="title">LED Screen for Events & Party</h3>
                         <p>It has never been easy to plan a vibrant and immersive event. Though you may have a wonderful goal, the most important thing is to select the right tool to execute it. The superb nature allows them to adapt to a variety of venue layouts. And make your fantasies a reality. Cinstar LED screens for events are born to offer you the right LED system for any types of event productions.</p>
@@ -238,7 +238,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-9.jpg" />
+                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-9.jpg" alt="LED screens for events 9" />
                     <div class="application-right">
                         <h3 class="title">Event LED Screen for Stage</h3>
                         <p>LED screen for stage can be utilized as a LED video wall display to enhance the stage atmosphere, as well as being used as stage backdrop for live streaming. High definition images and videos with vivid colors and top clarity can totally level up the overall performance. A fantastic stage performance paired with excellent visual impact can easily captivate the audiences and get them engaged. Cinstar LED screen for events can assure you all of these. </p>
@@ -246,7 +246,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-10.jpg" />
+                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-10.jpg" alt="LED screens for events 10" />
                     <div class="application-right">
                         <h3 class="title">Event LED Screen for Wedding</h3>
                         <p>There are several benefits that an LED screen for wedding can offer. For instance, the event LED screen allows everyone in attendance to see the important moments clearly and feel completely engaged in the wedding by offering live broadcasts of the ceremony. The event LED screens contribute a lot to creating dynamic atmosphere during a wedding celebration by keeping attendees entertained and involved, ensuring that everyone is having a fantastic time.</p>
@@ -254,7 +254,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-11.jpg" />
+                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-11.jpg" alt="LED screens for events 11" />
                     <div class="application-right">
                         <h3 class="title">Event LED Screen for Trade Show</h3>
                         <p>Rental LED display screens are widely accepted by more and more enterprises to show off their products or services on trade show. With giant LED video wall displays wall mounted, suspended or floor stacked and well-tailored exhibition stand, it is easier to attract potential clients and enhance brand images. Except for providing LED screens for events, Cinstar has consistently improving its LED screen for trade show based on user's valuable feedback.</p>
@@ -262,7 +262,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-12.jpg" />
+                    <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-12.jpg" alt="LED screens for events 12" />
                     <div class="application-right">
                         <h3 class="title">Corporate Event LED Screen</h3>
                         <p>In the long run, the LED screen might provide you with more benefits than you could have imagined. A giant LED screens for events can display crystal clear images and the content on it is visible to all the participants, making sure the speaker's ideas or thoughts will be well delivered and received. An easy to be built and dismantled event LED screen can for sure bring you more business opportunities and optimize your ROI.</p>
@@ -334,7 +334,7 @@
             <div class="content application-list">
                 <!-- <h2>LED Screens for Events Application Scenarios</h2> -->
                 <div class="application-item">
-                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-13.jpg" />
+                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-13.jpg" alt="LED screens for events 13" />
                     <div class="application-right">
                         <h3 class="title">Versatile Event LED Screen</h3>
                         <p>LED screens for events and stages are essential for practically any type of events, from concerts and tour production to trade shows and corporate events. With application of event LED screen, all events are getting much dynamic and impressive.</p>
@@ -349,10 +349,10 @@
                         <p>Event LED screen may transform your event into a show-stopper by enhancing visibility in any lighting condition. Additionally, you will be able to obtain deeper hues and contrast, which will greatly enhance the visual appeal of your announcements or presentations.</p>
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
-                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-14.jpg" />
+                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-14.jpg" alt="LED screens for events 14" />
                 </div>
                 <div class="application-item">
-                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-15.jpg" />
+                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-15.jpg" alt="LED screens for events 15" />
                     <div class="application-right">
                         <h3 class="title">Easy Set-up and Operate</h3>
                         <p>The portability and installation simplicity of Cinstar LED screens for events are a result of their comparative and thin light structure. Additionally, they can be rapidly powered on prior to use and conveniently disassembled into a standard projection screen within a venue.</p>
@@ -367,7 +367,7 @@
                 <h2>Cinstar LED Screen for Events</h2>
                 <div class="events-vertical">
                     <div class="application-item">
-                        <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-18.jpg" />
+                        <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-18.jpg" alt="LED screens for events 18" />
                         <div class="application-right">
                             <h3 class="title">Indoor Rental Event LED Screen</h3>
                             <p>For events where the primary attention is on the visuals, the image quality shown to the audience is of utmost importance. If you want your audience to experience images with greater clarity and sharpness, then you should utilize Cinstar indoor rental LED display screen.</p>
@@ -376,7 +376,7 @@
                         </div>
                     </div>
                     <div class="application-item">
-                        <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-19.jpg" />
+                        <img src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-19.jpg" alt="LED screens for events 19" />
                         <div class="application-right">
                             <h3 class="title">Outdoor Rental Event LED Screen</h3>
                             <p>When organizing a late-night event or a visually impressive projection mapping, we recommend that you utilize an event LED screen rather than a projection system. While there are numerous factors to take into account when strategizing and preparing to construct an outdoor event LED screen, it is crucial to recognize that weather conditions can have an impact on the functionality and structural stability of the screen.</p>
@@ -391,8 +391,8 @@
             <div class="content">
                 <h2>Why Choose Cinstar LED Screens for Events</h2>
                 <div class="img-box" style="justify-content: space-around">
-                    <img style="width: 45%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-16.jpg" />
-                    <img style="width: 45%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-17.jpg"/>
+                    <img style="width: 45%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-16.jpg" alt="LED screens for events 16" />
+                    <img style="width: 45%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-17.jpg" alt="LED screens for events 17"/>
                 </div>
                 <div style="width: 96%; margin: 0 auto">
                     <p>Opting for Cinstar as the provider of your event LED screen would entail several advantages. A multitude of event production companies select Cinstar event LED screen due to their superior cost-to-quality ratio and best quality control. Competitive price but assured quality for any high profile event productions.</p>
@@ -401,7 +401,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
@@ -415,7 +415,7 @@
             <div class="content application-list">
                 <h2>LED Screens for Event Applications</h2>
                 <div class="application-item">
-                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-20.jpg" />
+                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-20.jpg" alt="LED screens for events 20" />
                     <div class="application-right">
                         <h3 class="title">Concert & Touring Even LED Screen</h3>
                         <p>During a large-scale, cohesive event, the LED screen for events would provide superior screen quality and versatility both indoors and outdoors. Cinstar guarantees superior visibility from both close and far distances due to its market-leading position in large-format modular displays and events.</p>
@@ -424,7 +424,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-21.jpg" />
+                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-21.jpg" alt="LED screens for events 21" />
                     <div class="application-right">
                         <h3 class="title">Charity & Ceremony Event LED Screen</h3>
                         <p>For any special occasion, gala, ceremony, charity event, or just to bring people together, Cinstar is here to help. We have indoor and outdoor event LED screens that are perfect for promoting any cause you can think of.</p>
@@ -433,7 +433,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-22.jpg" />
+                    <img style="width: 40%" src="../images/products/new-page/LED-screens-for-events/LED-screens-for-events-22.jpg" alt="LED screens for events 22" />
                     <div class="application-right">
                         <h3 class="title">Conference & Exhibition Event LED Screen</h3>
                         <p>Cinstar LED screens for events are capable of accepting various types of media inputs, including logos, videos, live feeds, photos, PowerPoint presentations, and advertisements. Now is the time to begin making the most of your productions by utilizing our LED screens for events.</p>

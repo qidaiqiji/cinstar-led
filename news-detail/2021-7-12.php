@@ -5,7 +5,7 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240816.css">
     <title>Cinstar U1.25 4K UHD LED video screen for home cinema</title>
-    <meta name="description" content="In the middle of January, we close one deal with our Belgium customer for a trial HD1.87 screen for several shopping centers in Belgium. The screen size is 12x3 panels, screen size 7.2mx1.10m. If this trial screen works nice, there will be 10-20 pcs more. The customer visited and inspected our factory before placing order and had big confidence in us. The lead time was one week delayed due to the impact of Coronavirus, but luckily we didn’t miss their installation schedule." />
+    <meta name="description" content="In the past June, one another Cinstar UHD 4K LED video wall was delivered and installed at our customer’s home to serve as main screen of home cinema. All parties were satisfied to the vivid colors and detailed image production of the LED screen wall!" />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
 </head>
 <body class="page-index .menu-open">
