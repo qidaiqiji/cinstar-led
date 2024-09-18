@@ -14,31 +14,31 @@
         exit();
     }
     if ($explodedURL[2] == 'digital-billboard.php') {
-        header("Location: https://www.cinstar-led.com/digital-led-billboard.php"); 
+        header("Location: https://www.cinstar-led.com/products/digital-led-billboard.php"); 
         exit();
     }
     if ($explodedURL[2] == 'rental-led.php') {
-        header("Location: https://www.cinstar-led.com/rental-led-display-screen.php"); 
+        header("Location: https://www.cinstar-led.com/products/rental-led-display-screen.php"); 
         exit();
     }
     if ($explodedURL[2] == 'commercial-led.php') {
-        header("Location: https://www.cinstar-led.com/commercial-led-display.php"); 
+        header("Location: https://www.cinstar-led.com/products/commercial-led-display.php"); 
         exit();
     }
     if ($explodedURL[2] == 'creative-led.php') {
-        header("Location: https://www.cinstar-led.com/creative-led-display.php"); 
+        header("Location: https://www.cinstar-led.com/products/creative-led-display.php"); 
         exit();
     }
     if ($explodedURL[2] == 'custom-led.php') {
-        header("Location: https://www.cinstar-led.com/custom-led-display.php"); 
+        header("Location: https://www.cinstar-led.com/products/custom-led-display.php"); 
         exit();
     }
     if ($explodedURL[2] == 'fine-pitch.php') {
-        header("Location: https://www.cinstar-led.com/fine-pitch-led-display.php"); 
+        header("Location: https://www.cinstar-led.com/products/fine-pitch-led-display.php"); 
         exit();
     }
     if ($explodedURL[2] == 'stage-led-screen.php') {
-        header("Location: https://www.cinstar-led.com/led-stage-screen.php"); 
+        header("Location: https://www.cinstar-led.com/products/led-stage-screen.php"); 
         exit();
     }
     if(count($explodedURL) > 2)
