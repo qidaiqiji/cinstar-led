@@ -17,9 +17,8 @@
             <div class="title">
                 <span>HD SERIES</span>
             </div>
-            <div class="top-title">High-Definition LED Video Display</div>
+            <h1 class="top-title">High-Definition LED Video Display</h1>
         </div>
-       
         <div class="specification">
             <div class="spec-detail">
                 <table>

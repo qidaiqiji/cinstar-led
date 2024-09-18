@@ -10,14 +10,8 @@
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="container">
-        <!-- 导航开始 -->
-        <!-- <div class="product-banner">
-            <img src="../images/markets/fine pitch/market-fine-3.jpg" alt="market-fine"/>
-        </div> -->
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">5 Tips to Extend Lifespan of Your Advertising LED Billboard</h1>
@@ -32,7 +26,7 @@
                 Taking outdoor advertising for example, LED billboard is beating traditional print advertising no matter what the brightness, image quality, durability and usability. It is like a rock star in the advertising industry.
                 </p>
                 <div class="img-box">
-                    <img src="../images/blog/blog5-1.jpg"/>
+                    <img src="../images/blog/blog5-1.jpg" alt="Advertising LED Billboard-1"/>
                 </div>
                 <p>
                 LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="../products/commercial-led-display.php">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
@@ -57,7 +51,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 2: Turn on/off LED billboard</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-2.jpg"/>
+                            <img src="../images/blog/blog5-2.jpg" alt="Advertising LED Billboard-2"/>
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -79,7 +73,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 3: Power control</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-3.jpg"/>
+                            <img src="../images/blog/blog5-3.jpg" alt="Advertising LED Billboard-3"/>
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -104,7 +98,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 4: LED billboard cleaning</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-4.jpg"/>
+                            <img src="../images/blog/blog5-4.jpg" alt="Advertising LED Billboard-4"/>
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -122,7 +116,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 5: Storage and moistureproof</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-5.jpg"/>
+                            <img src="../images/blog/blog5-5.jpg" alt="Advertising LED Billboard-5"/>
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

@@ -26,14 +26,14 @@
                 With the development of digital technology and market preference, the types of <a href="../products/commercial-led-display.php">outdoor advertising</a> have shown a diversified trend. When we look around the city, in addition to the very traditional print advertisements at bus shelter and metro station, we can also see the digital signage LCD display and big LED display screen advertisements. LED display is now becoming the current most efficient and preferred channel for commercial advertising. This article will discuss the main applications and advantages of outdoor LED display.
                 </p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog12-1.jpg"/>
+                    <img src="../images/blog/Blog12-1.jpg" alt="Advantages of Outdoor LED Display-1"/>
                 </div>
                 <ul class="list">
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Key applications of outdoor LED display</h2></div>
                         <p><i class="fa fa-angle-double-right"></i><b>Building curtain wall</b></p>
                         <div class="img-box">
-                            <img src="../images/blog/Blog12-2.jpg"/>
+                            <img src="../images/blog/Blog12-2.jpg" alt="Advantages of Outdoor LED Display-2"/>
                         </div>
                         <p>
                         The urban building curtain wall is mainly concentrated in the prosperous area of the city and is now a big potential market for outdoor media advertising. But the advertising value of this segment market has not been fully developed yet, with the increasing competition on billboard installation location, the glass curtain walls have become a new market and provide more opportunities for outdoor advertising. The application area of this segment is very wide such as urban landmark buildings, municipal buildings, airports, Auto 4S shops, hotels, banks, chain stores and other glass curtain wall buildings with commercial value.
@@ -43,7 +43,7 @@
                             <b>Sports events</b>
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/Blog12-3.jpg"/>
+                            <img src="../images/blog/Blog12-3.jpg" alt="Advantages of Outdoor LED Display-3" />
                         </div>
                         <p>
                         <a href="../">LED display</a> is playing an important role in sports stadiums, which not only provides real-time broadcast of the game, but also display the fancy replay of the game for fans. In addition, the LED display can provide slow-motion playback to help the referee make the correct judgment to reduce unnecessary disputes and ensure that the results of the competition are more fair and equitable. What is more, it can also be used for athlete introduction, game result information display and commercial advertising campaign etc. Whether it is the Olympic Games, the World Cup or all kinds of events, you can always see the performance of LED display. The application of LED display has become an essential facility in various modern sports venues including football fields, basketball halls, ice hockey arena and hand ball hall etc.
@@ -53,7 +53,7 @@
                             <b>Stage background</b>
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/Blog12-4.jpg"/>
+                            <img src="../images/blog/Blog12-4.jpg" alt="Advantages of Outdoor LED Display-4"/>
                         </div>
                         <p>
                         Featuring light weight panel, modular design, fast installation and dismantle, LED display is widely used as the main stage background on music festival, live production, concert, award ceremony and corporate event to deliver better visual experience, more engaging atmosphere and <a href="../products/rental-led-display-screen.php">better stage effect</a>. On the one hand, the LED display can broadcast and replay the live event, so that long-distance audiences can also enjoy the performance. What more important is that the stage effect of LED display can expand the performance space and set off the stage atmosphere, which is extremely important in large-scale stage performances, concerts and music festivals.
@@ -62,7 +62,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Key advantages of outdoor LED display</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog12-5.jpg"/>
+                            <img src="../images/blog/Blog12-5.jpg" alt="Advantages of Outdoor LED Display-5"/>
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

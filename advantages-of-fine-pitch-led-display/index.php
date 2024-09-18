@@ -27,7 +27,7 @@
                 </p>
                 <p><b>Meet the needs of most users</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog10-1.jpg"/>
+                    <img src="../images/blog/Blog10-1.jpg" alt="Fine Pitch LED Display-1"/>
                 </div>
                 <p>
                 Featuring ultra slim and sleek cabinet, simple and easy to install and maintain, flexible and convenient to use, fine pitch LED display screen requires a very narrowed space to install and achieves higher resolution with limited display area. The fine pitch LED display screen not only displays higher-definition graphics and videos, but also displays more detail and content of source image or video, especially in image stitching, which enabling truly seamless and arbitrarily large-area stitching. Seamless image connection and superb visual enjoyment are what LCD video wall can’t compete with. 
@@ -37,14 +37,14 @@
                 </p>
                 <p><b>Energy saving and environmental protection</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog10-2.jpg"/>
+                    <img src="../images/blog/Blog10-2.jpg" alt="Fine Pitch LED Display-2"/>
                 </div>
                 <p>
                 With the society pays more and more attention to energy conservation and environmental protection to create a smarter and more intelligent city, LED as the new technology and current most preferred visual equipment for information transmission and city image improvement, has got more and more attentions. Fine pitch LED display screen fully utilizes energy-saving technology and uses more efficient light-emitting chips in material selection. In addition, the circuit design and screen heat dissipation design are well optimized to achieve energy saving. What is more, for different installation environments with different ambient lighting conditions, the brightness of fine pitch <a href="../">LED display screen</a> could be automatically adjusted to achieve the brightness suitable for the environment and in return to achieve energy saving and environmental protection and avoid light pollution.
                 </p>
                 <p><b>More extensive applications</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog10-3.jpg"/>
+                    <img src="../images/blog/Blog10-3.jpg" alt="Fine Pitch LED Display-3"/>
                 </div>
                 <p>
                 Fine pitch LED display screen has a small unit size and can easily meet some creative designs like smooth inner curve or right angle installation. Fine pitch LED display screen has better performance than other products in terms of contrast ratio and color gamut. It can be applied to security monitoring, corporate exhibition, business and education, radio and television broadcasts and other fields.

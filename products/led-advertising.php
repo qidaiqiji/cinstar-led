@@ -58,7 +58,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="new-product-container">
         <div class="product-banner">
-            <img src="../images/products/new-page/led-advertising-display/led-advertising-display-1.jpg" alt="concert-led-screen-1"/>
+            <img src="../images/products/new-page/led-advertising-display/led-advertising-display-1.jpg" alt="led advertising display-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>LED Advertising Display</p>
@@ -79,7 +79,7 @@
                 <h2>Cinstar LED Advertising Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2-1" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Advertising Screen</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -88,7 +88,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" alt="Innox-1" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" alt="Innox" /></a>
                         <div class="title-box-change">
                             <h3>Indoor Advertising LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -97,7 +97,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/X-series-1.jpg" alt="X-Series-1" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/X-series-1.jpg" alt="X Series-1" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -195,7 +195,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

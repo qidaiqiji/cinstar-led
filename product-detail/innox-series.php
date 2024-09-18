@@ -17,9 +17,8 @@
             <div class="title">
                 <span>INNOX SERIES</span>
             </div>
-            <div class="top-title">High Profile Indoor Fixed LED Display Solutions</div>
+            <h1 class="top-title">High Profile Indoor Fixed LED Display Solutions</h1>
         </div>
-       
         <div class="specification">
             <div class="spec-detail">
                 <table>

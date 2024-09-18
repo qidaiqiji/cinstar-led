@@ -23,7 +23,7 @@
                     <span>April 10, 2019</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/blog1-1.jpg"/>
+                    <img src="../images/blog/blog1-1.jpg" alt="Installing Outdoor LED Display-1"/>
                 </div>
                 <p>
                 Featuring high brightness, seamless connection, excellent image quality and great stability, outdoor LED display is beating the traditional print advertising in all aspects and is now becoming the new preference in the advertising industry. 
@@ -33,7 +33,7 @@
                 </p>
                 <div class="sub-title"><h2>Lightning protection</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/blog1-2.jpg"/>
+                    <img src="../images/blog/blog1-2.jpg" alt="Installing Outdoor LED Display-2"/>
                 </div>
                 <p>
                 If an outdoor LED display is installed in the region where frequently suffering extreme weather conditions like thunderstorm or lightning, it is a must to install a lightning rod to your display and connect its steel structure to grounding device to avoid possible lightning stroke. If power distribution unit is used, it also has to be installed with lightning protection device as well.
@@ -43,7 +43,7 @@
                 </p>
                 <div class="sub-title"><h2>High standard waterproof</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/blog1-3.jpg"/>
+                    <img src="../images/blog/blog1-3.jpg" alt="Installing Outdoor LED Display-3"/>
                 </div>
                 <p>
                 <a href="../products/commercial-led-display.php">Outdoor LED display</a> requires higher standard on the stability and durability. When referring to stability, waterproof is what can’t be underestimated or neglected. Electronic components are sensitive to water and moisture and can easily get wet, rusted and cause short circuit, if the waterproof is not performed well as requested. When you get LED display from factory, all the cabinets should be qualified for waterproofing. But when you install the display, some necessary work should be done to make sure of that. 
@@ -53,7 +53,7 @@
                 </p>
                 <div class="sub-title"><h2>Cooling/Ventilation system</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/blog1-4.jpg"/>
+                    <img src="../images/blog/blog1-4.jpg" alt="Installing Outdoor LED Display-4"/>
                 </div>
                 <p>
                 Heat dissipation is always a critical issue to LED display, especially the <a href="../products/commercial-led-display.php">outdoor installation LED display</a>. We all know that the running LED display will generate heat inside the cabinet. With help of inserted electric fans, they create an air circulation and cooler its inside temperature. Seems no problem at all. 

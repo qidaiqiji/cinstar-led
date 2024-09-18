@@ -17,9 +17,8 @@
             <div class="title">
                 <span>X SERIES</span>
             </div>
-            <div class="top-title">Ultra-Bright Versatile Outdoor LED Advertising Billboard</div>
+            <h1 class="top-title">Ultra-Bright Versatile Outdoor LED Advertising Billboard</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

@@ -17,7 +17,7 @@
             <div class="title">
                 <span>BT SERIES</span>
             </div>
-            <div class="top-title">High Profile Outdoor Sport Arena Advertising Solution</div>
+            <h1 class="top-title">High Profile Outdoor Sport Arena Advertising Solution</h1>
         </div>
   
         <!-- 产品参数 -->

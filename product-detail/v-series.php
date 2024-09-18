@@ -17,9 +17,8 @@
             <div class="title">
                 <span>V SERIES</span>
             </div>
-            <div class="top-title">Versatile Fine Pitch LED Video Wall</div>
+            <h1 class="top-title">Versatile Fine Pitch LED Video Wall</h1>
         </div>
-       
         <div class="specification">
             <div class="spec-detail">
                 <table>

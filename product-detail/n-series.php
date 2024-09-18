@@ -17,9 +17,8 @@
             <div class="title">
                 <span>N SERIES</span>
             </div>
-            <div class="top-title">Rental Production LED Video Display</div>
+            <h1 class="top-title">Rental Production LED Video Display</h1>
         </div>
- 
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

@@ -10,14 +10,8 @@
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="container">
-        <!-- 导航开始 -->
-        <!-- <div class="product-banner">
-            <img src="../images/markets/fine pitch/market-fine-3.jpg" alt="market-fine"/>
-        </div> -->
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What is COB Encapsulation Technology?</h1>
@@ -26,7 +20,7 @@
                     <span>April 18, 2019</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/blog2-1.jpg"/>
+                    <img src="../images/blog/blog2-1.jpg" alt="COB Encapsulation Technology-1" />
                 </div>
                 <p>
                 COB stands for Chip on Board, is a new encapsulation technology which encapsulates LED chip (rather than LED lamp) directly to PCB board. COB encapsulation technology requires very close cooperations of LED chip industry, LED encapsulation industry and LED display manufacturers. Considering COB encapsulation needs brand new different equipment (encapsulation equipment needs big investment) and the current market for it is not matured yet, it still needs time for its large-scale applications. Here we gonna discuss the advantages of COB technology and the technical problems it facing.
@@ -35,7 +29,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-hand-o-right"></i><h2>Advantages of COB technology</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog2-2.jpg"/>
+                            <img src="../images/blog/blog2-2.jpg" alt="COB Encapsulation Technology-2" />
                         </div>
                         <p class="sub-title"><b>Higher resolution</b></p>
                         <p>
@@ -57,7 +51,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-hand-o-right"></i><h2>Technical problems of COB encapsulation technology</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog2-3.jpg"/>
+                            <img src="../images/blog/blog2-3.jpg" alt="COB Encapsulation Technology-3" />
                         </div>
                         <p class="sub-title"><b>High maintenance cost</b></p>
                         <p>Due to the way of encapsulation, when broken LED happens, it is almost impossible to maintain the single LED. Then you need to get much more spare modules, which increases the purchase cost a lot.</p>

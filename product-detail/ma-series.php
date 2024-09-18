@@ -17,9 +17,8 @@
             <div class="title">
                 <span>MA SERIES</span>
             </div>
-            <div class="top-title">Versatile Outdoor Advertising LED Display Board</div>
+            <h1 class="top-title">Versatile Outdoor Advertising LED Display Board</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">
@@ -81,7 +80,7 @@
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MA-series-2.jpg" alt="MA SERIES"/>
+                    <img src="../images/products/Commercial-LED/MA-series-2.jpg" alt="MA SERIES-2"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Top Stability Magnesium Alloy Panel</h2>
@@ -99,13 +98,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MA-series-3.jpg" alt="MA SERIES"/>
+                    <img src="../images/products/Commercial-LED/MA-series-3.jpg" alt="MA SERIES-3"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MA-series-4.jpg" alt="MA SERIES"/>
+                    <img src="../images/products/Commercial-LED/MA-series-4.jpg" alt="MA SERIES-4"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Compatible with Perimeter Banner Display</h2>
@@ -123,13 +122,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MA-series-5.jpg" class="special" alt="MA SERIES"/>
+                    <img src="../images/products/Commercial-LED/MA-series-5.jpg" class="special" alt="MA SERIES-5"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MA-series-6.jpg" alt="MA SERIES"/>
+                    <img src="../images/products/Commercial-LED/MA-series-6.jpg" alt="MA SERIES-6"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Profile Outdoor Advertising Display Solution</h2>
@@ -504,7 +503,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

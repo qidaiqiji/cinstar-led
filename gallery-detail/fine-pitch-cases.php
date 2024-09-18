@@ -12,7 +12,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="container gallery-container">
         <div class="head-title">
-            <h2>Fine Pitch Cases</h2>
+            <h1>Fine Pitch Cases</h1>
         </div>
         <div class="gallery-wrap">
             <div class="gallery-list">

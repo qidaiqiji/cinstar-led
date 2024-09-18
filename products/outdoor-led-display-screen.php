@@ -61,7 +61,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner">
-            <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-1.jpg" alt="concert-led-screen-1"/>
+            <img src="../images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-1.jpg" alt="/outdoor led display screen-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>Outdoor LED Display Screen</p>
@@ -92,7 +92,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC-SERIES.jpg" alt="MC-SERIES" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC-SERIES.jpg" alt="MC SERIES" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Curtain LED Display Screen</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -110,7 +110,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 60%" src="../images/home/TR-SERIES.webp" alt="TR-SERIES" alt="TR-SERIES" /></a>
+                        <a class="img-box" href="../product-detail/tr-series.php"><img style="width: 60%" src="../images/home/TR-SERIES.webp" alt="TR-SERIES" alt="TR SERIES" /></a>
                         <div class="title-box-change">
                             <h3>Transparent Outdoor LED Display</h3>
                             <a class="title-border-button" href="../product-detail/tr-series.php">TR Series Product</a>
@@ -119,7 +119,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ma-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/MA-series-1.jpg" alt="MA-series" /></a>
+                        <a class="img-box" href="../product-detail/ma-series.php"><img style="width: 80%" src="../images/products/Commercial-LED/MA-series-1.jpg" alt="MA series" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Video Wall Display</h3>
                             <a class="title-border-button" href="../product-detail/ma-series.php">MA Series Product</a>
@@ -128,7 +128,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/st-series.php"><img style="width: 94%" src="../images/products/Commercial-LED/ST-series-1-1.jpg" alt="ST-series" /></a>
+                        <a class="img-box" href="../product-detail/st-series.php"><img style="width: 94%" src="../images/products/Commercial-LED/ST-series-1-1.jpg" alt="ST series" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Display Board</h3>
                             <a class="title-border-button" href="../product-detail/st-series.php">ST Series Product</a>
@@ -140,7 +140,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

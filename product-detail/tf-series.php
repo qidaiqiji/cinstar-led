@@ -16,11 +16,9 @@
         <div class="detail-title tf-bg bg">
             <div class="title">
                 <span>TF SERIES</span>
-                <div class="top-title">Flexible LED Film Screen for Creative Applications</div>
+                <h1 class="top-title">Flexible LED Film Screen for Creative Applications</h1>
             </div>
-            
         </div>
-  
         <!-- 产品参数 -->
         <div class="detail-section">
             <div class="brief">
@@ -30,38 +28,37 @@
                         <i class="fa fa-angle-right right" style="right: 0;"></i>
                         <div class="img-main">
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-1.jpg"/>
-                                <!-- <img src="../../../.../images/products/ECL-JH500-1.jpg"/> -->
+                                <img src="../images/products/Creative-LED/tf-1.jpg" alt="TF SERIES-1"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-2.jpg"/>
+                                <img src="../images/products/Creative-LED/tf-2.jpg" alt="TF SERIES-2"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-3.jpg"/>
+                                <img src="../images/products/Creative-LED/tf-3.jpg" alt="TF SERIES-3"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-4.jpg"/>
+                                <img src="../images/products/Creative-LED/tf-4.jpg" alt="TF SERIES-4"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-5.jpg"/>
+                                <img src="../images/products/Creative-LED/tf-5.jpg" alt="TF SERIES-5"/>
                             </div>
                         </div>
                     </div>
                     <ul class="img-list">
                         <li class="active">
-                            <img src="../images/products/Creative-LED/tf-1.jpg"/>
+                            <img src="../images/products/Creative-LED/tf-1.jpg" alt="TF SERIES-1"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-2.jpg"/>
+                            <img src="../images/products/Creative-LED/tf-2.jpg" alt="TF SERIES-2"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-3.jpg"/>
+                            <img src="../images/products/Creative-LED/tf-3.jpg" alt="TF SERIES-3"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-4.jpg"/>
+                            <img src="../images/products/Creative-LED/tf-4.jpg" alt="TF SERIES-4"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-5.jpg"/>
+                            <img src="../images/products/Creative-LED/tf-5.jpg" alt="TF SERIES-5"/>
                         </li>
                     </ul>
                 </div>
@@ -83,7 +80,7 @@
                             The transmittance of Cinstar flexible LED film screen can reach up to 60-90% which varies with different pixel pitch. With such high transparency rate, the LEDs are almost invisible from a certain distance, meanwhile the original glass wall design can be kept untouched and its light condition won't be affected.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-1.jpeg" alt="TF SERIES"/>
+                    <img src="../images/products/Creative-LED/TF-series-1.webp" alt="TF SERIES"/>
                     <div class="detail-cover width-cover">
                         <div class="detail-content content1">
                             <h2 class="new-detail-title">Great Transparency Performance</h2>
@@ -100,7 +97,7 @@
                             With ideal viewing distance, the image looks like floating on the glass wall, delivering you a visual feast with 3D naked eye effect experience. Which can be perfectly integrated with the building to be invisible and create favorable commercial value for your business.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-2.jpeg" alt="TF SERIES"/>
+                    <img src="../images/products/Creative-LED/TF-series-2.webp" alt="TF SERIES"/>
                     <div class="detail-cover">
                         <div class="detail-content content2">
                             <h2 class="new-detail-title">Extraordinary Display Effect</h2>
@@ -117,7 +114,7 @@
                             Featured with flexible and self-adhesive design, Cinstar flexible LED film screen can be directly pasted to any flat or curved glass walls. The ultra-slim (3mm in depth) and light weight (2-4kg/sqm) panel can be tailored to any size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-3.jpg" alt="TF SERIES"/>
+                    <img src="../images/products/Creative-LED/TF-series-3.webp" alt="TF SERIES"/>
                 </div>
                 <div class="img-back" style="background-color: #5d5959;">
                     <div class="text-content">
@@ -126,7 +123,7 @@
                             Cinstar flexible LED film screen can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-4.jpg" alt="TF SERIES"/>
+                    <img src="../images/products/Creative-LED/TF-series-4.webp" alt="TF SERIES"/>
                 </div>
                 <div class="img-back">
                     <div class="text-content">
@@ -135,7 +132,7 @@
                             The flexible LED film screen can be widely installed at retail shop, restaurant, chain store, shopping center and corporate exhibition center etc to deliver eye-catching images and advertisements to achieve its commercial value.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-7.jpeg" alt="TF SERIES"/>
+                    <img src="../images/products/Creative-LED/TF-series-7.webp" alt="TF SERIES"/>
                 </div>
             </div>
         </div>

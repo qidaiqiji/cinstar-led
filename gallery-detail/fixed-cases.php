@@ -14,7 +14,7 @@
     <!-- 头部结束 -->
     <div class="container gallery-container">
             <div class="head-title">
-            <h2>Fixed Install Cases</h2>
+            <h1>Fixed Install Cases</h1>
         </div>
         <div class="gallery-wrap">
             <div class="gallery-list">

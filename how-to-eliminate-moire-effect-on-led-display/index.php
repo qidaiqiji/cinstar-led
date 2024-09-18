@@ -23,7 +23,7 @@
                     <span>June 18, 2019</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog7-1.jpg"/>
+                    <img src="../images/blog/Blog7-1.jpg" alt="Eliminate Moiré Effect on LED Display-1"/>
                 </div>
                 <div class="sub-title"><h2>What is moiré effect?</h2></div>                
                 <p>
@@ -34,7 +34,7 @@
                 </p>
                 <div class="sub-title"><h2>How to eliminate moiré effect?</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog7-2.jpg"/>
+                    <img src="../images/blog/Blog7-2.jpg" alt="Eliminate Moiré Effect on LED Display-2"/>
                 </div>               
                 <p>
                 Eliminating moiré can be present in your images in a number of ways. It's usually completely unwanted. But it can be solved from both image shooting and image display.
@@ -45,7 +45,7 @@
                 </p>
                 <div class="sub-title"><h2>2. Adjust the camera during shooting</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog7-3.jpg"/>
+                    <img src="../images/blog/Blog7-3.jpg" alt="Eliminate Moiré Effect on LED Display-3"/>
                 </div>
                 <p><b>Change its shooting angle.</b>The angle between the camera and the LED display will cause moiré, slightly changing the angle of the camera (by rotating the camera) can reduce or eliminate moiré.</p>
                 <p><b>Change the position.</b>The moiré can be reduced by moving the camera left and right or up and down to change the angles between camera and LED display.</p>

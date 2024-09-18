@@ -101,20 +101,20 @@
         return false;
     });
     function messageBoxFixed() {
-        const messageLeft = $(".message-box").offset().left;
-        const messageTop = $(".message-box").offset().top;
-        const messageWidth = $(".content-container").innerWidth();
-        $(window).scroll(function(){
-            if($(window).scrollTop()>messageTop+300) {
-                $(".message-box").addClass("fix");
-            }else{
-                $(".message-box").removeClass("fix")
-            }
-        })
+        if($(window).width() > 1025 && $(".message-box").length > 0) {
+            const messageLeft = $(".message-box").offset().left;
+            const messageTop = $(".message-box").offset().top;
+            const messageWidth = $(".content-container").innerWidth();
+            $(window).scroll(function(){
+                if($(window).scrollTop()>messageTop+300) {
+                    $(".message-box").addClass("fix");
+                }else{
+                    $(".message-box").removeClass("fix")
+                }
+            })
+        }
     }
-    if($(window).width() > 1025 && $(".message-box").length > 0) {
-        messageBoxFixed()
-    }
+    messageBoxFixed()
     window.addEventListener('resize', messageBoxFixed);
 </script>
 <script type="text/javascript">

@@ -17,7 +17,7 @@
             <div class="title">
                 <span>K SERIES</span>
             </div>
-            <div class="top-title">Stage Rental Event Production LED Screen</div>
+            <h1 class="top-title">Stage Rental Event Production LED Screen</h1>
         </div>
         <!-- 产品参数 -->
         <div class="specification">

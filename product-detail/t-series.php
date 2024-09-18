@@ -17,9 +17,8 @@
             <div class="title">
                 <span>T SERIES</span>
             </div>
-            <div class="top-title">Cost-Effective Rental LED Display Solutions</div>
+            <h1 class="top-title">Cost-Effective Rental LED Display Solutions</h1>
         </div>
-   
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

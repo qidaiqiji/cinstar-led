@@ -10,14 +10,8 @@
     <meta name="keywords" content="LED display screen, outdoor LED display, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display,  LED display manufacturer." />  
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
-    <!-- 头部结束 -->
     <div class="container">
-        <!-- 导航开始 -->
-        <!-- <div class="product-banner">
-            <img src="../images/markets/fine pitch/market-fine-3.jpg" alt="market-fine"/>
-        </div> -->
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What to Look into When Choosing LED Display?</h1>
@@ -26,7 +20,7 @@
                     <span>December 4, 2018</span>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/blog4-1.jpg"/>
+                    <img src="../images/blog/blog4-1.jpg" alt="How to Choose LED Display"/>
                 </div>
                 <p>
                 As LED display is widely applied to all walks of life and getting more and more attentions, how to identify the right product from hundreds of manufacturers is what you should learn about in your daily work. It is a big topic and requires your profound knowledge of LED display industry, which can’t be done within one week or two months. But if you are a green hand to LED display, here are what you should look into to identify the quality of <a href="../">LED displays</a>.

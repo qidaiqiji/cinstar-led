@@ -17,9 +17,8 @@
             <div class="title">
                 <span>E SERIES</span>
             </div>
-            <div class="top-title">Event Production Rental LED Video Wall Panel</div>
+            <h1 class="top-title">Event Production Rental LED Video Wall Panel</h1>
         </div>
-  
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

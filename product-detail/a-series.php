@@ -17,7 +17,7 @@
             <div class="title">
                 <span>A SERIES</span>
             </div>
-            <div class="top-title">High Performance Rental Event LED Wall Panel</div>
+            <h1 class="top-title">High Performance Rental Event LED Wall Panel</h1>
         </div>
         <div class="topContainer" style="margin-top:80px">
             <div class="topImg">

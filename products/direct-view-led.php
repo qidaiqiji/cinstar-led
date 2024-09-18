@@ -58,7 +58,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="new-product-container">
         <div class="product-banner">
-            <img src="../images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="concert-led-screen-1"/>
+            <img src="../images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct view led-1"/>
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>Direct View LED</p>
@@ -79,7 +79,7 @@
                 <h2>Cinstar Direct View LED Displays</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series -2" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2" /></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -181,7 +181,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
