@@ -43,8 +43,8 @@
     }
     if(count($explodedURL) > 2)
     {
-        header("HTTP/1.1 301 Moved Permanently"); 
-        header("Location: https://www.cinstar-led.com");
+        header("HTTP/1.1 404 Not Found"); 
+        header("Location: https://www.cinstar-led.com/404.html");
         exit();            
     }
 ?>
