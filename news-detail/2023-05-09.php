@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Innovative transparent LED film screen wall debuts</title>
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
     <meta name="description" content="After months of diligent and trouble shootings, Cinstar team debuted its very innovative transparent LED film screen to bring more possibilities to the industry and create more opportunities and installation scenarios to our clients." />

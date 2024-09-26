@@ -46,6 +46,9 @@ h2 {
     margin: 0 auto;
     margin-bottom: .325rem;
 }
+.img-wrap {
+    margin: 0 2%;
+}
 .content-box .several-imgs {
     width: 90%;
     height: 300px;
@@ -72,7 +75,7 @@ h2 {
 .related-news a{
     display: inline-block;
     margin-left: 10px;
-    color: #000;
+    color: blue;
 }
 .related-news a:hover{
     color: #bc261a;
@@ -98,6 +101,10 @@ h2 {
     .content-box .img-box{
         width: 80%!important;
     }
+    .img-wrap {
+        width: 100% !important;
+        margin: 20px 0;
+    }
     .news-detail {
         margin-top: 100px;
     }
@@ -116,6 +123,9 @@ h2 {
     }
 }
 @media (max-width:576px){
+    .content-box .img-box{
+        width: 100%!important;
+    }
     .news-title>h1{
         width: 100%;
     }

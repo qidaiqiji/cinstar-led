@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar outdoor LED screen decorates Finland shopping mall</title>
     <meta name="description" content="It has been years since delivered the massive 5x12m indoor P5.9 LED screen for Koskikeskus shopping mall in Finland, we received a lot of complements from our customer for the stunning performance and stability of that screen. Here is the picture of that marvelous screen which required no any maintenance for 4 years after its installation." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

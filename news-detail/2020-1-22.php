@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>20x9 panels of Cinstar HD1.2 Concave LED wall ready to Germany</title>
     <meta name="description" content="As one of the best-selling products among all Cinstar product lines, Cinstar fine pitch LED display solution HD series contributed a major part of our sales volume in 2019. And it seems that this product will have a more prosperous performance in the new year 2020." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

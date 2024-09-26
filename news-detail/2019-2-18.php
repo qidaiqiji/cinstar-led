@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>160sqm Cinstar LM3.9 for Indian conference room</title>
     <meta name="description" content="As a new trend to digital world, LED display is now playing a more and more important role in conference & meeting industry comparing to traditional projectors for its high brightness, vivid and natural color and seamless connection." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

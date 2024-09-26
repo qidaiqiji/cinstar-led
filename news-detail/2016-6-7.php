@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar HD LED display helps Malaysia hotel advertising</title>
     <meta name="description" content="Nowadays, LED display has become a part of our daily life. Wherever we go to train station, airport or shopping center, we can always see LED display. It is now the main stream for commercial advertising for its great advantages: Seamless display splicing, unlimited size and perfect image performance. Even we go to some hotels, we can see the LED display. With the arrival of digital ages, any places could be digitalized." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

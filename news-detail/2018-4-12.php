@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>260sqm Cinstar LM3.9 decorates UK shopping mall</title>
     <meta name="description" content="Shopping is now a critical part of daily activity for the people living in urban cities. And shopping mall is where most people would go, which makes it a perfect location to put up LED displays for commercial advertising. No matter the building façade, elevator box façade or inside shops and stores, all are great places for advertising and can bring huge commercial value for sure." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

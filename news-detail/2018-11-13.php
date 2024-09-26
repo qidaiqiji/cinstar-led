@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>12sqm fine pitch 1.92mm delivery to Netherlands</title>
     <meta name="description" content="Recently in our factory, one stunning LED display will always attract your attention. It is one high profile narrow pitch pitch 1.92mm video wall which is aging and ready to ship to Netherlands. The screen dimension is 4800x2700mm with Cinstar NL 1.92. It will be soon delivered to Netherlands and installed to one luxury yacht. The system is with high quality LEDs, high refresh rate 3840Hz, grey scale 16bit and support front installation and front service access. A perfect solution for wall mounting installations." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

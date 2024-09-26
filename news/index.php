@@ -24,6 +24,13 @@
     <script>
         let data = [
             {
+                imgSrc:'../images/news/led-media-cube.jpg',
+                title:'Cinstar P4 media cube LED video wall shines at Lulea Hockey & COOP Norrbotten Arena',
+                data:'2024-09-20',
+                detail:'Big thanks to our partner’s great efforts and professionalism, the Cinstar P4 massive media cube LED video wall panels were installed and operated as scheduled to deliver high profile match performance for the opening day games of Lulea Hockey and COOP Norrbotten arena. The stunning performance of this current most advanced media cubes caught big attention in the SHL(Swedish Hockey League) field. ',
+                href: '../news-detail/2024-09-20.php'
+            },
+            {
                 imgSrc:'../images/news/direct-view-led-news.jpg',
                 title:'CH1.2 COB direct view LED video wall panels delivered to USA high school',
                 data:'2024-09-11',

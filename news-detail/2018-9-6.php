@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>200sqm Cinstar transparent 3.9-7.8mm delivery to France</title>
     <meta name="description" content="In recent years, transparent LED display is getting quite hot on the market. According to statistics, the total area of the glass wall in China has exceed 70 million square meters, mainly in urban areas, which will be a huge potential market for commercial advertising. With the outdoor advertising resources drying up, such glass wall is becoming a new market for transparent LED displays. The key reason why it is so hot now is for its great transparency. Which brings a perfect balance between see though and commercial value." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

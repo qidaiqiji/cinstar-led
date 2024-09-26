@@ -41,12 +41,13 @@
         header("Location: https://www.cinstar-led.com/products/led-stage-screen.php"); 
         exit();
     }
-    if(count($explodedURL) > 2)
-    {
-        header("HTTP/1.1 404 Not Found"); 
-        header("Location: https://www.cinstar-led.com/404.html");
-        exit();            
-    }
+    // if($code == 404)
+    // {
+    //     header("HTTP/1.1 404 Not Found"); 
+    //     header("Location: https://www.cinstar-led.com/404.html");
+    //     // header("Location: https://www.cinstar-led.com/test/404.php");
+    //     exit();            
+    // }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -249,6 +250,9 @@
                     <div class="img-box">
                         <div class="img-main2 img-main">
                             <div class="img">
+                                <img src="images/home-new/cinstar-case-7.webp" alt="cinstar-case-7"/>
+                            </div>
+                            <div class="img">
                                 <img src="images/home-new/cinstar-case-8.webp" alt="cinstar-case-8"/>
                             </div>
                             <div class="img">
@@ -256,9 +260,6 @@
                             </div>
                             <div class="img">
                                 <img src="images/home-new/cinstar-case-10.webp" alt="cinstar-case-10"/>
-                            </div>
-                            <div class="img">
-                                <img src="images/home-new/cinstar-case-11.webp" alt="cinstar-case-11"/>
                             </div>
                             <div class="img">
                                 <img src="images/home-new/cinstar-case-12.jpg" alt="cinstar-case-12"/>
@@ -270,6 +271,9 @@
                     </div>
                     <ul class="img-list2 img-list">
                         <li class="active">
+                            <img src="images/home-new/cinstar-case-7.webp" alt="cinstar-case-7"/>
+                        </li>
+                        <li>
                             <img src="images/home-new/cinstar-case-8.webp" alt="cinstar-case-8"/>
                         </li>
                         <li>
@@ -277,9 +281,6 @@
                         </li>
                         <li>
                             <img src="images/home-new/cinstar-case-10.webp" alt="cinstar-case-10"/>
-                        </li>
-                        <li>
-                            <img src="images/home-new/cinstar-case-11.webp" alt="cinstar-case-11"/>
                         </li>
                         <li>
                             <img src="images/home-new/cinstar-case-12.jpg" alt="cinstar-case-12"/>
@@ -566,6 +567,14 @@
             <div class="case-list">
                 <div class="case-item">
                     <span class="case-thumb">
+                        <img src="images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall"/>
+                    </span>
+                    <span class="case-title">
+                        <span class="current">Lulea Hockey Media Cube LED Video Wall</span>
+                    </span>
+                </div>
+                <div class="case-item">
+                    <span class="case-thumb">
                         <img src="images/home-new/Touring-P3.9-LED-Video-Wall-Panel-23.webp" alt="Touring-P3.9-LED-Video-Wall-Panel"/>
                     </span>
                     <span class="case-title">
@@ -598,26 +607,18 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home-new/P6-Advertising-LED-Video-Wall-27.jpg" alt="P6-Advertising-LED-Video-Wall"/>
+                        <img src="images/home-new/P6-Advertising-LED-Video-Wall-27.jpg" alt="P6 Advertising LED Video Wall"/>
                     </span>
                     <span class="case-title">
                         <span class="current">P6 Advertising LED Video Wall</span>
                     </span>
                 </div>
-                <div class="case-item">
+                <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home-new/P8-LED-Digital-Billboard-28.webp" alt="P8-LED-Digital-Billboard"/>
+                        <img src="images/home-new/P8-LED-Digital-Billboard-28.webp" alt="P8 LED Digital Billboard"/>
                     </span>
                     <span class="case-title">
                         <span class="current">P8 LED Digital Billboard</span>
-                    </span>
-                </div>
-                <div class="case-item mobile-hide">
-                    <span class="case-thumb">
-                        <img src="images/home/Campbell-Park-4.8mm.jpg" alt="Campbell Park 4.8mm"/>
-                    </span>
-                    <span class="case-title">
-                        <span class="current">Campbell Park 4.8mm LED Video Display</span>
                     </span>
                 </div>
                 <div class="case-item mobile-hide">
@@ -670,6 +671,21 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="news-detail/2024-09-20.php">
+                        <img src="images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall"/>
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>Cinstar P4 media cube LED video wall shines at Lulea Hockey & COOP Norrbotten Arena </h3>
+                            <p class="date">2024-09-20</p>
+                        </div>
+                        <div class="news-desc">
+                        Big thanks to our partner’s great efforts and professionalism, the Cinstar P4 massive media cube LED video wall panels were installed and operated as scheduled to deliver high profile match performance for the opening day games of Lulea Hockey and COOP Norrbotten arena. The stunning performance of this current most advanced media cubes caught big attention in the SHL(Swedish Hockey League) field. 
+                        </div>
+                    </div>
+                    <hr class="under-line"/>
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-09-11.php">
                         <img src="images/news/direct-view-led-news.jpg" alt="direct-view-led-news"/>
                     </a>
@@ -683,6 +699,7 @@
                         </div>
                     </div>
                 </div>
+                <hr class="under-line"/>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-07-08.php">
                         <img src="images/news/media-cube-led-video-wall-panel-2.jpg" alt="Cube LED Video Wall Panel"/>
@@ -696,22 +713,6 @@
                         Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years.
                         </div>
                     </div>
-                    <hr class="under-line"/>
-                </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2024-01-26.php">
-                        <img src="images/home-new/cinstar-aging-7.jpg" alt="Cinstar Aging LED Wall Panel"/>
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</h3>
-                            <p class="date">2024-01-26</p>
-                        </div>
-                        <div class="news-desc">
-                        After the first pilot fine pitch LED video wall has been verified so qualified to deliver top class image performance, here comes 3 sets of Cinstar fine pitch LED video wall U1.2 for low scale production. Each set of the LED video wall is consists of 5x6 panels of 600x337.5mm to achieve ultra-high resolution of 2400x1600 and have been delivered to Atlanta, Chicago and London respectively. 
-                        </div>
-                    </div>
-                    <hr class="under-line"/>
                 </div>
             </div>
         </div>

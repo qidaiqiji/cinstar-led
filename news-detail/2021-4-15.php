@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Mini LED may lead the LED display technology development</title>
     <meta name="description" content="The revenue of small-pitch LED screen has a large share in the total performance of the listed LED enterprises, and has become the fast-improved part of LED screen companies. In 2020, the small-pitch LED screen had a stable development. In addition, the screen pixel pitch becomes smaller and smaller; the products under P0.5 continually appear in recent years, which makes the Mini LED become a new opportunity for display technology development." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

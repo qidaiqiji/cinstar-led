@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>P1.2 COB direct view LED video wall panels for USA high school</title>
     <meta name="keywords" content="dvled, direct view led, direct view led video wall, fine pitch led video wall, fine pitch led display, led video wall panel, led video wall display, led video wall USA, led display screen, indoor led display" />
     <meta name="description" content="6SQM Cinstar COB DVLED direct view LED video wall display panels delivered to USA high school for better visual enjoyment." />
@@ -64,6 +64,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="2024-09-20.php">Cinstar P4 media cube LED video wall shines at Lulea Hockey & COOP Norrbotten Arena</a></h3>
         <h3><span>Next :</span><a href="2024-07-08.php">108SQM media cube LED video wall panels for ice hockey arena</a></h3>
     </div>
         <!-- 底部开始 -->

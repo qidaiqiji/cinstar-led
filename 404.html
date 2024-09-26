@@ -1,26 +1,87 @@
 <!doctype html>
 <html>
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>404</title>
-<style>
-	body{
-		background-color:#444;
-		font-size:14px;
-	}
-	h3{
-		font-size:60px;
-		color:#eee;
-		text-align:center;
-		padding-top:30px;
-		font-weight:normal;
-	}
-</style>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>404 Not Found</title>
+	<style>
+		.error {
+			margin-top: 2rem;
+			margin-bottom: .675rem;
+		}
+
+		.error-content {
+			width: 80%;
+			margin: 0 auto;
+		}
+
+		.error-tips {
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+		}
+
+		.error-tips img {
+			width: 40%;
+		}
+		.error-tips p {
+			font-size: 40px;
+			font-weight: bold;
+		}
+		.button {
+			text-align: center;
+			margin-top: 100px;
+			
+		}
+		.button a {
+			width: 150px;
+			padding: 10px 20px;
+			background: #bc261a;
+			color: #fff;
+			text-decoration: none;
+		}
+
+		@media (max-width:1500px) {
+			.error-tips p {
+				font-size: 38px;
+			}
+		}
+
+		@media (max-width:1024px) {
+			.error {
+				margin-top: 100px;
+			}
+		}
+
+		@media (max-width:576px) {
+			.error-product h1 {
+				font-size: 28px;
+			}
+			.error-tips img {
+				width: 60%;
+			}
+			.error-tips p {
+				font-size: 16px;
+			}
+		}
+	</style>
 </head>
 
-<body>
-<h3>404 Page Not Found</h3>
+<body class="page-index .menu-open">
+	<div class="error">
+		<div class="error-content">
+			<div class="error-tips">
+				<img src="/images/404-error.webp" alt="page not found" />
+				<p>Page Not Found</p>
+			</div>
+		</div>
+		<div class="button">
+			<a href="https://www.cinstar-led.com">Back To Home</a>
+		</div>
+	</div>
+	</div>
 </body>
+
 </html>

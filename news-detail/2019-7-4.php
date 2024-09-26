@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>200sqm Cinstar EC2.9 rental LED video display ready for shipment to USA</title>
     <meta name="description" content="Half a month ago, Cinstar confirmed one deal with our USA customer for 200sqm of our EC 2.9 indoor rental LED video display. The whole display will be needed on large scale events and live productions months later. It was the first big order since its launch, but which by no accident, we earned the customer’s trust by high performance of our product and promised service quality." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />

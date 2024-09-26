@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/newsDetail-240816.css">
+    <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar HD 1.87 ready for shipment to Belgium</title>
     <meta name="description" content="In the middle of January, we close one deal with our Belgium customer for a trial HD1.87 screen for several shopping centers in Belgium. The screen size is 12x3 panels, screen size 7.2mx1.10m. If this trial screen works nice, there will be 10-20 pcs more. The customer visited and inspected our factory before placing order and had big confidence in us. The lead time was one week delayed due to the impact of Coronavirus, but luckily we didn’t miss their installation schedule." />
     <meta name="keywords" content="Cinstar LED display, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED billboard, LED module, LED tile, LED curtain, LED mesh, Transparent LED display, Creative LED screen, Poster LED wall, Indoor LED display, Outdoor LED display, Commercial LED display, LED digital signage, LED TV screen, LED display manufacturer, Cinstar LED display, Cinstar electronics" />
