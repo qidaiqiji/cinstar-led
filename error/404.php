@@ -10,9 +10,7 @@
     <link rel="stylesheet" href="/css/common-240917.css">
     <link rel="stylesheet" href="/css/contact-240815.css">
     <link rel="stylesheet" href="/css/404.css">
-    <title>Ice Hockey Media Cube LED Video Wall Panels | Cinstar LED</title>
-    <meta name="keywords" content="media cube, ice hockey, mediakub, LED video wall panels, LED display screen, sports arena, led system, led technology" />
-    <meta name="description" content="Cinstar P4 ice hockey media cube LED video wall panels shine at Lulea Hockey & COOP Norrbotten Arena" />
+    <title>404 Not Found | Cinstar LED</title>
 </head>
 <body class="page-index .menu-open">
     <header>
