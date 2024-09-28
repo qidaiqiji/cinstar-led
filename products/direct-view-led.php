@@ -79,12 +79,12 @@
                 <h2>Cinstar Direct View LED Displays</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2" /></a>
+                        <a class="img-box" href="../product-detail/ctv-series.php"><img style="width: 90%;" src="../images/home-new/ctv-series.webp" alt="ctv Series" /></a>
                         <div class="title-box-change">
-                            <h3>Direct View LED Wall</h3>
-                            <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
+                            <h3>All in One Direct View LEDTV</h3>
+                            <a class="title-border-button" href="../product-detail/ctv-series.php">CTV series Product</a>
                         </div>
-                        <p>Direct View LED wall display is a cutting-edge product designed to meet the growing need for superior LED video display. Cinstar direct view LED boasts a super high refreshing display and fast frame changing, ensuring a visually stunning experience. With its perfect color saturation, it consistently delivers the best image production. With impressive greyscale, pixel density, brightness, and contrast ratio, Cinstar direct view LED video wall thrives at accurately reproducing the vibrant colors of images and videos.</p>
+                        <p>Cinstar CTV series commercial level direct view LED TV video wall display is especially designed for enterprise meeting room to deliver a much larger and more immersive meeting or video conference experience than conventional LCD video wall which limited by its size and visual experience. Wide range of display dimensions can meet all the requirements of the sizes of the meeting room. A powerful system with vibrant colors can make the meeting more engaged and pleasant.</p>
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
@@ -97,12 +97,39 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2" /></a>
+                        <div class="title-box-change">
+                            <h3>Direct View LED Wall</h3>
+                            <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
+                        </div>
+                        <p>Direct View LED wall display is a cutting-edge product designed to meet the growing need for superior LED video display. Cinstar direct view LED boasts a super high refreshing display and fast frame changing, ensuring a visually stunning experience. With its perfect color saturation, it consistently delivers the best image production. With impressive greyscale, pixel density, brightness, and contrast ratio, Cinstar direct view LED video wall thrives at accurately reproducing the vibrant colors of images and videos.</p>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                    </div>
+                    <div class="series-item">
                         <a class="img-box" href="../product-detail/ec-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/EC-series-1.webp" alt="EC Series-1" /></a>
                         <div class="title-box-change">
                             <h3>COB Direct View LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/ec-series.php">EC Series Product</a>
                         </div>
                         <p>The direct view LED video wall has become highly regarded due to its impressive features such as high resolution, high brightness, excellent display effect and great cost performance. Whether it's for TV studios, home cinema, conference rooms, board rooms, or control rooms, Cinstar direct view LED video wall is the ideal option for showcasing highly detailed and visually stunning images. If you need a superior direct view LED video wall for your projects, Cinstar is the best choice for you. </p>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                    </div>
+                    <div class="series-item">
+                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/V-series-1.jpg" alt="v Series" /></a>
+                        <div class="title-box-change">
+                            <h3>Direct View LED Video Wall</h3>
+                            <a class="title-border-button" href="../product-detail/v-series.php">V series Product</a>
+                        </div>
+                        <p>Featuring high precision CNC technology and rigorous quality performance control, Cinstar direct view LED video wall can not only be used as wall mounted LED video screen for corporate showroom, home cinema, meeting room and board room etc, it can be built as LED digital poster screen for commercial advertising at shopping center, retail store, chain store, hotel reception and exhibition booth etc. You can always find the best direct view LED video wall screen from Cinstar.</p>
+                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                    </div>
+                    <div class="series-item">
+                        <a class="img-box" href="../product-detail/u-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/U-series-1.jpg" alt="u Series" /></a>
+                        <div class="title-box-change">
+                            <h3>Fine Pitch LED Video Wall</h3>
+                            <a class="title-border-button" href="../product-detail/u-series.php">U series Product</a>
+                        </div>
+                        <p>A quality fine pitch LED video wall can always release your nerve on screen quality performance, annoying after sales services and balance between price and quality. Verified by numerous customers and projects, Cinstar fine pitch LED video wall display screen can guarantee you the best stability, excellent image performance, top quality level and optimized cost management. You can get one quality direct view LED video wall screen from Cinstar LED, even with limited budget.</p>
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                 </div>

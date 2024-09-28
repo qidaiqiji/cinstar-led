@@ -26,7 +26,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/x-series.php">
-                        <img src="../images/products/Commercial-LED/X-series-1.jpg" alt="X SERIES" style="width: 80%"/>
+                        <img src="../images/products/Commercial-LED/X-series-1.webp" alt="X SERIES" style="width: 80%"/>
                         <div class="spec-detail">
                             <h2 class="series-title">X SERIES</h2>
                             <p>Pixel Pitch (mm): 3.9 / 4.8 / 6.25 / 7.8 / 10.4</p>

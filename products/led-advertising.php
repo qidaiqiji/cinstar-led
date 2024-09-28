@@ -97,7 +97,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/X-series-1.jpg" alt="X Series-1" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 85%;" src="../images/products/Commercial-LED/X-series-1.webp" alt="X Series-1" /></a>
                         <div class="title-box-change">
                             <h3>Outdoor Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>

@@ -299,22 +299,54 @@
             </div>
             <div class="product-container">
                 <div class="product-item">
+                    <a class="thumb" href="/product-detail/ctv-series.php">
+                        <img src="/images/home-new/ctv-series.webp" alt="ctv series" class="short" style="width: 100%" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ctv-series.php">
+                        <span class="current">All In One LED TV</span><span class="more">CTV Series</span>
+                    </a>
+                </div>
+                <div class="product-item">
                     <a class="thumb" href="/product-detail/ch-series.php">
-                        <img src="images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%" />
+                        <img src="/images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%" />
                     </a>
                     <a class="list-title" href="/product-detail/ch-series.php">
                         <span class="current">DVLED COB</span><span class="more">CH Series</span>
                     </a>
                 </div>
-                <div class="product-item mobile-hide">
-                    <a class="thumb" href="/product-detail/ec-series.php">
-                        <img src="images/products/Fine-Pitch/EC-series-1.webp" alt="ec-series" style="width: 93%"/>
+                <div class="product-item">
+                    <a class="thumb" href="/product-detail/cr-series.php">
+                        <img src="/images/products/Rental-LED/CR-series-1.webp" alt="CR series" style="width: 93%"/>
                     </a>
-                    <a class="list-title" href="product-detail/ec-series.php">
-                        <span class="current">Fine Pitch LED Display</span><span class="more">EC Series</span>
+                    <a class="list-title" href="/product-detail/cr-series.php">
+                        <span class="current">Flexible Rental LED Display</span><span class="more">CR Series</span>
                     </a>
                 </div>
                 <div class="product-item">
+                    <a class="thumb" href="/product-detail/x-series.php">
+                        <img src="/images/products/Commercial-LED/X-series-1.webp" style="width: 95%" alt="x-series" class="short" />
+                    </a>
+                    <a class="list-title" href="/product-detail/x-series.php">
+                        <span class="current">Outdoor LED Display Screen</span><span class="more">X Series</span>
+                    </a>
+                </div>
+                <div class="product-item mobile-hide">
+                    <a class="thumb" href="/product-detail/hd-series.php">
+                        <img src="/images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%"/>
+                    </a>
+                    <a class="list-title" href="/product-detail/hd-series.php">
+                        <span class="current">Direct View LED Video Wall</span><span class="more">HD Series</span>
+                    </a>
+                </div>
+                <div class="product-item mobile-hide">
+                    <a class="thumb" href="/product-detail/a-series.php">
+                        <img src="/images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%" />
+                    </a>
+                    <a class="list-title" href="/product-detail/a-series.php">
+                        <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
+                    </a>
+                </div>
+                <div class="product-item mobile-hide">
                     <a class="thumb" href="/product-detail/m-series.php">
                         <img src="images/products/Rental-LED/M-series-1.webp" alt="M-series" class="short" style="width: 90%" />
                     </a>
@@ -323,40 +355,8 @@
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/product-detail/x-series.php">
-                        <img src="images/products/Commercial-LED/X-series-1.jpg" alt="x-series" class="short" />
-                    </a>
-                    <a class="list-title" href="/product-detail/x-series.php">
-                        <span class="current">Outdoor LED Display Screen</span><span class="more">X Series</span>
-                    </a>
-                </div>
-                <div class="product-item mobile-hide">
-                    <a class="thumb" href="product-detail/hd-series.php">
-                        <img src="images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%"/>
-                    </a>
-                    <a class="list-title" href="product-detail/hd-series.php">
-                        <span class="current">Direct View LED Video Wall</span><span class="more">HD Series</span>
-                    </a>
-                </div>
-                <div class="product-item mobile-hide">
-                    <a class="thumb" href="/product-detail/a-series.php">
-                        <img src="images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%" />
-                    </a>
-                    <a class="list-title" href="/product-detail/a-series.php">
-                        <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
-                    </a>
-                </div>
-                <div class="product-item mobile-hide">
-                    <a class="thumb" href="/products/custom-led-display.php">
-                        <img src="images/products/custom-led/custom-led.jpg" alt="custom-led" class="short" style="width: 90%" />
-                    </a>
-                    <a class="list-title" href="/products/custom-led-display.php">
-                        <span class="current">Custom LED Video Wall</span><span class="more">Custom LED Display</span>
-                    </a>
-                </div>
-                <div class="product-item">
                     <a class="thumb" href="/product-detail/tf-series.php">
-                        <img src="images/products/Creative-LED/tf-1.jpg" alt="tf-series" style="width: auto;" />
+                        <img src="/images/products/Creative-LED/tf-1.jpg" alt="tf-series" style="width: auto;" />
                     </a>
                     <a class="list-title" href="/product-detail/tf-series.php">
                         <span class="current">LED Film Display Screen</span><span class="more">TF Series</span>

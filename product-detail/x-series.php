@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Outdoor Advertising LED Billboard Display I Commercial LED Display Screen I Cinstar-led.com.</title>
-    <meta name="description" content="Cinstar X series outdoor display board supports front or rear service access for specific installation. The high brightness and great stability of the outdoor digital screen enable it a preferred outdoor LED sign boards for your commercial outdoor advertising business." />
-    <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens" />
+    <title>Outdoor LED Advertising Billboard Display | Cinstar LED</title>
+    <meta name="description" content="Cinstar X series outdoor LED advertising display screen is the best solution for 3D LED billboard advertising campaigns. Try it out today!" />
+    <meta name="keywords" content="outdoor led display, led advertising display, outdoor led billboard, led billboard advertising, 3d led display, 3d led billboard" />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -32,7 +32,7 @@
                                 Pixel Pitch (mm):
                             </td>
                             <td>
-                            3.9 / 4.8 / 6.25 / 7.8 / 10.4
+                           2.9 / 3.9 / 4.8 / 6.25 / 7.8 / 10.4
                             </td>
                         </tr>
                         <tr>
@@ -73,19 +73,19 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/X-series-1.jpg" alt="X SERIES"/>
+                <img src="../images/products/Commercial-LED/X-series-1.webp" alt="X SERIES"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-2.jpg" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-2.webp" alt="X SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">Cost Effective & High Profile Solutions for Option</h2>
+                    <h2 class="title">Slim And Light Weight Panel Design</h2>
                     <p>
-                    Cinstar X series outdoor LED advertising billboard display offers two options to choose. Plastic module casing is cost effective and competitive for bid projects. While aluminum module casing solution performs better in heat dissipation and more durable at harsh weather conditions.
+                    Adopting aluminum alloy material, the panel weight of Cinstar X series (panel weight 23KG, panel depth 83mm) outdoor LED advertising billboard display is only 50% of traditional steel ones. Which saves at least 30% of the steel frame cost. Ultra slim panel requires narrower installation space and more adaptive to various applications. 
                     </p>
                 </div>
             </div>
@@ -93,73 +93,51 @@
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Top Stability & Durability LED Advertising Board</h2>
-                    <p>
-                    Cinstar X series outdoor LED advertising billboard display is featured with high level IP rating (IP66) and supreme cooling design to guarantee the best reliability and performance. All the quality components and user friendly design enable it the best solution to maximize your ROI. 
-                    </p>
+                    <p>Cinstar X series outdoor LED advertising billboard display is featured with high level IP rating (IP65) and supreme cooling design to guarantee the best reliability and performance. All the quality components and user friendly design enable it the best solution to maximize your ROI. </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-3.jpg" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-3.webp" alt="X SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-4.jpg" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-4.webp" alt="X SERIES"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Fast Installation & Easy Maintenance</h2>
-                    <p>
-                    Cinstar X series LED advertising billboard display can be maintained easily from both front and rear with a service wrench. It takes only a few steps to maintain the modules and other parts, minimum labor required.
-The handles and locks can extremely accelerate the installation and make it really easy and fast.
-                    </p>
+                    <p>Cinstar X series LED advertising billboard display can be maintained easily from both front and rear with a service wrench. It takes only a few steps to maintain the modules and other parts, minimum labor required.
+                    The handles and locks can extremely accelerate the installation and make it really easy and fast.</p>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
-                <div class="desc-part half">
-                    <h2 class="title">Slim And Light Weight Panel Design</h2>
-                    <p>
-                    Adopting aluminum alloy material, the panel weight of Cinstar X series (panel weight 25KG, panel depth 110mm) outdoor LED advertising billboard display is only 50% of traditional steel ones. Which saves at least 20% of the steel frame cost. Ultra slim panel requires narrower installation space and more adaptive to various applications. 
-                    </p>
-                </div>
-                <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-5.jpg" class="special" alt="X SERIES"/>
-                </div>
-            </div>
-            <hr class="under-line"/>
-            <div class="detail">
-                <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-6.jpg" alt="X SERIES"/>
-                </div>
                 <div class="desc-part half">
                     <h2 class="title">Nice And Clean LED Advertising Billboard</h2>
-                    <p>
-                    Thanks to the fanless design, Cinstar X series outdoor LED advertising billboard display is running without any noise and enable the display working more stable at dusty and humid areas. Module casing exposed in the air directly for better heating dissipation, no need air conditioners for cooling.
-                    </p>
+                    <p>Thanks to the fanless design, Cinstar X series outdoor LED advertising billboard display is running without any noise and enable the display working more stable at dusty and humid areas. Module casing exposed in the air directly for better heating dissipation, no need air conditioners for cooling. </p>
+                </div>
+                <div class="img-part half">
+                    <img src="../images/products/Commercial-LED/X-series-5.webp" class="special" alt="X SERIES"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
+                <div class="img-part half">
+                    <img src="../images/products/Commercial-LED/X-series-6.webp" alt="X SERIES"/>
+                </div>
                 <div class="desc-part half">
                     <h2 class="title">Seamless Right Angle For Stunning 3D Effect</h2>
-                    <p>
-                    Cinstar X series outdoor LED advertising billboard panel can be customized with seamless right angle to deliver eye-catching naked eye 3D effects. With such unique design, you can easily build a spectacular LED billboard to attract people and maximize its commercial values.
-                    </p>
-                </div>
-                <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-7.jpg" class="special" alt="X SERIES"/>
+                    <p>Cinstar X series outdoor LED advertising billboard panel can be customized with seamless right angle to deliver eye-catching naked eye 3D effects. With such unique design, you can easily build a spectacular LED billboard to attract people and maximize its commercial values.</p>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail">
-                <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-8.jpg" alt="X SERIES"/>
-                </div>
                 <div class="desc-part half">
                     <h2 class="title">High Value Added LED Advertising Billboard</h2>
-                    <p>
-                    Cinstar X series outdoor LED advertising billboard display is an ideal solution for high profile outdoor commercial advertising applications. Its top stability, superb visibility and extraordinary image performance make it the new icon for outdoor billboard advertising at pedestrian mall, shopping centers, theme parks, shopping malls and other high traffic areas.
-                    </p>
+                    <p>Cinstar X series outdoor LED advertising billboard display is an ideal solution for high profile outdoor commercial advertising applications. Its top stability, superb visibility and extraordinary image performance make it the new icon for outdoor billboard advertising at pedestrian mall, shopping centers, theme parks, shopping malls and other high traffic areas.</p>
+                </div>
+                <div class="img-part half">
+                    <img src="../images/products/Commercial-LED/X-series-7.webp" class="special" alt="X SERIES"/>
                 </div>
             </div>
         </div>
@@ -173,7 +151,7 @@ The handles and locks can extremely accelerate the installation and make it real
                     <div class="iconCricle">
                         <i class="fa fa-check"></i>
                     </div>
-                    <p class="icon-desc">High profile aluminum alloy panel</p>
+                    <p class="icon-desc">High profile aluminum alloy panel </p>
                 </div>
                 <div class="iconItems">
                     <div class="iconCricle">
@@ -348,19 +326,19 @@ The handles and locks can extremely accelerate the installation and make it real
                             Panel Weight (kg)
                             </td>
                             <td>
-                            25
+                            23
                             </td>
                             <td>
-                            25
+                            23
                             </td>
                             <td>
-                            25
+                            23
                             </td>
                             <td>
-                            25
+                            23
                             </td>
                             <td>
-                            25
+                            23
                             </td>
                         </tr>
                         <tr>
@@ -448,19 +426,19 @@ The handles and locks can extremely accelerate the installation and make it real
                             Viewing Angle (H/V) (°) 
                             </td>
                             <td>
-                                160/120
+                                160/140
                             </td>
                             <td>
-                                160/120
+                                160/140
                             </td>
                             <td>
-                                160/120
+                                160/140
                             </td>
                             <td>
-                            160/120
+                            160/140
                             </td>
                             <td>
-                            160/120
+                            160/140
                             </td>
                         </tr>
                         <tr>
@@ -568,19 +546,19 @@ The handles and locks can extremely accelerate the installation and make it real
                             IP Rating (Front/Rear)
                             </td>
                             <td>
-                            IP66
+                            IP65
                             </td>
                             <td>
-                                IP66
+                                IP65
                             </td>
                             <td>
-                                IP66
+                                IP65
                             </td>
                             <td>
-                                IP66
+                                IP65
                             </td>
                             <td>
-                                IP66
+                                IP65
                             </td>
                         </tr>
                         <tr>

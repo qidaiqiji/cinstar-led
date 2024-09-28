@@ -83,7 +83,7 @@
                 <h2>Cinstar Outdoor LED Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%" class="img-long" src="../images/products/Commercial-LED/X-series-1.jpg" alt="X Series-1" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 80%" class="img-long" src="../images/products/Commercial-LED/X-series-1.webp" alt="X Series-1" /></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch Outdoor LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>

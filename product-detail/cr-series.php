@@ -72,14 +72,14 @@
                 </div>
             </div>
             <div class="product-img hd-img" style="width: 47%">
-                <img src="../images/products/Rental-LED/CR-series-1.webp" alt="CR SERIES"/>
+                <img src="../images/products/Rental-LED/CR-series-1.webp" alt="CR SERIES-1"/>
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail img-big">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/CR-series-2.webp" style="width: 100%" alt="CR SERIES"/>
+                    <img src="../images/products/Rental-LED/CR-series-2.webp" style="width: 100%" alt="CR SERIES-2"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ideal Design for AV Rental Industry</h2>
@@ -93,13 +93,13 @@
                     <p>Cinstar CR series flexible rental LED display screen panel is flexible from +45 to -45 degrees with the multi-functional handle. Outshine conventional rental LED panels to create extraordinary and distinctive stage designs easily.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/CR-series-3.webp" style="width: 100%" alt="CR SERIES"/>
+                    <img src="../images/products/Rental-LED/CR-series-3.webp" style="width: 100%" alt="CR SERIES-3"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/CR-series-4.webp" style="width: 100%" alt="CR SERIES"/>
+                    <img src="../images/products/Rental-LED/CR-series-4.webp" style="width: 100%" alt="CR SERIES-4"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Compact Cylinder Stage Set-up</h2>
@@ -113,13 +113,13 @@
                     <p>Cinstar CR series flexible rental LED display screen can be working with normal flat panel and curvable panel in one screen. A great combination to lower your purchase cost and ensure you an optimized ROI.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/CR-series-5.webp" style="width: 100%" class="special" alt="CR SERIES"/>
+                    <img src="../images/products/Rental-LED/CR-series-5.webp" style="width: 100%" class="special" alt="CR SERIES-5"/>
                 </div>
             </div>
             <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/CR-series-6.webp" alt="CR SERIES"/>
+                    <img src="../images/products/Rental-LED/CR-series-6.webp" alt="CR SERIES-6"/>
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Multiple Installation Available</h2>
@@ -517,7 +517,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact" />
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
