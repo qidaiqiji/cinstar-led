@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>What to be Considered Before and After Purchasing Outdoor LED Display</title>
-    <meta name="description" content="In recent years, with the rapid development of LED technology，LED display has been widely recognized as the most preferred media channel by various industries. When comes to the installation environment, which can be divided into indoor and outdoor categories. Due to the particularity of different applications, how to choose the right LED product and perform normative installation and maintenance have become some kind of knowledge that LED display owners are supposed to master" />
+    <title>Outdoor LED Display Buying Checklist | Cinstar LED</title>
+    <meta name="description" content="Ensure a successful investment by understanding what to consider before and after purchasing an outdoor LED display. Get expert advice from Cinstar LED." />
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
 </head>
 <body class="page-index">

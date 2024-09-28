@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
-    <title>Indoor LED Wall | Cinstar-led, Indoor Rental LED Display, LED Video Screen</title>
-    <meta name="description" content="Cinstar has delivered thousands square meters LED display for live production, corporate event, music festival, awards ceremony and stage rental application. No matter it is high profile show or budget event, you can always find the right product here." />
+    <title>Exceptional LED Rental Cases for Events | Cinstar LED</title>
+    <meta name="description" content="Check out LED rental case showcase from Cinstar LED. See how our versatile solutions enhance events, from concerts to corporate functions!" />
     <meta name="keywords" content="Indoor LED wall, indoor rental LED display, outdoor rental LED display, fine pitch LED video screen" />
 </head>
 <body class="page-index .menu-open">

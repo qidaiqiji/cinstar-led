@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>What is COB Encapsulation Technology?</title>
-    <meta name="description" content="What is COB Encapsulation Technology.COB stands for Chip on Board, is a new encapsulation technology which encapsulates LED chip (rather than LED lamp) directly to PCB board." />
+    <title>What is COB Encapsulation Technology | Cinstar LED</title>
+    <meta name="description" content="Get an overview of COB technology, its key features, and why it’s vital for LED displays from Cinstar LED. See how it enhances visual performance." />
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
 </head>
 <body class="page-index">

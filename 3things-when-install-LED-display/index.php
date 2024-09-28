@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>3 Critical Things to be Considered When Installing Outdoor LED Display</title>
-    <meta name="description" content="3 Critical Things to be Considered When Installing Outdoor LED Display.Featuring high brightness, seamless connection, excellent image quality and great stability, outdoor LED display is beating the traditional print advertising in all aspects and is now becoming the new preference in the advertising industry." />
+    <title>Critical Tips for LED Display Installation | Cinstar LED</title>
+    <meta name="description" content="Make your LED display installation seamless by keeping these three factors in mind. Cinstar LED offers expert advice for optimal setup." />
     <meta name="keywords" content="outdoor LED display, LED display, LED screen, Cinstar-led, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
 </head>
 <body class="page-index">

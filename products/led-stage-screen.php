@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>LED Stage Screen & Video Wall - LED Screen for Stage Events</title>
-    <meta name="description" content="Cinstar offers the most reliable & creative LED stage screen wall. Contact us for the best rental LED display screen for stage solutions with affordable prices." />
+    <title>Enhance Your Stage Setup with LED Screens | Cinstar LED</title>
+    <meta name="description" content="Elevate your performances with high-quality LED stage screens. Get tailored solutions for every performance and event type from Cinstar LED." />
     <meta name="keywords" content="LED stage screen, stage LED video wall, stage LED wall, LED screen for stage, rental LED display, event LED screen, LED screen for events, LED display manufacturer" />  
 </head>
 <body class="page-index">

@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Concert LED Screen Display - Rental LED Screen for Concert Stage Events</title>
-    <meta name="description" content="Cinstar's concert LED screen display delivers the most eye-catching visual experience. Deploy our rental LED screen for your concert rental stage events now." />
+    <title>Dynamic LED Solutions for Concert | Cinstar LED</title>
+    <meta name="description" content="Amplify your concert atmosphere with high-impact LED screens. Engage fans like never before with stunning displays from Cinstar LED!" />
     <meta name="keywords" content="concert LED screen, Concert led display, led screen for concert, rental LED display screen, event LED screen, LED stage screen, stage rental LED screen, LED concert screen" />  
 </head>
 <body class="page-index">

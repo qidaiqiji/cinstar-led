@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Pros and Cons of Digital LED billboard advertising truck</title>
-    <meta name="description" content="Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?" />
+    <title>Pros & Cons of Digital LED Billboard Trucks | Cinstar LED</title>
+    <meta name="description" content="Evaluate the pros and cons of digital LED billboard advertising trucks. Cinstar LED provides insights for advertisers looking to maximize impact." />
     <meta name="keywords" content="Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?">
 </head>
 <body class="page-index">

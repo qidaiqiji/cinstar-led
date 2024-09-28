@@ -4,8 +4,8 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
-    <title>Digital Display Screens | LED Digital Signs, Commercial LED Screen</title>
-    <meta name="description" content="Cinstar LED displays are highly qualified for any weather condition operation like high temperature and humidity, raining and snowing etc. They can be customized to meet any complicated installations." />
+    <title>Transform Your Space with Fixed LED Cases | Cinstar LED</title>
+    <meta name="description" content="View our collection of fixed cases designed for professional LED installations. Elevate your project with CinstarLED's top-notch solutions." />
     <meta name="keywords" content="digital display screens, LED digital signs, commercial LED screens, advertising LED display screen, advertising LED screen price, outdoor commercial LED billboard, advertising LED billboard" />
 </head>
 <body class="page-index .menu-open">

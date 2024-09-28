@@ -1,17 +1,3 @@
-<?php
-/* 
-    // Adding check to redirect all pages other than homepage that are being opened using homepage index.php file (use less pages)
-    $explodedURL = explode('/',$_SERVER['REQUEST_URI']);
-
-    if(count($explodedURL) > 2)
-    {
-        header("HTTP/1.1 301 Moved Permanently"); 
-        header("Location: https://www.cinstar-led.com/404.html"); 
-        exit();            
-    }
-*/
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,10 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer" />  
-    <meta name="description" content="When the market is flooding with same products, a different one will definitely get more attention and create more opportunities." />
-    <meta name="p:domain_verify" content="55405faff2c022df8ded4e9440511b8f"/>
-    <meta name="msvalidate.01" content="05393303A9AC7E2D8DCF3B48AD511318" />
-    <title>LED Display Manufacturer | Indoor & Outdoor LED Display - Cinstar</title>
+    <meta name="description" content="Stand out with creative LED displays that offer custom designs and powerful visuals. Cinstar LED explains the benefits of using it for innovative branding." />
+    <title>Why Invest in a Creative LED Display | Cinstar LED</title>
 </head>
 
 <body class="page-index">

@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>The Key Applications and Advantages of Outdoor LED Display</title>
-    <meta name="description" content="With the development of digital technology and market preference, the types of outdoor advertising have shown a diversified trend. When we look around the city" />
+    <title>Advantages of Outdoor LED Displays | Cinstar LED</title>
+    <meta name="description" content="Make your events and promotions stand out with high-resolution outdoor LED displays. Cinstar LED offers reliable solutions for vibrant, engaging visuals." />
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
 </head>
 <body class="page-index">

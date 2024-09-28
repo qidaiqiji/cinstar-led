@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Outdoor LED Display Screen for Bright, Vibrant, & Impactful Visual Solutions</title>
-    <meta name="description" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />
+    <title>Commercial LED Displays for Advertising | Cinstar LED</title>
+    <meta name="description" content="Versatile commercial LED displays by Cinstar LED are perfect for any environment. Discover how our displays can enhance your marketing efforts!" />
     <meta name="keywords" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />  
 </head>
 <body class="page-index">
