@@ -25,16 +25,15 @@
   ]
 }
 </script>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "WebSite",
   "name": "Cinstar LED",
-  "url": "",
+  "url": "https://www.cinstar-led.com",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.cinstar-led.com/search?q={search_term_string}LED Display",
+    "target": "https://www.cinstar-led.com/?s={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
