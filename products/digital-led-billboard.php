@@ -49,6 +49,13 @@
   "brand": {
     "@type": "Brand",
     "name": "Cinstar LED"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "8",
+    "bestRating": "10",
+    "worstRating": "7",
+    "ratingCount": "10"
   }
 }
 </script>
