@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
-    <title></title>
+    <title>CR Series Flexible Rental LED Display | Cinstar LED</title>
     <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display" />
-    <meta name="description" content="" />
+    <meta name="description" content="Cinstar LED introduces the CR Series Flexible Rental LED Display Screen, perfect for dynamic advertising and events. Discover the future of LED displays!" />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->

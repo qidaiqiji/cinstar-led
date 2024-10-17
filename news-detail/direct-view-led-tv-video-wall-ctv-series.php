@@ -4,9 +4,9 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
-    <title></title>
+    <title>Direct View LED TV Video Wall | CTV Series | Cinstar LED</title>
     <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display" />
-    <meta name="description" content="" />
+    <meta name="description" content="Cinstar LED unveils the CTV Series All-in-One Direct View LED TV Video Wall, designed to enhance visual communication and elevate audience engagement." />
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
