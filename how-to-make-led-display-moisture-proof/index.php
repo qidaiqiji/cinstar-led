@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How to Make Your LED Display Moisture-Proof in Summer?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 26, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/Blog9-1.jpg" alt="LED Display Moisture-Proof-1"/>
                 </div>

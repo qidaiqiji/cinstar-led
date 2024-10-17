@@ -88,7 +88,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="2024-01-26.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
+        <h3><span>Previous :</span><a href="cr-series-flexible-rental-led-display.php">Cinstar unveils CR series flexible rental LED display screen</a></h3>
         <h3><span>Next :</span><a href="2023-08-02.php">Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</a></h3>
     </div>
         <!-- 底部开始 -->

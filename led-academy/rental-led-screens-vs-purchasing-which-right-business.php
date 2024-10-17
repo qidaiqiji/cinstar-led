@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Rental LED Screens vs. Purchasing: Which Is Right for Your Business?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>February 20, 2024</span>
-                </div>
+                </div> -->
                 <p>Enterprises depend heavily on vibrant graphic content to entertain their audience, elevate their brand, and improve customer experiences. LED screens, acknowledged for their radiant, precise, and customizable exhibits, have evolved into a go-to answer for many businesses. </p>
                 <p>Yet, when attaining these practical tools, businesses often determine: Should we lease or <b>purchase LED screens</b>?</p>
                 <div class="img-box">

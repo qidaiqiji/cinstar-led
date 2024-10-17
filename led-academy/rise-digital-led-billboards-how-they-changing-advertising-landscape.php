@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Rise of Digital LED Billboards: How They Are Changing the Advertising Landscape</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>March 9, 2024</span>
-                </div>
+                </div> -->
                 <p>Conventional advertising techniques slowly give way to more vibrant, engaging, and technologically developed possibilities. One of the most effective transformations in the advertising terrain is the promotion of <b>digital LED billboards</b>. These contemporary wonders are changing how brands communicate with audiences, delivering more significant flexibility, eye-catching visuals, and the capacity to provide real-time messages. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/digital-led-billboards.webp" alt="digital led billboards" /></a>

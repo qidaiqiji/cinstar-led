@@ -45,11 +45,25 @@
                 href: '../news-detail/2024-07-08.php'
             },
             {
+                imgSrc:'../images/news/CTV-Series.webp',
+                title:'Cinstar unveils CTV series All in One Direct View LED TV Video Wall',
+                data:'2024-02-20',
+                detail:'11th October, 2024, Shenzhen, China: Cinstar Electronics proudly announces the launch of its latest product, the CTV Series All-in-One Direct View LED TV Video Wall. This cutting-edge display solution elevates visual experiences by combining sleek aesthetics with top-tier performance designed for businesses and event spaces.',
+                href: '../news-detail/direct-view-led-tv-video-wall-ctv-series.php'
+            },
+            {
                 imgSrc:'../images/news/2024-01-26-1.jpg',
                 title:'3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered',
                 data:'2024-01-26',
                 detail:'After the first pilot fine pitch LED video wall has been verified so qualified to deliver top class image performance, here comes 3 sets of Cinstar fine pitch LED video wall U1.2 for low scale production. Each set of the LED video wall is consists of 5x6 panels of 600x337.5mm to achieve ultra-high resolution of 2400x1600 and have been delivered to Atlanta, Chicago and London respectively. ',
                 href: '../news-detail/2024-01-26.php'
+            },
+            {
+                imgSrc:'../images/news/CR-series.webp',
+                title:'Cinstar unveils CR series flexible rental LED display screen',
+                data:'2023-12-20',
+                detail:'11th October, 2024, Shenzhen, China: Cinstar Electronics is excited to announce the launch of its new CR Series Flexible Rental LED Display Screen, designed to transform the visual impact of events with its unmatched versatility and cutting-edge technology. The CR Series is poised to meet the ever-growing demand for visually dynamic event solutions, offering unparalleled flexibility for',
+                href: '../news-detail/cr-series-flexible-rental-led-display.php'
             },
             {
                 imgSrc:'../images/news/2023-11-13-1.webp',

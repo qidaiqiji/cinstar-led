@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title"> Why You Need a Creative LED Display?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 13, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/blog6-1.jpg" alt="Creative LED Display-1"/>
                 </div>

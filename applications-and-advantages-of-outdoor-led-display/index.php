@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Key Applications and Advantages of Outdoor LED Display</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 15, 2019</span>
-                </div>
+                </div> -->
                 <p>
                 With the development of digital technology and market preference, the types of <a href="../products/commercial-led-display.php">outdoor advertising</a> have shown a diversified trend. When we look around the city, in addition to the very traditional print advertisements at bus shelter and metro station, we can also see the digital signage LCD display and big LED display screen advertisements. LED display is now becoming the current most efficient and preferred channel for commercial advertising. This article will discuss the main applications and advantages of outdoor LED display.
                 </p>

@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Advantages of Fine Pitch LED Display</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 2, 2019</span>
-                </div>
+                </div> -->
                 <p>
                 In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED display got a big increase on the market share and has been widely used for high profile and high end applications for its <a href="../">ultra-high resolution and stunning image performance</a>. Although much higher cost than other kind of video equipment like projector and LCD video wall, it is still favored by the market. This article will share with you what are the advantages of the fine pitch LED display.
                 </p>

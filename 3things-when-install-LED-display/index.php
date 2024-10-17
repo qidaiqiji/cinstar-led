@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">3 Critical Things to be Considered When Installing Outdoor LED Display</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>April 10, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/blog1-1.jpg" alt="Installing Outdoor LED Display-1"/>
                 </div>

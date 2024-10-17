@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">5 Tips to Extend Lifespan of Your Advertising LED Billboard</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>May 14, 2019</span>
-                </div>
+                </div> -->
                 <p>
                 As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to <a href="../">deliver excellent visual impact</a>.
                 </p>

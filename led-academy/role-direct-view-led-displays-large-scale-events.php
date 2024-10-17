@@ -25,10 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Role of Direct View LED Displays in Large-Scale Event Productions</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>April 22, 2024</span>
-                </div>
+                </div> -->
                 <p>Building visually compelling experiences is vital to engaging and delighting audiences in large-scale event productions. As the need for dynamic visuals and immersive environments grows, <a href="https://www.cinstar-led.com/products/direct-view-led.php">direct-view LED displays</a> have become a game-changer in the event production area. <b>Direct-view LED Video Walls</b> have redefined how organizers offer content to their audience, from concerts to conferences, sports events, and exhibitions. Direct-view LED displays are the game-changer you need, whether you're peeking to build immersive brand experiences or eye-catching visuals.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/role-direct-view-led.webp" alt="role direct view led" /></a>

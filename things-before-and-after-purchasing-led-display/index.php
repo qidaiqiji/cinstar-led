@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What to be Considered Before and After Purchasing Outdoor LED Display</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 9, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/Blog11-1.jpg" alt="Purchasing Outdoor LED Display-1"/>
                 </div>

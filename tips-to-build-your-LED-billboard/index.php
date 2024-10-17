@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">3 Tips to Build Your High-Value Added Digital LED Billboard</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>March 20, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/blog3-1.jpg" alt="High-Value Added Digital LED Billboard-1"/>
                 </div>

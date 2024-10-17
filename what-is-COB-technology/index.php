@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What is COB Encapsulation Technology?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>April 18, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/blog2-1.jpg" alt="COB Encapsulation Technology-1" />
                 </div>

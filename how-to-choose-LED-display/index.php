@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What to Look into When Choosing LED Display?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 4, 2018</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/blog4-1.jpg" alt="How to Choose LED Display"/>
                 </div>

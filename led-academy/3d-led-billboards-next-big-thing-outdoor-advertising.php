@@ -25,10 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Why 3D LED Billboards Are the Next Big Thing in Outdoor Advertising?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 9, 2024</span>
-                </div>
+                </div> -->
                 <p>Remaining ahead of the curve in outdoor advertising signifies welcoming innovation and technology. The latest breakthrough is the <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED billboard</b></a>. This dynamic advertising tool changes how brand labels engage with their target audience. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3D-LED-billboards.webp" alt="3D LED billboards" /></a>

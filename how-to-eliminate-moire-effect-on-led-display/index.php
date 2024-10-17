@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How to Eliminate Moiré Effect on LED Display?</h1>
-                <div class="date">
+                <!-- <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 18, 2019</span>
-                </div>
+                </div> -->
                 <div class="img-box">
                     <img src="../images/blog/Blog7-1.jpg" alt="Eliminate Moiré Effect on LED Display-1"/>
                 </div>
