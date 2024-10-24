@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/contact-240815.css">
+    <link rel="stylesheet" href="../css/contact-241024.css">
     <title>Get in Touch with Us | Cinstar LED</title>
     <meta name="description" content="Contact Cinstar LED for support, product details, or business inquiries. We’re dedicated to providing excellent customer service." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier" />
@@ -30,8 +30,9 @@
                 <div class="contact-item">
                     <div class="icon-box"><i class="fa fa-envelope-o"></i></div>
                     <p class="title">E-mail</p>
-                    <p>Cinstar Electronics Co., Limited</p>
-                    <a href="mailto:sales@cinstar-led.com" style="cursor: pointer;color:#0909f2">sales@cinstar-led.com</a>
+                    <p>General Inquiry: <a href="mailto:info@cinstar-led.com" style="cursor: pointer;color:#0909f2">info@cinstar-led.com</a></p>
+                    <p>Sales Inquiry: <a href="mailto:sales@cinstar-led.com" style="cursor: pointer;color:#0909f2">sales@cinstar-led.com</a></p>
+                    <p>Technical Support: <a href="mailto:support@cinstar-led.com" style="cursor: pointer;color:#0909f2">support@cinstar-led.com</a></p>
                 </div>
             </div>
         </div>

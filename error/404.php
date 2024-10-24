@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/common-240917.css">
-    <link rel="stylesheet" href="/css/contact-240815.css">
+    <link rel="stylesheet" href="/css/contact-241024.css">
     <link rel="stylesheet" href="/css/404.css">
     <title>404 Not Found | Cinstar LED</title>
 </head>

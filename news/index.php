@@ -24,6 +24,13 @@
     <script>
         let data = [
             {
+                imgSrc:'../images/news/dvled-1.jpg',
+                title:'HD1.2 UHD DV LED video wall display panels delivered to Boston college USA',
+                data:'2024-10-24',
+                detail:'Thanks to the excellent work of our partner’s extraordinary business development team, another Cinstar HD1.2 direct view (DVLED) LED video wall display panels are ready to be delivered to Boston college to provide a more engaging visual experiences for the college students and staff. What more important is that this DVLED is connected with a lot of portals that our partner built to create an',
+                href: '../news-detail/dvled-video-wall-display-panel.php'
+            },
+            {
                 imgSrc:'../images/news/led-media-cube.jpg',
                 title:'Cinstar P4 media cube LED video wall shines at Lulea Hockey & COOP Norrbotten Arena',
                 data:'2024-09-20',

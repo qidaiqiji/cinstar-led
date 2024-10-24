@@ -86,8 +86,8 @@ function Check()
                 <span>Contact</span>
             </div>
             <div class="footer-detail">
-                <span class="companyName">Cinstar Electronics  Co., Limited</span>
-                <span class="adderss">Building A, Hengchangrong technology park, Shiyan street, Boan district, Shenzhen, China</span>
+                <p class="companyName">Cinstar Electronics  Co., Limited</p>
+                <p class="adderss">Building A, Hengchangrong technology park, Shiyan street, Boan district, Shenzhen, China</p>
                 <a href="mailto:sales@cinstar-led.com">sales@cinstar-led.com</a>
                 <!-- <a class="phone">+86 183 2088 9297</a> -->
             </div>

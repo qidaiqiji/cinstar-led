@@ -47,6 +47,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="dvled-video-wall-display-panel.php">HD1.2 UHD DV LED video wall display panels delivered to Boston college USA</a></h3>
         <h3><span>Next :</span><a href="2024-09-11.php">CH1.2 COB direct view LED video wall panels delivered to USA high school</a></h3>
     </div>
         <!-- 底部开始 -->

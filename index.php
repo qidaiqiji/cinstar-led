@@ -60,7 +60,7 @@
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240917.css">
-    <link rel="stylesheet" href="css/contact-240815.css">
+    <link rel="stylesheet" href="css/contact-241024.css">
     <link rel="stylesheet" href="css/main-240917.css">
     <meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
     <script type="application/ld+json">
@@ -671,6 +671,20 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="news-detail/dvled-video-wall-display-panel.php">
+                        <img src="images/news/dvled-1.jpg" alt="dv led"/>
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>HD1.2 UHD DV LED video wall display panels delivered to Boston college USA</h3>
+                            <p class="date">2024-10-24</p>
+                        </div>
+                        <div class="news-desc">
+                        Thanks to the excellent work of our partner’s extraordinary business development team, another Cinstar HD1.2 direct view (DVLED) LED video wall display panels are ready to be delivered to Boston college to provide a more engaging visual experiences for the college students and staff. What more important is that this DVLED is connected with a lot of portals that our partner built to create an innovative platform where all the people around
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="news-detail/2024-09-20.php">
                         <img src="images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall"/>
                     </a>
@@ -699,20 +713,6 @@
                         </div>
                     </div>
                     <hr class="under-line"/>
-                </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2024-07-08.php">
-                        <img src="images/news/media-cube-led-video-wall-panel-2.jpg" alt="Cube LED Video Wall Panel"/>
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>108SQM media cube LED video wall panels for ice hockey arena</h3>
-                            <p class="date">2024-07-08</p>
-                        </div>
-                        <div class="news-desc">
-                        Cinstar is thrilled to be the supplier of two striking media cube LED video wall panels, and we owe a great deal of gratitude to our strategic Swedish partner for their trust as well as their hard work and professionalism. It is anticipated that the new media cubes will provide an even more spectacular visual experience and update the old-fashioned LED bucket screens that have been in operation for more than 10 years.
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
