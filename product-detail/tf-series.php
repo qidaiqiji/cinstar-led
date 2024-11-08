@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/new-detail-240913.css">
+    <link rel="stylesheet" href="../css/new-detail-241108.css">
     <title>Transparent LED Film Display Screen | Flexible LED Video Wall</title>
     <meta name="description" content="Cinstar transparent holographic LED film screen display is best for indoor glass wall advertising at 4S store, shopping mall and retail shop. " />
     <meta name="keywords" content="led film screen, led film display, flexible led display, led advertising display, holographic led screen, led video wall display" />
@@ -28,37 +28,37 @@
                         <i class="fa fa-angle-right right" style="right: 0;"></i>
                         <div class="img-main">
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-1.jpg" alt="TF SERIES-1"/>
+                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="holograhpic led film screen-1"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-2.jpg" alt="TF SERIES-2"/>
+                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-2.jpg" alt="holograhpic led film screen-2"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-3.jpg" alt="TF SERIES-3"/>
+                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-3.jpg" alt="holograhpic led film screen-3"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-4.jpg" alt="TF SERIES-4"/>
+                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-4.jpg" alt="holograhpic led film screen-4"/>
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/tf-5.jpg" alt="TF SERIES-5"/>
+                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-5.jpg" alt="holograhpic led film screen-5"/>
                             </div>
                         </div>
                     </div>
                     <ul class="img-list">
                         <li class="active">
-                            <img src="../images/products/Creative-LED/tf-1.jpg" alt="TF SERIES-1"/>
+                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="holograhpic led film screen-1"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-2.jpg" alt="TF SERIES-2"/>
+                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-2.jpg" alt="holograhpic led film screen-2"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-3.jpg" alt="TF SERIES-3"/>
+                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-3.jpg" alt="holograhpic led film screen-3"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-4.jpg" alt="TF SERIES-4"/>
+                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-4.jpg" alt="holograhpic led film screen-4"/>
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/tf-5.jpg" alt="TF SERIES-5"/>
+                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-5.jpg" alt="holograhpic led film screen-5"/>
                         </li>
                     </ul>
                 </div>
@@ -90,6 +90,23 @@
                         </div>
                     </div>
                 </div>
+                <div class="img-back" style="background-color: #5d5959;">
+                    <div class="text-content small-show">
+                        <h2 class="new-detail-title">Unparalleled Flexibility & Scalability</h2> 
+                        <p>
+                            Cinstar flexible LED film screen can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
+                        </p>
+                    </div>
+                    <img src="../images/products/Creative-LED/holograhpic-led-film-screen-7.webp" alt="TF SERIES"/>
+                    <div class="detail-cover width-cover">
+                        <div class="detail-content content2" style="margin-top: 15%">
+                            <h2 class="new-detail-title">Unparalleled Flexibility & Scalability</h2>
+                            <p>
+                            Cinstar flexible LED film screen can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
+                            </p>
+                        </div>
+                    </div>
+                </div>
                 <div class="img-back">
                     <div class="text-content small-show">
                         <h2 class="new-detail-title" style="color: #000">Extraordinary Display Effect</h2> 
@@ -108,22 +125,21 @@
                     </div>
                 </div>
                 <div class="img-back" style="background: #151515;">
-                    <div class="text-content">
+                    <div class="text-content small-show">
                         <h2 class="new-detail-title">Versatile Display Design</h2> 
                         <p style="color: #fff">
                             Featured with flexible and self-adhesive design, Cinstar flexible LED film screen can be directly pasted to any flat or curved glass walls. The ultra-slim (3mm in depth) and light weight (2-4kg/sqm) panel can be tailored to any size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-3.webp" alt="TF SERIES"/>
-                </div>
-                <div class="img-back" style="background-color: #5d5959;">
-                    <div class="text-content">
-                        <h2 class="new-detail-title">Unparalleled Flexibility & Scalability</h2> 
-                        <p>
-                            Cinstar flexible LED film screen can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
-                        </p>
+                    <img src="../images/products/Creative-LED/holograhpic-led-film-screen-6.jpg" alt="TF SERIES"/>
+                    <div class="detail-cover width-cover">
+                        <div class="detail-content content1" style="margin-left: 3%; width: 45%">
+                            <h2 class="new-detail-title">Versatile Display Design</h2>
+                            <p>
+                            Featured with flexible and self-adhesive design, Cinstar flexible LED film screen can be directly pasted to any flat or curved glass walls. The ultra-slim (3mm in depth) and light weight (2-4kg/sqm) panel can be tailored to any size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
+                            </p>
+                        </div>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-4.webp" alt="TF SERIES"/>
                 </div>
                 <div class="img-back">
                     <div class="text-content">

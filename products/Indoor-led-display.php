@@ -65,7 +65,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 60%;" src="../images/products/Creative-LED/tf-1-1.jpg" alt="TF SERIES" /></a>
+                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 60%;" src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="TF SERIES" /></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Film Screen</h3>
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>

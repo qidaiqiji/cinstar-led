@@ -29,7 +29,7 @@
                 </div>
                 <div class="product-img img-bigger">
                     <a href="../product-detail/tf-series.php">
-                        <img src="../images/products/Creative-LED/tf-1.jpg" alt="tf-series"/>
+                        <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series"/>
                         <div class="spec-detail">
                             <h2 class="series-title">TF Series</h2>
                             <p>Pixel Pitch (mm): 4 / 6 / 8  / 10 / 16</p>

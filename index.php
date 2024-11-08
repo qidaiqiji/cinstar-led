@@ -356,7 +356,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/tf-series.php">
-                        <img src="/images/products/Creative-LED/tf-1.jpg" alt="tf-series" style="width: auto;" />
+                        <img src="/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series" style="width: auto;" />
                     </a>
                     <a class="list-title" href="/product-detail/tf-series.php">
                         <span class="current">LED Film Display Screen</span><span class="more">TF Series</span>
