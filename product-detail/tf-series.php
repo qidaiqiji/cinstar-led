@@ -3,8 +3,8 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/new-detail-241108.css">
-    <title>Transparent LED Film Display Screen | Flexible LED Video Wall</title>
+    <link rel="stylesheet" href="../css/new-detail-241108-1.css">
+    <title>Transparent LED Film Screen Display | Flexible Holographic LED Video Wall</title>
     <meta name="description" content="Cinstar transparent holographic LED film screen display is best for indoor glass wall advertising at 4S store, shopping mall and retail shop. " />
     <meta name="keywords" content="led film screen, led film display, flexible led display, led advertising display, holographic led screen, led video wall display" />
 </head>
@@ -16,7 +16,7 @@
         <div class="detail-title tf-bg bg">
             <div class="title">
                 <span>TF SERIES</span>
-                <h1 class="top-title">Flexible LED Film Screen for Creative Applications</h1>
+                <h1 class="top-title">holographic LED Film Screen for Creative Applications</h1>
             </div>
         </div>
         <!-- 产品参数 -->
@@ -63,9 +63,15 @@
                     </ul>
                 </div>
                 <div class="instruction">
-                    <h2>Transparent LED Film Screen Wall</h2>
+                    <h2>Transparent LED Film Screen Display</h2>
                     <h3>Product Description</h3>
-                    <p>As a kind of creative transparent LED display, flexible LED film screen is a cutting-edge solution for all your indoor advertising signage needs. Featured with ultra-thin design, flexible in any size and self-adhesive tiles, this transparent LED film screen is easy to install and can be tailored to meet any of your unique requirements. The wide pixel pitches with high resolution and truly versatile display design make it the perfect solution for a wide range of application scenarios from retail advertising to trade shows and exhibitions. In addition, its super thin profile design ensures that it can be harmoniously integrated with glass walls rather than affecting the building design and light condition, meanwhile delivering stunning, immersive and vibrant visuals. If you are willing to grow your business and stand out from the crowd, this LED film screen is worth a shot!</p>
+                    <p>As a kind of creative transparent LED display, holographic LED film screen is a cutting-edge solution for all your indoor advertising signage needs. Featured with ultra-thin design, flexible in multiple sizes and self-adhesive tiles, this holographic LED film screen is easy to install and can be tailored to meet any of your unique requirements. </p>
+                    <div class="spec-box">
+                        <p><span>Pixel Pitch (mm):</span><span>2.5 / 3.9 / 6.2 / 10</span></p>
+                        <p><span>Panel Size (mm):</span><span>125x1000 / 250x1000 / 250x1200 / 250x1500</span></p>
+                        <p><span>Transparency Rate:</span><span>70% ~ 90%</span></p>
+                        <p><span>Brightness (nits):</span><span>2000 ~ 5000</span></p>
+                    </div>
                     <a class="inquery" href="mailto:sales@cinstar-led.com">Get a quote</a>
                 </div>
             </div>
@@ -77,7 +83,7 @@
                     <div class="text-content small-show">
                         <h2 class="new-detail-title" style="color: #000">Great Transparency Performance</h2> 
                         <p style="color: #000">
-                            The transmittance of Cinstar flexible LED film screen can reach up to 60-90% which varies with different pixel pitch. With such high transparency rate, the LEDs are almost invisible from a certain distance, meanwhile the original glass wall design can be kept untouched and its light condition won't be affected.
+                            The transmittance of Cinstar flexible holographic LED film screen display can reach up to 70-90% which varies with different pixel pitch. With such high transparency rate, the LEDs are almost invisible from a certain distance, meanwhile the original glass wall design can be kept untouched and its light condition won't be affected.
                         </p>
                     </div>
                     <img src="../images/products/Creative-LED/TF-series-1.webp" alt="TF SERIES"/>
@@ -85,8 +91,7 @@
                         <div class="detail-content content1">
                             <h2 class="new-detail-title">Great Transparency Performance</h2>
                             <p>
-                                The transmittance of Cinstar flexible LED film screen can reach up to 60-90% which varies with different pixel pitch. With such high transparency rate, the LEDs are almost invisible from a certain distance, meanwhile the original glass wall design can be kept untouched and its light condition won't be affected.
-                            </p>
+                            </p>The transmittance of Cinstar flexible holographic LED film screen display can reach up to 70-90% which varies with different pixel pitch. With such high transparency rate, the LEDs are almost invisible from a certain distance, meanwhile the original glass wall design can be kept untouched and its light condition won't be affected.
                         </div>
                     </div>
                 </div>
@@ -94,7 +99,7 @@
                     <div class="text-content small-show">
                         <h2 class="new-detail-title">Unparalleled Flexibility & Scalability</h2> 
                         <p>
-                            Cinstar flexible LED film screen can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
+                            Cinstar flexible holographic LED film screen display can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to meet specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
                         </p>
                     </div>
                     <img src="../images/products/Creative-LED/holograhpic-led-film-screen-7.webp" alt="TF SERIES"/>
@@ -102,7 +107,7 @@
                         <div class="detail-content content2" style="margin-top: 15%">
                             <h2 class="new-detail-title">Unparalleled Flexibility & Scalability</h2>
                             <p>
-                            Cinstar flexible LED film screen can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
+                            Cinstar flexible holographic LED film screen display can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to meet specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
                             </p>
                         </div>
                     </div>
@@ -128,7 +133,7 @@
                     <div class="text-content small-show">
                         <h2 class="new-detail-title">Versatile Display Design</h2> 
                         <p style="color: #fff">
-                            Featured with flexible and self-adhesive design, Cinstar flexible LED film screen can be directly pasted to any flat or curved glass walls. The ultra-slim (3mm in depth) and light weight (2-4kg/sqm) panel can be tailored to any size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
+                            Featured with flexible and self-adhesive design, Cinstar flexible holographic LED film screen display can be directly pasted to any flat or curved glass walls. The ultra-slim (1.8mm in depth) and light weight (4-6kg/sqm) panel can be tailored to different size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
                         </p>
                     </div>
                     <img src="../images/products/Creative-LED/holograhpic-led-film-screen-6.jpg" alt="TF SERIES"/>
@@ -136,7 +141,7 @@
                         <div class="detail-content content1" style="margin-left: 3%; width: 45%">
                             <h2 class="new-detail-title">Versatile Display Design</h2>
                             <p>
-                            Featured with flexible and self-adhesive design, Cinstar flexible LED film screen can be directly pasted to any flat or curved glass walls. The ultra-slim (3mm in depth) and light weight (2-4kg/sqm) panel can be tailored to any size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
+                            Featured with flexible and self-adhesive design, Cinstar flexible holographic LED film screen display can be directly pasted to any flat or curved glass walls. The ultra-slim (1.8mm in depth) and light weight (4-6kg/sqm) panel can be tailored to different size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
                             </p>
                         </div>
                     </div>
@@ -145,7 +150,7 @@
                     <div class="text-content">
                         <h2 class="new-detail-title" style="color: #000">Wide Application Scenarios</h2> 
                         <p style="color: #000">
-                            The flexible LED film screen can be widely installed at retail shop, restaurant, chain store, shopping center and corporate exhibition center etc to deliver eye-catching images and advertisements to achieve its commercial value.
+                            The flexible holographic LED film screen display can be widely installed at retail shop, restaurant, chain store, shopping center and corporate exhibition center etc to deliver eye-catching images and advertisements to achieve its commercial value.
                         </p>
                     </div>
                     <img src="../images/products/Creative-LED/TF-series-7.webp" alt="TF SERIES"/>
@@ -179,291 +184,321 @@
                     <tbody>
                         <tr class="thead">
                             <td></td>
-                            <td>TF4</td>
-                            <td>TF6</td>
-                            <td>TF8</td>
+                            <td>TF2.5</td>
+                            <td>TF3.9</td>
+                            <td>TF6.2</td>
                             <td>TF10</td>
-                            <td>TF16</td>
                         </tr>
                         <tr>
                             <td>
                                 Pixel Pitch (mm)
                             </td>
                             <td>
-                                4
+                            2.5
                             </td>
                             <td>
-                                6
+                            3.91
                             </td>
                             <td>
-                            8
+                            6.25
                             </td>
                             <td>
                             10
                             </td>
+                        </tr>
+                        <tr>
                             <td>
-                            16
+                            Pixel Density (dot/ m²)
+                            </td>
+                            <td>
+                            160000
+                            </td>
+                            <td>
+                            65536
+                            </td>
+                            <td>
+                            25600
+                            </td>
+                            <td>
+                            10000
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                LED Type
+                            Transparency Rate
                             </td>
                             <td>
-                                3 in 1 SMD
+                            70%
                             </td>
                             <td>
-                                3 in 1 SMD
+                            80%
                             </td>
                             <td>
-                                3 in 1 SMD
+                            90%
                             </td>
                             <td>
-                                3 in 1 SMD
-                            </td>
-                            <td>
-                                3 in 1 SMD
+                            94%
                             </td>
                         </tr>
                         <tr>
                             <td>
-                            Module Size (WxH)/(mm)
+                            Display Area (mm) (w*h)
                             </td>
                             <td>
-                                800x240
+                            125x1000/125x1175
                             </td>
                             <td>
-                                1000x240
+                            250x1000/250x1175/250x1465
                             </td>
                             <td>
-                                1000x240
+                            250x1175/250x1475
                             </td>
                             <td>
-                                1000x240
-                            </td>
-                            <td>
-                                1000x240
+                            250x1000/250x1200/250x1500
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Pixel Per Module
+                            Overall Size (mm) (w*h)
                             </td>
                             <td>
-                                200x60
+                            125x1025/125x1200
                             </td>
                             <td>
-                                166x40
+                            250x1025/250x1200/250x1500
                             </td>
                             <td>
-                                125x30
+                            250x1200/250x1500
                             </td>
                             <td>
-                                100x24
-                            </td>
-                            <td>
-                                62x15
+                            250x1000/250x1200/250x1500
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Transparency (%)
+                            Resolution (dot) (w*h)
                             </td>
                             <td>
-                                > 85
+                            50x400/50x470
                             </td>
                             <td>
-                                > 85
+                            64x256/64x300/64x376
                             </td>
                             <td>
-                                > 85
+                            40x188/40x236
                             </td>
                             <td>
-                                > 90
-                            </td>
-                            <td>
-                                > 90
+                            25x100/25x120/25x150
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Weight/Sqm (kg)
+                            Brightness (cd/m²)
                             </td>
                             <td>
-                                < 3.5
+                            ≥1200
                             </td>
                             <td>
-                                < 3.5
+                            ≥3000
                             </td>
                             <td>
-                                < 3.5
+                            ≥5000
                             </td>
                             <td>
-                                < 3.5
-                            </td>
-                            <td>
-                                < 3.5
+                            ≥4000
                             </td>
                         </tr>
                         <tr>
                             <td>
-                            Brightness (nit)
+                            Weight (kg)
                             </td>
                             <td>
-                            > 3000
+                            6.5/sqm
                             </td>
                             <td>
-                            > 3000
+                            6/sqm
                             </td>
                             <td>
-                            > 3500
+                            5/sqm
                             </td>
                             <td>
-                            > 3500
-                            </td>
-                            <td>
-                            > 3500
+                            4.8/sqm
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Refresh Rate (Hz)
+                            Scan Mode
                             </td>
                             <td>
-                                3840
+                            Static Scan
                             </td>
                             <td>
-                                3840
+                            Static Scan
                             </td>
                             <td>
-                                3840
+                            Static Scan
                             </td>
                             <td>
-                                3840
-                            </td>
-                            <td>
-                                3840
+                            Static Scan
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Gray Scale (bit) 
+                            Lifespan (hour)
                             </td>
                             <td>
-                                16
+                                ≥ 100000
                             </td>
                             <td>
-                                16
+                                ≥ 100000
                             </td>
                             <td>
-                                16
+                                ≥ 100000
                             </td>
                             <td>
-                                16
-                            </td>
-                            <td>
-                                16
+                                ≥ 100000
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Viewing Angle (H/V) (°) 
+                            Gray Scale
                             </td>
                             <td>
-                                140/140
+                                16bit
                             </td>
                             <td>
-                                140/140
+                                16bit
                             </td>
                             <td>
-                                140/140
+                                16bit
                             </td>
                             <td>
-                                140/140
-                            </td>
-                            <td>
-                                140/140
+                                16bit
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Avg. Power Consumption (W)
+                            Max Power Consumption(W/ m²)
                             </td>
                             <td>
-                                200/sqm
+                            800
                             </td>
                             <td>
-                                200/sqm
+                                1000
                             </td>
                             <td>
-                                200/sqm
+                                1000
                             </td>
                             <td>
-                                200/sqm
-                            </td>
-                            <td>
-                                200/sqm
+                            1000
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Max. Power Consumption (W)
+                            Avg Power Consumption(W/ m²)
                             </td>
                             <td>
-                            400/sqm
+                            350
                             </td>
                             <td>
-                                400/sqm
+                                375
                             </td>
                             <td>
-                                400/sqm
+                                375
                             </td>
                             <td>
-                            400/sqm
-                            </td>
-                            <td>
-                            400/sqm
+                            375
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                Operating Temperature (℃)
+                            Controlling
                             </td>
                             <td>
-                            ﹣20~﹢50
+                                Synch/Asynch
                             </td>
                             <td>
-                                ﹣20~﹢50
+                                Synch/Asynch
                             </td>
                             <td>
-                                ﹣20~﹢50
+                                Synch/Asynch
                             </td>
                             <td>
-                            ﹣20~﹢50
-                            </td>
-                            <td>
-                            ﹣20~﹢50
+                                Synch/Asynch
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                IP Rating (Front/Rear)
+                            Input Voltage
                             </td>
                             <td>
-                                IP30
+                                AC100~240V 50/60Hz
                             </td>
                             <td>
-                                IP30
+                                AC100~240V 50/60Hz
                             </td>
                             <td>
-                                IP30
+                                AC100~240V 50/60Hz
                             </td>
                             <td>
-                                IP30
+                                AC100~240V 50/60Hz
                             </td>
-                            <td>
-                                IP30
-                            </td>
+                        </tr>
+                        <tr>
+                            <td>Panel Working Voltage</td>
+                            <td>DC4.2V ±0.2V</td>
+                            <td>DC4.2V ±0.2V</td>
+                            <td>DC4.2V ±0.2V</td>
+                            <td>DC4.2V ±0.2V</td>
+                        </tr>
+                        <tr>
+                            <td>Working Temperature</td>
+                            <td> 0℃ ~50℃</td>
+                            <td> 0℃ ~50℃</td>
+                            <td> 0℃ ~50℃</td>
+                            <td> 0℃ ~50℃</td>
+                        </tr>
+                        <tr>
+                            <td>Working Humidity</td>
+                            <td>20%RH ~ 90%RH，Non-Condensing</td>
+                            <td>20%RH ~ 90%RH，Non-Condensing</td>
+                            <td>20%RH ~ 90%RH，Non-Condensing</td>
+                            <td>20%RH ~ 90%RH，Non-Condensing</td>
+                        </tr>
+                        <tr>
+                            <td>Storage Temperature</td>
+                            <td> -20℃ ~ 70℃</td>
+                            <td> -20℃ ~ 70℃</td>
+                            <td> -20℃ ~ 70℃</td>
+                            <td> -20℃ ~ 70℃</td>
+                        </tr>
+                        <tr>
+                            <td>Storage Humidity</td>
+                            <td>10%RH ~ 95%RH，Non-Condensing</td>
+                            <td>10%RH ~ 95%RH，Non-Condensing</td>
+                            <td>10%RH ~ 95%RH，Non-Condensing</td>
+                            <td>10%RH ~ 95%RH，Non-Condensing</td>
+                        </tr>
+                        <tr>
+                            <td>IP Rating</td>
+                            <td>IP20</td>
+                            <td>IP20</td>
+                            <td>IP20</td>
+                            <td>IP20</td>
+                        </tr>
+                        <tr>
+                            <td>Installation</td>
+                            <td>Indoor</td>
+                            <td>Indoor</td>
+                            <td>Indoor</td>
+                            <td>Indoor</td>
+                        </tr>
+                        <tr>
+                            <td>Packing</td>
+                            <td>Wooden Box / Flight Case</td>
+                            <td>Wooden Box / Flight Case</td>
+                            <td>Wooden Box / Flight Case</td>
+                            <td>Wooden Box / Flight Case</td>
                         </tr>
                     </tbody>
                 </table>

@@ -161,6 +161,29 @@ img {
 .img-list li img {
     width: 90%;
 }
+.spec-box {
+    width: 100%;
+    border: 1px solid #bc261a;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.spec-box p {
+    display: flex;
+    margin: 8px 0;
+}
+.spec-box p span {
+    display: inline-block;
+    width: 70%;
+    text-align: left;
+}
+.spec-box p span:first-child {
+    width: 35%;
+}
 .inquery {
     display: block;
     padding: 0 20px;
@@ -192,7 +215,6 @@ img {
     font-size: .275rem;
     margin-bottom: .175rem;
     font-weight: bold;
-    text-align: center;
 }
 .product-new-detail .detail {
     width: 100%;
@@ -406,6 +428,12 @@ table .thead{
     }
 }
 @media (max-width: 1024px) {
+    .spec-box p span:first-child{
+        width: 40%;
+    }
+    .instruction h2, p, .instruction h3 {
+        text-align: center;
+    }
     .detail-title  {
         margin-top: 60px;
     }
@@ -483,12 +511,16 @@ table .thead{
     }
 }
 @media (max-width: 576px){
-    p {
-        text-align: center;
-    }
     .new-detail-title, .instruction h2 {
         font-size: 26px;
         text-align: center;
+    }
+    .spec-box p span {
+        text-align: right;
+    }
+    .spec-box p span:first-child {
+        width: 48%;
+        text-align: left;
     }
     .text-content .new-detail-title {
         padding: 20px 0;
