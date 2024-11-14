@@ -52,6 +52,13 @@
                 href: '../news-detail/2024-07-08.php'
             },
             {
+                imgSrc:'../images/news/TF-series-display.webp',
+                title:'Cinstar unveils TF series holographic LED Film Screen for Creative Applications',
+                data:'2024-05-20',
+                detail:'20th May, 2024, Shenzhen, China: Cinstar Electronics proudly announces the launch of its latest product, the TF series holographic LED Film Screen for Creative Applications. Used in wide application scenarios it can be installed in various places. The flexible holographic LED film screen display can be widely installed in retail shops, restaurants, chain stores, shopping centers, corporate exhibition centers, etc., to deliver eye-catching images and advertisements and achieve its commercial value.',
+                href: '../news-detail/cinstar-unveils-tf-series-holographic-led-film-screen-creative-applications.php'
+            },
+            {
                 imgSrc:'../images/news/CTV-Series.webp',
                 title:'Cinstar unveils CTV series All in One Direct View LED TV Video Wall',
                 data:'2024-02-20',
@@ -92,6 +99,13 @@
                 data:'2023-05-09',
                 detail:'After months of diligent and trouble shootings, Cinstar team debuted its very innovative transparent LED film screen to bring more possibilities to the industry and create more opportunities and installation scenarios to our clients.',
                 href: '../news-detail/2023-05-09.php'
+            },
+            {
+                imgSrc:'../images/news/X-series-display.webp',
+                title:'Cinstar unveils X series Ultra-Bright Versatile Outdoor LED Advertising Billboard',
+                data:'2023-03-12',
+                detail:'12th March, 2024, Shenzhen, China: Cinstar Electronics is excited to announce the launch of its new X series Ultra-Bright Versatile Outdoor LED Advertising Billboard. Its top stability, superb visibility and extraordinary image performance make it the new icon for outdoor billboard advertising at pedestrian malls, shopping centers, theme parks, shopping malls and other high-traffic areas.',
+                href: '../news-detail/cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php'
             },
             {
                 imgSrc:'../images/news/2023-1-30-1.jpg',

@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <p>
-                <b>11th October, 2024, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> proudly announces the launch of its latest product, the <a href="https://www.cinstar-led.com/product-detail/ctv-series.php"><b>CTV Series All-in-One Direct View LED TV Video Wall</b></a>. This cutting-edge display solution elevates visual experiences by combining sleek aesthetics with top-tier performance designed for businesses and event spaces.
+                <b>20th February, 2024, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> proudly announces the launch of its latest product, the <a href="https://www.cinstar-led.com/product-detail/ctv-series.php"><b>CTV Series All-in-One Direct View LED TV Video Wall</b></a>. This cutting-edge display solution elevates visual experiences by combining sleek aesthetics with top-tier performance designed for businesses and event spaces.
                 </p>
                 <div class="img-box" style="width: 50%"> 
                     <img src="../images/news/CTV-Series.webp" alt="CTV Series"/>
@@ -41,7 +41,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="2024-07-08.php">108SQM media cube LED video wall panels for ice hockey arena </a></h3>
+        <h3><span>Previous :</span><a href="cinstar-unveils-tf-series-holographic-led-film-screen-creative-applications.php">Cinstar unveils TF series holographic LED Film Screen for Creative Applications</a></h3>
         <h3><span>Next :</span><a href="2024-01-26.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
     </div>
         <!-- 底部开始 -->

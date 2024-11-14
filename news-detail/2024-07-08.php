@@ -48,7 +48,7 @@
     </div>
     <div class="related-news">
         <h3><span>Previous :</span><a href="2024-09-11.php">CH1.2 COB direct view LED video wall panels delivered to USA high school</a></h3>
-        <h3><span>Next :</span><a href="direct-view-led-tv-video-wall-ctv-series.php">Cinstar unveils CTV series All in One Direct View LED TV Video Wall</a></h3>
+        <h3><span>Next :</span><a href="cinstar-unveils-tf-series-holographic-led-film-screen-creative-applications.php">Cinstar unveils TF series holographic LED Film Screen for Creative Applications</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

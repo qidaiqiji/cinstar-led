@@ -47,7 +47,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="2023-05-09.php">Innovative transparent LED film screen wall debuts</a></h3>
+        <h3><span>Previous :</span><a href="cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php">Cinstar unveils X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</a></h3>
         <h3><span>Next :</span><a href="2022-10-20.php">The largest outdoor LED advertising screen in Finland</a></h3>
     </div>
         <!-- 底部开始 -->
