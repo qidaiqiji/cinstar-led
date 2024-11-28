@@ -16,7 +16,7 @@
         <div class="detail-title tf-bg bg">
             <div class="title">
                 <span>TF SERIES</span>
-                <h1 class="top-title">holographic LED Film Screen for Creative Applications</h1>
+                <h1 class="top-title">Holographic LED Film Screen for Creative Applications</h1>
             </div>
         </div>
         <!-- 产品参数 -->
