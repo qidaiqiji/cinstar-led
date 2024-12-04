@@ -54,7 +54,7 @@
 <head>
     <?php include('inc/meta.php'); ?>
     <?php include('inc/rem.php'); ?>
-    <meta name="description" content="Cinstar LED, a top LED display screen manufacturer, specializes in versatile LED video wall panels perfect for retail, events, and outdoor advertising. Visit us now." />
+    <meta name="description" content="Cinstar LED, a top LED display screen manufacturer, specializes in versatile LED video wall panels perfect for retail, events, and outdoor advertising." />
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen" />  
     <title>LED Display Screen Manufacturer | Cinstar LED</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
@@ -234,7 +234,7 @@
                 </div>
                 <div class="instruction home-instruction">
                     <h2>Your Best China LED Display Screen Manufacturer & LED Video Wall Panels Supplier</h2>
-                    <p>Cinstar is committed to manufacturing the most cost effective and quality assured LED video wall panels to cater to all your requirements on high profile or budget projects. In addition, Cinstar offers a wide variety of LED video wall panels which customizable for application scenarios such as advertising campaigns, rental events, television broadcasts and any other creative installations etc. Cinstar is making its every effort to be your trusted China LED display screen manufacturer by offering unparalleled service and top quality LED video wall panels.</p>
+                    <p>As a leading <b>LED display manufacturer</b>, Cinstar offers cutting-edge solutions for a wide range of industries. Our expertise as an <b>LED display manufacturer</b> ensures that we provide high-quality, durable, and energy-efficient displays, tailored to meet the unique needs of our clients. With years of experience in the industry, we are committed to delivering exceptional products that enhance visual experiences and drive business success.</p>
                     <a class="inquery" href="mailto:sales@cinstar-led.com">Get A Quote</a>
                 </div>
             </div>
@@ -380,7 +380,7 @@
                     </div>
                     <div class="series-item">
                         <a href="products/indoor-led-display.php" class="img-box"><img src="images/home-new/product-indoor-led-display-15.webp" alt="product-indoor-led-display-15"/></a>
-                        <p>Cinstar indoor LED video wall panels offer wide pixel pitches and panel designs for your options. Featuring top tier LEDs, high refresh rate driver IC and ultra-sleek panel construction, all our indoor LED video wall panels are the ideal solutions for both rental events and advertisings, ensuring vibrant color, high quality image production and bringing you more happy clients. You deserve a reliable LED display screen manufacturer for your business.</p>
+                        <p>Cinstar indoor LED video wall panels offer wide pixel pitches and panel designs for your options. Featuring top tier LEDs, high refresh rate driver IC and ultra-sleek panel construction, all our indoor LED video wall panels are the ideal solutions for both rental events and advertisings, ensuring vibrant color, high quality image production and bringing you more happy clients. You deserve a reliable LED display manufacturer for your business.</p>
                         <div class="title-box-change">
                             <a href="products/indoor-led-display.php" class="title-border-button">Indoor LED Display Screen</a>
                         </div>
@@ -394,42 +394,42 @@
                     </div>
                     <div class="series-item">
                         <a href="products/rental-led-display-screen.php" class="img-box"><img src="images/home-new/product-rental-led-display-17.webp" alt="product-rental-led-display-17"/></a>
-                        <p>Designed with black LEDs, superb refresh rate(3840Hz) and great grayscale, Cinstar rental LED video wall panels can easily deliver top image quality for all rental events like music festival, concert tour, corporate event, Gala, award ceremony etc. With magnetic module and practical modular design, Cinstar rental LED video wall panels can be built and dismantled quick and easy. Contact us for cost effective rental LED video wall panel solutions.</p>
+                        <p>Designed with black LEDs, superb refresh rate(3840Hz) and great grayscale, Cinstar rental LED video wall panels can easily deliver top image quality for all rental events like music festival, concert tour, corporate event, Gala, award ceremony etc. With magnetic module and practical modular design, Cinstar rental wall panels can be built and dismantled quick and easy. Contact us for cost effective rental wall panel solutions.</p>
                         <div class="title-box-change">
                             <a href="products/rental-led-display-screen.php" class="title-border-button">Rental LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
                         <a href="products/event-led-screen.php" class="img-box"><img src="images/home-new/product-event-led-display-18.jpg" alt="product-event-led-display-18"/></a>
-                        <p>Cinstar has a series of quality rental LED video wall panels for events, church applications and stage rental events etc. To cater to all types of installations, Cinstar rental LED video wall panels can be built with truss suspension, ground/floor stacking or simply wall mounted. If you are looking for a trustworthy LED display screen manufacturer for your rental events, try out Cinstar rental LED video wall panels and our supreme quality services.</p>
+                        <p>Cinstar has a series of quality rental LED video wall panels for events, church applications and stage rental events etc. To cater to all types of installations, Cinstar rental wall panels can be built with truss suspension, ground/floor stacking or simply wall mounted. If you are looking for a trustworthy LED display screen manufacturer for your rental events, try out Cinstar rental wall panels and our supreme quality services.</p>
                         <div class="title-box-change">
                             <a href="products/event-led-screen.php" class="title-border-button">LED Screens for Event</a>
                         </div>
                     </div>
                     <div class="series-item">
                         <a href="products/led-advertising.php" class="img-box"><img src="images/home-new/product-advertising-display-19.jpg" alt="product-advertising-display"/></a>
-                        <p>As a leading reliable LED display screen manufacturer in China, all Cinstar advertising LED video wall panels are developed with top stability and durability to overcome any harsh weather conditions to achieve the 24/7 operations. Cinstar LED video wall panels can be customized to satisfy all kinds of installations and requirements on creative shapes. We aim to be a value-added partner to you and help to expand your business with max support.</p>
+                        <p>As a leading reliable LED display screen manufacturer in China, all Cinstar advertising LED video wall panels are developed with top stability and durability to overcome any harsh weather conditions to achieve the 24/7 operations. Cinstar wall panels can be customized to satisfy all kinds of installations and requirements on creative shapes. We aim to be a value-added partner to you and help to expand your business with max support.</p>
                         <div class="title-box-change">
                             <a href="products/led-advertising.php" class="title-border-button">LED Advertising Display</a>
                         </div>
                     </div>
                     <div class="series-item">
                         <a href="products/3d-led-display-screen.php" class="img-box"><img src="images/home-new/product-3d-led-display-20.jpg" alt="product-3d-led-display-20"/></a>
-                        <p>Would you like your LED display screen to stand out from the crowd and become a remarkable iconic landscape, Cinstar 3D LED video wall panel display is for sure your first choice. No matter you want to get a seamless sharp right angle or truly smooth curve to deliver the most visual impact advertising to get the viewers engaged, Cinstar 3D LED video wall panels screen can reach all your expectations and ensuring you the best 3D LED display.</p>
+                        <p>Would you like your LED display screen to stand out from the crowd and become a remarkable iconic landscape, Cinstar 3D LED video wall panel display is for sure your first choice. No matter you want to get a seamless sharp right angle or truly smooth curve to deliver the most visual impact advertising to get the viewers engaged, Cinstar 3D wall panels screen can reach all your expectations and ensuring you the best 3D LED display.</p>
                         <div class="title-box-change">
                             <a href="products/3d-led-display-screen.php" class="title-border-button">3D LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
                         <a href="products/creative-led-display.php" class="img-box"><img src="images/home-new/product-creative-led-display-21.webp" alt="product-creative-led-display-21"/></a>
-                        <p>Cinstar creative LED video wall panels offer wide options like holographic LED film screen, transparent LED video wall display, flexible LED module and dance floor LED video wall panels etc, to strengthen your competitiveness and stand out from your rivals with creative LED video wall solutions. Serving as the industry leading LED display screen manufacturer, Cinstar will supply you the creative LED video wall panels with best design and quality.</p>
+                        <p>Cinstar creative LED video wall panels offer wide options like holographic LED film screen, transparent wall display, flexible LED module and dance floor wall panels etc, to strengthen your competitiveness and stand out from your rivals with creative wall solutions. Serving as the industry leading LED display screen manufacturer, Cinstar will supply you the creative wall panels with best design and quality.</p>
                         <div class="title-box-change">
                             <a href="products/creative-led-display.php" class="title-border-button">Creative LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
                         <a href="products/custom-led-display.php" class="img-box"><img src="images/home-new/product-custom-led-display-22.jpg" alt="product-custom-led-display-22"/></a>
-                        <p>Cinstar offers OEM & ODM services for any customized LED video wall panel request from our customers. Our custom LED video wall displays can satisfy the very diversified applications like LED cube display, LED sphere screen, digital LED shelf, LED cylindrical display, taxi top LED sign, and LED trumpet display etc. They can working as LED video walls and also the creative decoration to the open space. A great visual solution for creative design.</p>
+                        <p>Cinstar offers OEM & ODM services for any customized LED video wall panel request from our customers. Our custom wall displays can satisfy the very diversified applications like LED cube display, LED sphere screen, digital LED shelf, LED cylindrical display, taxi top LED sign, and LED trumpet display etc. They can working as LED video walls and also the creative decoration to the open space. A great visual solution for creative design.</p>
                         <div class="title-box-change">
                             <a href="products/custom-led-display.php" class="title-border-button">Custom LED Display Screen</a>
                         </div>
@@ -465,7 +465,7 @@
                                 TRUSTWORTHY
                         </div>
                         <div class="content">
-                            Cinstar is committed to be a reliable LED display screen manufacturer by providing quality LED video wall panels and services. We never compete with our customers
+                            Cinstar is committed to be a reliable LED display manufacturer by providing quality LED video wall panels and services. We never compete with our customers
                         </div>
                     </div>
                 </div>
