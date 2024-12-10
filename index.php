@@ -62,7 +62,6 @@
     <link rel="stylesheet" href="css/common-home-240917.css">
     <link rel="stylesheet" href="css/contact-241024.css">
     <link rel="stylesheet" href="css/main-240917.css">
-    <meta name="google-site-verification" content="2FKzXyph5r5iT5qjUrlBVrxJNmFL1OjFylXugJyakps" />
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -93,10 +92,6 @@
     </script>
 </head>
 <body class="page-index">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBDRNKJB"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <?php include('inc/top.php'); ?>   
     <div class="container new-product-container">
         <div class="banner mobile-show">
