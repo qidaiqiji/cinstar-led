@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Pros & Cons of Digital LED Billboard Trucks | Cinstar LED</title>
-    <meta name="description" content="Evaluate the pros and cons of digital LED billboard advertising trucks. Cinstar LED provides insights for advertisers looking to maximize impact." />
+    <meta name="description" content="Evaluate the pros and cons of digital LED billboard advertising trucks. Cinstar LED provides insights for advertisers looking to maximize impact.">
     <meta name="keywords" content="Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?">
 </head>
 <body class="page-index">
@@ -22,7 +22,7 @@
                     <span><i class="fa fa-calendar"></i></span>
                     <span>2022/04/22</span>
                 </div> -->
-                <img src="../images/news/maxresdefault.jpg" class="img-responsive" style="max-width: 100%;" alt="Digital LED Billboard Advertising Truck" />
+                <img src="../images/news/maxresdefault.jpg" class="img-responsive" style="max-width: 100%;" alt="Digital LED Billboard Advertising Truck">
                 <br>
 
                 

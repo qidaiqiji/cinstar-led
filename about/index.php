@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/about-240815.css">
     <title>About Our Global LED Display Solutions | Cinstar LED</title>
-    <meta name="description" content="Learn about Cinstar LED, a global provider of advanced LED display solutions, delivering superior products for outdoor, indoor, and rental applications." />
-    <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer" />
+    <meta name="description" content="Learn about Cinstar LED, a global provider of advanced LED display solutions, delivering superior products for outdoor, indoor, and rental applications.">
+    <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -14,7 +14,7 @@
     <!-- 头部结束 -->
     <div class="container about-container">
         <div class="about-img">
-            <img src="../images/banner_about.jpg" alt="banner"/>
+            <img src="../images/banner_about.jpg" alt="banner">
         </div>
         <div class="about-desc">
             <div class="head-title">
@@ -36,22 +36,22 @@
             </div>
             <div class="imgBox">
                 <div class="img-item">
-                    <img src="../images/about/1 Reception.jpg" alt="Workshop"/>
+                    <img src="../images/about/1 Reception.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/2 Workshop.jpg" alt="Workshop"/>
+                    <img src="../images/about/2 Workshop.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/3 Workshop.jpg" alt="Workshop"/>
+                    <img src="../images/about/3 Workshop.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/4 Machines.jpg" alt="Workshop"/>
+                    <img src="../images/about/4 Machines.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/5 Machines.jpg" alt="Workshop"/>
+                    <img src="../images/about/5 Machines.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/6 Aging.jpg" alt="Workshop"/>
+                    <img src="../images/about/6 Aging.jpg" alt="Workshop">
                 </div>
             </div>
         </div>

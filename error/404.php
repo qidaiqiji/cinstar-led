@@ -17,7 +17,7 @@
         <div class="header">
             <div class="header-inner">
                 <a href="/" class="header-logo">
-                    <img src="/images/logo.png" alt="Cinstar"/>
+                    <img src="/images/logo.png" alt="Cinstar">
                 </a>
                 <div class="header-menu mobile-menu" id="header-menu">
                     <ul class="header-menu-ul">
@@ -187,7 +187,7 @@
     <div class="error">
         <div class="error-content">
             <div class="error-tips">
-                <img src="/images/404-error.webp" alt="page not found" />
+                <img src="/images/404-error.webp" alt="page not found">
                 <p>Page Not Found</p>
             </div>
         </div>
@@ -196,7 +196,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/ch-series.php">
-                        <img src="/images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%" />
+                        <img src="/images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%">
                     </a>
                     <a class="list-title" href="/product-detail/ch-series.php">
                         <span class="current">DVLED COB</span><span class="more">CH Series</span>
@@ -204,7 +204,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/ec-series.php">
-                        <img src="/images/products/Fine-Pitch/EC-series-1.webp" alt="ec-series" style="width: 93%"/>
+                        <img src="/images/products/Fine-Pitch/EC-series-1.webp" alt="ec-series" style="width: 93%">
                     </a>
                     <a class="list-title" href="product-detail/ec-series.php">
                         <span class="current">Fine Pitch LED Display</span><span class="more">EC Series</span>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="product-detail/hd-series.php">
-                        <img src="/images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%"/>
+                        <img src="/images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%">
                     </a>
                     <a class="list-title" href="product-detail/hd-series.php">
                         <span class="current">Direct View LED Video Wall</span><span class="more">HD Series</span>
@@ -220,7 +220,7 @@
                 </div>
                 <div class="product-item">
                     <a class="thumb" href="/product-detail/a-series.php">
-                        <img src="/images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%" />
+                        <img src="/images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%">
                     </a>
                     <a class="list-title" href="/product-detail/a-series.php">
                         <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>

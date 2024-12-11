@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Build High-Value Digital LED Billboard | Cinstar LED</title>
-    <meta name="description" content="Ensure your digital LED billboard delivers high value with these three key tips. Check insights from Cinstar LED for impactful design and placement." />
-    <meta name="keywords" content="LED billboard display, digital LED billboard, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Ensure your digital LED billboard delivers high value with these three key tips. Check insights from Cinstar LED for impactful design and placement.">
+    <meta name="keywords" content="LED billboard display, digital LED billboard, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -23,7 +23,7 @@
                     <span>March 20, 2019</span>
                 </div> -->
                 <div class="img-box">
-                    <img src="../images/blog/blog3-1.jpg" alt="High-Value Added Digital LED Billboard-1"/>
+                    <img src="../images/blog/blog3-1.jpg" alt="High-Value Added Digital LED Billboard-1">
                 </div>
                 <p>
                 Digitalized advertising is now becoming an irresistible trend in the high developed advertising industry, which keeps challenging and squeezing the market share of traditional print billboard advertising.
@@ -35,7 +35,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 1: Prime location</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog3-2.jpg" alt="High-Value Added Digital LED Billboard-2"/>
+                            <img src="../images/blog/blog3-2.jpg" alt="High-Value Added Digital LED Billboard-2">
                         </div>
                         <p>
                         The location where you want to put a LED billboard display has to be a prime one with big crowd or busy traffic. A high quality LED billboard display at such location will definitely get much more attention and easier to attract high-end brand clients for their advertising campaigns.
@@ -53,7 +53,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 3: High quality display content</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog3-3.jpg" alt="High-Value Added Digital LED Billboard-3"/>
+                            <img src="../images/blog/blog3-3.jpg" alt="High-Value Added Digital LED Billboard-3">
                         </div>
                       <p>
                       Different from print billboard (which is installed once for all), digital LED billboard display requires high standard and constant management on its display content. As to most consumers and laymen, the image on the LED billboard is their only standard to judge the quality of the display. So are the sponsors. But what kind of content works better for that?
