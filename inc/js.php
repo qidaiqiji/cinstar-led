@@ -1,6 +1,6 @@
 
 <script src="../utils/jquery-3.2.1.min.js"></script>
-<script type="text/javascript">
+<script>
     document.addEventListener('contextmenu', function (e) {
         e.preventDefault();
     });
@@ -49,7 +49,7 @@
         }   
     }
 </script>
-<script type="text/javascript">
+<script>
     $("#mobile-header").click(function(){
         $(".page-index").toggleClass('menu-open')
     })
@@ -80,7 +80,7 @@
     })
         
 </script>
-<script type="text/javascript">
+<script>
 	function GetCurStyle(controller) {
 		switch (controller.toLowerCase()) {
 			case "home": $("#in0").addClass("menu-active"); break;
@@ -95,7 +95,7 @@
 		}
 	}
 </script>
-<script type="text/javascript">
+<script>
     $(".target").click(function () {
     $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
         return false;
@@ -117,7 +117,7 @@
     messageBoxFixed()
     window.addEventListener('resize', messageBoxFixed);
 </script>
-<script type="text/javascript">
+<script>
     function scrollImg(boxclass, listclass) {
         $('.img-box').mouseover(function() {
     $('.img-box i').css('opacity', 1)

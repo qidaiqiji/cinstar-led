@@ -1,6 +1,4 @@
-<head>
-    <link rel="stylesheet" href="../css/footer-240818.css">
-</head>
+<link rel="stylesheet" href="../css/footer-240818.css">
 <div class="sepreate"></div>
 <div class="footer">
     <div class="footer-container">
@@ -51,7 +49,7 @@
                 </form>
             </div>
         </div>
-<script language="javascript">
+<script>
 function Check()
 {
     if (document.myform.name.value.length==""){

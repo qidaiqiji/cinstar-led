@@ -59,14 +59,14 @@
     
 ?>
  
-<link rel="canonical" href="<?php echo $url; ?>"/> 
+<link rel="canonical" href="<?php echo $url; ?>"> 
 
 <?php
 if($hrefLink != '')
 {
     ?>
-    <link rel="alternate" href="<?php echo $url; ?>" hreflang="en" />
-    <link rel="alternate" href="<?php echo $hrefLink; ?>" hreflang="es" />
+    <link rel="alternate" href="<?php echo $url; ?>" hreflang="en">
+    <link rel="alternate" href="<?php echo $hrefLink; ?>" hreflang="es">
     <?php
 }
 ?>

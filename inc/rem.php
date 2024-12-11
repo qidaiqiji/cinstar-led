@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script>
 // 　　document.documentElement.style.fontSize = document.documentElement.clientWidth / 750*100 + 'px';
     var setFontSize = function(){
         var deviceWidth = document.documentElement.clientWidth;
