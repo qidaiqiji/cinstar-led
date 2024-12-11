@@ -3,7 +3,7 @@
         <div class="header-inner">
             <!-- <h1> -->
                 <a href="../" class="header-logo">
-                    <img src="../images/logo.png" alt="Cinstar"/>
+                    <img src="../images/logo.png" alt="Cinstar">
                 </a>
             <!-- </h1> -->
             <div class="header-menu mobile-menu" id="header-menu">

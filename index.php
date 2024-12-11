@@ -54,8 +54,8 @@
 <head>
     <?php include('inc/meta.php'); ?>
     <?php include('inc/rem.php'); ?>
-    <meta name="description" content="Cinstar LED, a top LED display screen manufacturer, specializes in versatile LED video wall panels perfect for retail, events, and outdoor advertising." />
-    <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen" />  
+    <meta name="description" content="Cinstar LED, a top LED display screen manufacturer, specializes in versatile LED video wall panels perfect for retail, events, and outdoor advertising.">
+    <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen">  
     <title>LED Display Screen Manufacturer | Cinstar LED</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
