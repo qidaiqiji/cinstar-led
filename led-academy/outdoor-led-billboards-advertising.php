@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Billboards and Advertising | Cinstar LED</title>
-    <meta name="description" content="Learn how outdoor LED billboards are revolutionizing advertising with data-driven strategies. Stay ahead of the curve with Cinstar LED's blog." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Learn how outdoor LED billboards are revolutionizing advertising with data-driven strategies. Stay ahead of the curve with Cinstar LED's blog.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -21,7 +21,7 @@
                 </div> -->
                 <p>The advertising world is evolving, and advertisers use new tools and techniques to stay competitive. Outdoor LED billboards are setting the standards and changing this scene. Technology advancements are replacing conventional static billboards with high-visibility <a href="https://cinstar-led.com/products/digital-led-billboard.php"><b>LED billboard</b></a> advertising. LED display billboards' flexibility, vibrancy and cost-effectiveness are changing how businesses communicate with their customers. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-digital-led.webp" alt="digital led billboard" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-digital-led.webp" alt="digital led billboard"></a>
                 </div>
                 <p>Let's investigate the critical trends pushing the advancement of <a href="https://cinstar-led.com/products/digital-led-billboard.php"><b>LED display billboards</b></a> and how they're shaping the destiny of advertising.</p>
                 <h2 style="font-size: 20px;font-weight: bold;">⦁	Dynamic, Real-Time Content with targeted advertising</h2>

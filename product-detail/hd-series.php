@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>HD LED Display | Cinstar-led, LED Video Wall Display, 4K LED Screen Wall</title>
-    <meta name="description" content="Cinstar HD series offers the finest HD LED display suitable for the most demanding applications where a 2K or 4K LED screen wall is a need in a fixed installation environment. Need a high quality LED video wall display for your project? Cinstar has what you need!" />
-    <meta name="keywords" content="hd LED display, LED video wall display, 4K LED screen wall, UHD LED video screen, large-format LED signage, mobile LED TV, 1.56mm LED display, 1.2mm LED screen panel" />
+    <meta name="description" content="Cinstar HD series offers the finest HD LED display suitable for the most demanding applications where a 2K or 4K LED screen wall is a need in a fixed installation environment. Need a high quality LED video wall display for your project? Cinstar has what you need!">
+    <meta name="keywords" content="hd LED display, LED video wall display, 4K LED screen wall, UHD LED video screen, large-format LED signage, mobile LED TV, 1.56mm LED display, 1.2mm LED screen panel">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -73,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img" style="width: 47%">
-                <img src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES"/>
+                <img src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES"/>
+                    <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra High Definition LED Video Display</h2>
@@ -89,7 +89,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Versatile Installation Solutions</h2>
@@ -98,13 +98,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-3.jpg" style="width: 90%" alt="HD SERIES"/>
+                    <img src="../images/products/Fine-Pitch/HD-SERIES-3.jpg" style="width: 90%" alt="HD SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-4.jpg" style="width: 100%" alt="HD SERIES"/>
+                    <img src="../images/products/Fine-Pitch/HD-SERIES-4.jpg" style="width: 100%" alt="HD SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
@@ -113,7 +113,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Exceptional Visual Experience</h2>
@@ -122,7 +122,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES4.jpg" style="width: 90%" class="special" alt="HD SERIES"/>
+                    <img src="../images/products/Fine-Pitch/HD-SERIES4.jpg" style="width: 90%" class="special" alt="HD SERIES">
                 </div>
             </div>
         </div>
@@ -178,13 +178,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fine/1-fine-pitch-case.jpg" alt="ESPN Conference Room HD1.56"/>
+                    <img src="../images/fine/1-fine-pitch-case.jpg" alt="ESPN Conference Room HD1.56">
                     <a class="case-title">
                         <span class="current">ESPN Conference Room HD1.56 LED Screen Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fine/4-fine-pitch-case.jpg" alt="US ESB Lobby HD1.56"/>
+                    <img src="../images/fine/4-fine-pitch-case.jpg" alt="US ESB Lobby HD1.56">
                     <a class="case-title">
                         <span class="current">US ESB Lobby HD1.56 LED Screen Display</span>
                     </a>
@@ -567,7 +567,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

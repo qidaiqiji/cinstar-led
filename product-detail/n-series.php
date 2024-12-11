@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Indoor LED display Screen | Led Video Display Screen Wall</title>
-    <meta name="description" content="We offer Indoor LED display Screen, Led Video Display Screen Wall, LED Billboard Advertising, Led Display Signs for Church. Contact us Now." />
-    <meta name="keywords" content="rental LED display, indoor rental LED display, p3.9 LED display, Indoor stage rental, rental LED panel, rental LED tiles, rental LED module, Rental events LED display board" />
+    <meta name="description" content="We offer Indoor LED display Screen, Led Video Display Screen Wall, LED Billboard Advertising, Led Display Signs for Church. Contact us Now.">
+    <meta name="keywords" content="rental LED display, indoor rental LED display, p3.9 LED display, Indoor stage rental, rental LED panel, rental LED tiles, rental LED module, Rental events LED display board">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -74,13 +74,13 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Rental-LED/n-series.webp" alt="n-SERIES"/>
+                <img src="../images/products/Rental-LED/n-series.webp" alt="n-SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Rental-LED/LM-Case-Show.webp" alt="n-Case-Show"/>
+                <img src="../images/products/Rental-LED/LM-Case-Show.webp" alt="n-Case-Show">
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">Quick And Easy LED Displays</h2>
@@ -143,13 +143,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/rental/3-rental-case.jpg" alt="N SERIES"/>
+                    <img src="../images/rental/3-rental-case.jpg" alt="N SERIES">
                     <a class="case-title">
                         <span class="current">India Conference Room N3.9 LED Video Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/rental/4-rental-case.jpg" alt="N SERIES"/>
+                    <img src="../images/rental/4-rental-case.jpg" alt="N SERIES">
                     <a class="case-title">
                         <span class="current">UK Dale Farm's AGM N2.6 LED Video Display</span>
                     </a>
@@ -536,7 +536,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

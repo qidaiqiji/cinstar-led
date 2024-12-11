@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Picking the Right LED Display Manufacturer | Cinstar LED</title>
-    <meta name="description" content="Learn what to look for in an LED display manufacturer with Cinstar LED. Focus on quality, certifications, and industry expertise for long-lasting results." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Learn what to look for in an LED display manufacturer with Cinstar LED. Focus on quality, certifications, and industry expertise for long-lasting results.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -21,7 +21,7 @@
                 </div> -->
                 <p>Selecting the right <a href="https://www.cinstar-led.com/"><b>LED display manufacturer</b></a> is essential for guaranteeing that your asset in <b>LED video wall panels</b> delivers the performance, longevity, and visual effect your business demands. With so many alternatives on the market, finding a dedicated manufacturer that provides high-quality exhibits can take time and action. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-LED-Display-Manufacturer.webp" alt="LED screen manufacturer" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-LED-Display-Manufacturer.webp" alt="LED screen manufacturer"></a>
                 </div>
                 <p>Here's why quality matters and what you should look for in an <b>LED screen manufacturer</b>.</p>
                 <h2 style="font-size: 20px;font-weight: bold;">⦁	Product Quality and Durability</h2>

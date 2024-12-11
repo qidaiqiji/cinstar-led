@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Digital LED Billboard | LED Advertising | Cinstar LED</title>
-    <meta name="description" content="Transform your advertising with Cinstar's high-quality outdoor digital LED billboards, designed for maximum impact." />
-    <meta name="keywords" content="led billboard, digital led billboard, led display billboard, outdoor led billboard, led billboard for advertising, led billboard screen, led billboard display, led display billboard, outdoor advertising billboard" />  
+    <meta name="description" content="Transform your advertising with Cinstar's high-quality outdoor digital LED billboards, designed for maximum impact.">
+    <meta name="keywords" content="led billboard, digital led billboard, led display billboard, outdoor led billboard, led billboard for advertising, led billboard screen, led billboard display, led display billboard, outdoor advertising billboard">  
 
 <script type="application/ld+json">
 {
@@ -68,7 +68,7 @@
     <div class="new-product-container">
         <!-- 导航开始 -->
         <div class="product-banner">
-            <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-1.jpg" alt="digital led billboard-1"/>
+            <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-1.jpg" alt="digital led billboard-1">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>Digital LED Billboard</p>
@@ -90,7 +90,7 @@
                 <h2>Cinstar LED Display Billboard Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 85%"  src="../images/products/Commercial-LED/X-series-1.webp" alt="X-Series-1" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 85%"  src="../images/products/Commercial-LED/X-series-1.webp" alt="X-Series-1"></a>
                         <div class="title-box-change">
                             <h3>Outdoor Digital LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -99,7 +99,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%" src="../images/products/Commercial-LED/Innox-1.png" alt="Innox-1" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%" src="../images/products/Commercial-LED/Innox-1.png" alt="Innox-1"></a>
                         <div class="title-box-change">
                             <h3>Indoor LED Billboard Advertising</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -108,7 +108,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC-SERIES.jpg" alt="MC Series" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%" src="../images/home/MC-SERIES.jpg" alt="MC Series"></a>
                         <div class="title-box-change">
                             <h3>Curtain LED Display Billboard</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -117,7 +117,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2-1" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2-1"></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Billboard</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -126,7 +126,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%" src="../images/home/FT-SERIES.webp" alt="FT Series" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%" src="../images/home/FT-SERIES.webp" alt="FT Series"></a>
                         <div class="title-box-change">
                             <h3>Outdoor LED Billboard Advertising</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -135,7 +135,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ts-series.php"><img style="width: 46%" src="../images/home/TS-Series.webp" alt="TS Series" /></a>
+                        <a class="img-box" href="../product-detail/ts-series.php"><img style="width: 46%" src="../images/home/TS-Series.webp" alt="TS Series"></a>
                         <div class="title-box-change">
                             <h3>Transparent LED Display Billboard</h3>
                             <a class="title-border-button" href="../product-detail/ts-series.php">TS Series Product</a>
@@ -147,7 +147,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="contact" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
@@ -220,7 +220,7 @@
             <div class="content application-list">
                 <h2>Why Choose Cinstar Outdoor LED Billboard</h2>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg" alt="Digital LED Billboard-2" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-2.jpg" alt="Digital LED Billboard-2"></div>
                     <div class="application-right">
                         <h3 class="title">Cost Effective Digital LED Billboard</h3>
                         <p>Cinstar LED billboards offer a highly favorable return on investment. Indeed, they maintain a tremendously extended existence. Instead of implementing conventional painting techniques for billboards, you may go for cutting-edge technology to ensure that your advertisements remain vivid, easily seen, and durable throughout time.</p>
@@ -230,7 +230,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-3.jpg" alt="Digital LED Billboard-3" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-3.jpg" alt="Digital LED Billboard-3"></div>
                     <div class="application-right">
                         <h3 class="title">LED Digital Signage Billboard </h3>
                         <p>Cinstar specializes in manufacturing digital signage systems for all types of LED digital billboards. These displays are capable of playing intriguing content and performing concurrent tasks efficiently.</p>
@@ -240,7 +240,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-4.jpg" alt="Digital LED Billboard-4" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-4.jpg" alt="Digital LED Billboard-4"></div>
                     <div class="application-right">
                         <h3 class="title">Affordable Outdoor LED Billboard </h3>
                         <p>Rest assured, there's no need to manually update the content on your signs. Digital LED billboards designed with advanced digital technology can help you save both money and time. In addition to the convenience of digital platforms, you can also enjoy cost savings by eliminating the printing. Billboards offer a wide range of possibilities for creating promoting information and motivating messages.</p>
@@ -249,7 +249,7 @@
                     </div>
                 </div>
                 <div class="application-item">
-                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-5.jpg" alt="Digital LED Billboard-5" /></div>
+                    <div class="application-img-spec"><img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-5.jpg" alt="Digital LED Billboard-5"></div>
                     <div class="application-right">
                         <h3 class="title">Customized LED Billboard Advertising</h3>
                         <p>Our LED billboard advertising is well-designed and developed with great attention to details. The outdoor billboards endure a thorough manufacturing procedure, adhering to international standards and performing strict quality controls. Besides, it includes state-of-the-art software technology, skilled installation guidance, and ongoing customer support and service.</p>
@@ -264,7 +264,7 @@
                 <h2>Purchasing Guide for Digital LED Billboard</h2>
                 <p>In today's fast-paced world of information contributing, traditional outdoor advertising technology is no longer able to meet the high-efficiency transmission needs of businesses, and its effectiveness falls short of capturing audiences' attention. In order to facilitate this effective spread, an innovative advertising medium needs to emerge - digital LED billboards. When it comes to promoting your brand, digital billboards are the top options. This outdoor billboard has quickly gained popularity among advertisers. This technology has the ability to showcase dynamic campaigns, update advertising content in real-time, and operate continuously, whenever you want. Advertisers will strategically place it in areas with high traffic. Capture the interest of everyone around you. LED Digital billboards truly shine as top-notch outdoor advertising products. It's a common sight in bustling streets, shopping malls, and other high-traffic areas, where the most popular advertisements are constantly on display.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-6.jpg" alt="Digital LED Billboard-6" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-6.jpg" alt="Digital LED Billboard-6">
                 </div>
                 <div class="chapter-box">
                     <ul>
@@ -307,7 +307,7 @@
                 <p>An outdoor billboard is a permanent fixture located in an outdoor setting that is capable of displaying dynamic advertisements. It is commonly utilized in the commercial advertising field. It is primarily implemented in shopping malls, pedestrian streets, banks, and shopping complexes that experience high volumes of passersby. </p>
                 <p>What is more, there are many advantages associated with the use of outdoor LED displays, which we shall elaborate on in the subsequent text.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-7.jpg" alt="Digital LED Billboard-7" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-7.jpg" alt="Digital LED Billboard-7">
                 </div>
                 <h3 class="chapter-title" id="chapter2">Chapter 2  The Advantages of Outdoor LED Billboard</h3>
                 <p>When selecting a digital LED billboard, it is important to assess the longevity of the advantages that may be derived from this LED advertising display. At least, we shall select superior raw materials.</p>
@@ -316,7 +316,7 @@
                 <p><b>Excellent Heat dissipation LED Billboard</b></p>
                 <p>Cinstar outdoor LED billboard advertising has very low power consumption and heat generation, making it energy-efficient and environmentally friendly. It also features a premium thermal design, ensuring a long lifespan. If you need a reliable digital billboard for your advertising business, Cinstar is for sure the best choice for you.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-8.jpg" alt="Digital LED Billboard-8" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-8.jpg" alt="Digital LED Billboard-8">
                 </div>
                 <p><b>Top Stability LED Billboard</b></p>
                 <p>We obtain a comprehensive selection of premium lamp beads and chips to ensure optimal stability of our LED billboard, starting from the raw materials. Cinstar digital billboard is designed with top stability and is qualified to maintain at least 5-10 years of operation, which will greatly maximize your ROI.</p>
@@ -325,21 +325,21 @@
                 <p><b>High Brightness LED Billboard</b></p>
                 <p>By applying large size LED chip with high illumination, Cinstar outdoor LED digital Billboard can easily achieve the ultra-high brightness of 10000nits per square meter, ensuring excellent and vivid video performance even in direct sunlight. What more important is that the billboard can show vibrant advertisements and is visible to more passerbys. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-9.jpg" alt="Digital LED Billboard-9" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-9.jpg" alt="Digital LED Billboard-9">
                 </div>
                 <h3 class="chapter-title" id="chapter3">Chapter 3  Installations of LED Display Billboard</h3>
                 <p>Essentially, there are three different methods to accomplish this, depending on the specific application of the LED billboard. The LED display billboard can be installed using various methods, such as hanging, wall mount, or standing on the floor or other LED display installation options. If you come across alternative ways of installing it, there's no need to be concerned. They are simply variations of these three primary methods. This is how they are done.</p>
                 <p><b>Hanging LED Billboard</b></p>
                 <p>When it comes to hanging installation, it's important to consider the weight of the LED billboard while selecting a suitable location for it. It is crucial also to ensure that the digital billboard you plan to use is capable of being suspended. The LED display billboard with this feature often include locks to securely hold all the cabinets. In addition, it is necessary to take into consideration the wind force when installing the billboard outdoors or in a semi-outdoor location, as this is vital for safety purposes.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-10.jpg" alt="Digital LED Billboard-10" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-10.jpg" alt="Digital LED Billboard-10">
                 </div>
                 <p><b>Wall Mounted LED Billboard</b></p>
                 <p>Wall mount installations are relatively easy, the installation frame has to be bolted onto the wall firmly. This mounting method is used extensively for both indoor and outdoor LED billboard. The frame is designed to tightly secure the billboard screen, simply use the wall mount slot and wall mount locks provided on the frame. Before proceeding, it's important to keep in mind that the combined weight of the billboard and frame should not exceed the maximum weight limit that the wall can support. It is advisable to avoid mounting the billboard sign on a thin structure.</p>
                 <p><b>Pole Installation LED Billboard</b></p>
                 <p>This is an easy method for mounting the LED billboard. There are two methods you can accomplish this task. You have the option to choose between a unipolar style or a double-column style. If you choose the unipolar style, the screen's size must typically be smaller than 30 square meters. As stated by the name, a single pole is sufficient to support the screen. The double-column design has a maximum capacity of around 100 square meters of the billboard. The poles will be equipped with frames to securely fasten the billboard. For this type of installation, if you are green hand to this, we advise you to engage the services of experts. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-11.jpg" alt="Digital LED Billboard-11" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-11.jpg" alt="Digital LED Billboard-11">
                 </div>
                 <h3 class="chapter-title" id="chapter4">Chapter 4  How to Control LED Billboard?</h3>
                 <p><b>Synchronous Controlling</b></p>
@@ -351,7 +351,7 @@
                 <p>This configuration is optimal. In cases where the control computer is located at a significant distance from the digital billboard or if the installation situation is not conducive to wiring or cabling.</p>
                 <p>Typically, the asynchronous controlling is employed for billboard displays at shop entrances, small LED signage, totem billboard displays or outdoor LED advertising.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-12.jpg" alt="Digital LED Billboard-12" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-12.jpg" alt="Digital LED Billboard-12">
                 </div>
                 <h3 class="chapter-title" id="chapter5">Chapter 5  How to Install Outdoor Digital LED Billboard</h3>
                 <p>After purchasing an outdoor digital LED billboard from your favored LED display manufacturer, the next thing you need to think about is how to install it. If you are a veteran for billboard, it won't be a problem. But if you are a green hand, you may need to take a look at this part, which is helpful for you to install the digital billboard.</p>
@@ -360,7 +360,7 @@
                 <p>If you lack industry expertise or can't find out any of them, we can suggest our partner companies that can assist you with the installation of your outdoor billboard. </p>
                 <p>Simply make contact with us, if you need any support from us.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-13.jpg" alt="Digital LED Billboard-13" />
+                    <img src="../images/products/new-page/digital-led-billboard/digital-led-billboard-13.jpg" alt="Digital LED Billboard-13">
                 </div>
                 <p><b>Software Usage & Screen Operation</b></p>
                 <p>We are pleased to share with you that we offer online remote technical assistance and can provide guidance on operating the outdoor digital LED billboard. </p>

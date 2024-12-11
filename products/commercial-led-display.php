@@ -7,14 +7,14 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Commercial LED Displays for Advertising | Cinstar LED</title>
-    <meta name="description" content="Versatile commercial LED displays by Cinstar LED are perfect for any environment. Discover how our displays can enhance your marketing efforts!" />
-    <meta name="keywords" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight." />  
+    <meta name="description" content="Versatile commercial LED displays by Cinstar LED are perfect for any environment. Discover how our displays can enhance your marketing efforts!">
+    <meta name="keywords" content="Outdoor LED Display Screen captivate your audience with vibrant visuals and dynamic displays that can be seen even in bright daylight.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Commercial-LED/banner.jpg" alt="rental-led"/>
+            <img src="../images/products/Commercial-LED/banner.jpg" alt="rental-led">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Commercial LED Display</h1>
@@ -26,7 +26,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/x-series.php">
-                        <img src="../images/products/Commercial-LED/X-series-1.webp" alt="X SERIES" style="width: 80%"/>
+                        <img src="../images/products/Commercial-LED/X-series-1.webp" alt="X SERIES" style="width: 80%">
                         <div class="spec-detail">
                             <h2 class="series-title">X SERIES</h2>
                             <p>Pixel Pitch (mm): 3.9 / 4.8 / 6.25 / 7.8 / 10.4</p>
@@ -48,7 +48,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ma-series.php">
-                        <img src="../images/products/Commercial-LED/MA-series-1.jpg" alt="MA SERIES" style="width: 90%" />
+                        <img src="../images/products/Commercial-LED/MA-series-1.jpg" alt="MA SERIES" style="width: 90%">
                         <div class="spec-detail">
                             <h2 class="series-title">MA SERIES</h2>
                             <p>Pixel Pitch (mm): 4 / 5 / 6.67 / 8 / 10</p>
@@ -70,7 +70,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/innox-series.php">
-                        <img src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES"/>
+                        <img src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">INNOX SERIES</h2>
                             <p>Pixel Pitch (mm): 1.9 / 2.6 / 3.1 / 3.9 / 4.8</p>
@@ -93,7 +93,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/mc-series.php">
-                        <img src="../images/products/Commercial-LED/MC.jpg" alt="MC SERIES"/>
+                        <img src="../images/products/Commercial-LED/MC.jpg" alt="MC SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">MC SERIES</h2>
                             <p>Pixel Pitch (mm): 7.81 / 15.625 / 31.25</p>
@@ -116,7 +116,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT-SERIES.webp" alt="FT SERIES"/>
+                        <img src="../images/home/FT-SERIES.webp" alt="FT SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">FT SERIES</h2>
                             <p>Pixel Pitch (mm): 4.81 / 5.95 / 6.67 / 8 / 10</p>
@@ -139,7 +139,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/st-series.php">
-                        <img src="../images/products/Commercial-LED/ST-series-1.jpg" alt="ST SERIES"/>
+                        <img src="../images/products/Commercial-LED/ST-series-1.jpg" alt="ST SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">ST SERIES</h2>
                             <p>Pixel Pitch (mm): 4 / 5 / 6 / 8 / 10</p>
@@ -159,7 +159,7 @@
                 </div>
             </div>
         </div>
-        <hr class="under-line"/>
+        <hr class="under-line">
         <!-- 产品参数结束 -->
         <div class="content-container">
             <div class="content">

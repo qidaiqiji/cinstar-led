@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rental LED Screens vs. Purchasing | Cinstar LED</title>
-    <meta name="description" content="Analyze the pros and cons of renting versus purchasing LED screens to determine the best fit for your business objectives and budget with Cinstar LED." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Analyze the pros and cons of renting versus purchasing LED screens to determine the best fit for your business objectives and budget with Cinstar LED.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -22,7 +22,7 @@
                 <p>Enterprises depend heavily on vibrant graphic content to entertain their audience, elevate their brand, and improve customer experiences. LED screens, acknowledged for their radiant, precise, and customizable exhibits, have evolved into a go-to answer for many businesses. </p>
                 <p>Yet, when attaining these practical tools, businesses often determine: Should we lease or <b>purchase LED screens</b>?</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-screen.webp" alt="rental led screen" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-screen.webp" alt="rental led screen"></a>
                 </div>
                 <p>Both renting and buying LED displays benefit, but the correct option depends on your company's requirements. Let's discuss the benefits of purchasing and <a href="https://cinstar-led.com/products/rental-led-display-screen.php">rental LED display screens</a> to help you determine which option is best for you.</p>
                 <ul class="list">

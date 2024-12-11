@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Direct View LED Wall | LED Video Wall Panels | Fine Pitch LED Display | Cinstar LED</title>
-    <meta name="description" content="Cinstar CH series high profile COB direct view LED video wall panels can deliver the most impact visual experience and top durability. The best fine pitch LED display screen solution for high profile installations like TV studio, conference room, control room and home cinema etc." />
-    <meta name="keywords" content="direct view LED, direct view led wall, direct view led video wall, led video wall panel, fine pitch led display, fine pitch led screen, narrow pixel pitch led display, led display screen, indoor led display" />
+    <meta name="description" content="Cinstar CH series high profile COB direct view LED video wall panels can deliver the most impact visual experience and top durability. The best fine pitch LED display screen solution for high profile installations like TV studio, conference room, control room and home cinema etc.">
+    <meta name="keywords" content="direct view LED, direct view led wall, direct view led video wall, led video wall panel, fine pitch led display, fine pitch led screen, narrow pixel pitch led display, led display screen, indoor led display">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -73,94 +73,94 @@
                 </div>
             </div>
             <div class="product-img hd-img" style="width: 47%">
-                <img src="../images/products/Fine-Pitch/CH-series-1.webp" alt="CH SERIES"/>
+                <img src="../images/products/Fine-Pitch/CH-series-1.webp" alt="CH SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail img-big">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-2.jpg" style="width: 100%" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-2.jpg" style="width: 100%" alt="CH SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Extraordinary Contrast Ratio</h2>
                     <p>Featuring with deep black coating technology, Cinstar high profile COB CH series direct view LED video wall panels are capable of presenting stunning contrast ratio of 10000:1 to maintain the best image reproduction and extraordinary visual experience. </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">COB Technology For Top Durability</h2>
                     <p>Comparing with conventional SMD, the flip chip COB direct view LED video wall panels are greatly upgraded to deliver the 360° all-around protection against the external impacts like moisture-resistant, dust-resistant, anti-collision and anti-oxidation etc, ensuring the LED video wall long-lasting operation.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-3.jpg" style="width: 100%" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-3.jpg" style="width: 100%" alt="CH SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-4.jpg" style="width: 100%" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-4.jpg" style="width: 100%" alt="CH SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra High Definition LED Video Wall Solution</h2>
                     <p>Cinstar CH series direct view LED video wall panels offer versatile solutions for direct-view video signage applications where a narrow pixel pitch LED video wall is needed for HD installation scenarios like TV broadcasting studios, conference room, board room, home cinema etc. Pixel pith available from 0.62mm to 1.87mm.</p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="desc-part half">
                     <h2 class="title">Wide Color Gamut & HDR Enabled</h2>
                     <p>Cinstar CH COB direct view LED video wall panel features wide color gamut, better color saturation than SMD, which making sure wide color coverage, precise reproduction of true colors and resulting the more realistic image display. HDR10 technology is available for ultimately detailed image(optional).</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-5.jpg" style="width: 100%" class="special" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-5.jpg" style="width: 100%" class="special" alt="CH SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-6.jpg" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-6.jpg" alt="CH SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
                     <p>Cinstar CH series direct view LED video wall panels apply innovative invisible built-in cable connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and lower failure rate.</p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="desc-part half">
                     <h2 class="title">Versatile Installation Solutions</h2>
                     <p>Cinstar CH series direct view LED video wall panel size can be tailored for specific project requirements. It optimizes all the possible installations including wall mounting, right angle setup, all-in-one LED wall, suspension or floor standing etc. One product can meet all your applications.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-7.jpg" style="width: 100%" class="special" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-7.jpg" style="width: 100%" class="special" alt="CH SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-8.jpg" style="width: 100%" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-8.jpg" style="width: 100%" alt="CH SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Data & Power Dual Backup Optional</h2>
                     <p>Cinstar CH series direct view LED video wall panels could be customized to dual back-up for special applications like television broadcast studio, control room, transportation hub and command center etc, providing the uninterrupted power and signal, assuring you the peace of mind.</p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="desc-part half">
                     <h2 class="title">Front Installation & Front Maintenance</h2>
                     <p>Cinstar CH series direct view  LED video wall can be installed and maintained from front to ultimately save the space at rear side when for wall mounted installation. The hot swappable module makes the maintenance work extremely easy to be performed. A layman can do it well!</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-9.jpg" style="width: 100%" class="special" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-9.jpg" style="width: 100%" class="special" alt="CH SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail lower">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/CH-series-10.jpg" alt="CH SERIES"/>
+                    <img src="../images/products/Fine-Pitch/CH-series-10.jpg" alt="CH SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Exceptional Visual Performance & Enjoyment</h2>
@@ -220,13 +220,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fine/Cinstar-CH0.9-Home-Cinema-LED-Video-Wall.jpg" alt="Cinstar EC1.2 Board Room LED Wall6"/>
+                    <img src="../images/fine/Cinstar-CH0.9-Home-Cinema-LED-Video-Wall.jpg" alt="Cinstar EC1.2 Board Room LED Wall6">
                     <a class="case-title">
                         <span class="current">Cinstar CH0.9 Home Cinema LED Video Wall</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fine/Cinstar-CH1.2-Lobby-LED-Video-Wall.jpg" alt="Cinstar EC1.2 Conference Room LED Wall"/>
+                    <img src="../images/fine/Cinstar-CH1.2-Lobby-LED-Video-Wall.jpg" alt="Cinstar EC1.2 Conference Room LED Wall">
                     <a class="case-title">
                         <span class="current">Cinstar CH1.2 Lobby LED Video Wall</span>
                     </a>
@@ -609,7 +609,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

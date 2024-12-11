@@ -7,14 +7,14 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Stage LED screens, Stage led display | Cinstar-led</title>
-    <meta name="description" content="Cinstar brings the best led solutions in the form of LED Display Board for wide range of applications. We have best collection of led display signs that are perfect for digital advertising for any business." />
-    <meta name="keywords" content="creative LED display, transparent LED display, poster LED display, Cinstar-led, LED digital sinage, flexible LED screen wall, transparent LED wall, programmable LED display" />  
+    <meta name="description" content="Cinstar brings the best led solutions in the form of LED Display Board for wide range of applications. We have best collection of led display signs that are perfect for digital advertising for any business.">
+    <meta name="keywords" content="creative LED display, transparent LED display, poster LED display, Cinstar-led, LED digital sinage, flexible LED screen wall, transparent LED wall, programmable LED display">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Creative-LED/banner.jpg" alt="rental-led"/>
+            <img src="../images/products/Creative-LED/banner.jpg" alt="rental-led">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Creative LED Display</h1>
@@ -29,7 +29,7 @@
                 </div>
                 <div class="product-img img-bigger">
                     <a href="../product-detail/tf-series.php">
-                        <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series"/>
+                        <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series">
                         <div class="spec-detail">
                             <h2 class="series-title">TF Series</h2>
                             <p>Pixel Pitch (mm): 4 / 6 / 8  / 10 / 16</p>
@@ -54,7 +54,7 @@
                 </div>
                 <div class="product-img img-bigger">
                     <a href="../product-detail/fl-series.php">
-                        <img src="../images/products/Commercial-LED/FL-series-1.jpg" alt="FL-series"/>
+                        <img src="../images/products/Commercial-LED/FL-series-1.jpg" alt="FL-series">
                         <div class="spec-detail">
                             <h2 class="series-title">FL Series</h2>
                             <p>Pixel Pitch (mm): 2 / 2.5 / 3  / 4 / 5</p>
@@ -79,7 +79,7 @@
                 </div>
                 <div class="product-img img-bigger">
                     <a href="../product-detail/d-series.php">
-                        <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D-series" style="width: 70%"/>
+                        <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D-series" style="width: 70%">
                         <div class="spec-detail">
                             <h2 class="series-title">D Series</h2>
                             <p>Pixel Pitch (mm): 2.9 / 3.9 / 4.8  / 5.2 / 6.25</p>
@@ -102,7 +102,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/tr-series.php">
-                        <img src="../images/products/Creative-LED/TR-SERIES.jpg" alt="TR SERIES" style="width: 70%"/>
+                        <img src="../images/products/Creative-LED/TR-SERIES.jpg" alt="TR SERIES" style="width: 70%">
                         <div class="spec-detail">
                             <h2 class="series-title">TR SERIES</h2>
                             <p>Pixel Pitch (mm): 3.91 / 6.25 / 7.82</p>
@@ -123,7 +123,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ts-series.php">
-                        <img src="../images/products/Creative-LED/TS-Series.jpg" alt="TS SERIES" style="width: 60%"/>
+                        <img src="../images/products/Creative-LED/TS-Series.jpg" alt="TS SERIES" style="width: 60%">
                         <div class="spec-detail">
                             <h2 class="series-title">TS SERIES</h2>
                             <p>Pixel Pitch (mm): 2.8 / 3.9 / 7.8 / 10.4 / 15.6</p>
@@ -144,7 +144,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.webp" alt="Xposter" style="width: 55%"/>
+                        <img src="../images/home/Xposter.webp" alt="Xposter" style="width: 55%">
                         <div class="spec-detail">
                             <h2 class="series-title">XPOSTER</h2>
                             <p>Pixel Pitch (mm): 1.8 / 2.5</p>
@@ -163,7 +163,7 @@
                 </div>
             </div>
          </div>
-         <hr class="under-line"/>
+         <hr class="under-line">
         <!-- 产品参数结束 -->
         <div class="content-container">
             <div class="content">

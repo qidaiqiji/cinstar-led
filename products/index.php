@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-240818.css">
     <title>High-Quality LED Display Products | Cinstar LED</title>
-    <meta name="description" content="Explore Cinstar LED's wide range of LED display solutions for indoor, outdoor, and rental applications. Built for high-quality performance and durability." />
-    <meta name="keywords" content="rental LED display, commercial LED display, creative LED display, creative LED screen display, LED display, LED screen, LED screen board, LED wall screen, LED digital screen, LED digital display" />
+    <meta name="description" content="Explore Cinstar LED's wide range of LED display solutions for indoor, outdoor, and rental applications. Built for high-quality performance and durability.">
+    <meta name="keywords" content="rental LED display, commercial LED display, creative LED display, creative LED screen display, LED display, LED screen, LED screen board, LED wall screen, LED digital screen, LED digital display">
 
 <script type="application/ld+json">
 {
@@ -31,7 +31,7 @@
     <!-- 头部结束 -->
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/product-home/products-banner.jpg" alt="commercial"/>
+            <img src="../images/products/product-home/products-banner.jpg" alt="commercial">
         </div>
         <div class="sort-box">
             <div class="head-title">
@@ -40,7 +40,7 @@
             <div class="sort-list">
                 <div class="sort-item">
                     <div class="sort-img">
-                        <a href="../products/custom-led-display.php"><img src="../images/products/product-home/products-custom.jpeg" alt="Custom LED Display" /></a>
+                        <a href="../products/custom-led-display.php"><img src="../images/products/product-home/products-custom.jpeg" alt="Custom LED Display"></a>
                     </div>
                     <div class="sort-detail">
                         <div class="sub-title">
@@ -52,10 +52,10 @@
                         </div>
                     </div>
                 </div>
-                <hr class="under-line"/>
+                <hr class="under-line">
                 <div class="sort-item">
                     <div class="sort-img">
-                        <a href="../products/rental-led-display-screen.php"><img src="../images/products/product-home/products-rental.jpg" alt="Rental LED Display"/></a>
+                        <a href="../products/rental-led-display-screen.php"><img src="../images/products/product-home/products-rental.jpg" alt="Rental LED Display"></a>
                     </div>
                     <div class="sort-detail">
                         <div class="sub-title">
@@ -67,10 +67,10 @@
                         </div>
                     </div>
                 </div>
-                <hr class="under-line"/>
+                <hr class="under-line">
                 <div class="sort-item">
                     <div class="sort-img">
-                        <a href="../products/fine-pitch-led-display.php"> <img src="../images/products/product-home/products-fine-pitch.jpg" alt="Fine Pitch LED Display"/></a>
+                        <a href="../products/fine-pitch-led-display.php"> <img src="../images/products/product-home/products-fine-pitch.jpg" alt="Fine Pitch LED Display"></a>
                     </div>
                     <div class="sort-detail">
                         <div class="sub-title">
@@ -84,10 +84,10 @@
                         </div>
                     </div>
                 </div>
-                <hr class="under-line"/>
+                <hr class="under-line">
                 <div class="sort-item">
                     <div class="sort-img">
-                        <a href="../products/creative-led-display.php"><img src="../images/products/product-home/products-creative.jpg" alt="Creative LED Display"/></a>
+                        <a href="../products/creative-led-display.php"><img src="../images/products/product-home/products-creative.jpg" alt="Creative LED Display"></a>
                     </div>
                     <div class="sort-detail">
                         <div class="sub-title">
@@ -101,10 +101,10 @@
                         </div>
                     </div>
                 </div>
-                <hr class="under-line"/>
+                <hr class="under-line">
                 <div class="sort-item">
                     <div class="sort-img">
-                        <a href="../products/commercial-led-display.php"><img src="../images/products/product-home/products-commercial.jpg" alt="Commercial LED Display"/></a>
+                        <a href="../products/commercial-led-display.php"><img src="../images/products/product-home/products-commercial.jpg" alt="Commercial LED Display"></a>
                     </div>
                     <div class="sort-detail">
                         <div class="sub-title">

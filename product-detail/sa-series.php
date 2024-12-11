@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Sport Arena LED Display | Stadium LED Advertising | Outdoor LED Advertising Screen | Cinstar-led</title>
-    <meta name="description" content="Cinstar SA seires outdoor stadium led banner display is the most cost effective stadium led advertising solution for all outdoor stadium and sport arena to maximize your ROI." />
-    <meta name="keywords" content="sport arena led display, stadium led advertising, outdoor led advertising, outdoor stadium led display, stadium led screen, stadium advertising billboard, sports led display, sport arena led screen, led perimeter banner screen" />
+    <meta name="description" content="Cinstar SA seires outdoor stadium led banner display is the most cost effective stadium led advertising solution for all outdoor stadium and sport arena to maximize your ROI.">
+    <meta name="keywords" content="sport arena led display, stadium led advertising, outdoor led advertising, outdoor stadium led display, stadium led screen, stadium advertising billboard, sports led display, sport arena led screen, led perimeter banner screen">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/SA-series-1.jpg" alt="SA SERIES"/>
+                <img src="../images/products/Commercial-LED/SA-series-1.jpg" alt="SA SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/SA-series-2.jpg" alt="SA SERIES"/>
+                    <img src="../images/products/Commercial-LED/SA-series-2.jpg" alt="SA SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Solid LED Perimeter Banner Solution</h2>
@@ -90,7 +90,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Soft Module Mask To Prevent Injury</h2>
@@ -99,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/SA-series-3.jpg" alt="SA SERIES"/>
+                    <img src="../images/products/Commercial-LED/SA-series-3.jpg" alt="SA SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/SA-series-4.jpg" alt="SA SERIES"/>
+                    <img src="../images/products/Commercial-LED/SA-series-4.jpg" alt="SA SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Adjustable Supporting Brackets</h2>
@@ -114,7 +114,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Great Stability & Durability</h2>
@@ -123,13 +123,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/SA-series-5.jpg" alt="SA SERIES"/>
+                    <img src="../images/products/Commercial-LED/SA-series-5.jpg" alt="SA SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/SA-series-6.jpg" alt="SA SERIES"/>
+                    <img src="../images/products/Commercial-LED/SA-series-6.jpg" alt="SA SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Multifunction For Sports Events</h2>
@@ -138,7 +138,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Comprehensive Image Solution</h2>
@@ -147,7 +147,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/SA-series-7.jpg" alt="SA SERIES"/>
+                    <img src="../images/products/Commercial-LED/SA-series-7.jpg" alt="SA SERIES">
                 </div>
             </div>
         </div>
@@ -203,13 +203,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/SA-series-8.jpg" alt="Cinstar 8mm Outdoor Stadium Perimeter Display"/>
+                    <img src="../images/products/Commercial-LED/SA-series-8.jpg" alt="Cinstar 8mm Outdoor Stadium Perimeter Display">
                     <a class="case-title">
                         <span class="current">Cinstar 8mm Outdoor Stadium Perimeter Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/SA-series-9.jpg" alt="Cinstar 10mm Football Stadium Perimeter Screen"/>
+                    <img src="../images/products/Commercial-LED/SA-series-9.jpg" alt="Cinstar 10mm Football Stadium Perimeter Screen">
                     <a class="case-title">
                         <span class="current">Cinstar 10mm Football Stadium Perimeter Screen</span>
                     </a>
@@ -516,7 +516,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

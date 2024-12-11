@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Stage LED Screen | Indoor Outdoor Rental LED Display | LED Video Wall Rental | Cinstar-led</title>
-    <meta name="description" content="Cinstar EC series LED video screen offers versatile LED screen solutions for a wide variety of LED display rental applications. Ergonomic engineering panel and practical user-friendly design enable a perfect operation experience" />
-    <meta name="keywords" content="LED video screen, LED display rental, LED screen,  LED display panel, LED video display, cinstar, cinstar-led" />
+    <meta name="description" content="Cinstar EC series LED video screen offers versatile LED screen solutions for a wide variety of LED display rental applications. Ergonomic engineering panel and practical user-friendly design enable a perfect operation experience">
+    <meta name="keywords" content="LED video screen, LED display rental, LED screen,  LED display panel, LED video display, cinstar, cinstar-led">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -21,7 +21,7 @@
         </div>
         <div class="topContainer" style="margin-top:80px">
             <div class="topImg">
-                <img src="../images/products/Rental-LED/A-series-1.webp" alt="A SERIES"/>
+                <img src="../images/products/Rental-LED/A-series-1.webp" alt="A SERIES">
                 <h2 class="fantasy-title">
                 A Series
                 </h2>
@@ -54,7 +54,7 @@
         <div class="product-detail ec-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-2.webp" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-2.webp" alt="A SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Optimized PCB Board Design</h2>
@@ -63,7 +63,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Top Stability LED Module</h2>
@@ -72,13 +72,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-3.webp" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-3.webp" alt="A SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-4.webp" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-4.webp" alt="A SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Highly Integrated Control Unit </h2>
@@ -87,7 +87,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Truly Seamless Screen Connection</h2>
@@ -96,13 +96,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-5.webp" class="special" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-5.webp" class="special" alt="A SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-6.webp" alt="A SERIES" style="width: 100%"/>
+                    <img src="../images/products/Rental-LED/A-series-6.webp" alt="A SERIES" style="width: 100%">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Practical Corner Protection Flip</h2>
@@ -111,7 +111,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Versatile Creative Installation</h2>
@@ -120,13 +120,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-7.webp" class="special" alt="A SERIES" style="width: 100%"/>
+                    <img src="../images/products/Rental-LED/A-series-7.webp" class="special" alt="A SERIES" style="width: 100%">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/A-series-8.webp" alt="A SERIES"/>
+                    <img src="../images/products/Rental-LED/A-series-8.webp" alt="A SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Suspension And Floor Stacking Available</h2>
@@ -188,13 +188,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/rental/23-rental-case.jpg" alt="Charity Event A3.9 LED Video Screen"/>
+                    <img src="../images/rental/23-rental-case.jpg" alt="Charity Event A3.9 LED Video Screen">
                     <a class="case-title">
                         <span class="current">Charity Event A3.9 LED Video Screen</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/rental/EC-showcase-2.jpg" alt="Award Ceremony A2.9 LED Video Screen"/>
+                    <img src="../images/rental/EC-showcase-2.jpg" alt="Award Ceremony A2.9 LED Video Screen">
                     <a class="case-title">
                         <span class="current">Award Ceremony A2.9 LED Video Screen</span>
                     </a>
@@ -581,7 +581,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

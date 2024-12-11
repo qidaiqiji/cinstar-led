@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Billboards and Outdoor Advertising | Cinstar LED</title>
-    <meta name="description" content="What makes LED billboards so effective? Discover their advantages from Cinstar LED in modern outdoor advertising and how they captivate audiences." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="What makes LED billboards so effective? Discover their advantages from Cinstar LED in modern outdoor advertising and how they captivate audiences.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
     <style>
         h2 {
             font-size: 20px;
@@ -24,7 +24,7 @@
                 <h1 class="title">What is an LED Billboard? A Guide to Modern Outdoor Advertising</h1>
                 <p><b>LED billboards</b> have changed the advertising landscape and how brands capture public attention and connect with audiences. Luminous, dynamic, and readily updated, these digital exhibits let companies deliver engaging content that stands out in any setting. They are not like conventional static billboards. <b>Digital LED billboards</b> deliver flexibility with spinning ads and dynamic visuals, making them practical for attracting attention day and night. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-advertising-led-billboard.webp" alt="outdoor advertising led billboard" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-advertising-led-billboard.webp" alt="outdoor advertising led billboard"></a>
                 </div>
                 <p>Because of these features, the popularity of LED billboard advertising is rising. Brands are turning to this trendy strategy to influence high-traffic areas significantly and impact their audience's minds.</p>
                 <h2>What is an LED Billboard?</h2>

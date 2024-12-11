@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Interactive LED Dance Floor | LED Floor Screen | Creative LED Dance Floor Display | Cinstar-led</title>
-    <meta name="description" content="Cinstar D series interactive led dance floor display screen can be applied to shopping mall, night club and concerts to create attractive atmosphere. We offer  wide variety of led floor screen for all your high profile and budget projects." />
-    <meta name="keywords" content="interactive led display, interactive led floor screen, interactive led dance floor display, creative led dance floor screen, led floor display screen, interactive led floor, " />
+    <meta name="description" content="Cinstar D series interactive led dance floor display screen can be applied to shopping mall, night club and concerts to create attractive atmosphere. We offer  wide variety of led floor screen for all your high profile and budget projects.">
+    <meta name="keywords" content="interactive led display, interactive led floor screen, interactive led dance floor display, creative led dance floor screen, led floor display screen, interactive led floor, ">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D SERIES-1"/>
+                <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D SERIES-1">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-2.jpg" alt="D SERIES-2"/>
+                    <img src="../images/products/Commercial-LED/D-series-2.jpg" alt="D SERIES-2">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">500x500mm & 500x1000mm Panels For Option</h2>
@@ -90,7 +90,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Available Budget And High Profile Solutions</h2>
@@ -99,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-3.jpg" alt="D SERIES-3"/>
+                    <img src="../images/products/Commercial-LED/D-series-3.jpg" alt="D SERIES-3">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-4.jpg" alt="D SERIES-4"/>
+                    <img src="../images/products/Commercial-LED/D-series-4.jpg" alt="D SERIES-4">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Excellent Load-Bearing Performance</h2>
@@ -114,7 +114,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Durable Module Mask For Skid Resistance</h2>
@@ -123,7 +123,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-5.jpg" alt="D SERIES-5"/>
+                    <img src="../images/products/Commercial-LED/D-series-5.jpg" alt="D SERIES-5">
                 </div>
             </div>
         </div>
@@ -179,13 +179,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/D-series-6.jpg" alt="Cinstar D5 Stage LED Dance Floor Display"/>
+                    <img src="../images/products/Commercial-LED/D-series-6.jpg" alt="Cinstar D5 Stage LED Dance Floor Display">
                     <a class="case-title">
                         <span class="current">Cinstar D5 Stage LED Dance Floor Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/D-series-7.jpg" alt="Cinstar D6 LED Dance Floor Screen"/>
+                    <img src="../images/products/Commercial-LED/D-series-7.jpg" alt="Cinstar D6 LED Dance Floor Screen">
                     <a class="case-title">
                         <span class="current">Cinstar D6 LED Dance Floor Screen</span>
                     </a>
@@ -578,7 +578,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>3D LED Billboards are the Next Big Thing | Cinstar LED</title>
-    <meta name="description" content="Learn why 3D LED billboards are the next big trend in outdoor advertising, providing immersive experiences that enhance brand visibility from Cinstar LED" />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Learn why 3D LED billboards are the next big trend in outdoor advertising, providing immersive experiences that enhance brand visibility from Cinstar LED">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
     <style>
         h2 {
             font-size: 20px;
@@ -31,7 +31,7 @@
                 </div> -->
                 <p>Remaining ahead of the curve in outdoor advertising signifies welcoming innovation and technology. The latest breakthrough is the <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED billboard</b></a>. This dynamic advertising tool changes how brand labels engage with their target audience. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3D-LED-billboards.webp" alt="3D LED billboards" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3D-LED-billboards.webp" alt="3D LED billboards"></a>
                 </div>
                 <p>This blog will dive into why <b>3D LED displays</b> are the next big thing in outdoor advertising, how they function, and their advantages.</p>
                 <p class="line-bold"><b>⦁	Unmatched Visual Impact</b></p>

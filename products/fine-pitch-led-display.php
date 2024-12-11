@@ -7,14 +7,14 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Wall | Indoor LED Display | Indoor LED Screen - Cinstar</title>
-    <meta name="description" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings." />
-    <meta name="keywords" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings." />  
+    <meta name="description" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings.">
+    <meta name="keywords" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Fine-Pitch/banner.jpg" alt="fine pitch led display"/>
+            <img src="../images/products/Fine-Pitch/banner.jpg" alt="fine pitch led display">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Fine Pitch LED Display</h1>
@@ -26,7 +26,7 @@
         <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ch-series.php">
-                        <img src="../images/products/Fine-Pitch/CH-series-1.webp" style="width: 100%" alt="CH SERIES"/>
+                        <img src="../images/products/Fine-Pitch/CH-series-1.webp" style="width: 100%" alt="CH SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">CH SERIES</h2>
                             <p>Pixel Pitch (mm): 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -46,7 +46,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/ec-series.php">
-                        <img src="../images/products/Fine-Pitch/EC-series-1.webp" style="width: 100%" alt="EC SERIES"/>
+                        <img src="../images/products/Fine-Pitch/EC-series-1.webp" style="width: 100%" alt="EC SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">EC SERIES</h2>
                             <p>Pixel Pitch (mm): 0.62 / 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -66,7 +66,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/hd-series.php">
-                        <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES"/>
+                        <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">HD SERIES</h2>
                             <p>Pixel Pitch (mm): 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -87,7 +87,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/v-series.php">
-                        <img src="../images/products/Fine-Pitch/V-series-1.jpg" class="long-img" alt="V SERIES"/>
+                        <img src="../images/products/Fine-Pitch/V-series-1.jpg" class="long-img" alt="V SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">V SERIES</h2>
                             <p>Pixel Pitch (mm): 1.25 / 1.53 / 1.86 / 2.5 </p>
@@ -108,7 +108,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/u-series.php">
-                        <img src="../images/products/Commercial-LED/U-series-1.jpg" class="long-img" alt="U SERIES"/>
+                        <img src="../images/products/Commercial-LED/U-series-1.jpg" class="long-img" alt="U SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">U SERIES</h2>
                             <p>Pixel Pitch (mm): 0.93 / 1.25 / 1.56  / 1.87 </p>
@@ -129,7 +129,7 @@
                 </div>
             </div>
         </div>
-        <hr class="under-line"/>
+        <hr class="under-line">
         <!-- 产品参数结束 -->
         <div class="content-container">
             <div class="content">
@@ -148,7 +148,7 @@
                 </p> 
 
                 <div class="img-box">
-                    <img src="../images/products/Fine-Pitch/fine-pitch-1.jpg" alt="fine pitch-1" />
+                    <img src="../images/products/Fine-Pitch/fine-pitch-1.jpg" alt="fine pitch-1">
                 </div>  
                 <p>
                 In the following parts, we will share what fine pitch LED display is and some related information you might be interested to know. 
@@ -197,7 +197,7 @@
                     <h3>Chapter 2: What is 480P, 720P, 1080P, 2K and 4K</h3>
                 </div>
                 <div class="img-box">
-                    <img src="../images/products/Fine-Pitch/fine-pitch-2.jpg" alt="fine pitch-2" />
+                    <img src="../images/products/Fine-Pitch/fine-pitch-2.jpg" alt="fine pitch-2">
                 </div>
                 <p>
                 As the preferable visual displaying system, LED display is adopted to display high definition or ultra-high-definition content. Referring to the resolution, you should need to figure out what is 480P, 720P, 1080P, 2K and 4K. 480P is the shorthand name for a family of video display resolutions with a vertical resolution of 480 pixels. It is usually used for DVDs and many early Plasma televisions. The Standard one has always been a 4:3 aspect ratio with a 640 × 480 pixels resolution. 
@@ -218,7 +218,7 @@
                     <h3>Chapter 3: Application Of Fine Pitch Indoor Led Display </h3>
                 </div>
                 <div class="img-box">
-                    <img src="../images/products/Fine-Pitch/fine-pitch-3.jpg" alt="fine pitch-3" />
+                    <img src="../images/products/Fine-Pitch/fine-pitch-3.jpg" alt="fine pitch-3">
                 </div>
                 <p>
                 Fine pitch indoor LED display is a perfect solution for the applications where you want to show more detailed image/video content on a limited display dimension. Here are some main market segments for indoor LED displays.
@@ -269,7 +269,7 @@
                     <li>
                         <p class="sub-title"><i class="fa fa-hand-o-right"></i><b>Jumper Cable-Free Connection</b></p>
                         <p class="img-box">
-                            <img src="../images/products/Fine-Pitch/fine-pitch-4.jpg" alt="fine pitch-4" />
+                            <img src="../images/products/Fine-Pitch/fine-pitch-4.jpg" alt="fine pitch-4">
                         </p>
                         <p>
                         
@@ -298,7 +298,7 @@
                         Our indoor led display supports both signal and powers dual backup, which means if any failure of the receiver card and power supply occurs, the backup one starts working immediately. You can’t even see any stop or flashing on display. It is a very necessary option when the display is used at some essential occasions or events.
                         </p>
                         <p class="img-box">
-                            <img src="../images/products/Fine-Pitch/fine-pitch-5.jpg" alt="fine pitch-5" />
+                            <img src="../images/products/Fine-Pitch/fine-pitch-5.jpg" alt="fine pitch-5">
                         </p>
                         <p>
                         Cinstar fine pitch LED display supports both signal and power dual back-up, which means if any failure of receiver card and power supply occurs, the back-up one starts working immediately. You can’t even see any stop or flashing on the display. It is a very necessary option when the display is used at some very important occasions or events.

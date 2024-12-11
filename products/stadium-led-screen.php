@@ -7,14 +7,14 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Cinstar Stadium LED Screen with High-Performance LED Displays for Immersive Sporting Experiences at Cinstar-LED.com</title>
-    <meta name="description" content="Elevate the stadium experience with Cinstar LED's state-of-the-art Stadium LED Screens. Immerse your audience in stunning visuals and captivating displays." />
-    <meta name="keywords" content="stadium led screen, stadium led display, sport arena led screen, stadium perimeter led display, sport led display, led scoreboard system, scoreboard led display, scoreboard led screen, stadium led advertising, sport arena led advertising, football stadium led display, football arena led screen." />  
+    <meta name="description" content="Elevate the stadium experience with Cinstar LED's state-of-the-art Stadium LED Screens. Immerse your audience in stunning visuals and captivating displays.">
+    <meta name="keywords" content="stadium led screen, stadium led display, sport arena led screen, stadium perimeter led display, sport led display, led scoreboard system, scoreboard led display, scoreboard led screen, stadium led advertising, sport arena led advertising, football stadium led display, football arena led screen.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Fine-Pitch/banner-sta.jpg" alt="Stadium LED Display"/>
+            <img src="../images/products/Fine-Pitch/banner-sta.jpg" alt="Stadium LED Display">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Stadium LED Display</h1>
@@ -26,7 +26,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/bt-series.php">
-                        <img src="../images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES" style="width: 70%"/>
+                        <img src="../images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES" style="width: 70%">
                         <div class="spec-detail">
                             <h2 class="series-title">BT SERIES</h2>
                             <p>Pixel Pitch (mm): 4 / 5 / 6.67  / 8 / 10</p>
@@ -49,7 +49,7 @@
             <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="../product-detail/sa-series.php">
-                        <img src="../images/products/Commercial-LED/SA-series-1.jpg" alt="SA SERIES" />
+                        <img src="../images/products/Commercial-LED/SA-series-1.jpg" alt="SA SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">SA SERIES</h2>
                             <p>Pixel Pitch (mm):  4 / 5 / 6  / 8 / 10</p>
@@ -70,7 +70,7 @@
                 </div>
             </div>
         </div>
-        <hr class="under-line"/>
+        <hr class="under-line">
         <div class="content-container">
             <div class="content">
                 <h1 class="title">Cinstar-LED - Your Premier Choice for Stadium LED Screen Solutions in Worldwide</h1>

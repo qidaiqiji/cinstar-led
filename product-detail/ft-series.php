@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor Display Board | Outdoor LED Sign Boards, Outdoor Digital Screen</title>
-    <meta name="description" content="Cinstar FT series outdoor display board supports front or rear service access for specific installation. The high brightness and great stability of the outdoor digital screen enable it a preferred outdoor LED sign boards for your commercial outdoor advertising business." />
-    <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens" />
+    <meta name="description" content="Cinstar FT series outdoor display board supports front or rear service access for specific installation. The high brightness and great stability of the outdoor digital screen enable it a preferred outdoor LED sign boards for your commercial outdoor advertising business.">
+    <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-big">
-                <img src="../images/home/FT-SERIES.webp" alt="FT SERIES"/>
+                <img src="../images/home/FT-SERIES.webp" alt="FT SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail ft-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FT Series1.jpg" alt="FT SERIES"/>
+                    <img src="../images/products/Commercial-LED/FT Series1.jpg" alt="FT SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Great Durability And Stability</h2>
@@ -93,7 +93,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Front And Rear Maintenance For Options</h2>
@@ -102,13 +102,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FT Series2.jpg" alt="FT SERIES"/>
+                    <img src="../images/products/Commercial-LED/FT Series2.jpg" alt="FT SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FT Series3.jpg" alt="FT SERIES"/>
+                    <img src="../images/products/Commercial-LED/FT Series3.jpg" alt="FT SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Brightness With Wide Viewing Angle</h2>
@@ -117,7 +117,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Advanced Monitoring And Reporting System</h2>
@@ -126,7 +126,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FT Series4.jpg" class="special" alt="FT SERIES"/>
+                    <img src="../images/products/Commercial-LED/FT Series4.jpg" class="special" alt="FT SERIES">
                 </div>
             </div>
         </div>
@@ -182,13 +182,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fixed/19-fixed-case.jpg" alt="China Chengdu Shopping Center FT10"/>
+                    <img src="../images/fixed/19-fixed-case.jpg" alt="China Chengdu Shopping Center FT10">
                     <a class="case-title">
                         <span class="current">China Chengdu Shopping Center FT10 LED Video Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fixed/6-fixed-case.jpg" alt="Norway Mobile Trailer Screen FT6.67"/>
+                    <img src="../images/fixed/6-fixed-case.jpg" alt="Norway Mobile Trailer Screen FT6.67">
                     <a class="case-title">
                         <span class="current">Norway Mobile Trailer Screen FT6.67 LED Video Display</span>
                     </a>
@@ -635,7 +635,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

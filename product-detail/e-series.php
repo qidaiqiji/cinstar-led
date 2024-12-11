@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>LED Rental Panel | Indoor Outdoor LED Panel Screen | LED Screen Rental | Cinstar-led</title>
-    <meta name="description" content="Featuring wide pixel pitches from indoor 2.6mm, 2.9mm, 3.9mm to outdoor 3.9mm, 4.8mm and 5.6mm, Cinstar E SERIES rental LED panel has two panel sizes 500x500mm and 500x1000mm to meet any of your LED rental event productions." />
-    <meta name="keywords" content="Rental LED screen, Indoor LED Rental Panel, Outdoor LED Rental Panel, Rental events panel, indoor LED panel, outdoor led panel, led panel rental, led screen rental" />
+    <meta name="description" content="Featuring wide pixel pitches from indoor 2.6mm, 2.9mm, 3.9mm to outdoor 3.9mm, 4.8mm and 5.6mm, Cinstar E SERIES rental LED panel has two panel sizes 500x500mm and 500x1000mm to meet any of your LED rental event productions.">
+    <meta name="keywords" content="Rental LED screen, Indoor LED Rental Panel, Outdoor LED Rental Panel, Rental events panel, indoor LED panel, outdoor led panel, led panel rental, led screen rental">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long" style="width: 30%">
-                <img src="../images/products/Rental-LED/E-series-1.webp" alt="E SERIES"/>
+                <img src="../images/products/Rental-LED/E-series-1.webp" alt="E SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-2.webp" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-2.webp" alt="E SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Profile Robust Mechanical Design </h2>
@@ -90,7 +90,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Modular Design For Easy Maintenance </h2>
@@ -99,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-3.webp" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-3.webp" alt="E SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-4.webp" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-4.webp" alt="E SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Versatile Creative Installation</h2>
@@ -114,7 +114,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Seamless Screen Connection</h2>
@@ -123,13 +123,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-5.webp" class="special" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-5.webp" class="special" alt="E SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-6.webp" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-6.webp" alt="E SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Practical Corner Protection Design</h2>
@@ -138,7 +138,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Top Stability For All Events</h2>
@@ -147,13 +147,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-7.webp" class="special" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-7.webp" class="special" alt="E SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-8.webp" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-8.webp" alt="E SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Two Panel Sizes Maximize Your Events Possibilities</h2>
@@ -162,7 +162,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Suspension And Floor Stacking Available</h2>
@@ -171,7 +171,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/E-series-9.webp" class="special" alt="E SERIES"/>
+                    <img src="../images/products/Rental-LED/E-series-9.webp" class="special" alt="E SERIES">
                 </div>
             </div>
         </div>
@@ -227,13 +227,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Rental-LED/E-series-10.webp" alt="Cinstar E2.6 Indoor Rental LED Video Wall"/>
+                    <img src="../images/products/Rental-LED/E-series-10.webp" alt="Cinstar E2.6 Indoor Rental LED Video Wall">
                     <a class="case-title">
                         <span class="current">Cinstar E2.6 Indoor Rental LED Video Wall</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Rental-LED/E-series-11.webp" alt="Cinstar E3.9 Outdoor Event Rental LED Video Wall"/>
+                    <img src="../images/products/Rental-LED/E-series-11.webp" alt="Cinstar E3.9 Outdoor Event Rental LED Video Wall">
                     <a class="case-title">
                         <span class="current">Cinstar E3.9 Outdoor Event Rental LED Video Wall</span>
                     </a>
@@ -620,7 +620,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

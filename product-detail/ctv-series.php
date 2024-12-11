@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/detail-240913.css">
     <link rel="stylesheet" href="../css/ctv-product.css">
     <title>All in One Direct View LED TV Video Wall | Cinstar LED</title>
-    <meta name="description" content="Wanna have a better meeting or video conference experience? Try out Cinstar all in one direct view LEDTV video wall now!" />
-    <meta name="keywords" content="dvled, direct view led, all in one led tv, direct view led video wall, direct view led wall, all in one led wall, fine pitch led display, fine pixel pitch led screen, narrow pixel pitch led display" />
+    <meta name="description" content="Wanna have a better meeting or video conference experience? Try out Cinstar all in one direct view LEDTV video wall now!">
+    <meta name="keywords" content="dvled, direct view led, all in one led tv, direct view led video wall, direct view led wall, all in one led wall, fine pitch led display, fine pixel pitch led screen, narrow pixel pitch led display">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -23,20 +23,20 @@
         <!-- 产品详情 -->
         <div class="ctv-product">
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-1.webp" alt="ctv series-1" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-1.webp" alt="ctv series-1">
                 <div class="ctv-text text-left">
                     <h2>All In One LED TV</h2>
                     <p>Ideal for enterprise meeting</p>
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-2.webp" alt="ctv series-2" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-2.webp" alt="ctv series-2">
                 <div class="ctv-text text-top">
                     <h2>Concise System Design</h2>
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-3.webp" alt="ctv series-3" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-3.webp" alt="ctv series-3">
                 <div class="ctv-text text-right" style="color: #fff">
                     <h2>Multiple Sizes Optional</h2>
                     <p>1080P/4K resolution available in 108" 136" 163" diagonal size</p>
@@ -44,7 +44,7 @@
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-4.webp" alt="ctv series-4" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-4.webp" alt="ctv series-4">
                 <div class="ctv-text text-right">
                     <h2>Quick & Easy Maintenance</h2>
                     <p>Integrated display control</p>
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-5.webp" alt="ctv series-5" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-5.webp" alt="ctv series-5">
                 <div class="ctv-text text-right text-right-long" style="color: #fff">
                     <h2>Versatile Content Management</h2>
                     <p>Screen scalable & wireless projection</p>
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-6.webp" alt="ctv series-6" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-6.webp" alt="ctv series-6">
                 <div class="ctv-text text-right">
                     <h2>One Click Meeting</h2>
                     <p>Compatible with mainstream video conference softwares</p>
@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-7.webp" alt="ctv series-7" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-7.webp" alt="ctv series-7">
                 <div class="ctv-text text-right right-top" style="color: #fff">
                     <h2>Slim & Sleek System</h2>
                     <p>Ultra-thin - thickness only 38mm/1.5 inch</p>
@@ -78,20 +78,20 @@
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-8.webp" alt="ctv series-8" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-8.webp" alt="ctv series-8">
                 <div class="ctv-text text-top">
                     <h2>Multiple Interface Integration</h2>
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-9.webp" alt="ctv series-9" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-9.webp" alt="ctv series-9">
                 <div class="ctv-text text-top" style="color: #fff">
                     <h2>Ultra-Wide Viewing Angle</h2>
                     <p class="mobile-hide">170° ultra-wide viewing angle ensuring immersive visual</p>
                 </div>
             </div>
             <div class="ctv-img">
-                <img src="../images/products/new-page/direct-view-led/ctv-series-10.webp" alt="ctv series-10" />
+                <img src="../images/products/new-page/direct-view-led/ctv-series-10.webp" alt="ctv series-10">
                 <span style="left: 25%; top: 20%">Smart Pen</span>
                 <span style="left: 78%; top: 20%">Remote Controller</span>
                 <span style="left: 25%; top: 70%">Projection Device</span>
@@ -451,7 +451,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="contact" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

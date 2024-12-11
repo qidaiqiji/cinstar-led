@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor & Indoor LED Advertising Display | Cinstar LED</title>
-    <meta name="description" content="Explore Cinstar LED’s advertising display screens for both outdoor and indoor use, delivering high-quality visuals to captivate audiences." />
-    <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board" />
+    <meta name="description" content="Explore Cinstar LED’s advertising display screens for both outdoor and indoor use, delivering high-quality visuals to captivate audiences.">
+    <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board">
 
 <script type="application/ld+json">
 {
@@ -64,7 +64,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="new-product-container">
         <div class="product-banner">
-            <img src="../images/products/new-page/led-advertising-display/led-advertising-display-1.jpg" alt="led advertising display-1"/>
+            <img src="../images/products/new-page/led-advertising-display/led-advertising-display-1.jpg" alt="led advertising display-1">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>LED Advertising Display</p>
@@ -85,7 +85,7 @@
                 <h2>Cinstar LED Advertising Screen Products</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series"></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Advertising Screen</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -94,7 +94,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" alt="Innox" /></a>
+                        <a class="img-box" href="../product-detail/innox-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/Innox-1.png" alt="Innox"></a>
                         <div class="title-box-change">
                             <h3>Indoor Advertising LED Screen</h3>
                             <a class="title-border-button" href="../product-detail/innox-series.php">Innox Series Product</a>
@@ -103,7 +103,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 85%;" src="../images/products/Commercial-LED/X-series-1.webp" alt="X Series-1" /></a>
+                        <a class="img-box" href="../product-detail/x-series.php"><img style="width: 85%;" src="../images/products/Commercial-LED/X-series-1.webp" alt="X Series-1"></a>
                         <div class="title-box-change">
                             <h3>Outdoor Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/x-series.php">X Series Product</a>
@@ -112,7 +112,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%;" src="../images/home/FT-SERIES.webp" alt="FT Series" /></a>
+                        <a class="img-box" href="../product-detail/ft-series.php"><img style="width: 70%;" src="../images/home/FT-SERIES.webp" alt="FT Series"></a>
                         <div class="title-box-change">
                             <h3> Commercial Advertising LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ft-series.php">FT Series Product</a>
@@ -121,7 +121,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%;" src="../images/home/MC-SERIES.jpg" alt="MC Series" /></a>
+                        <a class="img-box" href="../product-detail/mc-series.php"><img style="width: 35%;" src="../images/home/MC-SERIES.jpg" alt="MC Series"></a>
                         <div class="title-box-change">
                             <h3>Curtain LED Advertising Display</h3>
                             <a class="title-border-button" href="../product-detail/mc-series.php">MC Series Product</a>
@@ -130,7 +130,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 74%;" src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="Transparent LED" /></a>
+                        <a class="img-box" href="../product-detail/tf-series.php"><img style="width: 74%;" src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="Transparent LED"></a>
                         <div class="title-box-change">
                             <h3>Transparent LED Advertising Screen</h3>
                             <a class="title-border-button" href="../product-detail/tf-series.php">TF Series Product</a>
@@ -201,7 +201,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="contact" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
@@ -218,7 +218,7 @@
                 <p>Cinstar outdoor advertising LED display is designed to deliver captivating visual presentations and high-quality advertisement displays that effortlessly capture the attention of spectators. By strategically leveraging prime geographic positioning, the most advanced advertising screen technology, expertly crafted creative design, and engaging interactive software, both the infrastructure and the sponsor will benefit from the rewards of capturing the attention of countless individuals on a daily basis.</p>
                 <p>In this article, we will guide you through the key factors to consider when evaluating outdoor advertising LED advertising . It could provide you with a helpful tip or some inspiration for your advertising business. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-2.jpg" alt="LED Sdvertising Display-2" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-2.jpg" alt="LED Sdvertising Display-2">
                 </div>
                 <div class="chapter-box">
                     <ul>
@@ -257,7 +257,7 @@
                 <h3 class="chapter-title" id="chapter1">Chapter 1  What is LED Advertising Screen?</h3>
                 <p>LED advertising screen also known as LED advertising display, commercial LED screen or LED billboard advertising, which is a sizable electronic display board consisting of light-emitting diodes (LEDs). It is applied to show text, graphics, videos, or other multimedia information for advertising and brand promotion etc. From the aspect of installation environment, it can be divided into indoor advertising LED screen and outdoor advertising screen. Thanks to fast developing LED display technology and cost reduction, LED advertising board is now getting more accepted and occupying larger market share of the outdoor commercial advertising industry. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-3.jpg" alt="LED Sdvertising Display-3" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-3.jpg" alt="LED Sdvertising Display-3">
                 </div>
                 <h3 class="chapter-title" id="chapter2">Chapter 2  The Advantages of LED Advertising Display</h3>
                 <p>Due to the fast advancement of LED display technology and the decrease in purchasing cost, commercial LED advertising screens have become a popular choice for brand promotion and advertisement campaigns. Discover the distinctive advantages that advertising screens offer in comparison to traditional print advertising.</p>
@@ -266,7 +266,7 @@
                 <p><b>Improved Advertising Quality and Broadened Reach</b></p>
                 <p>The use of commercial advertising display enhances visibility and leaves a lasting impression on potential customers. The advertising display screen boasts excellent brightness and vibrant colors, enhancing the quality of the advertisement content and creating a powerful visual impact on passersby. Expanding customer reach and enhancing brand promotion.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-4.jpg" alt="LED Sdvertising Display-4" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-4.jpg" alt="LED Sdvertising Display-4">
                 </div>
                 <p><b>Intelligent Management System</b></p>
                 <p>LED advertising screen management software allows for the automatic scheduling and uploading of dozens or even hundreds of ad campaigns.  It is possible to modify the sequence and duration of each advertisement.  This significantly enhances the speed at which you can achieve a return on your investment. </p>
@@ -274,7 +274,7 @@
                 <p>Thanks to the advanced and matured LED technology, the lifetime of LED advertising screens can now exceed 100,000 hours. Our outdoor advertising screen is designed to withstand even the most severe weather conditions, ensuring excellent stability and performance. However, the outdoor print advertisement needs to be replaced quite frequently. The advertising screen is cost-effective as well as profitable in the long term.  </p>
                 <p>Cinstar offers a wide range of products for both indoor and outdoor commercial advertising. Our advertising screens could be tailored to fit various installation styles, such as V-shaped, curved, or any other desired designs. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-5.jpg" alt="LED Sdvertising Display-5" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-5.jpg" alt="LED Sdvertising Display-5">
                 </div>
                 <h3 class="chapter-title" id="chapter3">Chapter 3  Applications of Advertising LED Display Screen</h3>
                 <p>Currently, LED display screens have become an integral part of our daily lives, decorating our cities with vibrant and brilliant visuals.  The LED advertising display is a versatile industrial product that can be tailored to suit various purposes according to the particular installation location. The following are the main applications of outdoor advertising LED displays.</p>
@@ -283,13 +283,13 @@
                 <p><b>Information Transmission Window</b></p>
                 <p>The LED display screen offers limitless possibilities in terms of dimension and resolution, thanks to its innovative modular design. It is common to see large LED billboard advertising screen at stock exchanges, airports, train stations, and bus stations. These Advertising LED displays provide real-time data feedback and serve as information display windows. Additionally, these locations are also ideal for showcasing commercial advertisements. Advertising thrives in the presence of a crowd.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-6.jpg" alt="LED Sdvertising Display-6" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-6.jpg" alt="LED Sdvertising Display-6">
                 </div>
                 <p><b>Promote Brand and Improve Business Image</b></p>
                 <p>LED display screens have found wide applications in various industries, including real estate, amusement parks, holiday villages, and corporate showrooms. In contrast to typical commercial advertising, LED display screens in these locations primarily serve to showcase corporate videos, product or program presentations, and internal facilities. The goal is to promote their own brand or services.  </p>
                 <p>The LED display screen has a broad range of applications in several fields. It can be used whenever a large LED video screen is required. Ultimately, the LED advertising screen remains classified as a billboard monitor and has the potential to get somewhat massive if necessary. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-7.jpg" alt="LED Sdvertising Display-7" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-7.jpg" alt="LED Sdvertising Display-7">
                 </div>
                 <h3 class="chapter-title" id="chapter4">Chapter 4  How to Control LED Advertising Screen?</h3>
                 <p>LED advertising screens can be controlled in two ways: synchronous control and asynchronous control, based on the manners of signal transmission. Here is the differences between them. </p>
@@ -298,13 +298,13 @@
                 <p>
                 Synchronous control is extensively employed in commercial advertising screens, rental LED displays, sports LED displays, and other large-format LED displays.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-8.jpg" alt="LED Sdvertising Display-8" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-8.jpg" alt="LED Sdvertising Display-8">
                 </div>
                 <p><b>Asynchronous controlling</b></p>
                 <p>Asynchronous controlling LED advertising screen has the capability to operate autonomously and does not require a constant connection to a controlling computer that is necessary only for the purpose of editing the advertisement content. The advertisement content will be transmitted to the control card inside the LED advertising screen implementing various means of data transmission, such as a UTP cat5 cable, USB drive, WiFi connection, 4G wireless, or other methods. Upon successful transmission of the data to the control card, it will be stored on its memory card. Subsequently, you have the option to sever the connection. The control card will continue to show the videos and graphics until you manually deactivate it. </p>
                 <p>Asynchronous control is most suitable for installations when the controlling computer is located far away from commercial LED screen or where it is difficult to do the necessary wiring at the installation place. This control approach is typically employed for small size LED display screens, LED displays on roadsides, or outdoor advertising LED displays.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-9.jpg" alt="LED Sdvertising Display-9" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-9.jpg" alt="LED Sdvertising Display-9">
                 </div>
                 <h3 class="chapter-title" id="chapter5">Chapter 5  What to Consider When Buying Commercial Advertising LED Screen</h3>
                 <p>If you operate as an importer in your local market, you have the option to simply procure the LED advertising screen as per your client's specific need. However, if you are a newcomer seeking to acquire an LED screen for the purpose of operating your own advertising business.  Here are some suggestions for you to take into consideration.</p>
@@ -312,7 +312,7 @@
                 <p>A list of the appropriate industry information should be residing in your mind. For instance, the number of advertising companies in the market, the quantity of advertising screens they possess, the locations of their LED billboard displays, and the pixel pitch and dimensions of their screens. By understanding the different types of advertising displays, you can determine which one is most suitable for your business.  </p>
                 <p>In addition, it is important to determine the price that advertisers are willing to pay for the campaign. It is also advisable to assess your current client base and make predictions about the potential increase in clients once you have your LED billboard advertising screen. By understanding the quality of advertising screens and its return on investment, you can make thoughtful choices about your expectations and cost recovery. If the business is proven to be effective, then it's ready to proceed. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-10.jpg" alt="LED Sdvertising Display-10" />
+                    <img src="../images/products/new-page/led-advertising-display/led-advertising-display-10.jpg" alt="LED Sdvertising Display-10">
                 </div>
                 <p><b>Installation License and Permit</b></p>
                 <p>Whether you're an importer or an end user, the progress of your installation permit application can have a significant impact on your entire purchasing process, particularly for outdoor LED display screen installations. Once you have obtained the required permit, you will be able to purchase the LED advertising display. Otherwise, if you've made a purchase, it can only be stored in your warehouse. If you choose to install it without the necessary permit, there is a possibility that the government may take action to have it removed. </p>

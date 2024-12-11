@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
     <title>Fine Pitch LED Cases | Visual Excellence | Cinstar LED</title>
-    <meta name="description" content="Discover visual excellence with fine pitch LED cases. Cinstar LED delivers stunning clarity and detail for premium installations!" />
-    <meta name="keywords" content="Narrow pixel pitch LED screen, fine pitch LED wall, LED display factory, LED display price, LED screen for sale, LED signage screen, big LED display wall" />
+    <meta name="description" content="Discover visual excellence with fine pitch LED cases. Cinstar LED delivers stunning clarity and detail for premium installations!">
+    <meta name="keywords" content="Narrow pixel pitch LED screen, fine pitch LED wall, LED display factory, LED display price, LED screen for sale, LED signage screen, big LED display wall">
 </head>
 <body class="page-index .menu-open">
     <?php include('../inc/top.php'); ?>
@@ -142,7 +142,7 @@
                             <p>${item.line3}</p>
                         </div>
                         <div class="gallery-img">
-                            <img src=${item.imgSrc} alt=${item.line3}/>
+                            <img src=${item.imgSrc} alt=${item.line3}>
                         </div>
                 </div>`
         })

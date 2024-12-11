@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Superior Direct View LED Video Wall | Cinstar LED</title>
-    <meta name="description" content="Experience superior Direct View LED video walls from Cinstar LED, designed for exceptional clarity and visual impact." />
-    <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel" />  
+    <meta name="description" content="Experience superior Direct View LED video walls from Cinstar LED, designed for exceptional clarity and visual impact.">
+    <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel">  
 
 <script type="application/ld+json">
 {
@@ -63,7 +63,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="new-product-container">
         <div class="product-banner">
-            <img src="../images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct view led-1"/>
+            <img src="../images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct view led-1">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <p>Direct View LED</p>
@@ -84,7 +84,7 @@
                 <h2>Cinstar Direct View LED Displays</h2>
                 <div class="series-box">
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ctv-series.php"><img style="width: 90%;" src="../images/home-new/ctv-series.webp" alt="ctv Series" /></a>
+                        <a class="img-box" href="../product-detail/ctv-series.php"><img style="width: 90%;" src="../images/home-new/ctv-series.webp" alt="ctv Series"></a>
                         <div class="title-box-change">
                             <h3>All in One Direct View LEDTV</h3>
                             <a class="title-border-button" href="../product-detail/ctv-series.php">CTV series Product</a>
@@ -93,7 +93,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ch-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/CH-series-1.webp" alt="CH Series-1" /></a>
+                        <a class="img-box" href="../product-detail/ch-series.php"><img style="width: 80%;" src="../images/products/Fine-Pitch/CH-series-1.webp" alt="CH Series-1"></a>
                         <div class="title-box-change">
                             <h3>COB Fine Pitch LED Display</h3>
                             <a class="title-border-button" href="../product-detail/ch-series.php">CH Series Product</a>
@@ -102,7 +102,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2" /></a>
+                        <a class="img-box" href="../product-detail/hd-series.php"><img src="../images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2"></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Wall</h3>
                             <a class="title-border-button" href="../product-detail/hd-series.php">HD Series Product</a>
@@ -111,7 +111,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/ec-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/EC-series-1.webp" alt="EC Series-1" /></a>
+                        <a class="img-box" href="../product-detail/ec-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/EC-series-1.webp" alt="EC Series-1"></a>
                         <div class="title-box-change">
                             <h3>COB Direct View LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/ec-series.php">EC Series Product</a>
@@ -120,7 +120,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/V-series-1.jpg" alt="v Series" /></a>
+                        <a class="img-box" href="../product-detail/v-series.php"><img style="width: 90%;" src="../images/products/Fine-Pitch/V-series-1.jpg" alt="v Series"></a>
                         <div class="title-box-change">
                             <h3>Direct View LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/v-series.php">V series Product</a>
@@ -129,7 +129,7 @@
                         <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
                     </div>
                     <div class="series-item">
-                        <a class="img-box" href="../product-detail/u-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/U-series-1.jpg" alt="u Series" /></a>
+                        <a class="img-box" href="../product-detail/u-series.php"><img style="width: 70%;" src="../images/products/Commercial-LED/U-series-1.jpg" alt="u Series"></a>
                         <div class="title-box-change">
                             <h3>Fine Pitch LED Video Wall</h3>
                             <a class="title-border-button" href="../product-detail/u-series.php">U series Product</a>
@@ -203,8 +203,8 @@
             <div class="content">
                 <h2>Why Choose Cinstar Direct View LED Video Wall</h2>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-2.jpg" alt="Direct View LED-2" />
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-3.jpg" alt="Direct View LED-3" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-2.jpg" alt="Direct View LED-2">
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-3.jpg" alt="Direct View LED-3">
                 </div>
                 <p>There are many compelling reasons to consider upgrading your existing video equipment to a direct view LED display. Cinstar Direct View LED video walls have emerged as the preferred choice for various applications such as shopping malls, meeting rooms, control rooms, and television studios. They also offer a great solution for branding and display purposes.</p>
                 <p>When it comes to video products, Cinstar fine pitch LED display stands out with its superior pixel density and brightness. The fine pitch LED display boasts a high refresh rate and a dynamic contrast, making it a top choice for customers. Therefore, ensuring superb visual comfort is crucial. These new additions are being introduced in response to the increasing need for more precise details and improved visibility at direct view distances. </p>
@@ -213,7 +213,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="contact" />
+            <img src="../images/home-new/contact-banner.webp" alt="contact">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
@@ -231,7 +231,7 @@
                 <p>The market share of direct view LED video wall in these segments is experiencing rapid growth, thanks to its exceptional features: seamless connection, high refresh rate, impressive contrast ratio, and outstanding image presentations. </p>
                 <p>In the upcoming sections, we will provide an overview of fine pitch LED display and share some relevant information that you may find interesting.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-4.jpg" alt="Direct View LED-4" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-4.jpg" alt="Direct View LED-4">
                 </div>
                 <div class="chapter-box">
                     <ul>
@@ -271,19 +271,19 @@
                 <p>Direct view LED also known as fine pitch LED display, narrow pixel pitch LED display, or small pixel pitch LED display, typically refers to the LED video wall with a pixel pitch lower than 2.5mm. Considering the rapid evolution of the AV and LED display industry, direct view LED has now included pixel pitches below 2mm. The current trend is in favor of pixel pitches 1.56mm and 1.2mm. However, there is a 0.9mm option that is already available and is expected to dramatically lower the pixel pitch in the future. </p>
                 <p>The present fine pitch LED display primarily applies 3 in 1 SMD technology. However, an increasing number of influential encapsulation companies are making significant investments in the research of Mini LED and Micro LED. Their aim is to achieve an even lower pixel pitch than 0.7mm and 0.9mm. The future of LED technology remains uncertain and unpredictable. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-5.jpg" alt="Direct View LED-5" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-5.jpg" alt="Direct View LED-5">
                 </div>
                 <h3 class="chapter-title" id="chapter2">Chapter 2  What is 1080P, 2K and 4K?</h3>
                 <p>The fine pitch LED display has become the primary option for visual displaying systems, offering the ability to showcase high definition or ultra-high definition content. To understand the resolution, it is important to get to grips yourself with terms like 1080P, 2K, and 4K.</p>
                 <p>1080P, also referred to as Full HD or FHD, is a term widely employed to describe a high-definition video resolution. The resolution is 1920x1080 pixels, allowing for a higher level of detail compared to 720P. Such a resolution is often seen on a widescreen with an aspect ratio of 16:9. </p>
                 <p>2K resolution often proves necessary for displaying content on direct view LED video walls. The resolution is 2048x1080. Although the number of pixels is the same vertically and very close at horizontally, 1080P and 2K are typically considered as two different resolution formats.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-6.jpg" alt="Direct View LED-6" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-6.jpg" alt="Direct View LED-6">
                 </div>
                 <p>4k, also referred to as ultra-high definition (UHD), is a term used primarily in television and consumer media to describe a fine pitch LED display resolution of 3840x2160, which has become the industry norm for 4K. At present, 4K TV have gained significant market share, just like the fine pitch LED displays. Everyone wants a direct view LED that can display video content with greater detail and clarity.  </p>
                 <p>When searching for a high-quality direct view LED video wall, it is crucial to decide the right resolution. When it comes to 4K resolution, having a lower pixel pitch means that a smaller screen dimension is needed, and the cost of different pixel pitches can vary significantly. By comparing prices, you can determine which pixel pitch and dimension align with your budget. In addition, it is important to consider the viewing distance and the overall visual experience.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-7.jpg" alt="Direct View LED-7" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-7.jpg" alt="Direct View LED-7">
                 </div>
                 <h3 class="chapter-title" id="chapter3">Chapter 3  Applications of Direct View LED Video Wall</h3>
                 <p>The fine pitch LED display is an ideal choice for applications that require showcasing highly detailed image and video content on a compact display. These are the primary market segments for fine pitch LED display.</p>
@@ -291,21 +291,21 @@
                 <p>The control room and monitor room, which once dominated by LCD video walls, have become crucial markets for fine pitch LED displays. The direct view LED video wall at these locations is designed to maximize the amount of content it can show, based on its function attributes.  </p>
                 <p>When it comes to video walls, direct view LED offers a range of advantages over LCD video wall. With higher brightness, better color uniformity, seamless connection, lower failure rate, easier maintenance, and enhanced visual experience, fine pitch LED displays are the preferred option for those pursuing optimal performance. It's no surprise that the LED video wall is gaining popularity and taking over the market share that was once dominated by LCD video walls.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-8.jpg" alt="Direct View LED-8" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-8.jpg" alt="Direct View LED-8">
                 </div>
                 <p><b>Conference Room, Meeting room & Board Room</b></p>
                 <p>Projectors have become an essential tool in the corporate world, dominating the market in conference rooms, meeting rooms, and boardrooms. They are the go-to visual display device for presentations. However, the introduction of fine pitch LED display opens up a variety of new options and possibilities for the market. </p>
                 <p>When it comes to comparing direct view LED video wall and projectors, it's clear that projectors fall short in terms of brightness, image production, and overall visual experience. However, the experience on a fine pitch LED display is quite different. It doesn't require a dark environment, and its clear direct view display ensures enhanced engagement for the participants. In addition, the direct view LED is compatible with various installation methods and offers a convenient plug-and-play feature. </p>
                 <p>The market for fine pitch LED displays is experiencing significant growth due to rapid technological advancements and a sustained decrease in production costs. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-9.jpg" alt="Direct View LED-9" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-9.jpg" alt="Direct View LED-9">
                 </div>
                 <p><b>TV Studio & Corporate Showroom</b></p>
                 <p>The TV studio and corporate showroom are the vital applications of direct view LED video wall. This is due to its rigorous requirements for video equipment, where fine pitch LED display outshines other options such as LCD video walls. </p>
                 <p>When applied for broadcasting purposes, the direct view LED boasts an impressive high refresh rate of up to 3840Hz, which ensures a flicker-free experience when the fine pitch LED display is facing a camera. Featuring high contrast ratio of 6000:1, impressive 16-bit gray scale, and wide color gamut, direct view LED can easily deliver stunningly vivid, clear, and detailed image reproduction. The LCD video wall simply cannot match the seamless connection, excelling color uniformity, and outstanding visual experience.</p>
                 <p>In addition, the fine pitch LED display is typically used for product launches, corporate showrooms, home cinemas, and premium advertising campaigns.  </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-10.jpg" alt="Direct View LED-10" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-10.jpg" alt="Direct View LED-10">
                 </div>
                 <h3 class="chapter-title" id="chapter4">Chapter 4  Advantages of Cinstar Fine Pitch LED Video Wall</h3>
                 <p>Are you aware of the key features and advantages that fine pitch LED video wall can bring to your business? This cutting-edge LED display technology is at the forefront of the AV industry. Now, let's explore the advantages of it.</p>
@@ -314,7 +314,7 @@
                 <p><b>Clean & Easy Set-up</b></p>
                 <p>Cinstar fine pitch LED video wall simplifies cabling work and reduces the failure rate by adopting the invisible jumper cable connection. Every column of the direct view LED requires just a single power cable and data cable. It allows for quick and easy installation, resulting in a neat and clean screen appearance. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-11.jpg" alt="Direct View LED-11" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-11.jpg" alt="Direct View LED-11">
                 </div>
                 <p><b>Front Installation & Maintenance</b></p>
                 <p>Wall mounting is preferred to install fine pitch LED displays, giving the screen a sleek and stylish appearance. The Cinstar direct view LED offers convenient front installation, allowing you to save space by installing it directly against the wall. When it comes to maintenance, all the module, receiver card, and power supply of Cinstar direct view LED video wall can be easily accessed from the front. When a failure occurs, it's important to fix it quickly.</p>
@@ -323,7 +323,7 @@
                 <p>The fine pitch LED display offers superior stability compared to other visual devices. However, are there any solutions that can effectively tackle the challenges posed by signal/power failure? Yes, the answer is positive. </p>
                 <p>Cinstar LED video wall is designed to provide reliable performance, with a dual back-up system that ensures uninterrupted operation in the situation of receiver card or power supply failure. It is crucial to have this option available when the display is used during significant occasions or events. </p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-12.jpg" alt="Direct View LED-12" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-12.jpg" alt="Direct View LED-12">
                 </div>
                 <h3 class="chapter-title" id="chapter5">Chapter 5  How to Install Direct View LED Video Wall?</h3>
                 <p>Wall mounting and ground stacking are the most common installations for direct view LED video wall. However, it differs depending on the specific projects. Wall-mounting is the preferred method for installing most fine pitch LED displays. Here are the procedures for wall-mounting:</p>
@@ -336,7 +336,7 @@
                 <p>
                 Ground support or floor stacking is another common approach for installing direct view LED video wall. Furthermore, the fine pitch LED display is able to be combined with a particular support frame to function as an LED TV for an immersive home cinema experience or similar purposes. Here are a few key points to consider when installing the direct view LED with floor stacking.</p>
                 <div class="img-box">
-                    <img src="../images/products/new-page/direct-view-led/direct-view-led-13.jpg" alt="Direct View LED-13" />
+                    <img src="../images/products/new-page/direct-view-led/direct-view-led-13.jpg" alt="Direct View LED-13">
                 </div>
                 <p><b>Evenness of the Ground</b></p>
                 <p>Installing the fine pitch LED display directly on the ground is not recommended. The frame must be perfectly level for proper installation. Otherwise, there may be noticeable gaps. Installing the direct view LED video wall requires quite a bit of attention and patience. To achieve optimal visual performance, it is important to carefully align all the panels and eliminate any gaps.</p>

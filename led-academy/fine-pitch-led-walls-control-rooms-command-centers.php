@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Walls in Control Rooms | Cinstar LED</title>
-    <meta name="description" content="Explore the role of fine pitch LED video walls from Cinstar LED for control rooms and command centers. Experience enhanced surveillance and monitoring." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Explore the role of fine pitch LED video walls from Cinstar LED for control rooms and command centers. Experience enhanced surveillance and monitoring.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -21,7 +21,7 @@
                 </div> -->
                 <p>The suitable technology can make all the difference in guaranteeing seamless transmission and real-time monitoring in control centers and command rooms. The <b>Direct View LED Video Wall</b> is one of the most valuable solutions for these high-demand environments. This advanced display technology offers several advantages that make it perfect for mission-critical applications. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-fine-pitch-led.webp" alt="Fine Pitch LED Displays" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-fine-pitch-led.webp" alt="Fine Pitch LED Displays"></a>
                 </div>
                 <p>Let's dive into why <b>direct-view</b> and <b>Fine Pitch LED Displays</b> are ideal for command centers.</p>
                 <h2 style="font-size: 20px;font-weight: bold;">⦁	Crystal-Clear Visuals for Real-Time Data</h2>

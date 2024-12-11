@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Poster LED Display | Cinstar-led, Creative LED Display, Screen, Panel</title>
-    <meta name="description" content="Cinstar Xposter is widely used in clothes stores, shopping malls, exhibitions, hotels and wedding ceremony etc. Its exquisite appearance, outstanding performance and versatile function makes it the first option for commercial advertising." />
-    <meta name="keywords" content="Poster LED display, advertising LED poster, advertising digital poster, commercial digital LED poster, LED digital poster screen, LED digital poster display" />
+    <meta name="description" content="Cinstar Xposter is widely used in clothes stores, shopping malls, exhibitions, hotels and wedding ceremony etc. Its exquisite appearance, outstanding performance and versatile function makes it the first option for commercial advertising.">
+    <meta name="keywords" content="Poster LED display, advertising LED poster, advertising digital poster, commercial digital LED poster, LED digital poster screen, LED digital poster display">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -15,11 +15,11 @@
     <div class="container">
         <!-- 产品详情 -->
         <div class="product-box">
-            <img src="../images/products/Creative-LED/Xposter 1.jpg" alt="Xposter"/>
-            <img src="../images/products/Creative-LED/Xposter 2.jpg" alt="Xposter"/>
-            <img src="../images/products/Creative-LED/Xposter 3.jpg" alt="Xposter"/>
-            <img src="../images/products/Creative-LED/Xposter 4.jpg" alt="Xposter"/>
-            <img src="../images/products/Creative-LED/Xposter 5.jpg" alt="Xposter"/>
+            <img src="../images/products/Creative-LED/Xposter 1.jpg" alt="Xposter">
+            <img src="../images/products/Creative-LED/Xposter 2.jpg" alt="Xposter">
+            <img src="../images/products/Creative-LED/Xposter 3.jpg" alt="Xposter">
+            <img src="../images/products/Creative-LED/Xposter 4.jpg" alt="Xposter">
+            <img src="../images/products/Creative-LED/Xposter 5.jpg" alt="Xposter">
         </div>
         <div class="table-detail">
             <div class="sub-title">
@@ -236,7 +236,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

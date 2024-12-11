@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Enhance Live Events with 3D LED Displays | Cinstar LED</title>
-    <meta name="description" content="3D LED displays are changing the face of entertainment by adding visual storytelling, and futuristic visuals at live events. Explore more at Cinstar LED." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="3D LED displays are changing the face of entertainment by adding visual storytelling, and futuristic visuals at live events. Explore more at Cinstar LED.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -22,7 +22,7 @@
                 <p>With the onset of <b>3D LED billboard</b> display screens, the landscape of live events, entertainment, and advertising has changed. Audiences are in for a visual treat with these screens, as they can enjoy authentic three-dimensional images with their naked eyes.</p>
                 <p>These screens display advertisements everywhere, from concerts to sports events. These fantastic <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED displays</b></a> offer a visual spectacle that captivates viewers and enhances engagement like never before. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-3d-led-display.webp" alt="3d led display screen" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-3d-led-display.webp" alt="3d led display screen"></a>
                 </div>
                 <p>Let's investigate how <b>3D LED screens</b> change live events and entertainment and why they are a powerful advertising tool and industry game-changers.</p>
                 <h2 style="font-size: 20px;font-weight: bold;">⦁	Immersive Visual Experience</h2>

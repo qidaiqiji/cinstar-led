@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor LED Advertising Billboard Display | Cinstar LED</title>
-    <meta name="description" content="Cinstar X series outdoor LED advertising display screen is the best solution for 3D LED billboard advertising campaigns. Try it out today!" />
-    <meta name="keywords" content="outdoor led display, led advertising display, outdoor led billboard, led billboard advertising, 3d led display, 3d led billboard" />
+    <meta name="description" content="Cinstar X series outdoor LED advertising display screen is the best solution for 3D LED billboard advertising campaigns. Try it out today!">
+    <meta name="keywords" content="outdoor led display, led advertising display, outdoor led billboard, led billboard advertising, 3d led display, 3d led billboard">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -73,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/X-series-1.webp" alt="X SERIES"/>
+                <img src="../images/products/Commercial-LED/X-series-1.webp" alt="X SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-2.webp" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-2.webp" alt="X SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Slim And Light Weight Panel Design</h2>
@@ -89,20 +89,20 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Top Stability & Durability LED Advertising Board</h2>
                     <p>Cinstar X series outdoor LED advertising billboard display is featured with high level IP rating (IP65) and supreme cooling design to guarantee the best reliability and performance. All the quality components and user friendly design enable it the best solution to maximize your ROI. </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-3.webp" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-3.webp" alt="X SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-4.webp" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-4.webp" alt="X SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Fast Installation & Easy Maintenance</h2>
@@ -110,34 +110,34 @@
                     The handles and locks can extremely accelerate the installation and make it really easy and fast.</p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Nice And Clean LED Advertising Billboard</h2>
                     <p>Thanks to the fanless design, Cinstar X series outdoor LED advertising billboard display is running without any noise and enable the display working more stable at dusty and humid areas. Module casing exposed in the air directly for better heating dissipation, no need air conditioners for cooling. </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-5.webp" class="special" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-5.webp" class="special" alt="X SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-6.webp" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-6.webp" alt="X SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Seamless Right Angle For Stunning 3D Effect</h2>
                     <p>Cinstar X series outdoor LED advertising billboard panel can be customized with seamless right angle to deliver eye-catching naked eye 3D effects. With such unique design, you can easily build a spectacular LED billboard to attract people and maximize its commercial values.</p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">High Value Added LED Advertising Billboard</h2>
                     <p>Cinstar X series outdoor LED advertising billboard display is an ideal solution for high profile outdoor commercial advertising applications. Its top stability, superb visibility and extraordinary image performance make it the new icon for outdoor billboard advertising at pedestrian mall, shopping centers, theme parks, shopping malls and other high traffic areas.</p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/X-series-7.webp" class="special" alt="X SERIES"/>
+                    <img src="../images/products/Commercial-LED/X-series-7.webp" class="special" alt="X SERIES">
                 </div>
             </div>
         </div>
@@ -193,13 +193,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/X-series-9.jpg" alt="Finland X6 200sqm LED Advertising Billboard"/>
+                    <img src="../images/products/Commercial-LED/X-series-9.jpg" alt="Finland X6 200sqm LED Advertising Billboard">
                     <a class="case-title">
                         <span class="current">Finland X6 200sqm LED Advertising Billboard</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/X-series-10.jpg" alt="Building Façade X4 80sqm LED Advertising Billboard"/>
+                    <img src="../images/products/Commercial-LED/X-series-10.jpg" alt="Building Façade X4 80sqm LED Advertising Billboard">
                     <a class="case-title">
                         <span class="current">Building Façade X4 80sqm LED Advertising Billboard</span>
                     </a>
@@ -626,7 +626,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>4k LED Screen Rental Panel | Digital Advertising Billboard | Direct View LED</title>
-    <meta name="description" content="Cinstar K series 4k LED Screen Rental Panel display is ideal forDigital Advertising Billboard. Direct View LED for indoor and outdoor stage event." />
-    <meta name="keywords" content="led rental panel, indoor led rental screen, outdoor led rental display, LED rental, event rental led panel, led rental video screen, event led display, corporate event led screen, led display rental, led screen rental, led display panel rental" />
+    <meta name="description" content="Cinstar K series 4k LED Screen Rental Panel display is ideal forDigital Advertising Billboard. Direct View LED for indoor and outdoor stage event.">
+    <meta name="keywords" content="led rental panel, indoor led rental screen, outdoor led rental display, LED rental, event rental led panel, led rental video screen, event led display, corporate event led screen, led display rental, led screen rental, led display panel rental">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -73,13 +73,13 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/K-series-1.jpg" alt="K SERIES"/>
+                <img src="../images/products/Commercial-LED/K-series-1.jpg" alt="K SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Commercial-LED/K-series-2.jpg" alt="K SERIES"/>
+                <img src="../images/products/Commercial-LED/K-series-2.jpg" alt="K SERIES">
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">Stage Rental Event Production Solutions</h2>
@@ -140,13 +140,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/K-series-3.jpg" alt="Cinstar K2.9 Stage Rental Event LED Screen"/>
+                    <img src="../images/products/Commercial-LED/K-series-3.jpg" alt="Cinstar K2.9 Stage Rental Event LED Screen">
                     <a class="case-title">
                         <span class="current">Cinstar K2.9 Stage Rental Event LED Screen</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/K-series-4.jpg" alt="Cinstar K3.9 Outdoor Rental Event Screen"/>
+                    <img src="../images/products/Commercial-LED/K-series-4.jpg" alt="Cinstar K3.9 Outdoor Rental Event Screen">
                     <a class="case-title">
                         <span class="current">Cinstar K3.9 Outdoor Rental Event Screen</span>
                     </a>
@@ -533,7 +533,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>LED Window Display | Cinstar-led, LED Curtain Wall | LED Curtain Display</title>
-    <meta name="description" content="Cinstar LED window display TS series with great transparency which ensures no any daylight or vision will be blocked out. The high brightness of the LED curtain wall and supreme image of the LED curtain display assures superb visual performance at any installation environments." />
-    <meta name="keywords" content="LED window display, LED curtain wall, LED curtain display, indoor fixed LED display, indoor commercial LED screen, transparent LED wall, cylinder LED display" />
+    <meta name="description" content="Cinstar LED window display TS series with great transparency which ensures no any daylight or vision will be blocked out. The high brightness of the LED curtain wall and supreme image of the LED curtain display assures superb visual performance at any installation environments.">
+    <meta name="keywords" content="LED window display, LED curtain wall, LED curtain display, indoor fixed LED display, indoor commercial LED screen, transparent LED wall, cylinder LED display">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -72,14 +72,14 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Creative-LED/TS-Series.jpg" alt="TS-Series"/>
+                <img src="../images/products/Creative-LED/TS-Series.jpg" alt="TS-Series">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Creative-LED/TS-Series1.jpg" alt="TS-Series"/>
+                    <img src="../images/products/Creative-LED/TS-Series1.jpg" alt="TS-Series">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Transparency LED Video Display</h2>
@@ -88,7 +88,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Flexible Panel For Option</h2>
@@ -97,13 +97,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Creative-LED/TS-Series2.jpg" alt="TS-Series"/>
+                    <img src="../images/products/Creative-LED/TS-Series2.jpg" alt="TS-Series">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Creative-LED/TS-Series3.jpg" alt="TS-Series"/>
+                    <img src="../images/products/Creative-LED/TS-Series3.jpg" alt="TS-Series">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Exquisite Aesthetic Design</h2>
@@ -120,13 +120,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fixed/4-fixed-case.jpg" alt="Western Sydney University TS7.8"/>
+                    <img src="../images/fixed/4-fixed-case.jpg" alt="Western Sydney University TS7.8">
                     <a class="case-title">
                         <span class="current">Western Sydney University TS7.8 LED Video Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fixed/20-fixed-case.jpg" alt="Bespoke Realty Group Penrith Australia TS3.9"/>
+                    <img src="../images/fixed/20-fixed-case.jpg" alt="Bespoke Realty Group Penrith Australia TS3.9">
                     <a class="case-title">
                         <span class="current">Bespoke Realty Group Penrith Australia TS3.9 LED Video Display</span>
                     </a>
@@ -553,7 +553,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

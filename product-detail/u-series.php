@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Fine Pixel Pitch LED Screen | UHD LED Video Display | Narrow Pitch LED Screen | 4K LED Video Wall | Cinstar-led</title>
-    <meta name="description" content="Cinstar U series UHD seamless fine pixel pitch LED screen can achieve 2K 4K 8K UHD image for any control room, monitor room, command room, TV studio and conference room for direct view narrow pixel pitch LED video screen. We have high profile and budget UHD LED video display solutions for all your projects." />
-    <meta name="keywords" content="Fine pixel pitch led screen, fine pixel pitch led display, narrow pixel pitch led screen, narrow pixel pitch led display, narrow pitch led video wall, fine pitch led screen, 4K led display screen, UHD led screen wall, direct view LED video screen wall" />
+    <meta name="description" content="Cinstar U series UHD seamless fine pixel pitch LED screen can achieve 2K 4K 8K UHD image for any control room, monitor room, command room, TV studio and conference room for direct view narrow pixel pitch LED video screen. We have high profile and budget UHD LED video display solutions for all your projects.">
+    <meta name="keywords" content="Fine pixel pitch led screen, fine pixel pitch led display, narrow pixel pitch led screen, narrow pixel pitch led display, narrow pitch led video wall, fine pitch led screen, 4K led display screen, UHD led screen wall, direct view LED video screen wall">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/U-series-1.jpg" alt="TL SERIES"/>
+                <img src="../images/products/Commercial-LED/U-series-1.jpg" alt="TL SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/U-series-2.jpg" alt="TL SERIES"/>
+                    <img src="../images/products/Commercial-LED/U-series-2.jpg" alt="TL SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">UHD Superb Visual Impact</h2>
@@ -90,7 +90,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Seamless Video Splicing Technology</h2>
@@ -99,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/U-series-3.jpg" alt="TL SERIES"/>
+                    <img src="../images/products/Commercial-LED/U-series-3.jpg" alt="TL SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/U-series-4.jpg" alt="TL SERIES"/>
+                    <img src="../images/products/Commercial-LED/U-series-4.jpg" alt="TL SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra Wide Viewing Angle</h2>
@@ -114,7 +114,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Front Installation & Maintenance</h2>
@@ -123,7 +123,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/U-series-5.jpg" class="special" alt="TL SERIES"/>
+                    <img src="../images/products/Commercial-LED/U-series-5.jpg" class="special" alt="TL SERIES">
                 </div>
             </div>
         </div>
@@ -179,13 +179,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/U-series-6.jpg" alt="Cinstar U1.56 Corporate Reception Fine Pitch LED"/>
+                    <img src="../images/products/Commercial-LED/U-series-6.jpg" alt="Cinstar U1.56 Corporate Reception Fine Pitch LED">
                     <a class="case-title">
                         <span class="current">Cinstar U1.56 Corporate Reception Fine Pitch LED</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/U-series-7.jpg" alt="Cinstar U2.3 Conference Room LED Video Wall"/>
+                    <img src="../images/products/Commercial-LED/U-series-7.jpg" alt="Cinstar U2.3 Conference Room LED Video Wall">
                     <a class="case-title">
                         <span class="current">Cinstar U2.3 Conference Room LED Video Wall</span>
                     </a>
@@ -568,7 +568,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

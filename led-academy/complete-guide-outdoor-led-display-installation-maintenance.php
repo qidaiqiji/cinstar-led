@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Installation and Care | Cinstar LED</title>
-    <meta name="description" content="Set up and maintain your outdoor LED display like a pro! Check the guide from Cinstar LED, offers practical steps for durability and top-notch visuals." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Set up and maintain your outdoor LED display like a pro! Check the guide from Cinstar LED, offers practical steps for durability and top-notch visuals.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
     <style>
         h2 {
             font-size: 20px;
@@ -24,7 +24,7 @@
                 <h1 class="title">The Complete Guide to Outdoor LED Display Installation and Maintenance</h1>
                 <p><b>Outdoor LED displays</b> are an effective method to grab engagement, immerse audiences, and boost branding. From bustling metropolis centers to arenas and event platforms, these exhibits are built to resist the elements and provide dynamic visuals day and night. Nevertheless, thriving installation and continuous maintenance of an <a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>outdoor LED display</b></a> need detailed planning and care to guarantee longevity and optimal performance. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-LED-display-screen.webp" alt="outdoor LED display screen" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-LED-display-screen.webp" alt="outdoor LED display screen"></a>
                 </div>
                 <p>Here’s everything you should understand to get the most out of your <b>outdoor LED screen.</b></p>
                 <h2>Step 1: Selecting the Suitable Outdoor LED Display</h2>

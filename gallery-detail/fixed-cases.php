@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
     <title>Transform Your Space with Fixed LED Cases | Cinstar LED</title>
-    <meta name="description" content="View our collection of fixed cases designed for professional LED installations. Elevate your project with CinstarLED's top-notch solutions." />
-    <meta name="keywords" content="digital display screens, LED digital signs, commercial LED screens, advertising LED display screen, advertising LED screen price, outdoor commercial LED billboard, advertising LED billboard" />
+    <meta name="description" content="View our collection of fixed cases designed for professional LED installations. Elevate your project with CinstarLED's top-notch solutions.">
+    <meta name="keywords" content="digital display screens, LED digital signs, commercial LED screens, advertising LED display screen, advertising LED screen price, outdoor commercial LED billboard, advertising LED billboard">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -151,7 +151,7 @@
                             <p>${item.line3}</p>
                         </div>
                         <div class="gallery-img">
-                            <img src=${item.imgSrc} alt=${item.line3}/>
+                            <img src=${item.imgSrc} alt=${item.line3}>
                         </div>
                 </div>`
         })

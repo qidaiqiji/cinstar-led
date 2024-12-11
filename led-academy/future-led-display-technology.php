@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Future Trends in LED Display Technology | Cinstar LED</title>
-    <meta name="description" content="The LED display industry is evolving rapidly. Discover the trends led by Cinstar LED, ranging from immersive experiences to AI-driven innovation." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="The LED display industry is evolving rapidly. Discover the trends led by Cinstar LED, ranging from immersive experiences to AI-driven innovation.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
     <style>
         h2 {
             font-size: 20px;
@@ -24,7 +24,7 @@
                 <h1 class="title">The Future of LED Display Technology: Trends Shaping the Industry</h1>
                 <p>LED display technology is increasing, with advancements that make screens brighter, more efficient, and visually striking. From immersive occasions to sustainable resolutions, LED video wall panels alter how enterprises engage with audiences. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-display-technology.webp" alt="LED display technology" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-display-technology.webp" alt="LED display technology"></a>
                 </div>
                 <p>Here’s a peek at the critical trends shaping the tomorrow of LED displays and how these inventions push the industry ahead.</p>
                 <p><b>⦁	Fine-pitch LED Panels for High-Definition Clarity</b></p>

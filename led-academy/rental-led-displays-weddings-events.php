@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rental LED Displays for Weddings and Events | Cinstar LED</title>
-    <meta name="description" content="Make your wedding and events unforgettable with rental LED displays from Cinstar LED. Add a personal touch with stunning visuals, live streams, and more." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Make your wedding and events unforgettable with rental LED displays from Cinstar LED. Add a personal touch with stunning visuals, live streams, and more.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -21,7 +21,7 @@
                 </div> -->
                 <p>Weddings and private events are all about creating memorable experiences. Of course, they matter a lot to you, and you want the best to leave a lasting impression on the guests. Incorporate the new-age tools with modern technology, such as a <a href="https://cinstar-led.com/products/rental-led-display-screen.php"><b>rental LED display</b></a>, into your event setup.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-Rental-LED-Display.webp" alt="Rental LED Display Screen" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-Rental-LED-Display.webp" alt="Rental LED Display Screen"></a>
                 </div>
                 <p>From a romantic wedding to an intimate private family gathering, <b>rental LED screens</b> offer versatile and visually stunning ambiance that can elevate the overall atmosphere.</p>
                 <p>Here are some creative ways to use <a href="https://cinstar-led.com/products/rental-led-display-screen.php"><b>rental LED video walls</b></a> and LED wall rentals to enhance your next big event.</p>

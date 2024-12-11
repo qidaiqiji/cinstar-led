@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED vs. LCD Video Walls | Cinstar LED</title>
-    <meta name="description" content="Choosing between Direct View LED and LCD video walls? Explore their pros and cons from Cinstar LED to find the best fit for your space and budget." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Choosing between Direct View LED and LCD video walls? Explore their pros and cons from Cinstar LED to find the best fit for your space and budget.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
     <style>
         h2 {
             font-size: 20px;
@@ -24,7 +24,7 @@
                 <h1 class="title">Direct View LED vs. LCD Video Walls: Which is better for your space?</h1>
                 <p>Video walls have become a decisive mechanism for enterprises, from retail shops to corporate lobbies and event rooms. With advanced technology, video walls create a spectacular visual experience, drawing engagement and delivering a distinctive platform for branding and communication. Yet, selecting the most acceptable one for your area can be demanding, with choices like <a href="https://cinstar-led.com/products/direct-view-led.php"><b>Direct View LED</b></a> and LCD video walls. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led.webp" alt="direct view led" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led.webp" alt="direct view led"></a>
                 </div>
                 <p>Here, we’ll break down the pros and cons of each to assist you in making the correct alternative.</p>
                 <h2>What is a direct-view LED video wall?</h2>

@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor Stadium LED Display | LED Perimeter Banner Screen | Sport Arena LED Advertising | Cinstar-led</title>
-    <meta name="description" content="Cinstar BT series outdoor stadium led perimeter display system can be used as perimeter banner LED screen and LED scoreboard for both indoor and outdoor sport arena to show clear image led advertising." />
-    <meta name="keywords" content="sport led display, sport led screen, sport arena perimeter banner screen, stadium led display, sport stadium led screen, led score board system, stadium led advertising, outdoor stadium perimeter banner display" />
+    <meta name="description" content="Cinstar BT series outdoor stadium led perimeter display system can be used as perimeter banner LED screen and LED scoreboard for both indoor and outdoor sport arena to show clear image led advertising.">
+    <meta name="keywords" content="sport led display, sport led screen, sport arena perimeter banner screen, stadium led display, sport stadium led screen, led score board system, stadium led advertising, outdoor stadium perimeter banner display">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -76,14 +76,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES"/>
+                <img src="../images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/BT-series-2.jpg" alt="BT SERIES"/>
+                    <img src="../images/products/Commercial-LED/BT-series-2.jpg" alt="BT SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Profile LED Perimeter Banner Solution</h2>
@@ -92,7 +92,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Top Stability & Durability Perimeter System</h2>
@@ -101,13 +101,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/BT-series-3.jpg" alt="BT SERIES"/>
+                    <img src="../images/products/Commercial-LED/BT-series-3.jpg" alt="BT SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/BT-series-4.jpg" alt="BT SERIES"/>
+                    <img src="../images/products/Commercial-LED/BT-series-4.jpg" alt="BT SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Double Safety Protection To Players</h2>
@@ -116,7 +116,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Adjustable Supporting Brackets</h2>
@@ -125,13 +125,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/BT-series-5.jpg" alt="BT SERIES"/>
+                    <img src="../images/products/Commercial-LED/BT-series-5.jpg" alt="BT SERIES">
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/BT-series-6.jpg" alt="BT SERIES"/>
+                    <img src="../images/products/Commercial-LED/BT-series-6.jpg" alt="BT SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Protective Grade IP65</h2>
@@ -140,7 +140,7 @@
                     </p>
                 </div>
             </div>
-            <hr class="under-line"/>
+            <hr class="under-line">
             <div class="detail">
                 <div class="desc-part half">
                     <h2 class="title">Multifunction For Sports Events</h2>
@@ -149,7 +149,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/BT-series-7.jpg" alt="BT SERIES"/>
+                    <img src="../images/products/Commercial-LED/BT-series-7.jpg" alt="BT SERIES">
                 </div>
             </div>
         </div>
@@ -205,13 +205,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/BT-series-8.jpg" alt="Cinstar D5 Stage LED Dance Floor Display"/>
+                    <img src="../images/products/Commercial-LED/BT-series-8.jpg" alt="Cinstar D5 Stage LED Dance Floor Display">
                     <a class="case-title">
                         <span class="current">Cinstar 8mm Stadium Perimeter Banner Screen</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/BT-series-9.jpg" alt="Cinstar D6 LED Dance Floor Screen"/>
+                    <img src="../images/products/Commercial-LED/BT-series-9.jpg" alt="Cinstar D6 LED Dance Floor Screen">
                     <a class="case-title">
                         <span class="current">Cinstar 10mm Sports Arena LED perimeter System</span>
                     </a>
@@ -518,7 +518,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" />
+            <img src="../images/home-new/contact-banner.webp">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

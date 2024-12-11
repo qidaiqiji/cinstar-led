@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Key Factors for Selecting LED Screens | Cinstar LED</title>
-    <meta name="description" content="Compare essential factors for selecting LED screens for both indoor and outdoor applications, ensuring optimal performance and reliability from Cinstar LED." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Compare essential factors for selecting LED screens for both indoor and outdoor applications, ensuring optimal performance and reliability from Cinstar LED.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
@@ -21,7 +21,7 @@
                 </div> -->
                 <p>LED screens have become vital to advertising, entertainment, and announcement dissemination. Whether you want to enhance your enterprise signage, build an immersive event experience, or exhibit vibrant content, picking the correct LED screen is vital. Yet, the considerations for buying LED screens for outdoor applications vary immensely compared to indoor ones. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-Screens-for-Outdoor-1.webp" alt="LED Screens for Outdoor" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-Screens-for-Outdoor-1.webp" alt="LED Screens for Outdoor"></a>
                 </div>
                 <p>This article explores the key factors when selecting <a href="https://www.cinstar-led.com/"><b>LED video wall panels</b></a> for both environments. </p>
                 <p><b>Let's dive in!</b></p>
@@ -36,7 +36,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-hand-o-right"></i><h2>Weather Resistance and Durability</h2></div>
                         <!-- <div class="img-box">
-                            <img src="../images/blog/blog2-3.jpg" alt="COB Encapsulation Technology-3" />
+                            <img src="../images/blog/blog2-3.jpg" alt="COB Encapsulation Technology-3">
                         </div> -->
                         <p class="sub-title"><b><a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>Outdoor LED Screens</b></a></b></p>
                         <p>Outdoor screens must withstand harsh weather conditions such as rain, wind, dust, and temperature fluctuations. Ensure the <b>LED video wall panels</b> have an IP65 or higher water and dust resistance rating. The casing should be robust, and components should be able to operate in a wide temperature range.</p>

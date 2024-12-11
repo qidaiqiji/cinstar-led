@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-240818.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rise of 3D LED Billboards in Smart Cities | Cinstar LED</title>
-    <meta name="description" content="Growing demand for 3D LED billboards is reshaping smart cities in 2025. Discover their impact on urban engagement and advertising from Cinstar LED." />
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer." />  
+    <meta name="description" content="Growing demand for 3D LED billboards is reshaping smart cities in 2025. Discover their impact on urban engagement and advertising from Cinstar LED.">
+    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
     <style>
         h2 {
             font-size: 20px;
@@ -28,7 +28,7 @@
                 <p>The need for innovative advertising solutions grows exponentially as urban centers evolve into more intelligent, interconnected spaces. Among these advancements, <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED Billboards</b></a> are leading a revolutionary shift in how businesses connect with audiences. By the year 2025, these interactive screens are expected to be a defining feature of cities, offering captivating and engaging experiences.  </p>
                 <p>This blog explores the impact of 3 LED billboards and how their advanced technology is changing urban landscapes globally. </p>
                     <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/products/new-page/3d-led-display/3d-led-display-4.jpg" alt="3D LED Display Screens" /></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/products/new-page/3d-led-display/3d-led-display-4.jpg" alt="3D LED Display Screens"></a>
                 </div>
                 <h2>What Are 3D LED Billboards?</h2>
                 <p>Cutting-edge <b>3D LED Billboards</b> are advertising tools that produce captivating visuals using <b>3D LED Display Screen</b> technology instead of the typical 2-dimensional billboards. These billboards leverage effects to create a sense of depth and movement in the content displayed to viewers. Additional features, like motion sensors and holographic projections, enhance the experience for viewers by grabbing their attention in a manner that static displays cannot replicate. </p>
