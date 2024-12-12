@@ -56,42 +56,93 @@
     <?php include('inc/rem.php'); ?>
     <meta name="description" content="Cinstar LED, a top LED display screen manufacturer, specializes in versatile LED video wall panels perfect for retail, events, and outdoor advertising.">
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen">  
+    <meta name="google-site-verification" content="wySaQserLo-ZIXvzIkAAvHQJHmiTBtHdGIHnWkfOEJc" />
     <title>LED Display Screen Manufacturer | Cinstar LED</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240917.css">
     <link rel="stylesheet" href="css/contact-241024.css">
     <link rel="stylesheet" href="css/main-240917.css">
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "Cinstar LED",
-        "alternateName": "Cinstar",
-        "url": "https://www.cinstar-led.com/",
-        "logo": "https://www.cinstar-led.com/images/logo.png",
-        "sameAs": [
-            "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
-            "https://www.instagram.com/cinstarled/",
-            "https://twitter.com/Cinstar_led"
-        ]
-    }
+    <script type="application/ld+json"> 
+        {
+            "@context": "https://www.schema.org/",
+            "@type": "LocalBusiness",
+            "name": "Cinstar Electronics Co., Limited",
+            "url": "https://www.cinstar-led.com/",
+            "@id": "https://www.cinstar-led.com/#LocalBusiness",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "image": "https://www.cinstar-led.com/images/logo.png",
+            "description": "Founded in 2012, Cinstar Electronics is a Chinese LED display manufacturer dedicated to designing and providing high quality LED products and competitive solutions for various applications. Our team are industry veterans with at least 5-year experiences and managed thousands of LED projects from rental events to commercial installations. Our products have been exported to over 40 countries and used in many high-profile installations and events worldwide.",
+            "telephone": "617-510-9377",
+            "areaServed": ["Worldwide"],
+            "sameAs": [
+                "https://www.facebook.com/Cinstarled",
+                "https://www.instagram.com/cinstarled/" ,
+                "https://x.com/Cinstar_led"
+            ],
+            "paymentAccepted": [
+                "Cash",
+                "Credit Card",
+                "Debit Card"
+            ],
+            "address":{
+                "@type": "PostalAddress",
+                "streetAddress": "2356 Ferguson Street",
+                "addressLocality": "Boston",
+                "addressRegion": "MA(Massachusetts)",
+                "postalCode": "02110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "42.301201",
+                "longitude": "-71.110184"
+            },
+            "priceRange": "$$-$$$"
+        }
     </script>
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "WebSite",
-        "name": "Cinstar LED",
-        "url": "https://www.cinstar-led.com",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.cinstar-led.com/?s={search_term_string}",
-            "query-input": "required name=search_term_string"
-            }
-    }
+    <script type="application/ld+json"> 
+        {
+            "@context": "https://www.schema.org/",
+            "@type": "LocalBusiness",
+            "name": "Cinstar Electronics Co., Limited",
+            "url": "https://www.cinstar-led.com/",
+            "@id": "https://www.cinstar-led.com/#LocalBusiness",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "image": "https://www.cinstar-led.com/images/logo.png",
+            "description": "Founded in 2012, Cinstar Electronics is a Chinese LED display manufacturer dedicated to designing and providing high quality LED products and competitive solutions for various applications. Our team are industry veterans with at least 5-year experiences and managed thousands of LED projects from rental events to commercial installations. Our products have been exported to over 40 countries and used in many high-profile installations and events worldwide.",
+            "telephone": "617-510-9377",
+            "areaServed": ["Worldwide"],
+            "sameAs": [
+            "https://www.facebook.com/Cinstarled",
+            "https://www.instagram.com/cinstarled/" ,
+            "https://x.com/Cinstar_led"
+            ],
+            "paymentAccepted": [
+                "Cash",
+                "Credit Card",
+                "Debit Card"
+            ],
+            "address":{
+                "@type": "PostalAddress",
+                "streetAddress": "2356 Ferguson Street",
+                "addressLocality": "Boston",
+                "addressRegion": "MA(Massachusetts)",
+                "postalCode": "02110"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "42.301201",
+                "longitude": "-71.110184"
+            },
+            "priceRange": "$$-$$$"
+        }
     </script>
 </head>
 <body class="page-index">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJM6DGZG"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include('inc/top.php'); ?>   
     <div class="container new-product-container">
         <div class="banner mobile-show">

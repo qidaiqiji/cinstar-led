@@ -6,6 +6,23 @@
   gtag('js', new Date());
   gtag('config', 'G-FEP9HXTB68');
 </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KSG83D7B3P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-KSG83D7B3P');
+</script>
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KJM6DGZG');
+</script>
+<!-- End Google Tag Manager -->
 <!-- Event snippet for Website traffic conversion page -->
 <script>
   gtag('event', 'conversion', {'send_to': 'AW-767120070/vvGACPTs9O0BEMal5e0C'});
