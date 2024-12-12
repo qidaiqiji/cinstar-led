@@ -2,6 +2,8 @@ RewriteEngine On
 
 <IfModule mod_rewrite.c>
 	RewriteEngine on
+	RewriteCond %{HTTP_HOST} !^www\. [NC]
+	RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteCond %{REQUEST_FILENAME} !-f
 	#RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
@@ -15,5 +17,3 @@ RewriteEngine On
     ExpiresByType image/x-icon "access plus 30 days"
 	ExpiresByType font/woff2 "access 1 year"
 </IfModule>
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
