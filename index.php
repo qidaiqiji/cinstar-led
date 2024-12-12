@@ -100,41 +100,28 @@
             "priceRange": "$$-$$$"
         }
     </script>
-    <script type="application/ld+json"> 
+    <script type="application/ld+json">
         {
-            "@context": "https://www.schema.org/",
-            "@type": "LocalBusiness",
+            "@context": "https://schema.org",
+            "@type": "Organization",
             "name": "Cinstar Electronics Co., Limited",
             "url": "https://www.cinstar-led.com/",
-            "@id": "https://www.cinstar-led.com/#LocalBusiness",
+            "@id": "https://www.cinstar-led.com/#Organization",
             "logo": "https://www.cinstar-led.com/images/logo.png",
-            "image": "https://www.cinstar-led.com/images/logo.png",
-            "description": "Founded in 2012, Cinstar Electronics is a Chinese LED display manufacturer dedicated to designing and providing high quality LED products and competitive solutions for various applications. Our team are industry veterans with at least 5-year experiences and managed thousands of LED projects from rental events to commercial installations. Our products have been exported to over 40 countries and used in many high-profile installations and events worldwide.",
-            "telephone": "617-510-9377",
-            "areaServed": ["Worldwide"],
-            "sameAs": [
-            "https://www.facebook.com/Cinstarled",
-            "https://www.instagram.com/cinstarled/" ,
-            "https://x.com/Cinstar_led"
-            ],
-            "paymentAccepted": [
-                "Cash",
-                "Credit Card",
-                "Debit Card"
-            ],
-            "address":{
-                "@type": "PostalAddress",
-                "streetAddress": "2356 Ferguson Street",
-                "addressLocality": "Boston",
-                "addressRegion": "MA(Massachusetts)",
-                "postalCode": "02110"
-            },
-            "geo": {
-                "@type": "GeoCoordinates",
-                "latitude": "42.301201",
-                "longitude": "-71.110184"
-            },
-            "priceRange": "$$-$$$"
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "contactType": "customer service",
+                    "telephone": "617-510-9377",
+                    "email": "sales@cinstar-led.com",
+                    "areaServed": [
+                        "Worldwide"
+                    ],
+                    "availableLanguage": [
+                        "English"
+                    ]
+                }
+            ]
         }
     </script>
 </head>
