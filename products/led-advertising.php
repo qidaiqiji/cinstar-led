@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Outdoor & Indoor LED Advertising Display | Cinstar LED</title>
-    <meta name="description" content="Explore Cinstar LED’s advertising display screens for both outdoor and indoor use, delivering high-quality visuals to captivate audiences.">
+    <title>Outdoor Led Screen For Advertising | LED Display for Ads</title>
+    <meta name="description" content="Our outdoor LED advertising screens offer stunning visuals & energy efficiency. Perfect for billboards, events designed to perform in all conditions.">
     <meta name="keywords" content="led advertising screen, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising, led advertising board">
 
 <script type="application/ld+json">

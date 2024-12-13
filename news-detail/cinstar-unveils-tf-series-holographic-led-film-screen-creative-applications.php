@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar LED Unveils TF Series Holographic LED Film Screen</title>
-    <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display" />
-    <meta name="description" content="Introducing the TF Series Holographic LED Film Screen by Cinstar LED – perfect for creative projects, delivering stunning visuals and endless possibilities." />
+    <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display">
+    <meta name="description" content="Introducing the TF Series Holographic LED Film Screen by Cinstar LED – perfect for creative projects, delivering stunning visuals and endless possibilities.">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -23,7 +23,7 @@
                 <b>20th May, 2024, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> proudly announces the launch of its latest product, the <a href="https://www.cinstar-led.com/product-detail/tf-series.php"><b>TF series </b></a>holographic LED Film Screen for Creative Applications. Used in wide application scenarios it can be installed in various places. The flexible holographic LED film screen display can be widely installed in retail shops, restaurants, chain stores, shopping centers, corporate exhibition centers, etc., to deliver eye-catching images and advertisements and achieve its commercial value.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/TF-series-display.webp" alt="TF series display"/>
+                    <img src="../images/news/TF-series-display.webp" alt="TF series display">
                 </div>
                 <p><a href="https://www.cinstar-led.com/product-detail/tf-series.php">Cinstar's TF Series</a> offers flexibility and are easy to use for creative applications. </p>
                 <p>Let’s explore its features.</p>
@@ -44,7 +44,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="2024-07-08.php">108SQM media cube LED video wall panels for ice hockey arena </a></h3>
+        <h3><span>Previous :</span><a href="108sqm-media-cube-led-video-wall-panels-aging.php">108SQM media cube LED video wall panels for ice hockey arena </a></h3>
         <h3><span>Next :</span><a href="direct-view-led-tv-video-wall-ctv-series.php">Cinstar unveils CTV series All in One Direct View LED TV Video Wall</a></h3>
     </div>
         <!-- 底部开始 -->

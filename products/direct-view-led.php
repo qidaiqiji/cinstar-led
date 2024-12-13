@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Superior Direct View LED Video Wall | Cinstar LED</title>
-    <meta name="description" content="Experience superior Direct View LED video walls from Cinstar LED, designed for exceptional clarity and visual impact.">
+    <title>Direct View LED TV | Direct View LED Display Video Wall</title>
+    <meta name="description" content="Mutate your space with our Direct View LED video walls & LED display solutions. Perfect for business presentations, control rooms & home entertainment.">
     <meta name="keywords" content="direct view led, direct view led wall, direct view led video wall, fine pitch led display, fine pitch led display, fine pitch led video wall, narrow pixel pitch led display, fine pixel pitch led video wall, direct view led wall panel">  
 
 <script type="application/ld+json">

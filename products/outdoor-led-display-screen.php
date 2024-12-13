@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Advanced Outdoor LED Display Screen | Cinstar LED</title>
-    <meta name="description" content="Cinstar LED offers advanced outdoor LED display screen and video wall display board designed to cater to all your outdoor applications.">
+    <title>Outdoor LED Display Screen & Video Walls | Outdoor LED Screens</title>
+    <meta name="description" content="Enhance outdoor advertising with LED video walls & display boards. Our high-resolution outdoor LED screens are designed to stand out in any environment.">
     <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display">  
 
 <script type="application/ld+json">

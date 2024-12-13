@@ -54,10 +54,10 @@
 <head>
     <?php include('inc/meta.php'); ?>
     <?php include('inc/rem.php'); ?>
-    <meta name="description" content="Cinstar LED, a top LED display screen manufacturer, specializes in versatile LED video wall panels perfect for retail, events, and outdoor advertising.">
+    <meta name="description" content="We are Leading LED display manufacturer and offering high-quality LED video wall panels and screens. Contact us for LED screen display for your needs.">
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen">  
     <meta name="google-site-verification" content="wySaQserLo-ZIXvzIkAAvHQJHmiTBtHdGIHnWkfOEJc" />
-    <title>LED Display Screen Manufacturer | Cinstar LED</title>
+    <title>LED Video Wall Panels & LED Screen Display Manufacturers</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240917.css">
@@ -718,7 +718,7 @@
                     </div>
                 </div>
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2024-09-20.php">
+                    <a class="news-thumb" href="news-detail/media-cube-led-display-video-wall-at-lulea-hockey-sweden.php">
                         <img src="images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall">
                     </a>
                     <div class="news-detail">
@@ -733,7 +733,7 @@
                     <hr class="under-line">
                 </div>
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2024-09-11.php">
+                    <a class="news-thumb" href="news-detail/cob-direct-view-led-video-wall-usa.php">
                         <img src="images/news/direct-view-led-news.jpg" alt="direct-view-led-news">
                     </a>
                     <div class="news-detail">

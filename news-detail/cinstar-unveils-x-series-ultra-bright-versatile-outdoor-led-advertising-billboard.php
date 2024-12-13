@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar LED's X Series Ultra-Bright Outdoor LED Billboard</title>
-    <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display" />
-    <meta name="description" content="Experience the power of Cinstar LED’s X Series Ultra-Bright Outdoor LED Billboard, the ultimate solution for visibility and versatility in advertising." />
+    <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display">
+    <meta name="description" content="Experience the power of Cinstar LED’s X Series Ultra-Bright Outdoor LED Billboard, the ultimate solution for visibility and versatility in advertising.">
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -23,7 +23,7 @@
                 <b>12th March, 2023, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> is excited to announce the launch of its new <b>X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</b>. Its top stability, superb visibility and extraordinary image performance make it the new icon for outdoor billboard advertising at pedestrian malls, shopping centers, theme parks, shopping malls and other high-traffic areas.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/X-series-display.webp" alt="X series display"/>
+                    <img src="../images/news/X-series-display.webp" alt="X series display">
                 </div>
                 <p><b>Here are the Key Features </b></p>
                 <p>⦁	High resolution and wide pixels for option</p>
@@ -50,8 +50,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="2023-05-09.php">Innovative transparent LED film screen wall debuts</a></h3>
-        <h3><span>Next :</span><a href="2023-1-30.php">Seamless UHD LED home cinema upgrades visual effects</a></h3>
+        <h3><span>Previous :</span><a href="transparent-led-film-screen-debuts.php">Innovative transparent LED film screen wall debuts</a></h3>
+        <h3><span>Next :</span><a href="uhd-direct-view-led-video-wall-upgrades-visual-effects.php">UHD direct view LED video wall upgrades visual effects for home cinema</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>
