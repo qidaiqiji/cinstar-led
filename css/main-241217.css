@@ -310,6 +310,57 @@ ul.unorder-list li {
 .contact-detail {
     margin-bottom: 0;
     background: #fff;
+    padding-left: 5%;
+    display: flex;
+    padding: 0;
+    padding-left: 3%;
+}
+.contact-detail .head-title {
+    margin-bottom: 0.4rem;
+    text-align: left;
+}
+.contact-detail .head-title h2::after {
+    display: none;
+}
+.contact-main {
+    width: 40%;
+    padding: 0.8rem 0;
+}
+.faq-content {
+    flex: 1;
+    background: #b34f47;
+    padding: 0.8rem .5rem;
+    color: #fff;
+}
+.faq-item {
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+.faq-title {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+.faq-title span {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+.faq-text, .fa-minus, .faq-text-block .fa-plus{
+    display: none;
+}
+.faq-text-block .faq-text, .faq-text-block .fa-minus{
+    display: block;
+}
+.faq-text p {
+    margin-bottom: 20px;
+}
+.faq-text p:first-child {
+    margin-top: 20px;
 }
 .date{
     padding: 0 10px;
@@ -324,6 +375,45 @@ ul.unorder-list li {
 }
 .contact-body {
     margin-top: 0;
+}
+.contact-body input{
+    width: 87%;
+    padding: 16px;
+    border: 1px solid #666;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+}
+.contact-body textarea{
+    width: 93%;
+    height: 2.25rem;
+    border-color: #666;
+    /* margin-top: 30px; */
+    margin-bottom: .325rem;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.btn {
+    width: 93%;
+    text-align: right;
+}
+.btn .submit{
+    width: 200px;
+    height: 64px;
+    border: 1px solid #bc261a;
+    text-align: center;
+    line-height: 1;
+    border-radius: 0;
+    font-size: 18px;
+    color:#bc261a;
+    font-weight: bold;
+}
+.btn .submit:hover{
+    color:#fff;
+    background:#bc261a;
 }
 .img-box {
     margin-right: 0;
@@ -372,6 +462,20 @@ ul.unorder-list li {
     }
     .author{
         margin-top:0.2rem;
+    }
+    .contact-detail {
+        flex-wrap: wrap;
+        padding: 0;
+    }
+    .contact-main, .faq-content {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .contact-body input {
+        width: 44%;
+    }
+    .contact-body textarea, .btn {
+        width: 97%;
     }
 }
 @media (max-width: 1024px){
@@ -439,6 +543,15 @@ ul.unorder-list li {
     .date {
         padding: 0 10px;
     }
+    .contact-body input {
+        width: 40%;
+        margin-right: 4%;
+        margin-left: 2%;
+    }
+    .contact-body textarea, .btn {
+        width: 94%;
+        margin-left: 2%;
+    }
 }
 @media (max-width: 991px){
     .profile .profile-content {
@@ -472,8 +585,33 @@ ul.unorder-list li {
     .product-section .head-title {
         margin-bottom: 0.4rem;
     }
+    .contact-detail {
+        padding-bottom: 0;
+    }
+    .contact-main {
+        padding-top: 0;
+        padding-bottom: 0.4rem;
+    }
+    .faq-content {
+        padding-top: 0.4rem;
+        padding-bottom: 0;
+    }
+    .contact-body input {
+        width: 38%;
+    }
+    .contact-body textarea {
+        height: 120px;
+    }
+    .contact-body textarea, .btn {
+        width: 92%;
+    }
 }
 @media (max-width: 768px) {
+    .btn .submit {
+        width: 120px;
+        height: 44px;
+        font-size: 16px;
+    }
     .news-list .news-item:last-child{
         border-bottom: none;
         padding-bottom: 0;
@@ -502,6 +640,23 @@ ul.unorder-list li {
     }
 }
 @media (max-width: 576px) {
+    .contact-body input {
+        width: 92%;
+        margin-right: 0;
+        margin-left: 0;
+        padding: 10px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    .contact-body textarea, .btn {
+        width: 98%;
+        margin-left: 0;
+    }
+    .btn .submit {
+        width: 90px;
+        height: 30px;
+        font-size: 14px;
+    }
     .home-h1 h1 {
         font-size: 30px;
         padding: 0 10px;

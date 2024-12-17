@@ -61,8 +61,8 @@
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240917.css">
-    <link rel="stylesheet" href="css/contact-241024.css">
-    <link rel="stylesheet" href="css/main-240917.css">
+    <!-- <link rel="stylesheet" href="css/contact-241024.css"> -->
+    <link rel="stylesheet" href="css/main-241217.css">
     <script type="application/ld+json"> 
         {
             "@context": "https://www.schema.org/",
@@ -178,7 +178,7 @@
         </div>
         <div class="detail-section profile-mobile">
             <div class="profile-content">
-                <p>As a leading sophisticated LED display screen manufacturer in China, Cinstar is dedicated to offering a wide range of LED video wall panels to grow and expand your business. We are honored to get involved into each of your project and propose you a tailored LED visual solution！</p>
+                <p>As a leading sophisticated LED screen display manufacturer in China, Cinstar is dedicated to offering a wide range of LED video wall panels to grow and expand your business. We are honored to get involved into each of your project and propose you a tailored LED visual solution！</p>
                 <div class="profile-mark">
                     <div class="profile-mark-item" style="width: 20%;">
                         <span class="mark-title">2012</span>
@@ -201,7 +201,7 @@
             <div class="profile-content">
                 <div class="profile-dialog">
                     <h2>Cinstar Profile</h2>
-                    <p>As a leading sophisticated LED display screen manufacturer in China, Cinstar is dedicated to offering a wide range of LED video wall panels to grow and expand your business. We are honored to get involved into each of your project and propose you a tailored LED visual solution！</p>
+                    <p>As a leading sophisticated LED screen display manufacturer in China, Cinstar is dedicated to offering a wide range of LED video wall panels to grow and expand your business. We are honored to get involved into each of your project and propose you a tailored LED visual solution！</p>
                 </div>
                 <div class="profile-mark">
                     <div class="profile-mark-item" style="width: 20%;">
@@ -266,8 +266,8 @@
                     </ul>
                 </div>
                 <div class="instruction home-instruction">
-                    <h2>Your Best China LED Display Screen Manufacturer & LED Video Wall Panels Supplier</h2>
-                    <p>As a leading <b>LED display manufacturer</b>, Cinstar offers cutting-edge solutions for a wide range of industries. Our expertise as an <b>LED display manufacturer</b> ensures that we provide high-quality, durable, and energy-efficient displays, tailored to meet the unique needs of our clients. With years of experience in the industry, we are committed to delivering exceptional products that enhance visual experiences and drive business success.</p>
+                    <h2>Your Best China LED Screen Display Manufacturer & LED Video Wall Panels Supplier</h2>
+                    <p>As a leading <b>LED display manufacturer</b>, Cinstar offers cutting-edge solutions for a wide range of industries. Our expertise as an <b>LED screen manufacturer</b> ensures that we provide high-quality, durable, and energy-efficient displays, tailored to meet the unique needs of our clients. With years of experience in the industry, we are committed to delivering exceptional products that enhance visual experiences and drive business success.</p>
                     <a class="inquery" href="mailto:sales@cinstar-led.com">Get A Quote</a>
                 </div>
             </div>
@@ -750,26 +750,54 @@
             </div>
         </div>
         <div class="contact-detail product-section">
-            <div class="head-title">
-                <h2>Get In Touch</h2>
-                <p>Contact Cinstar for your tailored LED video wall panel solution</p>
-            </div>
-            <form id="myforms" name="myforms" method="post" action="/quotes/Index/index" onSubmit="return Checks()">
-                <div class="contact-body">
-                    <p class="input-contact">
+            <div class="contact-main">
+                <div class="head-title">
+                    <h2>Get In Touch</h2>
+                </div>
+                <form id="myforms" name="myforms" method="post" action="/quotes/Index/index" onSubmit="return Checks()">
+                    <div class="contact-body">
                         <input type="text" placeholder="Name" maxlength="50" name="name" class="contact-input">
                         <input type="text" placeholder="Company" maxlength="50" name="company" class="contact-input">
-                    </p>
-                    <p class="input-contact">
                         <input type="text" placeholder="E-mail" maxlength="50" name="email" class="contact-input">
                         <input type="text" placeholder="Telephone" maxlength="50" name="tel" class="contact-input">
-                    </p>
-                    <textarea placeholder="Message" name="contents" maxlength="1000" class="contact-textarea"></textarea>
-                    <div class="btn">
-                        <button class="submit">Submit</button>
+                        <textarea placeholder="Message" name="contents" maxlength="1000" class="contact-textarea"></textarea>
+                        <div class="btn">
+                            <button class="submit">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="faq-content">
+                <div class="head-title">
+                    <h2>FAQs About LED Screen Manufacturer</h2>
+                </div>
+                <div class="faq-item faq-text-block">
+                    <h4 class="faq-title">What Should I Consider When Choosing an LED Display Manufacturer?<span><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span></h4>
+                    <div class="faq-text">
+                        <p>When selecting an <strong>LED display manufacturer</strong>, it’s essential to prioritize quality, customization, and support. Cinstar, a trusted LED screen manufacturer, offers high-performance <strong>LED video wall panels</strong> and LED screen displays suitable for various applications, from advertising to large-scale installations. Their products feature advanced technology for superior brightness, resolution, and energy efficiency.</p>
+                        <p>Customization options are crucial, and Cinstar provides flexible solutions to meet your project’s unique needs. As a forward-thinking <strong>LED screen display manufacturer</strong>, they offer cutting-edge technology, ensuring your displays are future-proof. Additionally, Cinstar's exceptional customer support and service provide peace of mind throughout the product lifecycle.</p>
+                        <p>With competitive pricing and long-lasting value, Cinstar is a top choice for businesses seeking reliable and high-quality LED displays.</p>
+                        <p>Choose Cinstar as your LED display manufacturer for advanced, customizable solutions and excellent support.</p>
                     </div>
                 </div>
-            </form>
+                <div class="faq-item">
+                    <h4 class="faq-title">How Do LED Screen Manufacturers Ensure Product Quality?<span><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span></h4>
+                    <div class="faq-text">
+                        <p>To ensure high-quality products, <strong>LED display manufacturers</strong> like Cinstar adhere to strict quality control measures throughout the production process. As a leading <strong>LED screen manufacturer</strong>, Cinstar uses premium components, such as top-grade LED chips and durable frames, ensuring longevity and superior performance for their <strong>LED screen displays</strong>.</p>
+                        <p>Advanced testing is a key part of the process—each unit undergoes rigorous checks for brightness, resolution, and color accuracy. For larger installations, such as <strong>LED video wall panels</strong>, manufacturers ensure seamless integration and reliability even in challenging environments.</p>
+                        <p>Additionally, continuous research and innovation help <strong>LED screen display manufacturers</strong> like Cinstar stay ahead of industry standards, offering energy-efficient and cutting-edge displays that meet diverse customer needs.</p>
+                        <p>By focusing on precision, durability, and innovation, <strong>LED display manufacturers</strong> ensure that their products deliver optimal performance and long-term value.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <h4 class="faq-title">How Do I Choose the Best LED Screen Display Manufacturer?<span><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span></h4>
+                    <div class="faq-text">
+                        <p>Choosing the best <strong>LED screen display manufacturer</strong> requires careful consideration of several factors. Start by evaluating the manufacturer’s reputation for product quality. A reliable <strong>LED screen manufacturer</strong> like Cinstar uses premium materials and cutting-edge technology to deliver durable, high-performance displays that offer superior brightness and clarity.</p>
+                        <p>Customization options are also essential. The best <strong>LED display manufacturer</strong> should provide tailored solutions to meet your specific project needs, whether it's for indoor or outdoor installations. Additionally, assess the level of customer support the manufacturer offers, including installation assistance, maintenance, and troubleshooting services.</p>
+                        <p>By focusing on these aspects, you can select a <strong>LED screen display manufacturer</strong> that offers high-quality, long-lasting, and cost-effective solutions for your business or project.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <?php include('inc/foot.php'); ?>
     </div>
@@ -800,6 +828,13 @@
                     clickable: true,
                 },
             });
+            $('.faq-title span').each(function(index) {
+                $this = $(this);
+                $this.click(function() {
+                    $('.faq-item').removeClass("faq-text-block")
+                    $('.faq-item').eq(index).toggleClass("faq-text-block")
+                })
+            })
         })
     </script>
     <script>scrollImg(".img-main1", '.img-list1');</script>
