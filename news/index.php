@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/news-240816.css">
+    <link rel="stylesheet" href="../css/news-241217.css">
     <title>LED Industry News and Updates | Cinstar LED</title>
     <meta name="description" content="Get the latest news from Cinstar LED, including product releases, company events, and industry news. Keep up with our latest achievements and innovations.">
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, transparent LED display, creative LED screen, poster LED wall, Indoor LED display, outdoor LED display, commercial LED display, LED digital signage">
@@ -15,14 +15,19 @@
             <div class="head-title">
                 <h1>LED Industry News and Updates</h1>
             </div>
-            <div class="content-box">
+            <div class="content-box" id="news-box">
+            </div>
+            <div class="pagination-controls">
+                <button class="prev-page">Previous</button>
+                <div id="pagination"></div>
+                <button class="next-page">Next</button>
             </div>
         </div>
         <?php include('../inc/foot.php'); ?>
     </div>
     <?php include('../inc/js.php'); ?>
     <script>
-        let data = [
+        let dataList = [
             {
                 imgSrc:'../images/news/dvled-1.jpg',
                 title:'HD1.2 UHD DV LED video wall display panels delivered to Boston college USA',
@@ -332,29 +337,82 @@
                 href: '../news-detail/rental-led-screen-for-church-norway.php',
             },
         ]
-        let htms = "";
-        data.map(item=>{
-            htms += `<div class="news-item">
-                <a class="news-img" href=${item.href}>
-                    <div class="img-wrap">
-                        <img src=${item.imgSrc} alt=${item.title}>
+        // 每页显示的数据条数
+        const pageSize = 10;
+        // 计算总页数
+        const totalPages = Math.ceil(dataList.length / pageSize);
+        let currentPage = 1;
+        function showDataByPage(page) {
+            const startIndex = (page - 1) * pageSize;
+            const endIndex = startIndex + pageSize;
+            const dataToShow = dataList.slice(startIndex, endIndex);
+            $('#news-box').empty();
+            $.each(dataToShow, function (index, item) {
+                    let htms = `<div class="news-item">
+                    <a class="news-img" href=${item.href}>
+                        <div class="img-wrap">
+                            <img class="lazy-load" src=${item.imgSrc} alt=${item.title}>
+                        </div>
+                    </a>
+                    <div class="desc">
+                        <div class="news-title">
+                            <h2><a href=${item.href}>${item.title}</a></h2>
+                            <span class="date">${item.data}</span>
+                        </div>
+                        <p class="detail">
+                            <a href=${item.href}>${item.detail}</a>
+                        </p>
+                        <p class="more"><a href=${item.href}>READ MORE>></a></p>
                     </div>
-                </a>
-                <div class="desc">
-                    <div class="news-title">
-                        <h2><a href=${item.href}>${item.title}</a></h2>
-                        <span class="date">${item.data}</span>
-                    </div>
-                    <p class="detail">
-                        <a href=${item.href}>${item.detail}</a>
-                    </p>
-                    <p class="more"><a href=${item.href}>READ MORE>></a></p>
-                </div>
-            </div>`
-        })
-        $(function(){
-            $(".content-box").append(htms)
-        })
+                </div>`
+                $('#news-box').append(htms);
+            });
+            $('#pagination button').removeClass('active');
+            $('#pagination button').eq(page - 1).addClass('active');
+            currentPage = page;
+            updatePaginationControls();
+        }
+        function createPagination() {
+            $('#pagination').empty();
+            for (let i = 1; i <= totalPages; i++) {
+                const button = $('<button>').text(i);
+                button.click(function () {
+                    showDataByPage(i);
+                });
+                $('#pagination').append(button);
+            }
+        }
+        function updatePaginationControls() {
+            // 上一页按钮逻辑
+            $('.prev-page').prop('disabled', currentPage === 1);
+            if ($('.prev-page').prop('disabled')) {
+                $('.prev-page').addClass('disabled');
+            } else {
+                $('.prev-page').removeClass('disabled');
+            }
+            $('.prev-page').off('click').on('click', function () {
+                if (currentPage > 1) {
+                    showDataByPage(currentPage - 1);
+                }
+            });
+
+            // 下一页按钮逻辑
+            $('.next-page').prop('disabled', currentPage === totalPages);
+            if ($('.next-page').prop('disabled')) {
+                $('.next-page').addClass('disabled');
+            } else {
+                $('.next-page').removeClass('disabled');
+            }
+            $('.next-page').off('click').on('click', function () {
+                if (currentPage < totalPages) {
+                    showDataByPage(currentPage + 1);
+                }
+            });
+        }
+        showDataByPage(1);
+        createPagination();
+        updatePaginationControls()
+        $('#pagination button').eq(0).addClass('active');
     </script>
     <script>GetCurStyle("news");</script>
 </body> 

@@ -11,7 +11,34 @@ img{
     margin: 0 auto;
 }
 .content-box{
-    margin: 1.125rem 0 .75rem 0;
+    margin: 1.125rem 0 20px 0;
+}
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+#pagination {
+    margin: 0 20px;
+}
+.pagination-controls button {
+    width: 20px;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    font-size: 16px;
+    color: #2b1fca;
+    cursor: pointer;
+}
+.pagination-controls button.active {
+    color: #bc261a;
+}
+.pagination-controls button.disabled {
+    color: #999;
+    cursor: not-allowed;
+}
+.pagination-controls .prev-page, .pagination-controls .next-page {
+    width: auto;
 }
 .news-item{
     width: 100%;

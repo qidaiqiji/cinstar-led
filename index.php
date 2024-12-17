@@ -828,13 +828,15 @@
                     clickable: true,
                 },
             });
-            $('.faq-title span').each(function(index) {
-                $this = $(this);
-                $this.click(function() {
+            $('#faq-item1').addClass('faq-text-block');
+            $('.faq-title span').click(function () {
+                if ($(this).parent().parent().hasClass('faq-text-block')) {
+                    $(this).parent().parent().removeClass('faq-text-block');
+                } else {
                     $('.faq-item').removeClass("faq-text-block")
-                    $('.faq-item').eq(index).toggleClass("faq-text-block")
-                })
-            })
+                    $(this).parent().parent().addClass('faq-text-block');
+                }
+            });
         })
     </script>
     <script>scrollImg(".img-main1", '.img-list1');</script>
