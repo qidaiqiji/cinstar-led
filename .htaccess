@@ -1,19 +1,105 @@
-RewriteEngine On
-
 <IfModule mod_rewrite.c>
-	RewriteEngine on
-	RewriteCond %{HTTP_HOST} !^www\. [NC]
-	RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
-	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteCond %{REQUEST_FILENAME} !-f
-	#RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
-	ErrorDocument 404 /error/404.php
-	ExpiresActive On
+    RewriteEngine On
+
+    # Force www
+    RewriteCond %{HTTP_HOST} !^www\. [NC]
+    RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+	# Start Custom Redirects
+
+    # Redirect product-detail pages
+	Redirect 301 /product-detail/nl-series.php /products/
+	Redirect 301 /product-detail/lm-series.php /products/
+	Redirect 301 /product-detail/mi-series.php /products/
+	Redirect 301 /product-detail/products/led-stage-screen.php /products/led-stage-screen.php
+	Redirect 301 /product-detail/db-series.php /products/
+	Redirect 301 /product-detail/vx-series.php /products/
+	Redirect 301 /product-detail/ei-series.php /products/
+	Redirect 301 /product-detail/products/3d-led-display.php /products/
+	Redirect 301 /product-detail/products/advertising-led.php /products/
+	Redirect 301 /product-detail/products/church-led-screen.php /products/
+	Redirect 301 /product-detail/products/concert-led-screen.php /products/
+	Redirect 301 /product-detail/products/digital-billboard.php /products/
+	Redirect 301 /product-detail/products/direct-view-led.php /products/
+	Redirect 301 /product-detail/products/event-led-screen.php /products/
+	Redirect 301 /product-detail/products/indoor-led-display.php /products/
+	Redirect 301 /product-detail/products/outdoor-led-display.php /products/
+	Redirect 301 /product-detail/products/stage-led-screen.php /products/
+	Redirect 301 /product-detail/fantasy.php /products/
+
+	# Redirect products paths
+	Redirect 301 /products/outdoor- /products/outdoor-led-display-screen.php
+	Redirect 301 /products/digital- /products/digital-led-billboard.php
+	Redirect 301 /products/rental-led- /products/rental-led-display-screen.php
+	Redirect 301 /products/led /products/led-stage-screen.php
+	Redirect 301 /products/3d-led-d /products/3d-led-display-screen.php
+	Redirect 301 /products/commerci /products/commercial-led-display.php
+	Redirect 301 /products/direct-v /products/direct-view-led.php
+	Redirect 301 /products/fine-pit /gallery-detail/fine-pitch-cases.php
+	Redirect 301 /products/rental-l /products/rental-led-display-screen.php
+	Redirect 301 /products/custom-led.php /products/custom-led-display.php
+	Redirect 301 /products/commercial-led.php /products/commercial-led-display.php
+	Redirect 301 /products/fine-pitch.php /products/fine-pitch-led-display.php
+	Redirect 301 /products/stage-led-screen.php /products/led-stage-screen.php
+	Redirect 301 /products/outdoor-led-display.php /products/outdoor-led-display-screen.php
+	Redirect 301 /products/advertising-led.php /products/led-advertising.php
+	Redirect 301 /products/digital-billboard.php /products/digital-led-billboard.php
+	Redirect 301 /products/rental-led.php/1000 /products/rental-led-display-screen.php
+	Redirect 301 /products/commercial-led.php/1000 /products/commercial-led-display.php
+	Redirect 301 /products/products/fine-pitch.php /products/fine-pitch-led-display.php
+
+	Redirect 301 /products/rental-led.php /products/rental-led-display-screen.php
+	Redirect 301 /products/3d-led-display.php /products/3d-led-display-screen.php
+	Redirect 301 /products/creative-led.php /products/creative-led-display.php
+
+	# Redirects with specific query parameters
+	RewriteCond %{QUERY_STRING} source=post_page---------------------------
+	RewriteRule ^product-detail/lm-series\.php$ /products? [R=301,L]
+
+	RewriteCond %{QUERY_STRING} source=post_page---------------------------
+	RewriteRule ^products/lm-series\.php$ /products/rental-led-display-screen.php? [R=301,L]
+
+	RewriteCond %{QUERY_STRING} source=post_page---------------------------
+	RewriteRule ^products/rental-led\.php$ /products/rental-led-display-screen.php? [R=301,L]
+
+	# General redirects
+	RewriteRule ^markets/?$ / [R=301,L]
+	Redirect 301 /commercial-led-display.php /products/commercial-led-display.php
+	Redirect 301 /news-detail/2016-3-17.php /news/
+	Redirect 301 /creative-led-display.php /products/creative-led-display.php
+	Redirect 301 /about-cinstar.html /about/
+	Redirect 301 /etqozhqy.html /
+	Redirect 301 /contact.html /contact/
+	Redirect 301 /sitemap.html /
+	Redirect 301 /news-detail/pros-and-cons-of-digital-led-billboard-advertising-truck.php /pros-and-cons-of-digital-led-billboard-advertising-truck/
+	Redirect 301 /support /
+	Redirect 301 /news-detail/2020-10-19.php /news/
+	RedirectMatch 301 ^/product-det$ /products/
+	RedirectMatch 301 ^/product-$ /products/
+
+	# Redirect image path
+	Redirect 301 /images/news/dvled-1.webp /news-detail/dvled-video-wall-display-panel.php
+
+	# Remove trailing slash from .php URLs
+	RewriteCond %{REQUEST_URI} \.php/$
+	RewriteRule ^(.*)\.php/$ /$1.php [L,R=301]
+
+	# End Custom Redirects
+
+    # Ensure requested file or directory does not exist before rewriting
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+
+    # 404 Error handling
+    ErrorDocument 404 /error/404.php
+
+    # Caching for images and fonts
+    ExpiresActive On
     ExpiresByType image/jpg "access plus 30 days"
     ExpiresByType image/jpeg "access plus 30 days"
     ExpiresByType image/gif "access plus 30 days"
     ExpiresByType image/png "access plus 30 days"
     ExpiresByType image/webp "access plus 30 days"
     ExpiresByType image/x-icon "access plus 30 days"
-	ExpiresByType font/woff2 "access 1 year"
+    ExpiresByType font/woff2 "access 1 year"
 </IfModule>
