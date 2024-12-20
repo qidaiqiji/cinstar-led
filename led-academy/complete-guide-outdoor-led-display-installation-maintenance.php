@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Installation and Care | Cinstar LED</title>
     <meta name="description" content="Set up and maintain your outdoor LED display like a pro! Check the guide from Cinstar LED, offers practical steps for durability and top-notch visuals.">
@@ -22,6 +22,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Complete Guide to Outdoor LED Display Installation and Maintenance</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>November 14, 2024</span>
+                </div>
                 <p><b>Outdoor LED displays</b> are an effective method to grab engagement, immerse audiences, and boost branding. From bustling metropolis centers to arenas and event platforms, these exhibits are built to resist the elements and provide dynamic visuals day and night. Nevertheless, thriving installation and continuous maintenance of an <a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>outdoor LED display</b></a> need detailed planning and care to guarantee longevity and optimal performance. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-LED-display-screen.webp" alt="outdoor LED display screen"></a>

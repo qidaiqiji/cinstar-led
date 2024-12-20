@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Benefits of Outdoor LED Displays | Cinstar LED</title>
     <meta name="description" content="Uncover the top benefits of outdoor LED displays for advertising and public communication from Cinstar LED, improving your marketing efforts.">
@@ -25,10 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Top Benefits of Outdoor LED Displays for Advertising and Public Communication</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
-                    <span>May 15, 2024</span>
-                </div> -->
+                    <span>September 30, 2024</span>
+                </div>
                 <p>Fascinating visuals are essential for catching attention and effectively delivering a message. One of the most impactful methods to accomplish this is through outdoor LED displays. An outdoor LED screen delivers unpaired visibility and vibrant communication, whether for advertisement drives, public notifications, or event publicity. </p>
                 <div class="img-box">
                 <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/benefits-of-outdoor-LED-displays.webp" alt="outdoor LED displays"></a>

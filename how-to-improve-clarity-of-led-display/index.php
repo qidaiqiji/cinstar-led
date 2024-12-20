@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How to Improve Clarity of LED Display | Cinstar LED</title>
     <meta name="description" content="Enhance the clarity of your LED display with easy-to-follow techniques. Cinstar LED provides practical solutions for sharper, clearer visuals.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How to Improve Clarity of LED Display?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 21, 2019</span>
-                </div> -->
+                </div>
                 <p>As the main carrier of commercial advertising and information broadcasting, LED display keeps close pace with the current market trend for <a href="../products/fine-pitch-led-display.php">high definition image production and better visual experience</a>. High-definition video can often make the image on the display more detailed and realistic and thus bring a more dramatic visual impact. There are two factors should be taken into consideration to achieve high-definition displaying. One is that the video source has to be full HD format, and the other is that the LED display has to be full HD resolution. </p>
                 <div class="img-box">
                     <img src="../images/blog/Blog8-1.jpg" alt="Improve Clarity of LED Display-1">

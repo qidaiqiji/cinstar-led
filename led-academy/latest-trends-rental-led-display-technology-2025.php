@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>2025 Rental LED Display Trends | Cinstar LED</title>
     <meta name="description" content="Get ahead with the latest trends in rental LED displays for 2025. Learn about applications, and design innovations shaping the industry from Cinstar LED.">
@@ -22,6 +22,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Latest Trends in Rental LED Display Technology for 2024</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>November 14, 2024</span>
+                </div>
                 <p>As we approach 2025, the <b>rental LED display</b> technology world is witnessing remarkable advancements, reshaping the event and marketing industries. From more brilliant visuals to easier form, the latest <b>rental LED screens</b> bring fresh possibilities for entertaining audiences in any environment. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-display.webp" alt="rental led display"></a>

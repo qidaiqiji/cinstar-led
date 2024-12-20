@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Eliminate Moiré Effect on LED Displays | Cinstar LED</title>
     <meta name="description" content="Struggling with the moiré effect on your LED display? Discover practical solutions from Cinstar LED to eliminate distortion and improve image clarity.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How to Eliminate Moiré Effect on LED Display?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 18, 2019</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/Blog7-1.jpg" alt="Eliminate Moiré Effect on LED Display-1">
                 </div>

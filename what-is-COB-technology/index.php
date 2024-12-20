@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>What is COB Encapsulation Technology | Cinstar LED</title>
     <meta name="description" content="Get an overview of COB technology, its key features, and why it’s vital for LED displays from Cinstar LED. See how it enhances visual performance.">
@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What is COB Encapsulation Technology?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>April 18, 2019</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/blog2-1.jpg" alt="COB Encapsulation Technology-1">
                 </div>

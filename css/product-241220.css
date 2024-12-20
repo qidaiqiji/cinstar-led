@@ -68,7 +68,10 @@ img {
 }
 .date{
     padding: 40px 10px;
-    padding-top:0
+    padding-top:0;
+    display: flex;
+    font-size: 20px;
+    flex-wrap: wrap;
 }
 .date span{
     display: inline-block;
@@ -76,6 +79,19 @@ img {
 }
 .date i{
     color:#bc261a;
+}
+.share-icons {
+    flex: 1;
+    margin-left: 20px;
+}
+.share-icons a{
+    display: inline-block;
+    width: 18px;
+    height: 30px;
+    margin: 0 6px;
+}
+.share-icons img {
+    width: 100%;
 }
 
 .content {
@@ -251,6 +267,19 @@ img {
     .content p {
         font-size: 16px;
         line-height: 1.5;
+    }
+    .date {
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .content span {
+        order: 2;
+    }
+    .share-icons {
+        flex: auto;
+        order: 1;
+        width: 100%;
+        margin-left: -6px;
     }
 }
 

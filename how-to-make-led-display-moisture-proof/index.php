@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Moisture-Proofing Your LED Display | Cinstar LED</title>
     <meta name="description" content=" Explore moisture-proofing strategies for outdoor LED displays, ensuring long-term durability and clear visuals. Learn more from Cinstar LED.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How to Make Your LED Display Moisture-Proof in Summer?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 26, 2019</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/Blog9-1.jpg" alt="LED Display Moisture-Proof-1">
                 </div>

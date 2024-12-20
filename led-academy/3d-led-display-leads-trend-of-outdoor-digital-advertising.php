@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why 3D LED Display Leads the Trend of Outdoor Digital Advertising</title>
     <meta name="description" content="Discover why 3D LED displays are leading the trend in outdoor digital advertising. Learn how 3D LED screens, video walls, and billboards captivate audiences and drive marketing success">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Why 3D LED Display Leads the Trend of Outdoor Digital Advertising</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>December 18, 2024</span>
+                </div>
                 <p>In the ever-evolving world of outdoor advertising, businesses are constantly looking for innovative ways to capture attention and engage audiences. The introduction of the <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED screen</strong></a> has revolutionized outdoor digital advertising, offering stunning visuals that leave a lasting impression. Combining cutting-edge technology with creativity, <strong>3D LED displays</strong> have quickly become the preferred choice for brands aiming to stand out in crowded markets.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-display-advertising-outdoor.jpg" alt="3d led display advertising outdoor"></a>

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Factors for Choosing an LED Display | Cinstar LED</title>
     <meta name="description" content="Consider these important factors when choosing an LED display. Cinstar LED helps you navigate your options for optimal performance.">
@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What to Look into When Choosing LED Display?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 4, 2018</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/blog4-1.jpg" alt="How to Choose LED Display">
                 </div>

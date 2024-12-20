@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Walls in Control Rooms | Cinstar LED</title>
     <meta name="description" content="Explore the role of fine pitch LED video walls from Cinstar LED for control rooms and command centers. Experience enhanced surveillance and monitoring.">
@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Why Are Fine Pitch LED Video Walls Perfect for Control Rooms and Command Centers?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
-                    <span>March 9, 2024</span>
-                </div> -->
+                    <span>October 12, 2024</span>
+                </div>
                 <p>The suitable technology can make all the difference in guaranteeing seamless transmission and real-time monitoring in control centers and command rooms. The <b>Direct View LED Video Wall</b> is one of the most valuable solutions for these high-demand environments. This advanced display technology offers several advantages that make it perfect for mission-critical applications. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-fine-pitch-led.webp" alt="Fine Pitch LED Displays"></a>

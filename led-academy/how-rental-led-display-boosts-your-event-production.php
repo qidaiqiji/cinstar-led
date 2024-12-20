@@ -3,11 +3,14 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How Rental LED Display Boosts Your Event Production</title>
     <meta name="description" content="Learn how rental LED displays enhance event production with dynamic visuals, flexibility, and immersive experiences. Ideal for concerts, conferences, and more">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:url" content="https://www.cinstar-led.com/led-academy/how-rental-led-display-boosts-your-event-production.php">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://www.cinstar-led.com/images/blog/rental-led-display-for-events.jpg">
     <style>
         h2 {
             font-size: 20px;
@@ -25,6 +28,24 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How Rental LED Display Boosts Your Event Production</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>December 18, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
+                </div>
                 <p>In the fast-paced world of event production, creating visually stunning experiences is essential for audience engagement and success. Whether it’s a music concert, corporate conference, or live event, incorporating a <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank"><strong>rental LED display</strong></a> can elevate your production to new heights. Modern technology has made <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank"><strong>rental LED screens</strong></a> a must-have for event planners looking to create immersive, impactful, and memorable events.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-display-for-events.jpg" alt="rental led display for events"></a>
@@ -54,5 +75,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

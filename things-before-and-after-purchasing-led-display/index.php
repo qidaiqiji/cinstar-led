@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Buying Checklist | Cinstar LED</title>
     <meta name="description" content="Ensure a successful investment by understanding what to consider before and after purchasing an outdoor LED display. Get expert advice from Cinstar LED.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">What to be Considered Before and After Purchasing Outdoor LED Display</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 9, 2019</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/Blog11-1.jpg" alt="Purchasing Outdoor LED Display-1">
                 </div>

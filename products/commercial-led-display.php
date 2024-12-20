@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Commercial LED Displays for Advertising | Cinstar LED</title>
     <meta name="description" content="Versatile commercial LED displays by Cinstar LED are perfect for any environment. Discover how our displays can enhance your marketing efforts!">

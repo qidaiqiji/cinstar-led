@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Wall | Indoor LED Display | Indoor LED Screen - Cinstar</title>
     <meta name="description" content="Discover the best ever indoor led screens in incredible prices and quality ranges backed with low pixel-pitch displays best for indoor settings.">

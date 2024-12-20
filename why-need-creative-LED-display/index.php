@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer">  
     <meta name="description" content="Stand out with creative LED displays that offer custom designs and powerful visuals. Cinstar LED explains the benefits of using it for innovative branding.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title"> Why You Need a Creative LED Display?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 13, 2019</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/blog6-1.jpg" alt="Creative LED Display-1">
                 </div>

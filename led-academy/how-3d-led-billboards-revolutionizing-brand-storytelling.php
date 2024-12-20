@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>3D LED Billboards in Brand Storytelling | Cinstar LED</title>
     <meta name="description" content="3D LED displays are changing the face of entertainment by adding visual storytelling, and futuristic visuals at live events. Explore more at Cinstar LED.">
@@ -22,6 +22,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How 3D LED Billboards Are Revolutionizing Brand Storytelling in Public Spaces?</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>November 14, 2024</span>
+                </div>
                 <p>So, <b>3D LED billboards</b> are making a big splash in the digital advertising landscape. Gone are the days when a static billboard was adequate to spin heads. Today's audiences enjoy something more interesting, and 3D LED exhibits provide just that. By building eye-popping visuals with depth and movement, these screens deliver a new way for brands to tell their stories and make everlasting imprints.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3D-led-billboard.webp" alt="3D led billboard"></a>

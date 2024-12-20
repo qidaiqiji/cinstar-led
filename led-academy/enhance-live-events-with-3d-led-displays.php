@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Enhance Live Events with 3D LED Displays | Cinstar LED</title>
     <meta name="description" content="3D LED displays are changing the face of entertainment by adding visual storytelling, and futuristic visuals at live events. Explore more at Cinstar LED.">
@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How are 3D LED display screens Enhancing live events and entertainment?</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
-                    <span>March 9, 2024</span>
-                </div> -->
+                    <span>October 12, 2024</span>
+                </div>
                 <p>With the onset of <b>3D LED billboard</b> display screens, the landscape of live events, entertainment, and advertising has changed. Audiences are in for a visual treat with these screens, as they can enjoy authentic three-dimensional images with their naked eyes.</p>
                 <p>These screens display advertisements everywhere, from concerts to sports events. These fantastic <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED displays</b></a> offer a visual spectacle that captivates viewers and enhances engagement like never before. </p>
                 <div class="img-box">

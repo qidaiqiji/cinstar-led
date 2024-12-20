@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Build High-Value Digital LED Billboard | Cinstar LED</title>
     <meta name="description" content="Ensure your digital LED billboard delivers high value with these three key tips. Check insights from Cinstar LED for impactful design and placement.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">3 Tips to Build Your High-Value Added Digital LED Billboard</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>March 20, 2019</span>
-                </div> -->
+                </div>
                 <div class="img-box">
                     <img src="../images/blog/blog3-1.jpg" alt="High-Value Added Digital LED Billboard-1">
                 </div>

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Ultimate Guide to LED Display Rental 2022 | Cinstar LED</title>
     <meta name="description" content="Get the comprehensive guide to LED display rental in 2022. Learn about types, benefits, and considerations from Cinstar LED.">
@@ -18,10 +18,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Your Ultimate Guide to LED Display Rental 2022</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 15, 2019</span>
-                </div> -->
+                </div>
                 <p>
                 Are you organizing a big event? Want it to outclass all the other events happening in your town? Make use of LED display in your big event; you can thank us later. LED display is the trending cutting edge technology that has been used for almost all the mainstream events that were successful hits in recent years. These statistics themselves are enough to convince you to incorporate as many LED displays in your event as possible. What did you say? You cannot buy hundreds and thousands of LED displays for your event? Are you on a budget? Alright! We have good news for you; <a href="//products/rental-led-display-screen.php"> rental displays</a> yes, you heard that right. It is very much possible to rent LED displays just like you rent the entire setup of your event. Seems too good to be true, right? No, we aren’t messing with you here; it is true, believe it or not. Having said that, we must tell you that you need to know certain things before renting LED displays. Don’t worry; we have got you covered; anything and everything related to renting LED displays is discussed briefly in this article. Read till the end! 
                 </p>

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Maximize the Lifespan of LED Displays | Cinstar LED</title>
     <meta name="description" content="Maximize the lifespan of your LED display with tips from Cinstar LED. Discover maintenance techniques to ensure long-term performance.">
@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">5 Tips to Extend Lifespan of Your Advertising LED Billboard</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>May 14, 2019</span>
-                </div> -->
+                </div>
                 <p>
                 As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to <a href="../">deliver excellent visual impact</a>.
                 </p>

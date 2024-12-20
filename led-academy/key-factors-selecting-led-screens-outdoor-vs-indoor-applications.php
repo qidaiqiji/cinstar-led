@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Key Factors for Selecting LED Screens | Cinstar LED</title>
     <meta name="description" content="Compare essential factors for selecting LED screens for both indoor and outdoor applications, ensuring optimal performance and reliability from Cinstar LED.">
@@ -15,10 +15,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Key Considerations When Purchasing LED Screens for Outdoor vs. Indoor Applications</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
-                    <span>January 18, 2024</span>
-                </div> -->
+                    <span>September 30, 2024</span>
+                </div>
                 <p>LED screens have become vital to advertising, entertainment, and announcement dissemination. Whether you want to enhance your enterprise signage, build an immersive event experience, or exhibit vibrant content, picking the correct LED screen is vital. Yet, the considerations for buying LED screens for outdoor applications vary immensely compared to indoor ones. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-Screens-for-Outdoor-1.webp" alt="LED Screens for Outdoor"></a>

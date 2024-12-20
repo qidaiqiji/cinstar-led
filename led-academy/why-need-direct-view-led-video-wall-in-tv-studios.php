@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why You Need a Direct View LED Video Wall in TV Studios</title>
     <meta name="description" content="Discover why a direct view LED video wall is essential for TV studios and broadcasting. Learn the benefits of direct view LED displays and how Cinstar leads the industry">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Why You Need a Direct View LED Video Wall in TV Studios/Broadcasting Industry</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>December 18, 2024</span>
+                </div>
                 <p>The broadcasting and television industry demands cutting-edge technology to deliver superior visual experiences. A <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> video wall has become an essential tool in modern TV studios, providing unparalleled image quality, versatility, and reliability. As the need for dynamic and seamless visuals increases, investing in a <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED video wall</strong></a> ensures broadcasters stay ahead of the curve.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-video-wall-tv-studios.jpg" alt="direct view led video wall"></a>

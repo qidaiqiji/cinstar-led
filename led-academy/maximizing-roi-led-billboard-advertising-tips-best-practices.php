@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Maximizing ROI in LED Billboard Advertising | Cinstar LED</title>
     <meta name="description" content="Boost your advertising returns! Explore proven tips and strategies for maximizing ROI with LED billboards from Cinstar LED!">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Maximizing ROI with LED Billboard Advertising Tips and Best Practices</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>November 25, 2024</span>
+                </div>
                 <p>Every business works to maximize ROI. LED billboard advertising is changing the advertising game. It is an efficient and dynamic tool for executing effective advertising campaigns. With their rich visuals, high visibility, and ability to deliver dynamic content, <b>LED billboards </b>allow businesses to reach large audiences powerfully and engagingly. </p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/fixed/18-fixed-case.jpg" alt="digital LED billboard"></a>

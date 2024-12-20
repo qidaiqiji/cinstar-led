@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Rise of Direct View LED in Home Cinema Market</title>
     <meta name="description" content="Discover how Direct View LED technology, including Direct View LED video walls and TVs, is revolutionizing the home cinema market with immersive experiences">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Rise of Direct View LED in the Home Cinema Market</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>December 17, 2024</span>
+                </div>
                 <p>Home entertainment technology has undergone a massive transformation over the past decade. As consumers seek premium visual experiences for their living spaces, <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> technology is emerging as the ultimate solution for immersive home cinema systems. From <strong>direct view LED video walls</strong> to advanced <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED TVs</strong></a>, this cutting-edge display technology is revolutionizing the way we enjoy movies, sports, and games at home.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-tv.jpg" alt="direct view led tv"></a>

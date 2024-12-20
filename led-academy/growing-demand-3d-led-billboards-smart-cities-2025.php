@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rise of 3D LED Billboards in Smart Cities | Cinstar LED</title>
     <meta name="description" content="Growing demand for 3D LED billboards is reshaping smart cities in 2025. Discover their impact on urban engagement and advertising from Cinstar LED.">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Growing Demand for 3D LED Billboards in Smart Cities in 2025</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>November 25, 2024</span>
+                </div>
                 <p>The need for innovative advertising solutions grows exponentially as urban centers evolve into more intelligent, interconnected spaces. Among these advancements, <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED Billboards</b></a> are leading a revolutionary shift in how businesses connect with audiences. By the year 2025, these interactive screens are expected to be a defining feature of cities, offering captivating and engaging experiences.  </p>
                 <p>This blog explores the impact of 3 LED billboards and how their advanced technology is changing urban landscapes globally. </p>
                     <div class="img-box">

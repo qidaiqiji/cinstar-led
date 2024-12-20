@@ -59,7 +59,7 @@
     <meta name="google-site-verification" content="wySaQserLo-ZIXvzIkAAvHQJHmiTBtHdGIHnWkfOEJc" />
     <title>LED Video Wall Panels & LED Screen Display Manufacturers</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
-    <link rel="stylesheet" href="css/custom-product-240818.css">
+    <link rel="stylesheet" href="css/custom-product-241220.css">
     <link rel="stylesheet" href="css/common-home-240917.css">
     <!-- <link rel="stylesheet" href="css/contact-241024.css"> -->
     <link rel="stylesheet" href="css/main-241217.css">

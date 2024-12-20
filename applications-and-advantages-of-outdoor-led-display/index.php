@@ -3,11 +3,18 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Advantages of Outdoor LED Displays | Cinstar LED</title>
     <meta name="description" content="Make your events and promotions stand out with high-resolution outdoor LED displays. Cinstar LED offers reliable solutions for vibrant, engaging visuals.">
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <!-- <meta property="og:locale" content="en_US"> -->
+    <meta property="og:url" content="https://www.cinstar-led.com/applications-and-advantages-of-outdoor-led-display/">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://www.cinstar-led.com/images/blog/Blog12-1.jpg">
+    <meta property="og:image:width" content="700" />
+    <meta property="og:image:height" content="525" />
+    <meta property="og:image:type" content="image/jpeg" />
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -18,10 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">The Key Applications and Advantages of Outdoor LED Display</h1>
-                <!-- <div class="date">
+                <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 15, 2019</span>
-                </div> -->
+                </div>
                 <p>
                 With the development of digital technology and market preference, the types of <a href="../products/commercial-led-display.php">outdoor advertising</a> have shown a diversified trend. When we look around the city, in addition to the very traditional print advertisements at bus shelter and metro station, we can also see the digital signage LCD display and big LED display screen advertisements. LED display is now becoming the current most efficient and preferred channel for commercial advertising. This article will discuss the main applications and advantages of outdoor LED display.
                 </p>
@@ -94,5 +101,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
-</body> 
+</body>
+<!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v21.0"></script> -->
 </html>

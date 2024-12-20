@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How LED Advertising Screens Are Changing Digital Out-of-Home</title>
     <meta name="description" content="Explore how LED advertising screens transform digital out-of-home advertising. Discover their impact, advantages, and why Cinstar leads the way">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">How LED Advertising Screens Are Changing Digital Out-of-Home</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>December 18, 2024</span>
+                </div>
                 <p>The digital out-of-home (DOOH) advertising industry is undergoing a revolutionary transformation with the advent of <strong>LED advertising</strong>. As businesses strive for greater visibility and engagement, <a href="https://www.cinstar-led.com/products/led-advertising.php" target="_blank"><strong>LED advertising screens</strong></a> have emerged as a powerful solution to deliver dynamic, eye-catching visuals that captivate audiences.</p>    
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-advertising-screen-dooh.jpg" alt="led advertising screen"></a>

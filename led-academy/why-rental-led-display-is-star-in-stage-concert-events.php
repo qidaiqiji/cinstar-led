@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-240818.css">
+    <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Rental LED Display Is the Star in Stage Concert Events</title>
     <meta name="description" content="Discover why rental LED displays are essential for stage concerts. Learn their benefits, ideas for rental video screens, and why Cinstar is the industry leader">
@@ -25,6 +25,10 @@
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">Why Rental LED Display Is the Star in Stage Concert Events</h1>
+                <div class="date">
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span>December 18, 2024</span>
+                </div>
                 <p>Stage concert events have evolved dramatically over the years, with technology playing a significant role in delivering unforgettable experiences. Among the innovations, the <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><strong>rental LED display</strong></a> has become the undisputed star, transforming stages with vibrant visuals and dynamic performances.</p>
                 <div class="img-box">
                     <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-display-screen.jpg" alt="rental led display screen"></a>
