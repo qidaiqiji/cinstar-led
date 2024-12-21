@@ -1,55 +1,4 @@
-﻿<?php
-    // Adding check to redirect all pages other than homepage that are being opened using homepage index.php file (use less pages)
-    $explodedURL = explode('/',$_SERVER['REQUEST_URI']);
-    if ($explodedURL[2] == '3d-led-display.php') {
-        header("Location: https://www.cinstar-led.com/products/3d-led-display-screen.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'outdoor-led-display.php') {
-        header("Location: https://www.cinstar-led.com/products/outdoor-led-display-screen.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'advertising-led.php') {
-        header("Location: https://www.cinstar-led.com/products/led-advertising.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'digital-billboard.php') {
-        header("Location: https://www.cinstar-led.com/products/digital-led-billboard.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'rental-led.php') {
-        header("Location: https://www.cinstar-led.com/products/rental-led-display-screen.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'commercial-led.php') {
-        header("Location: https://www.cinstar-led.com/products/commercial-led-display.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'creative-led.php') {
-        header("Location: https://www.cinstar-led.com/products/creative-led-display.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'custom-led.php') {
-        header("Location: https://www.cinstar-led.com/products/custom-led-display.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'fine-pitch.php') {
-        header("Location: https://www.cinstar-led.com/products/fine-pitch-led-display.php"); 
-        exit();
-    }
-    if ($explodedURL[2] == 'stage-led-screen.php') {
-        header("Location: https://www.cinstar-led.com/products/led-stage-screen.php"); 
-        exit();
-    }
-    // if($code == 404)
-    // {
-    //     header("HTTP/1.1 404 Not Found"); 
-    //     header("Location: https://www.cinstar-led.com/404.html");
-    //     // header("Location: https://www.cinstar-led.com/test/404.php");
-    //     exit();            
-    // }
-?>
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <?php include('inc/meta.php'); ?>
@@ -59,7 +8,7 @@
     <meta name="google-site-verification" content="wySaQserLo-ZIXvzIkAAvHQJHmiTBtHdGIHnWkfOEJc" />
     <title>LED Video Wall Panels & LED Screen Display Manufacturers</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
-    <link rel="stylesheet" href="css/custom-product-241220.css">
+    <link rel="stylesheet" href="css/custom-product-240818.css">
     <link rel="stylesheet" href="css/common-home-240917.css">
     <!-- <link rel="stylesheet" href="css/contact-241024.css"> -->
     <link rel="stylesheet" href="css/main-241217.css">
@@ -120,6 +69,38 @@
                     "availableLanguage": [
                         "English"
                     ]
+                }
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "What Should I Consider When Choosing an LED Display Manufacturer?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "When selecting an LED display manufacturer, it’s essential to prioritize quality, customization, and support. Cinstar, a trusted LED screen manufacturer, offers high-performance LED video wall panels and LED screen displays suitable for various applications, from advertising to large-scale installations. Their products feature advanced technology for superior brightness, resolution, and energy efficiency. Customization options are crucial, and Cinstar provides flexible solutions to meet your project’s unique needs. As a forward-thinking LED screen display manufacturer, they offer cutting-edge technology, ensuring your displays are future-proof. Additionally, Cinstar's exceptional customer support and service provide peace of mind throughout the product lifecycle. With competitive pricing and long-lasting value, Cinstar is a top choice for businesses seeking reliable and high-quality LED displays."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How Do LED Screen Manufacturers Ensure Product Quality?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "To ensure high-quality products, LED display manufacturers like Cinstar adhere to strict quality control measures throughout the production process. As a leading LED screen manufacturer, Cinstar uses premium components, such as top-grade LED chips and durable frames, ensuring longevity and superior performance for their LED screen displays. Advanced testing is a key part of the process—each unit undergoes rigorous checks for brightness, resolution, and color accuracy. For larger installations, such as LED video wall panels, manufacturers ensure seamless integration and reliability even in challenging environments. Additionally, continuous research and innovation help LED screen display manufacturers like Cinstar stay ahead of industry standards, offering energy-efficient and cutting-edge displays that meet diverse customer needs. By focusing on precision, durability, and innovation, LED display manufacturers ensure that their products deliver optimal performance and long-term value."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How Do I Choose the Best LED Screen Display Manufacturer?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Choosing the best LED screen display manufacturer requires careful consideration of several factors. Start by evaluating the manufacturer’s reputation for product quality. A reliable LED screen manufacturer like Cinstar uses premium materials and cutting-edge technology to deliver durable, high-performance displays that offer superior brightness and clarity. Customization options are also essential. The best LED display manufacturer should provide tailored solutions to meet your specific project needs, whether it's for indoor or outdoor installations. Additionally, assess the level of customer support the manufacturer offers, including installation assistance, maintenance, and troubleshooting services. By focusing on these aspects, you can select a LED screen display manufacturer that offers high-quality, long-lasting, and cost-effective solutions for your business or project."
+                    }
                 }
             ]
         }

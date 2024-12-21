@@ -58,6 +58,38 @@
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Direct View LED Video Wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct view LED, often referred to as fine pitch LED or narrow pixel pitch LED, is a cutting-edge technology used in direct view LED video walls and display walls. This technology offers exceptional image quality, even at close viewing distances, with pixel pitches typically under 2.5mm. The trend is shifting towards smaller pixel pitches, such as 1.56mm and 1.2mm, with even smaller options like 0.9mm already available. Current direct view LED displays primarily use SMD technology, which combines red, green, and blue LEDs for better brightness and color accuracy. The future of direct view LED includes Mini LED and Micro LED technologies, pushing pixel pitches below 0.7mm for even greater resolution and immersive experiences. With its superior brightness, vibrant colors, and flexibility, direct view LED technology is becoming increasingly popular for commercial and home entertainment applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Direct View LED Different from Traditional Displays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct view LED technology offers significant advantages over traditional displays like LCD or plasma screens. Unlike these older technologies, direct view LED displays use individual LEDs to create images, providing superior brightness, contrast, and color accuracy. This technology eliminates the need for a backlight, resulting in deeper blacks and more vibrant visuals. Direct view LED video walls can be scaled to virtually any size or shape, delivering seamless, high-resolution visuals ideal for large venues, digital signage, and advertising. Additionally, direct view LED displays are more energy-efficient and durable, making them an excellent long-term investment for cutting-edge display solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Direct View LED TVs Be Used for Home Entertainment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct view LED TVs are revolutionizing home entertainment by offering superior image quality, vibrant colors, and deep contrasts. Traditionally used in large-scale commercial applications like video walls, this cutting-edge technology is now making its way into homes, providing a premium viewing experience. Unlike conventional LCD or OLED TVs, direct view LED TVs use individual LEDs to produce light and color, eliminating the need for a backlight. This results in more vivid and accurate visuals with better black levels and higher brightness. For larger home theaters or media rooms, a direct view LED display wall offers an immersive experience with unmatched size and impact. With sleek designs, energy efficiency, and advanced features, direct view LED TVs are an excellent choice for home entertainment systems."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
