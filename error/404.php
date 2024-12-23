@@ -101,6 +101,11 @@
                                         </a>
                                     </li>
                                     <li class="subMenu-item">
+                                        <a class="subMenu-link" href="../products/transparent-led-film-screen.php">
+                                            <span>Transparent LED Film Screen</span>
+                                        </a>
+                                    </li>
+                                    <li class="subMenu-item">
                                         <a class="subMenu-link" href="/products/indoor-led-display.php">
                                             <span>Indoor LED Display</span>
                                         </a>
