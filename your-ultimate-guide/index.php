@@ -8,6 +8,14 @@
     <title>Ultimate Guide to LED Display Rental 2022 | Cinstar LED</title>
     <meta name="description" content="Get the comprehensive guide to LED display rental in 2022. Learn about types, benefits, and considerations from Cinstar LED.">
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -21,6 +29,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 15, 2019</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>
                 Are you organizing a big event? Want it to outclass all the other events happening in your town? Make use of LED display in your big event; you can thank us later. LED display is the trending cutting edge technology that has been used for almost all the mainstream events that were successful hits in recent years. These statistics themselves are enough to convince you to incorporate as many LED displays in your event as possible. What did you say? You cannot buy hundreds and thousands of LED displays for your event? Are you on a budget? Alright! We have good news for you; <a href="//products/rental-led-display-screen.php"> rental displays</a> yes, you heard that right. It is very much possible to rent LED displays just like you rent the entire setup of your event. Seems too good to be true, right? No, we aren’t messing with you here; it is true, believe it or not. Having said that, we must tell you that you need to know certain things before renting LED displays. Don’t worry; we have got you covered; anything and everything related to renting LED displays is discussed briefly in this article. Read till the end! 
@@ -68,5 +90,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

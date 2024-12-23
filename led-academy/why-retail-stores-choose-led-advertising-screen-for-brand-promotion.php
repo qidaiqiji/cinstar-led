@@ -8,6 +8,14 @@
     <title>Why Retail Stores Choose LED Advertising Screen for Brand Promotion</title>
     <meta name="description" content="Discover why retail stores are increasingly using LED advertising screens for brand promotion. Explore the benefits of LED display screens for advertising outdoor and indoor environments">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 18, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>In today’s competitive retail market, capturing customer attention is essential for brand promotion and business growth. Traditional methods of advertising are no longer sufficient, as digital solutions like <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED advertising screens</strong></a> have emerged as the most effective tools for engaging customers. Retailers are increasingly opting for <strong>LED advertising</strong> to enhance their store presence, promote products, and provide an unforgettable shopping experience.</p>
                 <div class="img-box">
@@ -58,5 +80,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

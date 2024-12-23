@@ -8,6 +8,14 @@
     <title>Comparison of Fine Pitch LED vs. LCD Panels | Cinstar LED</title>
     <meta name="description" content="Explore the pros and cons of fine pitch LED displays and LCD panels from Cinstar LED to decide which is ideal for your high-res display needs.">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>November 25, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>Selecting the right display technology is critical for delivering high-resolution visuals in environments where image quality is essential. Here, <b>fine pitch LED displays</b> and LCD panels appear in the picture. They provide high-resolution ads or visuals. Both are unique in their own ways, but which one is suitable for your requirements? </p>
                 <h2>Let's explore the advantages and challenges of each.</h2>
@@ -63,5 +85,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

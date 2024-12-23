@@ -8,6 +8,14 @@
     <title>What to Consider When Choosing an LED Display Manufacturer</title>
     <meta name="description" content="Discover what you need to consider when choosing an LED display manufacturer. Learn how to pick the best LED screen manufacturer for your needs, and explore solutions from Cinstar">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 17, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>Choosing the right <a href="https://www.cinstar-led.com"><strong>LED display manufacturer</strong></a> is a critical decision that can directly impact the success of your projects. Whether you’re planning to install <strong>LED video wall panels</strong> for advertising, events, or indoor/outdoor displays, selecting a trusted partner ensures you receive high-quality products, expert support, and long-term reliability. In this guide, we will discuss key factors to consider when choosing the right <strong>LED screen manufacturer</strong> like Cinstar.</p>
                 <div class="img-box">
@@ -60,5 +82,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

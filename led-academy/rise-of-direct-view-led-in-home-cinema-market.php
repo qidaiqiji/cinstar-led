@@ -8,6 +8,14 @@
     <title>The Rise of Direct View LED in Home Cinema Market</title>
     <meta name="description" content="Discover how Direct View LED technology, including Direct View LED video walls and TVs, is revolutionizing the home cinema market with immersive experiences">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 17, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>Home entertainment technology has undergone a massive transformation over the past decade. As consumers seek premium visual experiences for their living spaces, <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> technology is emerging as the ultimate solution for immersive home cinema systems. From <strong>direct view LED video walls</strong> to advanced <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED TVs</strong></a>, this cutting-edge display technology is revolutionizing the way we enjoy movies, sports, and games at home.</p>
                 <div class="img-box">
@@ -52,5 +74,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

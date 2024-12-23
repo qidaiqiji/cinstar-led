@@ -8,6 +8,14 @@
     <title>Direct View LED vs. LCD Video Walls | Cinstar LED</title>
     <meta name="description" content="Choosing between Direct View LED and LCD video walls? Explore their pros and cons from Cinstar LED to find the best fit for your space and budget.">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -25,6 +33,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>November 14, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>Video walls have become a decisive mechanism for enterprises, from retail shops to corporate lobbies and event rooms. With advanced technology, video walls create a spectacular visual experience, drawing engagement and delivering a distinctive platform for branding and communication. Yet, selecting the most acceptable one for your area can be demanding, with choices like <a href="https://cinstar-led.com/products/direct-view-led.php"><b>Direct View LED</b></a> and LCD video walls. </p>
                 <div class="img-box">
@@ -59,5 +81,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

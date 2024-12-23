@@ -8,11 +8,14 @@
     <title>3D LED Billboards are the Next Big Thing | Cinstar LED</title>
     <meta name="description" content="Learn why 3D LED billboards are the next big trend in outdoor advertising, providing immersive experiences that enhance brand visibility from Cinstar LED">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
-    <meta property="og:url" content="https://www.cinstar-led.com/led-academy/3d-led-billboards-next-big-thing-outdoor-advertising.php">
+    <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.cinstar-led.com/images/blog/3D-LED-billboards.webp">
-    <meta property="og:image:width" content="977" />
-    <meta property="og:image:height" content="618" />
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -77,9 +80,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
-    <!-- <script src="../utils/share.js"></script>
-    <script>
-        addShare()
-    </script> -->
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

@@ -8,6 +8,14 @@
     <title>Future Trends of LED Display Technology | Cinstar LED</title>
     <meta name="description" content="LED display technology is evolving rapidly. Learn about the latest trends and innovations to watch for in 2025 from Cinstar LED.">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>November 25, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>LED display technology is evolving, and for this reason, innovations and trends emerge yearly. As we look into the future, moreover, toward 2025, several compelling expansions are redefining how LED displays are used across various industries. They are redefining the landscape of various industries, from advertising to entertainment and corporate environments. Let us delve into the critical trends in LED display technology to watch in 2025. The focus will be on <a href="https://www.cinstar-led.com"><b>LED Video Wall Panels</b></a> and how the industry adjusts to varying needs.</p>
                 <div class="img-box">
@@ -57,5 +79,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

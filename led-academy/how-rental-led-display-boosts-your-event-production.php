@@ -8,9 +8,14 @@
     <title>How Rental LED Display Boosts Your Event Production</title>
     <meta name="description" content="Learn how rental LED displays enhance event production with dynamic visuals, flexibility, and immersive experiences. Ideal for concerts, conferences, and more">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
-    <meta property="og:url" content="https://www.cinstar-led.com/led-academy/how-rental-led-display-boosts-your-event-production.php">
+    <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.cinstar-led.com/images/blog/rental-led-display-for-events.jpg">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;

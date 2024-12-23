@@ -8,6 +8,14 @@
     <title>Why Choose Fine Pitch LED Displays | Cinstar LED</title>
     <meta name="description" content="Fine pitch LED displays offer incredible sharpness and detail. Explore how these displays elevate content delivery in any environment with Cinstar LED.">
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -21,6 +29,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>July 2, 2019</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>
                 In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED display got a big increase on the market share and has been widely used for high profile and high end applications for its <a href="../">ultra-high resolution and stunning image performance</a>. Although much higher cost than other kind of video equipment like projector and LCD video wall, it is still favored by the market. This article will share with you what are the advantages of the fine pitch LED display.
@@ -58,5 +80,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

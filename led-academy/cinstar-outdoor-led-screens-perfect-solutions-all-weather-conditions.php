@@ -8,6 +8,14 @@
     <title>Outdoor LED Screens for All Weather Conditions | Cinstar LED</title>
     <meta name="description" content="From harsh winters to blazing summers, Cinstar LED's outdoor LED screens provide reliable performance in all weather conditions. Check out the Blog today!">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>November 25, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>Regarding outdoor advertising, live events, or public displays, durability and performance are key factors that can make or break the impact of the displayed content. Here, Cinstar <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><b>Outdoor LED Screens</b></a> come into the picture. These screens offer top-tier solutions built to withstand all weather conditions. From the scorching heat of summer to the cold of winter or heavy rain, Cinstar <b>Outdoor LED Displays</b> provide reliable performance in any environment. </p>
                 <p>Let us explore the features and benefits of Cinstar's <b>Outdoor LED Display Screens</b>. </p>
@@ -60,5 +82,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

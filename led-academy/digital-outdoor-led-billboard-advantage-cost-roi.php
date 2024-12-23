@@ -8,6 +8,14 @@
     <title>Digital Outdoor LED Billboard: Advantage, Cost, and ROI</title>
     <meta name="description" content="Explore the advantages, costs, and ROI of digital outdoor LED billboards. Learn why LED billboard advertising is a smart investment for businesses with Cinstar's high-quality solutions">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 18, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>In today’s fast-paced advertising landscape, businesses are constantly seeking innovative ways to engage audiences. One technology that has revolutionized outdoor marketing is the <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>digital LED billboard</strong></a>. These modern, high-tech displays offer significant advantages over traditional advertising methods, delivering measurable results in terms of cost efficiency and ROI. Companies like <strong>Cinstar</strong> provide reliable and customizable solutions to help businesses maximize their advertising potential.</p>
                 <div class="img-box">
@@ -72,5 +94,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

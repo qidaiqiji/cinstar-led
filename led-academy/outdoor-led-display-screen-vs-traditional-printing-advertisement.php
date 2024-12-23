@@ -8,6 +8,14 @@
     <title>Outdoor LED Display Screen vs Traditional Printing Advertisement</title>
     <meta name="description" content="Learn the key differences between outdoor LED display screens and traditional printing advertisements. Discover why businesses are switching to outdoor LED screens from trusted brands like Cinstar">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 17, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>In today’s fast-paced advertising landscape, businesses are constantly seeking innovative solutions to capture attention and engage audiences. Traditional printing advertisements, such as billboards and posters, have been a staple for decades, but the rise of digital solutions like the <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED display screen</strong></a> is transforming the advertising industry. With advancements in technology, <strong>Cinstar</strong> offers high-quality digital displays that outperform printed advertisements in numerous ways.</p>
                 <div class="img-box">
@@ -61,5 +83,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

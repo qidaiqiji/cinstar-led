@@ -8,6 +8,14 @@
     <title>How to Improve Clarity of LED Display | Cinstar LED</title>
     <meta name="description" content="Enhance the clarity of your LED display with easy-to-follow techniques. Cinstar LED provides practical solutions for sharper, clearer visuals.">
     <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -21,6 +29,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 21, 2019</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>As the main carrier of commercial advertising and information broadcasting, LED display keeps close pace with the current market trend for <a href="../products/fine-pitch-led-display.php">high definition image production and better visual experience</a>. High-definition video can often make the image on the display more detailed and realistic and thus bring a more dramatic visual impact. There are two factors should be taken into consideration to achieve high-definition displaying. One is that the video source has to be full HD format, and the other is that the LED display has to be full HD resolution. </p>
                 <div class="img-box">
@@ -78,5 +100,6 @@ For the same screen dimension, the smaller pixel pitch can display more informat
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

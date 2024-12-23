@@ -8,6 +8,14 @@
     <title>LED Billboards and Outdoor Advertising | Cinstar LED</title>
     <meta name="description" content="What makes LED billboards so effective? Discover their advantages from Cinstar LED in modern outdoor advertising and how they captivate audiences.">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -25,6 +33,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>November 14, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p><b>LED billboards</b> have changed the advertising landscape and how brands capture public attention and connect with audiences. Luminous, dynamic, and readily updated, these digital exhibits let companies deliver engaging content that stands out in any setting. They are not like conventional static billboards. <b>Digital LED billboards</b> deliver flexibility with spinning ads and dynamic visuals, making them practical for attracting attention day and night. </p>
                 <div class="img-box">
@@ -57,5 +79,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

@@ -8,6 +8,14 @@
     <title>Why 3D LED Display Leads the Trend of Outdoor Digital Advertising</title>
     <meta name="description" content="Discover why 3D LED displays are leading the trend in outdoor digital advertising. Learn how 3D LED screens, video walls, and billboards captivate audiences and drive marketing success">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>December 18, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>In the ever-evolving world of outdoor advertising, businesses are constantly looking for innovative ways to capture attention and engage audiences. The introduction of the <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED screen</strong></a> has revolutionized outdoor digital advertising, offering stunning visuals that leave a lasting impression. Combining cutting-edge technology with creativity, <strong>3D LED displays</strong> have quickly become the preferred choice for brands aiming to stand out in crowded markets.</p>
                 <div class="img-box">
@@ -58,5 +80,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

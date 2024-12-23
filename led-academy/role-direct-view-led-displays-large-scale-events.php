@@ -8,6 +8,14 @@
     <title>Role of Direct View LED Displays on Events | Cinstar LED</title>
     <meta name="description" content="Discover the role of Direct View LED displays in large-scale event productions by Cinstar LED, ranging from high-resolution visuals to flexible designs.">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -28,6 +36,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>September 30, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p>Building visually compelling experiences is vital to engaging and delighting audiences in large-scale event productions. As the need for dynamic visuals and immersive environments grows, <a href="https://www.cinstar-led.com/products/direct-view-led.php">direct-view LED displays</a> have become a game-changer in the event production area. <b>Direct-view LED Video Walls</b> have redefined how organizers offer content to their audience, from concerts to conferences, sports events, and exhibitions. Direct-view LED displays are the game-changer you need, whether you're peeking to build immersive brand experiences or eye-catching visuals.</p>
                 <div class="img-box">
@@ -92,5 +114,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

@@ -8,6 +8,14 @@
     <title>Pros & Cons of Digital LED Billboard Trucks | Cinstar LED</title>
     <meta name="description" content="Evaluate the pros and cons of digital LED billboard advertising trucks. Cinstar LED provides insights for advertisers looking to maximize impact.">
     <meta name="keywords" content="Find out the advantages of using a LED billboard advertising truck to decide whether or not you should invest in this new form of advertising?">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
 </head>
 <body class="page-index">
     <!-- 头部开始 -->
@@ -21,11 +29,23 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>2022/04/22</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <img src="../images/news/maxresdefault.jpg" class="img-responsive" style="max-width: 100%;" alt="Digital LED Billboard Advertising Truck">
                 <br>
-
-                
                 <p>Marketing isn't something that comes naturally to everyone. You could be an aspiring entrepreneur wanting to set up a global business, but if you lack in the marketing side of the company, then your product, no matter how good it is, won't hold it all together. You could be great on the manufacturing side, but for setting up a full-fledged international business with your products, you need to be good on the marketing side</p>
 
                 <p>For this reason, people even specifically study marketing very closely to boost their business. In the beginning, no one can afford a team of people who could look after the company's marketing while you focus on the manufacturing.</p>
@@ -67,5 +87,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

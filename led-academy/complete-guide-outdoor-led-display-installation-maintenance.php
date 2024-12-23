@@ -8,6 +8,14 @@
     <title>Outdoor LED Display Installation and Care | Cinstar LED</title>
     <meta name="description" content="Set up and maintain your outdoor LED display like a pro! Check the guide from Cinstar LED, offers practical steps for durability and top-notch visuals.">
     <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
     <style>
         h2 {
             font-size: 20px;
@@ -25,6 +33,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>November 14, 2024</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <p><b>Outdoor LED displays</b> are an effective method to grab engagement, immerse audiences, and boost branding. From bustling metropolis centers to arenas and event platforms, these exhibits are built to resist the elements and provide dynamic visuals day and night. Nevertheless, thriving installation and continuous maintenance of an <a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>outdoor LED display</b></a> need detailed planning and care to guarantee longevity and optimal performance. </p>
                 <div class="img-box">
@@ -75,5 +97,6 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
 </body> 
 </html>

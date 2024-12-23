@@ -5,11 +5,18 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-241220.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
+    <title>Why Invest in a Creative LED Display | Cinstar LED</title>
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer">  
     <meta name="description" content="Stand out with creative LED displays that offer custom designs and powerful visuals. Cinstar LED explains the benefits of using it for innovative branding.">
-    <title>Why Invest in a Creative LED Display | Cinstar LED</title>
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Cinstar LED">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Cinstar LED">
+    <meta name="twitter:label2" content="Est. reading time">
+    <meta name="twitter:data2" content="5 minutes">
 </head>
-
 <body class="page-index">
     <!-- ???? -->
     <?php include('../inc/top.php'); ?>
@@ -21,6 +28,20 @@
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>June 13, 2019</span>
+                    <div class="share-icons">
+                        <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
+                            <img src="../images/fb.png">
+                        </a>
+                        <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/linkedin.png">
+                        </a>
+                        <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/pinterest.png">
+                        </a>
+                        <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                            <img src="../images/twitter.png">
+                        </a>
+                    </div>
                 </div>
                 <div class="img-box">
                     <img src="../images/blog/blog6-1.jpg" alt="Creative LED Display-1">
@@ -150,6 +171,7 @@
     </div>
     <?php include('../inc/js.php'); ?>
     <script>GetCurStyle("led-academy");</script>
+    <script src="../utils/share.js"></script>
     
 </body> 
 </html>
