@@ -592,7 +592,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp">
+            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

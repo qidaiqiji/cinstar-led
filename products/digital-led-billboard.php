@@ -59,6 +59,38 @@
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Digital LED Billboard Sign?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A digital LED billboard sign is a type of LED billboard display made up of LED electronics, capable of displaying dynamic advertisements. These billboards are commonly used for outdoor advertising, retail signs, and commercial LED displays. They are favored for their sharp and vibrant images, making them an effective media channel for brand promotion and marketing. Digital LED billboards are often permanent fixtures in locations like shopping malls, pedestrian streets, and banks, ensuring high visibility to potential clients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What Are the Advantages of LED Billboard Advertising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED billboard advertising offers several advantages, including superior heat dissipation, high brightness, exceptional durability, and environmental efficiency. Cinstar's outdoor LED billboards feature a premium thermal design, low power consumption, and a lifespan of 5-10 years, maximizing ROI. With an IP65 rating, they provide protection against UV radiation, dust, and water, making them suitable for outdoor use. Additionally, their ultra-high brightness of 10,000 nits ensures vivid visibility even in direct sunlight, creating impactful advertisements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where Are Outdoor LED Billboards Commonly Installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Outdoor LED billboards can be installed in three primary ways: hanging, wall-mounted, or pole-mounted. Hanging installations require careful consideration of weight and wind force, while wall-mounted installations involve securely bolting the frame to a supporting wall. Pole-mounted billboards can use a unipolar or double-column style, depending on the billboard's size, and are equipped with frames to ensure stability. These methods allow for versatile placement in a variety of locations."
+      }
+    }
+  ]
+}
+</script>
 
 </head>
 <body class="page-index">
@@ -147,7 +179,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="contact">
+            <img src="../images/home-new/contact-banner.webp" alt="contContact Us Now - Cinstar-LEDact">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

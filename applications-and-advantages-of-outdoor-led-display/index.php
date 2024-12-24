@@ -31,16 +31,16 @@
                     <span>July 15, 2019</span>
                     <div class="share-icons">
                         <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
-                            <img src="../images/fb.png">
+                            <img src="../images/fb.png" alt="facebook">
                         </a>
                         <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
-                            <img src="../images/linkedin.png">
+                            <img src="../images/linkedin.png" alt="linkedin">
                         </a>
                         <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
-                            <img src="../images/pinterest.png">
+                            <img src="../images/pinterest.png" alt="pinterest">
                         </a>
                         <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
-                            <img src="../images/twitter.png">
+                            <img src="../images/twitter.png" alt="twitter">
                         </a>
                     </div>
                 </div>
