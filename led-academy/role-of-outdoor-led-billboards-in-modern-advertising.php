@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Role of Outdoor LED Billboards in Modern Advertising</title>
     <meta name="description" content="Explore the essential role of outdoor LED billboards in the advertising industry. Learn how digital LED billboards and LED billboard advertising are revolutionizing marketing strategies">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="outdoor LED screen, outdoor LED display, outdoor LED display screen, outdoor LED video wall, outdoor LED display board">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Choose Fine Pitch LED Displays | Cinstar LED</title>
     <meta name="description" content="Fine pitch LED displays offer incredible sharpness and detail. Explore how these displays elevate content delivery in any environment with Cinstar LED.">
-    <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="dvled, fine pitch led screen, fine pitch led display, fine pitch led video wall">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

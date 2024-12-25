@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>What to Consider When Choosing an LED Display Manufacturer</title>
     <meta name="description" content="Discover what you need to consider when choosing an LED display manufacturer. Learn how to pick the best LED screen manufacturer for your needs, and explore solutions from Cinstar">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="led display manufacturer, led screen manufacturer, led video wall panels, led screen display manufacturer">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

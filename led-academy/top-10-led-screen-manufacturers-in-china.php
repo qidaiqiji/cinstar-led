@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Top 10 LED Screen Manufacturers in China</title>
     <meta name="description" content="Explore the top 10 LED screen manufacturers in China and learn why Cinstar is a leading LED display manufacturer offering high-quality LED video wall panels.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="led display manufacturer, led screen manufacturer, led video wall panels, led screen display manufacturer">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Maximize the Lifespan of LED Displays | Cinstar LED</title>
     <meta name="description" content="Maximize the lifespan of your LED display with tips from Cinstar LED. Discover maintenance techniques to ensure long-term performance.">
-    <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="LED advertising, LED advertising screen, LED screen for advertising outdoor, LED display screen for advertising outdoor">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

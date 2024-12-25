@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rise of 3D LED Billboards in Smart Cities | Cinstar LED</title>
     <meta name="description" content="Growing demand for 3D LED billboards is reshaping smart cities in 2025. Discover their impact on urban engagement and advertising from Cinstar LED.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="3D LED screen, 3D LED display, 3D LED Video Wall, 3D LED Billboard">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

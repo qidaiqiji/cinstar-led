@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Ultimate Guide to LED Display Rental 2022 | Cinstar LED</title>
     <meta name="description" content="Get the comprehensive guide to LED display rental in 2022. Learn about types, benefits, and considerations from Cinstar LED.">
-    <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="rental LED display, rental LED screen, rental LED video wall, LED wall rental, rental video screens for concert ideas, LED display screen rental">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

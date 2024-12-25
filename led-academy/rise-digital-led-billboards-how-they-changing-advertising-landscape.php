@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rise of Digital LED Billboards | Cinstar LED</title>
     <meta name="description" content="Understand how Cinstar LED's digital LED billboards are revolutionizing advertising methods by increasing interaction and efficacy.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="digital LED billboard, outdoor LED billboard, LED billboard, LED billboard advertising, LED billboard sign">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

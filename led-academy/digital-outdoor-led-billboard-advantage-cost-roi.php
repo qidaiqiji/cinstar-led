@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Digital Outdoor LED Billboard: Advantage, Cost, and ROI</title>
     <meta name="description" content="Explore the advantages, costs, and ROI of digital outdoor LED billboards. Learn why LED billboard advertising is a smart investment for businesses with Cinstar's high-quality solutions">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="digital LED billboard, outdoor LED billboard, LED billboard, LED billboard advertising, LED billboard sign">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

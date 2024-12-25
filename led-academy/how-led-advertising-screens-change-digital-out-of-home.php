@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How LED Advertising Screens Are Changing Digital Out-of-Home</title>
     <meta name="description" content="Explore how LED advertising screens transform digital out-of-home advertising. Discover their impact, advantages, and why Cinstar leads the way">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="LED advertising, LED advertising screen, LED screen for advertising outdoor, LED display screen for advertising outdoor">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

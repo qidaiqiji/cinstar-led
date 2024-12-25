@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Rise of Direct View LED in Home Cinema Market</title>
     <meta name="description" content="Discover how Direct View LED technology, including Direct View LED video walls and TVs, is revolutionizing the home cinema market with immersive experiences">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="direct view led, direct view led video wall, direct view led tv, direct view led display wall">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Retail Stores Choose LED Advertising Screen for Brand Promotion</title>
     <meta name="description" content="Discover why retail stores are increasingly using LED advertising screens for brand promotion. Explore the benefits of LED display screens for advertising outdoor and indoor environments">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="LED advertising, LED advertising screen, LED screen for advertising outdoor, LED display screen for advertising outdoor">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

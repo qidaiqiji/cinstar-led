@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Buying Checklist | Cinstar LED</title>
     <meta name="description" content="Ensure a successful investment by understanding what to consider before and after purchasing an outdoor LED display. Get expert advice from Cinstar LED.">
-    <meta name="keywords" content="LED billboard, LED display, Cinstar-led, LED screen, LED video wall, LED screen display, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="outdoor LED screen, outdoor LED display, outdoor LED display screen, outdoor LED video wall, outdoor LED display board">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

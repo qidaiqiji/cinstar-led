@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rental LED Displays for Weddings and Events | Cinstar LED</title>
     <meta name="description" content="Make your wedding and events unforgettable with rental LED displays from Cinstar LED. Add a personal touch with stunning visuals, live streams, and more.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="rental LED display, rental LED screen, rental LED video wall, LED wall rental, rental video screens for concert ideas, LED display screen rental">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED vs. LCD Video Walls | Cinstar LED</title>
     <meta name="description" content="Choosing between Direct View LED and LCD video walls? Explore their pros and cons from Cinstar LED to find the best fit for your space and budget.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="direct view led, direct view led video wall, direct view led tv, direct view led display wall">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

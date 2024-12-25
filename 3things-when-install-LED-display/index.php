@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Critical Tips for LED Display Installation | Cinstar LED</title>
     <meta name="description" content="Make your LED display installation seamless by keeping these three factors in mind. Cinstar LED offers expert advice for optimal setup.">
-    <meta name="keywords" content="outdoor LED display, LED display, LED screen, Cinstar-led, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="outdoor LED screen, outdoor LED display, outdoor LED display screen, outdoor LED video wall, outdoor LED display board">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

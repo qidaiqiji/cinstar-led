@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Build High-Value Digital LED Billboard | Cinstar LED</title>
     <meta name="description" content="Ensure your digital LED billboard delivers high value with these three key tips. Check insights from Cinstar LED for impactful design and placement.">
-    <meta name="keywords" content="LED billboard display, digital LED billboard, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="digital LED billboard, outdoor LED billboard, LED billboard, LED billboard advertising, LED billboard sign">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

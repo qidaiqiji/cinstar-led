@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Walls in Control Rooms | Cinstar LED</title>
     <meta name="description" content="Explore the role of fine pitch LED video walls from Cinstar LED for control rooms and command centers. Experience enhanced surveillance and monitoring.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="dvled, fine pitch led screen, fine pitch led display, fine pitch led video wall">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

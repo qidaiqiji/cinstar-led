@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why You Need a Direct View LED Video Wall in TV Studios</title>
     <meta name="description" content="Discover why a direct view LED video wall is essential for TV studios and broadcasting. Learn the benefits of direct view LED displays and how Cinstar leads the industry">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="direct view led, direct view led video wall, direct view led tv, direct view led display wall">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

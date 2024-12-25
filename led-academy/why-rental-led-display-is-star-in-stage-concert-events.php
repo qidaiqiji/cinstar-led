@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Rental LED Display Is the Star in Stage Concert Events</title>
     <meta name="description" content="Discover why rental LED displays are essential for stage concerts. Learn their benefits, ideas for rental video screens, and why Cinstar is the industry leader">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="rental LED display, rental LED screen, rental LED video wall, LED wall rental, rental video screens for concert ideas, LED display screen rental">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

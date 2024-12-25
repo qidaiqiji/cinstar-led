@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Future Trends of LED Display Technology | Cinstar LED</title>
     <meta name="description" content="LED display technology is evolving rapidly. Learn about the latest trends and innovations to watch for in 2025 from Cinstar LED.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="led display manufacturer, led screen manufacturer, led video wall panels, led screen display manufacturer">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

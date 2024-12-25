@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Commercial Value of 3D LED Screen</title>
     <meta name="description" content="Discover the immense commercial value of 3D LED screens, 3D LED displays, and 3D LED video walls. Learn how Cinstar's cutting-edge technology enhances audience engagement and brand promotion">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="3D LED screen, 3D LED display, 3D LED Video Wall, 3D LED Billboard">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">

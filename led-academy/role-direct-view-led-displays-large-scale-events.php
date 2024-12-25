@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Role of Direct View LED Displays on Events | Cinstar LED</title>
     <meta name="description" content="Discover the role of Direct View LED displays in large-scale event productions by Cinstar LED, ranging from high-resolution visuals to flexible designs.">
-    <meta name="keywords" content="COB LED, COB technology, LED technology, Cinstar-led, LED display, LED screen, LED video wall, LED screen display, LED display screen, LED screen wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.">  
+    <meta name="keywords" content="direct view led, direct view led video wall, direct view led tv, direct view led display wall">  
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Cinstar LED">
