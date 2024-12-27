@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-241220.css">
+    <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Maximize the Lifespan of LED Displays | Cinstar LED</title>
     <meta name="description" content="Maximize the lifespan of your LED display with tips from Cinstar LED. Discover maintenance techniques to ensure long-term performance.">
@@ -28,16 +28,16 @@
                     <span>May 14, 2019</span>
                     <div class="share-icons">
                         <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
-                            <img src="../images/fb.png" alt="facebook">
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i>
                         </a>
                         <a class="linkedin" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
-                            <img src="../images/linkedin.png" alt="linkedin">
+                            <i class="fa fa-linkedin-square" aria-hidden="true"></i>
                         </a>
                         <a class="pinterest" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
-                            <img src="../images/pinterest.png" alt="pinterest">
+                            <i class="fa fa-pinterest-square" aria-hidden="true"></i>
                         </a>
                         <a class="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
-                            <img src="../images/twitter.png" alt="twitter">
+                            <i class="fa fa-twitter-square" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>

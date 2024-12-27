@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-241220.css">
+    <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Cinstar Stadium LED Screen with High-Performance LED Displays for Immersive Sporting Experiences at Cinstar-LED.com</title>
     <meta name="description" content="Elevate the stadium experience with Cinstar LED's state-of-the-art Stadium LED Screens. Immerse your audience in stunning visuals and captivating displays.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-241220.css">
+    <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>DVLED | Fine Pitch LED Display & Screen | LED Video Wall</title>
     <meta name="description" content="Cinstar offers the best DVLED and fine pitch LED screen for all your direct view LED video wall application. Contact Cinstar LED for your needs.">

@@ -3,6 +3,18 @@
 img {
     width: 100%;
 }
+.share-icons .facebook i{
+    color: #557dbc;
+}
+.share-icons .linkedin i{
+    color: #1c86c6;
+}
+.share-icons .pinterest i{
+    color: #E60023;
+}
+.share-icons .twitter i{
+    color: #7acdee;
+}
 .new-product-container .product-banner {
     overflow-y: hidden;
     margin-top: 100px;
@@ -86,9 +98,12 @@ img {
 }
 .share-icons a{
     display: inline-block;
-    width: 18px;
+    width: 20px;
     height: 30px;
     margin: 0 6px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 22px;
 }
 .share-icons img {
     width: 100%;

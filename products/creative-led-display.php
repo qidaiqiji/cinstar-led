@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-241220.css">
+    <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Stage LED screens, Stage led display | Cinstar-led</title>
     <meta name="description" content="Cinstar brings the best led solutions in the form of LED Display Board for wide range of applications. We have best collection of led display signs that are perfect for digital advertising for any business.">

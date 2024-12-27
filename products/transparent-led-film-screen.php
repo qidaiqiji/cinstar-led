@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-241220.css">
+    <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Transparent LED Screen Display & Video Wall | LED Film Screen | Cinstar LED</title>
     <meta name="description" content="Wanna apply innovative holographic transparent LED film screen for indoor and outdoor glass wall display advertising? Try out Cinstar transparent LED video wall solutions!">
