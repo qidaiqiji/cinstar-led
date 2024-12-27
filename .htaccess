@@ -26,6 +26,7 @@
 	Redirect 301 /product-detail/products/outdoor-led-display.php /products/
 	Redirect 301 /product-detail/products/stage-led-screen.php /products/
 	Redirect 301 /product-detail/fantasy.php /products/
+	Redirect 301 /product-detail/rs-series.php /products/rental-led-display-screen.php
 
 	# Redirect products paths
 	Redirect 301 /products/outdoor- /products/outdoor-led-display-screen.php
