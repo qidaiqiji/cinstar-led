@@ -66,7 +66,7 @@
                 <p>LED panels are an investment, so you need a screen manufacturer known for its great quality and durability. Look for manufacturers known for quality control, strong materials that can withstand environmental forces, and effective heat management. These features are very significant when it comes to keeping your display long-lasting and reliable. It needs to be in good condition while used in high-traffic locations.</p>
                 <ul>
                     <li><strong>⦁	Brightness and Color Accuracy:</strong> Quality LED panels should deliver vibrant, clear visuals with a consistent color range.</li>
-                    <li><strong>⦁	uild and Longevity:</strong> Ensure that the manufacturer offers warranties and after-sales service to protect your investment against malfunctions or defects.</li>
+                    <li><strong>⦁	Build and Longevity:</strong> Ensure that the manufacturer offers warranties and after-sales service to protect your investment against malfunctions or defects.</li>
                 </ul>
                 <h2>3. Customization Options</h2>
                 <p>Different businesses and events have specific demands for LED displays. A decent LED screen manufacturer will customize your choices to fit your particular requirements, whether you need a unique size, aspect ratio, or the flexibility to create your custom content layout.</p>
