@@ -27,6 +27,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="./how-to-choose-right-outdoor-led-video-wall.php"><img class="lazy" data-src="../images/blog/led-video-wall-rentals.webp" alt="led video wall rentals"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="./how-to-choose-right-outdoor-led-video-wall.php">How to Choose the Right Outdoor LED Video Wall</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        Conveying business prospects via LED video walls has become a new norm in today's business world. In order to enhance the visual impact of your setting, determining the right screen is imperative. Irrespective of your requirements
+                        </p>
+                        <p class="read-more"><a href="./how-to-choose-right-outdoor-led-video-wall.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>January 17, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="./creative-uses-for-led-video-wall-rentals.php"><img class="lazy" data-src="../images/blog/outdoor-led-video-wall.webp" alt="outdoor led video wall"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="./creative-uses-for-led-video-wall-rentals.php">6 Creative Uses for LED Video Wall Rentals</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        Eye-catching becomes crucial with all the speedy technological skills prevailing in today's fast-paced world. LED video walls are changing the face of digital communication. They allow businesses and event organizers to be innovative in engaging their audiences
+                        </p>
+                        <p class="read-more"><a href="./creative-uses-for-led-video-wall-rentals.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>January 17, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="./all-the-facts-about-modern-led-billboard.php"><img class="lazy" data-src="../images/blog/led-billboard-1.jpg" alt="led billboard"></a>
                     </div>
                     <div class="blog-content">
