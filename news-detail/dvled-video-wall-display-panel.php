@@ -66,6 +66,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="direct-view-led-video-wall-usa-video-conference-experience.php">Four Direct View LED Video Walls Delivered to USA for Immersive Video Conference Experience</a></h3>
         <h3><span>Next :</span><a href="media-cube-led-display-video-wall-at-lulea-hockey-sweden.php">Cinstar P4 media cube LED video wall shines at Lulea Hockey & COOP Norrbotten Arena</a></h3>
     </div>
         <!-- 底部开始 -->

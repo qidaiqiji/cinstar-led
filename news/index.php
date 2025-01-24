@@ -29,6 +29,13 @@
     <script>
         let dataList = [
             {
+                imgSrc:'../images/news/direct-view-led-video-conference-1.webp',
+                title:'Four Direct View LED Video Walls Delivered to USA for Immersive Video Conference Experience',
+                data:'2025-01-24',
+                detail:'In a major step toward revolutionizing corporate communication, four state-of-the-art direct view LED video walls were recently delivered to the USA to create immersive video conference experiences. The client, a leading innovator in life-sized LED wall technology, aims to transform traditional video conferencing into a truly immersive and lifelike interaction for international companies.',
+                href: '../news-detail/direct-view-led-video-wall-usa-video-conference-experience.php'
+            },
+            {
                 imgSrc:'../images/news/dvled-1.jpg',
                 title:'HD1.2 UHD DV LED video wall display panels delivered to Boston college USA',
                 data:'2024-10-24',

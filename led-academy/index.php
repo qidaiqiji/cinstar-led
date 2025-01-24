@@ -27,6 +27,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="./facts-you-should-know-about-3d-led-display.php"><img class="lazy" data-src="../images/blog/facts-about-3d-led-display.webp" alt="facts about 3d led display"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="./facts-you-should-know-about-3d-led-display.php">All the Facts You Should Know About 3D LED Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        While technology has reached every corner of our lives, it has set remarkable standards in viewing experiences. Not to mention, a 3D LED display is one of the modern advancements. These displays show 3D effects that can be seen without special glasses
+                        </p>
+                        <p class="read-more"><a href="./facts-you-should-know-about-3d-led-display.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>January 24, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="./how-to-identify-quality-led-display-screen.php"><img class="lazy" data-src="../images/blog/identify-quality-led-display-screen.webp" alt="identify quality led display screen"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="./how-to-identify-quality-led-display-screen.php">How To Identify The Quality Of LED Display Screen</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        When considering interior LED wall panels for your event or business, you must buy the best quality. If you have the proper knowledge, selecting LED Video Wall Panels that align with your requirements for exceptional experience is possible.
+                        </p>
+                        <p class="read-more"><a href="./how-to-identify-quality-led-display-screen.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>January 24, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="./how-to-choose-right-outdoor-led-video-wall.php"><img class="lazy" data-src="../images/blog/led-video-wall-rentals.webp" alt="led video wall rentals"></a>
                     </div>
                     <div class="blog-content">

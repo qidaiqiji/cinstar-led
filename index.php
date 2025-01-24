@@ -685,6 +685,21 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">
+                        <img src="images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>Four Direct View LED Video Walls Delivered to USA for Immersive Video Conference Experience</h3>
+                            <p class="date">2025-01-24</p>
+                        </div>
+                        <div class="news-desc">
+                        In a major step toward revolutionizing corporate communication, four state-of-the-art direct view LED video walls were recently delivered to the USA to create immersive video conference experiences. The client, a leading innovator in life-sized LED wall technology, aims to transform traditional video conferencing into a truly immersive and lifelike interaction for international companies.
+                        </div>
+                    </div>
+                    <hr class="under-line">
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="news-detail/dvled-video-wall-display-panel.php">
                         <img src="images/news/dvled-1.jpg" alt="dv led">
                     </a>
@@ -709,21 +724,6 @@
                         </div>
                         <div class="news-desc">
                         Big thanks to our partner’s great efforts and professionalism, the Cinstar P4 massive media cube LED video wall panels were installed and operated as scheduled to deliver high profile match performance for the opening day games of Lulea Hockey and COOP Norrbotten arena. The stunning performance of this current most advanced media cubes caught big attention in the SHL(Swedish Hockey League) field. 
-                        </div>
-                    </div>
-                    <hr class="under-line">
-                </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="news-detail/cob-direct-view-led-video-wall-usa.php">
-                        <img src="images/news/direct-view-led-news.jpg" alt="direct-view-led-news">
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>CH1.2 COB direct view LED video wall panels delivered to USA high school </h3>
-                            <p class="date">2024-09-11</p>
-                        </div>
-                        <div class="news-desc">
-                            Benefit from encapsulation advancement and big drop in cost, COB technology is getting matured and challenging conventional SMD technology a lot at the direct view LED video wall applications like television broadcast studio, conference room, meeting room, board room, command center and home cinema etc. COB can easily achieve the pixel pitch lower than 0.9mm, such as 0.62mmm, 0.78mm are available now. 
                         </div>
                     </div>
                     <hr class="under-line">
