@@ -74,7 +74,7 @@
 	Redirect 301 /sitemap.html /
 	Redirect 301 /news-detail/pros-and-cons-of-digital-led-billboard-advertising-truck.php /pros-and-cons-of-digital-led-billboard-advertising-truck/
 	Redirect 301 /support /
-	Redirect 301 /news-detail/2020-10-19.php /
+	Redirect 301 /news-detail/2020-10-19.php /news/
 	Redirect 301 /news-detail/2018-12-25.php /
 	Redirect 301 /news-detail/2023-1-30.php /
 	Redirect 301 /news-detail/2018-4-12.php /
@@ -118,7 +118,6 @@
 	Redirect 301 /product-detail/news /news/
 	Redirect 301 /product-detail/ct-series.php /products/
 	Redirect 301 /products/commercial-led.php/1000 /products/commercial-led.php
-	Redirect 301 /product-detail/ /products/
 	RedirectMatch 301 ^/product-det$ /products/
 	RedirectMatch 301 ^/product-$ /products/
 
