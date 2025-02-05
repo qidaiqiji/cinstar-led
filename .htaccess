@@ -74,7 +74,51 @@
 	Redirect 301 /sitemap.html /
 	Redirect 301 /news-detail/pros-and-cons-of-digital-led-billboard-advertising-truck.php /pros-and-cons-of-digital-led-billboard-advertising-truck/
 	Redirect 301 /support /
-	Redirect 301 /news-detail/2020-10-19.php /news/
+	Redirect 301 /news-detail/2020-10-19.php /
+	Redirect 301 /news-detail/2018-12-25.php /
+	Redirect 301 /news-detail/2023-1-30.php /
+	Redirect 301 /news-detail/2018-4-12.php /
+	Redirect 301 /news-detail/2019-5-23.php /
+	Redirect 301 /news-detail/2017-11-22.php /
+	Redirect 301 /news-detail/2023-08-02.php /
+	Redirect 301 /news-detail/2017-1-10.php /
+	Redirect 301 /news-detail/2021-11-17.php /
+	Redirect 301 /news-detail/2022-10-20.php /
+	Redirect 301 /news-detail/2018-10-18.php /
+	Redirect 301 /news-detail/2020-1-22.php /
+	Redirect 301 /news-detail/2023-11-13.php /
+	Redirect 301 /news-detail/2022-7-20.php /
+	Redirect 301 /news-detail/2017-8-9.php /
+	Redirect 301 /news-detail/2019-3-15.php /
+	Redirect 301 /news-detail/2024-07-08.php /
+	Redirect 301 /news-detail/2021-8-17.php /
+	Redirect 301 /news-detail/2024-09-20.php /
+	Redirect 301 /news-detail/2014-7-15.php /
+	Redirect 301 /news-detail/2019-4-12.php /
+	Redirect 301 /news-detail/2015-4-20.php /
+	Redirect 301 /news-detail/2019-2-18.php /
+	Redirect 301 /news-detail/2015-11-9.php /
+	Redirect 301 /news-detail/2018-8-22.php /
+	Redirect 301 /news-detail/2024-09-11.php /
+	Redirect 301 /news-detail/2021-5-25.php /
+	Redirect 301 /news-detail/2024-01-26.php /
+	Redirect 301 /news-detail/2014-11-10.php /
+	Redirect 301 /news-detail/2019-8-20.php /
+	Redirect 301 /news-detail/2019-12-16.php /
+	Redirect 301 /product-detail/gallery-detail/fine-pitch-cases.php /gallery-detail/fine-pitch-cases.php
+	Redirect 301 /product-detail/products /products/
+	Redirect 301 /product-detail/tl-series.php /products/
+	Redirect 301 /news-detail/2018-6-4.php /
+	Redirect 301 /product-detail/gallery-detail/fixed-cases.php /gallery-detail/fixed-cases.php
+	Redirect 301 /product-detail/contact /contact/
+	Redirect 301 /product-detail/gallery /gallery/
+	Redirect 301 /product-detail/about /about/
+	Redirect 301 /product-detail/products/stadium-led-screen.php /products/stadium-led-screen.php
+	Redirect 301 /product-detail/led-academy /led-academy/
+	Redirect 301 /product-detail/news /news/
+	Redirect 301 /product-detail/ct-series.php /products/
+	Redirect 301 /products/commercial-led.php/1000 /products/commercial-led.php
+	Redirect 301 /product-detail/ /products/
 	RedirectMatch 301 ^/product-det$ /products/
 	RedirectMatch 301 ^/product-$ /products/
 
