@@ -27,6 +27,57 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/tips-for-choosing-led-panels-for-sports-venues.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/led-panels-for-sports-venues.webp" alt="tips for choosing led panels for sports venues"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/tips-for-choosing-led-panels-for-sports-venues.php">Tips for Choosing LED Panels for Sports Venues</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        LED panels are becoming an essential part of sports venues. They display live footage of the players, scores, and other important information. Since they are installed in the open areas, it is vital to pick wisely. LED Video Wall Panels are known for their bright displays, energy efficiency
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/tips-for-choosing-led-panels-for-sports-venues.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>February 17, 2024</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/digital-signage-system-drives-sales-for-restaurant.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/digital-led-signage-1.webp" alt="digital led signage"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/digital-signage-system-drives-sales-for-restaurant.php">How a Digital Signage System Can Drive Sales in Your Restaurant</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        In a highly evolving restaurant business today, great food alone isn't enough to stand out. Owners and operators must find new ways to manage restaurants that improve the customers' experience and increase the chances of boosting sales.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/digital-signage-system-drives-sales-for-restaurant.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>February 17, 2024</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/what-you-need-to-know-about-waterproof-led-screens.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/waterproof-led-screens.webp" alt="waterproof led screens"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/what-you-need-to-know-about-waterproof-led-screens.php">Everything You Need To Know About Waterproof LED Screens</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        If you're planning an outdoor party or seeking an efficient display solution in areas with high traffic, outdoor LED display screen offer an impressive visual experience. Through advancements in LED technology, manufacturers push the limits to provide long-lasting
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/what-you-need-to-know-about-waterproof-led-screens.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>February 17, 2024</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="./outdoor-led-displays-for-sports-stadiums-and-events.php"><img class="lazy" data-src="../images/blog/outdoor-led-display-for-sports.webp" alt="outdoor led display for sports"></a>
                     </div>
                     <div class="blog-content">
