@@ -7,13 +7,13 @@
                 <span>Products</span>
             </div>
             <div class="footer-detail">
-                <p><a href="../products/direct-view-led.php">Direct View LED</a></p>
-                <p><a href="../products/rental-led-display-screen.php">Rental LED Display</a></p>
-                <p><a href="../products/led-stage-screen.php">LED Stage Screen</a></p>
-                <p><a href="../products/indoor-led-display.php">Indoor LED Display</a></p>
-                <p><a href="../products/creative-led-display.php">Creative LED Display</a></p>
-                <p><a href="../products/custom-led-display.php">Custom LED Display</a></p>
-                <p><a href="../products/digital-led-billboard.php">Digital LED Billboard</a></p>
+                <p><a href="https://www.cinstar-led.com/products/direct-view-led.php">Direct View LED</a></p>
+                <p><a href="https://www.cinstar-led.com/products/rental-led-display-screen.php">Rental LED Display</a></p>
+                <p><a href="https://www.cinstar-led.com/products/led-stage-screen.php">LED Stage Screen</a></p>
+                <p><a href="https://www.cinstar-led.com/products/indoor-led-display.php">Indoor LED Display</a></p>
+                <p><a href="https://www.cinstar-led.com/products/creative-led-display.php">Creative LED Display</a></p>
+                <p><a href="https://www.cinstar-led.com/products/custom-led-display.php">Custom LED Display</a></p>
+                <p><a href="https://www.cinstar-led.com/products/digital-led-billboard.php">Digital LED Billboard</a></p>
             </div>
         </div>
         <div class="footer-item footer-gallery">
@@ -21,13 +21,13 @@
                 <span>Solutions</span>
             </div>
             <div class="footer-detail">
-                <p><a href="../products/3d-led-display-screen.php">3D LED Display Screen</a></p>
-                <p><a href="../products/led-advertising.php">LED Advertising Display</a></p>
-                <p><a href="../products/commercial-led-display.php">Commercial LED Display</a></p>
-                <p><a href="../products/event-led-screen.php">LED Screens for Events</a></p>
-                <p><a href="../products/church-led-screen.php">LED Screen for Church</a></p>
-                <p><a href="../products/concert-led-screen.php">Concert LED Screen</a></p>
-                <p><a href="../products/outdoor-led-display-screen.php ">Outdoor LED Display Screen</a></p>
+                <p><a href="https://www.cinstar-led.com/products/3d-led-display-screen.php">3D LED Display Screen</a></p>
+                <p><a href="https://www.cinstar-led.com/products/led-advertising.php">LED Advertising Display</a></p>
+                <p><a href="https://www.cinstar-led.com/products/commercial-led-display.php">Commercial LED Display</a></p>
+                <p><a href="https://www.cinstar-led.com/products/event-led-screen.php">LED Screens for Events</a></p>
+                <p><a href="https://www.cinstar-led.com/products/church-led-screen.php">LED Screen for Church</a></p>
+                <p><a href="https://www.cinstar-led.com/products/concert-led-screen.php">Concert LED Screen</a></p>
+                <p><a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php ">Outdoor LED Display Screen</a></p>
             </div>
         </div>
         <div class="footer-item input-item">
@@ -90,9 +90,9 @@ function Check()
                 <!-- <a class="phone">+86 183 2088 9297</a> -->
             </div>
             <div class="footer-social">
-                <a href="https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour" target="_blank"><i class="fa fa-facebook-f"></i></a>
-                <a href="https://www.instagram.com/cinstarled/" target="_blank"><i class="fa fa-instagram"></i></a>
-                <a href="https://twitter.com/Cinstar_led" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour" target="_blank" rel="nofollow"><i class="fa fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/cinstarled/" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a>
+                <a href="https://twitter.com/Cinstar_led" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a>
             </div>
         </div>
     </div>

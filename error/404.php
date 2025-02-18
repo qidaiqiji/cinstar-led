@@ -184,7 +184,7 @@
             </div>
         </div>
         <div class="whatsicon">
-            <a href="https://api.whatsapp.com/send?l=en&phone=8618320889297" target="_blank">
+            <a href="https://api.whatsapp.com/send?l=en&phone=8618320889297" target="_blank" rel="nofollow">
                 <i class="fa fa-whatsapp"></i>
             </a>
         </div>
