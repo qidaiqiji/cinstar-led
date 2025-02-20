@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news29.jpg" alt="Cinstar rental LED screen for church at convention center Norway">
+                    <img src="https://www.cinstar-led.com/images/news/news29.jpg" alt="Cinstar rental LED screen for church at convention center Norway">
                 </div>
                 <p>
                     Scandinavia is one of main markets for Cinstar business development. Until now, Cinstar has installed quite a lot of screens there including stage rental screens and indoor outdoor commercial screens. Last week, 60sqm Cinstar CR5 <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><b>rental led screen</b></a> has been installed in Oslo convention center for worship and other event activities.
@@ -35,7 +35,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="led-advertising-screen-denmark.php">Cinstar LED advertising screen installed in Denmark</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-denmark.php">Cinstar LED advertising screen installed in Denmark</a></h3>
     </div>
     
         <!-- 底部开始 -->

@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news28.jpg" alt="Cinstar LED advertising screen installed in Denmark">
+                    <img src="https://www.cinstar-led.com/images/news/news28.jpg" alt="Cinstar LED advertising screen installed in Denmark">
                 </div>
                 <p>
                     Wherever you are in urban city or country side, LED display is now easy to seen in our livelihood. Except wall mounted on building, stand column beside road, there are more and more locations becoming popular to install <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising screen</b></a>. Take parking lot for example, when cars became one indispensable part of our life, parking lots will with high population concentration which makes it a target spot to commercial agencies. That is why we can see more LED displays in parking lots.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="rental-led-screen-stockholm-sweden.php">Cinstar rental LED screen shining on Zinzino Annual Event </a></h3>
-        <h3><span>Next :</span><a href="rental-led-screen-for-church-norway.php">Cinstar rental LED screen for church at convention center Norway</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/rental-led-screen-stockholm-sweden.php">Cinstar rental LED screen shining on Zinzino Annual Event </a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/rental-led-screen-for-church-norway.php">Cinstar rental LED screen for church at convention center Norway</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

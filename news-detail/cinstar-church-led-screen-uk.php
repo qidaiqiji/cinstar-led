@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news20.jpg" alt="Cinstar church LED screen UK">
+                    <img src="https://www.cinstar-led.com/images/news/news20.jpg" alt="Cinstar church LED screen UK">
                 </div>
                 <p>
                     Thanks to the general recognition from more industries, LED display is now playing a more and more important role in people’s daily life. Take the church for example, except its initial function of spreading God’s message, it is also holding some interesting activities like fashion weeks, story sharing gatherings etc. More and more people can participate into the activity and have better experience with the help of LED displays.
@@ -32,8 +32,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="led-advertising-screen-shopping-mall-russia.php">Cinstar LED advertising screen for shopping mall Russia</a></h3>
-        <h3><span>Next :</span><a href="outdoor-led-screen-advertising-sweden.php">Cinstar outdoor LED screen advertising at COOP Arena Sweden</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-shopping-mall-russia.php">Cinstar LED advertising screen for shopping mall Russia</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/outdoor-led-screen-advertising-sweden.php">Cinstar outdoor LED screen advertising at COOP Arena Sweden</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

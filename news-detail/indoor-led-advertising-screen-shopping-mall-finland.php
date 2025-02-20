@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news13.jpg" alt="Cinstar LED advertising screen shines at shopping mall Finland">
+                    <img src="https://www.cinstar-led.com/images/news/news13.jpg" alt="Cinstar LED advertising screen shines at shopping mall Finland">
                 </div>
                 <p>
                     Recently, one another giant Cinstar <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising screen</b></a> has been installed in Tampere KoskiKeskus shopping mall for commercial advertising. The customer was very pleased to the image quality and the whole slim structure.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="led-advertising-screen-for-shopping-mall-uk.php">Cinstar LED advertising screen upgrades shopping mall in UK</a></h3>
-        <h3><span>Next :</span><a href="led-screens-for-events-uk.php">Cinstar LED screens for events UUP conference UK</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-for-shopping-mall-uk.php">Cinstar LED advertising screen upgrades shopping mall in UK</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/led-screens-for-events-uk.php">Cinstar LED screens for events UUP conference UK</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

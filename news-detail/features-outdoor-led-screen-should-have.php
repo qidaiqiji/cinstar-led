@@ -43,8 +43,8 @@
         </div>
     </div>
     <div class="related-news">
-    <h3><span>Previous :</span><a href="direct-view-led-tv-to-replace-projectors-and-lcd-video-wall.php">Direct view LED TV to replace your projectors & LCD video wall</a></h3>
-        <h3><span>Next :</span><a href="cinstar-p1.2-direct-view-led-video-wall-usa.php">Cinstar 4K direct view LED video wall ready for shipment to USA</a></h3>
+    <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-tv-to-replace-projectors-and-lcd-video-wall.php">Direct view LED TV to replace your projectors & LCD video wall</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-p1.2-direct-view-led-video-wall-usa.php">Cinstar 4K direct view LED video wall ready for shipment to USA</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

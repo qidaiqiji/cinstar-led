@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news1.jpg" alt="Cinstar rental LED display lights up Oslo Spektrum Arena Norway">
+                    <img src="https://www.cinstar-led.com/images/news/news1.jpg" alt="Cinstar rental LED display lights up Oslo Spektrum Arena Norway">
                 </div>
                 <p>
                     In the past week, Cinstar CR3.9 <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><b>rental led display</b></a>witnessed a remarkable show at Norway Oslo Spektrum Arena where is primarily known for hosting major events such as annual Nobel Peace Prize Concert, Eurovision Song Contest and concerts by artists of national and international fame.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-direct-view-led-video-wall-france.php">Cinstar HD1.56 direct view LED video wall to France</a></h3>
-        <h3><span>Next :</span><a href="direct-view-led-conference-room-india.php">Cinstar direct view LED for conference room India</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-direct-view-led-video-wall-france.php">Cinstar HD1.56 direct view LED video wall to France</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-conference-room-india.php">Cinstar direct view LED for conference room India</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

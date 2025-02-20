@@ -20,13 +20,13 @@
             </div>
             <div class="content-box">
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/Cinstar-HD1.25-20x9panels-1.jpg" alt="Cinstar-HD1.25-20x9panels">
+                    <img src="https://www.cinstar-led.com/images/news/Cinstar-HD1.25-20x9panels-1.jpg" alt="Cinstar-HD1.25-20x9panels">
                 </div>    
                 <p>
                 As one of the best-selling products among all Cinstar product lines, Cinstar <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b> direct view LED TV</b></a> solution HD series contributed a major part of our sales volume in 2019. And it seems that this product will have a more prosperous performance in the new year 2020.
                 </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/Cinstar-HD1.25-20x9panels-2.jpg" alt="Cinstar-HD1.25-20x9panels-2">
+                    <img src="https://www.cinstar-led.com/images/news/Cinstar-HD1.25-20x9panels-2.jpg" alt="Cinstar-HD1.25-20x9panels-2">
                 </div>
                 <p>
                     At the beginning of January, Cinstar won its first HD series project in 2020. It was a massive concave HD1.2 for a National conference hall in Germany. The screen dimension is 20 x 9 panels, total screen size 12mx3.07m. The customer was very picked on the panel depth and the flatness of the screen. After comparing with several different LED solutions from other manufacturers, they finally chose Cinstar as their supplier for the following reasons:
@@ -35,21 +35,21 @@
                 <p><b>Cinstar HD series is with Ultra slim (less than 38mm) and super light-weight panel.</b></p>
                 <p><b>Cinstar HD series is a truly seamless LED video wall, ready to present a breathtaking image performance.</b></p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/Cinstar-HD1.25-20x9panels-3.jpg" alt="Cinstar-HD1.25-20x9panels-3">
+                    <img src="https://www.cinstar-led.com/images/news/Cinstar-HD1.25-20x9panels-3.jpg" alt="Cinstar-HD1.25-20x9panels-3">
                 </div>
                 <p>
                 If you are interested to Cinstar HD series for any high profile installation, here is link for product introduction: 
                 <a href="https://www.cinstar-led.com/product-detail/hd-series.php" style="text-decoration: underline; color: blue">https://www.cinstar-led.com/product-detail/hd-series.php</a>
                 </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/Cinstar-HD1.25-20x9panels-4.jpg" alt="Cinstar-HD1.25-20x9panels-4">
+                    <img src="https://www.cinstar-led.com/images/news/Cinstar-HD1.25-20x9panels-4.jpg" alt="Cinstar-HD1.25-20x9panels-4">
                 </div>
             </div>
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-p1.2-direct-view-led-video-wall-usa.php">Cinstar 4K direct view LED video wall ready for shipment to USA</a></h3>
-        <h3><span>Next :</span><a href="best-shopping-mall-led-advertising-display-in-finland.php">The best shopping mall LED advertising display in Finland</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-p1.2-direct-view-led-video-wall-usa.php">Cinstar 4K direct view LED video wall ready for shipment to USA</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/best-shopping-mall-led-advertising-display-in-finland.php">The best shopping mall LED advertising display in Finland</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

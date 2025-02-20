@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news14.jpg" alt="Cinstar LED screens for events UUP conference UK">
+                    <img src="https://www.cinstar-led.com/images/news/news14.jpg" alt="Cinstar LED screens for events UUP conference UK">
                 </div>
                 <p>
                     Last week, Cinstar <a href="https://www.cinstar-led.com/products/event-led-screen.php"><b>LED screens for events</b></a> witnessed one productive UUP conference 2017. The leader Robin Swann attended and host this conference. The whole conference was broadcasted by BBC2 and got a lot of attention from UK political parties.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="indoor-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen shines at shopping mall Finland</a></h3>
-        <h3><span>Next :</span><a href="led-advertising-screen-for-shopping-mall-finland.php">Cinstar LED advertising screen for shopping mall in Finland</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/indoor-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen shines at shopping mall Finland</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-for-shopping-mall-finland.php">Cinstar LED advertising screen for shopping mall in Finland</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

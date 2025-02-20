@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news17.jpg" alt="Cinstar LED video wall panels ready for shipping to Sweden">
+                    <img src="https://www.cinstar-led.com/images/news/news17.jpg" alt="Cinstar LED video wall panels ready for shipping to Sweden">
                 </div>
                 <p>
                     A few weeks ago, Cinstar won a bid case for Swedish factory project. It was 30 pcs <a href="https://www.cinstar-led.com"><b>led video wall panels</b></a> for large machines. Each machine will be installed with one 9sqm LED display as information window.
@@ -32,8 +32,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="rental-video-screens-for-concert-ideas-norway.php">Cinstar rental video screens for concert ideas Norway</a></h3>
-        <h3><span>Next :</span><a href="led-advertising-screen-shopping-mall-russia.php">Cinstar LED advertising screen for shopping mall Russia</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/rental-video-screens-for-concert-ideas-norway.php">Cinstar rental video screens for concert ideas Norway</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-shopping-mall-russia.php">Cinstar LED advertising screen for shopping mall Russia</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

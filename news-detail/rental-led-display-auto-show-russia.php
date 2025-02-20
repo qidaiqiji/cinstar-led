@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news24.jpg" alt="Cinstar rental LED display supports Russia Auto Show">
+                    <img src="https://www.cinstar-led.com/images/news/news24.jpg" alt="Cinstar rental LED display supports Russia Auto Show">
                 </div>
                 <p>
                     At present, LED display has been widely adopted to deliver high quality image for all kinds of fields and industries. No matter it is news press or corporate conference, we can always see the LED display. But in recent years, LED display has expanded its market to some new fields like wedding ceremony and car showing etc.
@@ -38,8 +38,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="led-advertising-screen-malaysia-hotel.php">Cinstar LED advertising screen installed at Malaysia hotel tower</a></h3>
-        <h3><span>Next :</span><a href="rental-led-display-dubai-auto-show.php">Cinstar rental LED display shines at Dubai Auto Show</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-malaysia-hotel.php">Cinstar LED advertising screen installed at Malaysia hotel tower</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/rental-led-display-dubai-auto-show.php">Cinstar rental LED display shines at Dubai Auto Show</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

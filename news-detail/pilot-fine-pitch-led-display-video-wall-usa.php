@@ -21,23 +21,23 @@
             <div class="content-box">
                 <p>Great thanks to SSS who trusted and chose Cinstar LED as supplier of its pilot project of dozen portals located around the world. Cinstar team won’t fail the trust and will perform best to deliver our promises to the expectations from customer. </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2023-08-02-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2023-08-02-1.jpg" alt="image">
                 </div>
                 <p>The pilot project includes two fine pitch LED video walls with Cinstar U1.25 (panel size 600x337.5mm, configuration 5x6 panel and 2x6 panel). The LED walls adopt top quality Nationstar LED and high refresh rate 3840Hz to make sure the solid quality and excellent visual performance. </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2023-08-02-2.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2023-08-02-2.jpg" alt="image">
                 </div>
                 <p>The 2 sets LED video screens are with vivid and natural colors, ultra-wide viewing angle, clear images and truly seamless LED surface to deliver stunning image performance. The LED system can be installed and maintained from front to get it wall mounted to save space greatly. </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2023-08-02-3.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2023-08-02-3.jpg" alt="image">
                 </div>
                 <p>As a leading LED video wall manufacturer with more than 10 years of manufacturing experience, Cinstar is capable of providing all customers the best LED screen display with the most cost effective solutions and top quality services to support all our partners to expand their business and beat their opponents.</p>
             </div>
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="custom-creative-led-display-screen-solutions.php">Cinstar creative LED display solutions boost your business</a></h3>
-        <h3><span>Next :</span><a href="transparent-led-film-screen-debuts.php">Innovative transparent LED film screen wall debuts</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/custom-creative-led-display-screen-solutions.php">Cinstar creative LED display solutions boost your business</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/transparent-led-film-screen-debuts.php">Innovative transparent LED film screen wall debuts</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

@@ -21,7 +21,7 @@
             <div class="content-box">
                 <p>In the past June, one another Cinstar UHD 4K <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led</b></a> was delivered and installed at our customer’s home to serve as main screen of home cinema. All parties were satisfied to the vivid colors and detailed image production of the LED screen wall!</p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2021-7-12-1.jpg" alt="1.25mm-USA-Home-Cinema">
+                    <img src="https://www.cinstar-led.com/images/news/2021-7-12-1.jpg" alt="1.25mm-USA-Home-Cinema">
                 </div>
                 <p>
                 This home cinema project applied Cinstar U1.25 <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led video wall</b></a> and with the screen dimension of 5400x2362mm, which meets the required measurement precisely. The LED system was equipped with high quality Nationstar LED and top level driver IC MBI5153 to get an unparalleled refresh rate 3840Hz. No matter show video content or presentation, It can carry it our with great visual impact and remarkable performance.
@@ -55,8 +55,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-led-advertising-screen-decorates-finland-shopping-mall.php">Cinstar LED advertising screen decorates Finland shopping mall</a></h3>
-        <h3><span>Next :</span><a href="direct-view-led-tv-to-replace-projectors-and-lcd-video-wall.php">Direct view LED TV to replace your projectors & LCD video wall</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-led-advertising-screen-decorates-finland-shopping-mall.php">Cinstar LED advertising screen decorates Finland shopping mall</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-tv-to-replace-projectors-and-lcd-video-wall.php">Direct view LED TV to replace your projectors & LCD video wall</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news21.jpg" alt="Cinstar outdoor LED screen advertising at COOP Arena Sweden">
+                    <img src="https://www.cinstar-led.com/images/news/news21.jpg" alt="Cinstar outdoor LED screen advertising at COOP Arena Sweden">
                 </div>
                 <p>
                     <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><b>Outdoor led screen</b></a> is now the trend of OOH advertising for its seamless splicing, excellent image quality and manageable content comparing to traditional printing advertising.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-church-led-screen-uk.php">Cinstar church LED screen UK</a></h3>
-        <h3><span>Next :</span><a href="led-advertising-screen-malaysia-hotel.php">Cinstar LED advertising screen installed at Malaysia hotel tower</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-church-led-screen-uk.php">Cinstar church LED screen UK</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-malaysia-hotel.php">Cinstar LED advertising screen installed at Malaysia hotel tower</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

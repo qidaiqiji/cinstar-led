@@ -21,7 +21,7 @@
             <div class="content-box">
                 <p><b>11th October, 2024, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> is excited to announce the launch of its new <b>CR Series Flexible Rental LED Display Screen</b>, designed to transform the visual impact of events with its unmatched versatility and cutting-edge technology. The CR Series is poised to meet the ever-growing demand for visually dynamic event solutions, offering unparalleled flexibility for installations ranging from truss suspension to ground stacking. </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/CR-series.webp" alt="CR series">
+                    <img src="https://www.cinstar-led.com/images/news/CR-series.webp" alt="CR series">
                 </div>
                 <h2 style="margin-bottom: 0"><b>Flexible Design for Maximum Versatility</b></h2>
                 <p>The <b>CR Series flexible rental LED display screen</b> is built with the flexibility to adapt to diverse event environments, providing multiple installation possibilities. Whether your event requires truss suspension, ground stacking, or a creative setup, the CR Series delivers efficiently, ensuring your event space is fully optimized.</p>
@@ -43,8 +43,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="uhd-fine-pitch-led-video-wall-chicago-atlanta-london.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
-        <h3><span>Next :</span><a href="custom-creative-led-display-screen-solutions.php">China Creative LED Display I Custom LED Screen Solution I LED Cube Display - Cinstar</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/uhd-fine-pitch-led-video-wall-chicago-atlanta-london.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/custom-creative-led-display-screen-solutions.php">China Creative LED Display I Custom LED Screen Solution I LED Cube Display - Cinstar</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

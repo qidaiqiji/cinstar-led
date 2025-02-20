@@ -26,7 +26,7 @@
                     With the installation permit is more and more difficult to get for high way or road side installation, the shopping mall façade is becoming a perfect spot for setting up a giant outdoor <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising screen</b></a> for its superb geographic location with a good flow of people and excellent visibility. For such wall mounting installation, the display system must be slim and light weight and able to install and maintain from front. Cinstar FT series and DB series are specially designed for such installations.
                 </p>
                 <div class="img-box">
-                    <img src="../images/news/news7.jpg" alt="Cinstar LED advertising screen for shopping center New Zealand">
+                    <img src="https://www.cinstar-led.com/images/news/news7.jpg" alt="Cinstar LED advertising screen for shopping center New Zealand">
                 </div>
                 <p>
                     Above is our new project in New Zealand, it is with Cinstar DB6 around 65sqm for shopping center wall mounting installation. The <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led dispaly screen for advertising outdoor</b></a> supports front service access, the high brightness and high contrast ratio make the screen delivering excellent visual performance even in direct sunlight. The customer is satisfied to its stunning performance and the fantastic commercial value the screen created.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen aging for shopping mall Finland</a></h3>
-        <h3><span>Next :</span><a href="cinstar-direct-view-led-video-wall-meeting-room-switzerland.php">Cinstar direct view LED video wall for meeting room Switzerland</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen aging for shopping mall Finland</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-direct-view-led-video-wall-meeting-room-switzerland.php">Cinstar direct view LED video wall for meeting room Switzerland</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

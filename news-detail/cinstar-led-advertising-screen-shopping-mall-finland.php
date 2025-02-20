@@ -20,8 +20,8 @@
             </div>
             <div class="content-box">
                 <div class="img-box several-imgs">
-                    <img src="../images/news/news5-2.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-1">
-                    <img src="../images/news/news5.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-2">
+                    <img src="https://www.cinstar-led.com/images/news/news5-2.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-1">
+                    <img src="https://www.cinstar-led.com/images/news/news5.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-2">
                 </div>
                 <p>
                     LED display is an integrated industrial product rather than accumulation of piles of materials. Even with same materials, the image quality of different manufacturer varies a lot. That is the difference of technology and process design. That is why we can see very different image quality when touring on an exhibition.
@@ -33,15 +33,15 @@
                     Below are some photos of our aging screen, 26sqm of FT6.67, you can see the image quality and vivid colors. This screen will be shipped to Finland for shopping mall façade installation.
                 </p>
                 <div class="img-box several-imgs">
-                    <img src="../images/news/news5-3.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-3">
-                    <img src="../images/news/news5-1.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-4">
+                    <img src="https://www.cinstar-led.com/images/news/news5-3.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-3">
+                    <img src="https://www.cinstar-led.com/images/news/news5-1.jpg" alt="Cinstar LED advertising screen aging for shopping mall Finland-4">
                 </div>
             </div>
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="direct-view-led-display-wall-netherlands.php">Cinstar direct view LED display wall delivered to Netherlands</a></h3>
-        <h3><span>Next :</span><a href="outdoor-led-advertising-screen-new-zealand.php">Cinstar LED advertising screen for shopping center New Zealand</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-display-wall-netherlands.php">Cinstar direct view LED display wall delivered to Netherlands</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/outdoor-led-advertising-screen-new-zealand.php">Cinstar LED advertising screen for shopping center New Zealand</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

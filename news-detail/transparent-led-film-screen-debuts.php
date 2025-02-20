@@ -43,8 +43,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="pilot-fine-pitch-led-display-video-wall-usa.php">Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</a></h3>
-        <h3><span>Next :</span><a href="cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php">Cinstar unveils X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/pilot-fine-pitch-led-display-video-wall-usa.php">Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php">Cinstar unveils X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

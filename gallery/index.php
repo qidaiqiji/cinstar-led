@@ -20,26 +20,26 @@
         <div class="galleryBox">
             <div class="imgsBox">
                 <div class="img">
-                    <a href="../gallery-detail/rental-cases.php"><img src="../images/gallery/Rental.jpg" alt="RENTAL EVENT CASES"></a>
+                    <a href="https://www.cinstar-led.com/gallery-detail/rental-cases.php"><img src="https://www.cinstar-led.com/images/gallery/Rental.jpg" alt="RENTAL EVENT CASES"></a>
                 </div>
                 <div class="galleryDesc">
-                    <h3><a href="../gallery-detail/rental-cases.php">Rental Event Cases</a></h3>
+                    <h3><a href="https://www.cinstar-led.com/gallery-detail/rental-cases.php">Rental Event Cases</a></h3>
                 </div>
             </div>
             <div class="imgsBox">
                 <div class="img">
-                    <a href="../gallery-detail/fixed-cases.php"><img src="../images/gallery/OOH.jpg" alt="FIXED INSTALL CASES"></a>
+                    <a href="https://www.cinstar-led.com/gallery-detail/fixed-cases.php"><img src="https://www.cinstar-led.com/images/gallery/OOH.jpg" alt="FIXED INSTALL CASES"></a>
                 </div>
                 <div class="galleryDesc">
-                    <h3><a href="../gallery-detail/fixed-cases.php">Fixed Install Cases</a></h3>
+                    <h3><a href="https://www.cinstar-led.com/gallery-detail/fixed-cases.php">Fixed Install Cases</a></h3>
                 </div>
             </div>
             <div class="imgsBox">
                 <div class="img">
-                    <a href="../gallery-detail/fine-pitch-cases.php"><img src="../images/gallery/Fine Pitch.jpg" alt="FINE PITCH CASES"></a>
+                    <a href="https://www.cinstar-led.com/gallery-detail/fine-pitch-cases.php"><img src="https://www.cinstar-led.com/images/gallery/Fine Pitch.jpg" alt="FINE PITCH CASES"></a>
                 </div>
                 <div class="galleryDesc">
-                    <h3><a href="../gallery-detail/fine-pitch-cases.php">Fine Pitch Cases</a></h3>
+                    <h3><a href="https://www.cinstar-led.com/gallery-detail/fine-pitch-cases.php">Fine Pitch Cases</a></h3>
                 </div>
             </div>
         </div>    

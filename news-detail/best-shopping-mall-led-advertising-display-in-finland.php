@@ -23,11 +23,11 @@
                 As an industrial product, there is no possibility for any manufacturer to produce any perfect LED display. But a LED display with high profile quality can get rid of most annoying aftersales troubles and in return to strengthen your business relationship with your clients and enhance your reputation on the market.
                 </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/installed-2years-before.jpg" alt="installed-2years-before">
+                    <img src="https://www.cinstar-led.com/images/news/installed-2years-before.jpg" alt="installed-2years-before">
                 </div>                
                 <p>Last Saturday, our partner in Finland excitedly shared us one reference of our indoor commercial 5.9mm <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising screen</b></a> which they delivered to Koskikeskus shopping mall in Tampere two years ago. “The Koskikeskus screen works very good and stable, no any dead pixels”, it was the original words he commented on the screen. This giant <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising display</b></a> was installed in October 2017, with dimension of 5x12m and has brought lots of advertisers to the shopping mall owner. Both our partner and their client were so pleased to its sharp image and excellent performance. </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2years-operation.jpg" alt="2years-operation">
+                    <img src="https://www.cinstar-led.com/images/news/2years-operation.jpg" alt="2years-operation">
                 </div>
                 <p>
                 A quality display might cost little bit higher when you pay, but you will benefit more in its whole life circle. However, most people just focus on the instant purchase cost, not calculate the service cost and the cost of their brand and reputation what a poor quality LED display might take to them.
@@ -39,8 +39,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-concave-direct-view-led-tv-shipping-to-germany.php">Cinstar concave direct view LED TV shipping to Germany</a></h3>
-        <h3><span>Next :</span><a href="direct-view-led-video-wall-church-usa.php">Cinstar direct view LED video wall installed at USA church</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-concave-direct-view-led-tv-shipping-to-germany.php">Cinstar concave direct view LED TV shipping to Germany</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-video-wall-church-usa.php">Cinstar direct view LED video wall installed at USA church</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

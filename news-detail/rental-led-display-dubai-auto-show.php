@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news26.jpg" alt="Cinstar rental LED display shines at Dubai Auto Show">
+                    <img src="https://www.cinstar-led.com/images/news/news26.jpg" alt="Cinstar rental LED display shines at Dubai Auto Show">
                 </div>
                 <p>
                     Except for commercial advertising, LED display now has much wider range of applications. One of the star application must be the auto show. As we know, auto enterprise cares much on brand reputation, when they are attending auto show, they are looking any possible way to present the best aspect of their vehicles and company impression. <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><b>Rental led display</b></a> as the current best way for visual demonstration is favored by all automakers. 
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="rental-led-display-auto-show-russia.php">Cinstar rental LED display supports Russia Auto Show</a></h3>
-        <h3><span>Next :</span><a href="rental-led-screen-stockholm-sweden.php">Cinstar rental LED screen shining on Zinzino Annual Event </a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/rental-led-display-auto-show-russia.php">Cinstar rental LED display supports Russia Auto Show</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/rental-led-screen-stockholm-sweden.php">Cinstar rental LED screen shining on Zinzino Annual Event </a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

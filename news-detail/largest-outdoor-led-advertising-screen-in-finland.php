@@ -21,25 +21,25 @@
             <div class="content-box">
                 <p>With the substantial collaboration of Cinstar team and its combined Finnish partner, one giant outdoor LED advertising screen was eventually installed and has become the largest outdoor LED advertising screen in Finland since its installation. </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2022-10-20-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2022-10-20-1.jpg" alt="image">
                 </div>
                 <p>The adopted solution was with Cinstar FT6 which supports both front install and front maintenance to enable the whole installation nice and easy. This massive nearly 200sqm LED advertising screen features 16:9 ratio for a very high resolution image output and 3840Hz refresh rate ensures its premium and stunning image performance. </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2022-10-20-2.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2022-10-20-2.jpg" alt="image">
                 </div>
                 <p>
                     The sharp images show on the LED screen is so high profile and eye-catching for each passing by and which in returns will create more business value for this LED advertising screen and make it become an exceptional advertising billboard for all vendors. 
                 </p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2022-10-20-3.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2022-10-20-3.jpg" alt="image">
                 </div>
                 <p>If you are looking for a high profile LED screen with cost effective solution for your business, please don’t hesitate to contact our sales team for an offer at sales@cinstar-led.com</p>
             </div>
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="uhd-direct-view-led-video-wall-upgrades-visual-effects.php">UHD direct view LED video wall upgrades visual effects for home cinema</a></h3>
-        <h3><span>Next :</span><a href="cinstar-led-advertising-screen-decorates-finland-shopping-mall.php">Cinstar LED advertising screen decorates Finland shopping mall</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/uhd-direct-view-led-video-wall-upgrades-visual-effects.php">UHD direct view LED video wall upgrades visual effects for home cinema</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-led-advertising-screen-decorates-finland-shopping-mall.php">Cinstar LED advertising screen decorates Finland shopping mall</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

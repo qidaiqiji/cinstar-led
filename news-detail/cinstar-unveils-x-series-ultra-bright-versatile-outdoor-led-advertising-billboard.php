@@ -23,7 +23,7 @@
                 <b>12th March, 2023, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> is excited to announce the launch of its new <b>X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</b>. Its top stability, superb visibility and extraordinary image performance make it the new icon for outdoor billboard advertising at pedestrian malls, shopping centers, theme parks, shopping malls and other high-traffic areas.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/X-series-display.webp" alt="X series display">
+                    <img src="https://www.cinstar-led.com/images/news/X-series-display.webp" alt="X series display">
                 </div>
                 <p><b>Here are the Key Features </b></p>
                 <p>⦁	High resolution and wide pixels for option</p>
@@ -50,8 +50,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="transparent-led-film-screen-debuts.php">Innovative transparent LED film screen wall debuts</a></h3>
-        <h3><span>Next :</span><a href="uhd-direct-view-led-video-wall-upgrades-visual-effects.php">UHD direct view LED video wall upgrades visual effects for home cinema</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/transparent-led-film-screen-debuts.php">Innovative transparent LED film screen wall debuts</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/uhd-direct-view-led-video-wall-upgrades-visual-effects.php">UHD direct view LED video wall upgrades visual effects for home cinema</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

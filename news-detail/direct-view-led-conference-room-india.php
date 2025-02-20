@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news2.jpg" alt="Cinstar direct view LED for conference room India">
+                    <img src="https://www.cinstar-led.com/images/news/news2.jpg" alt="Cinstar direct view LED for conference room India">
                 </div>
                 <p>
                     As a new trend to digital world, <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led</b></a> is now playing a more and more important role in conference & meeting industry comparing to traditional projectors for its high brightness, vivid and natural color and seamless connection.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-rental-led-display-oslo-norway.php">Cinstar rental LED display lights up Oslo Spektrum Arena Norway</a></h3>
-        <h3><span>Next :</span><a href="direct-view-led-display-wall-netherlands.php">Cinstar direct view LED display wall delivered to Netherlands</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-rental-led-display-oslo-norway.php">Cinstar rental LED display lights up Oslo Spektrum Arena Norway</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-display-wall-netherlands.php">Cinstar direct view LED display wall delivered to Netherlands</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

@@ -29,7 +29,7 @@
                 </p>
                 <p>Cinstar <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led</b></a> is made of ultra-high precision die-cast aluminum with tolerance < 0.2mm. In addition, they are capable of module-level fine adjustment, which ensures truly seamless connection and excellent image quality output.</p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2023-1-30-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2023-1-30-1.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Ultra-wide viewing angle</b>
@@ -40,15 +40,15 @@
                 </p>
                 <p>Cinstar <b>direct view led video wall</b> supports fully front installable and serviceable, easier for installation and maintenance. Which requires no maintenance space at rear side and is the ideal LED video system for against the wall installation.</p>
                 <div class="img-box" style="width: 70%"> 
-                    <img src="../images/news/2023-1-30-2.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/news/2023-1-30-2.jpg" alt="image">
                 </div>
                 <p>As a leading indoor and outdoor LED screen display manufacturer with more than 10 years of profound experience, Cinstar is capable of providing all of the customers the best LED screen display with the most cost effective solutions and top quality services to support all our partners to expand their business and beat their opponents.</p>
             </div>
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php">Cinstar unveils X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</a></h3>
-        <h3><span>Next :</span><a href="largest-outdoor-led-advertising-screen-in-finland.php">The largest outdoor LED advertising screen in Finland</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php">Cinstar unveils X series Ultra-Bright Versatile Outdoor LED Advertising Billboard</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/largest-outdoor-led-advertising-screen-in-finland.php">The largest outdoor LED advertising screen in Finland</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

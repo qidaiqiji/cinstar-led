@@ -26,7 +26,7 @@
                     Featuring ultra-slim and thin panel frame, jumper cable free connection, both front and rear installation and maintenance, Cinstar NL series <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led</b></a> is the best solution for TV studio, control room and conference room installation where the wall mounted front access is a must.
                 </p>
                 <div class="img-box">
-                    <img src="../images/news/news8.jpg" alt="Cinstar direct view LED video wall for meeting room Switzerland">
+                    <img src="https://www.cinstar-led.com/images/news/news8.jpg" alt="Cinstar direct view LED video wall for meeting room Switzerland">
                 </div>
                 <p>
                     Here is our latest project for conference room installation. it is 10sqm of Cinstar NL1.2. Benefits from the high quality LED, super high refresh rate and contrast ratio, Cinstar <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led TV</b></a> delivers super clear image and brings excellent visual effect to all the spectators.
@@ -35,8 +35,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="outdoor-led-advertising-screen-new-zealand.php">Cinstar LED advertising screen for shopping center New Zealand</a></h3>
-        <h3><span>Next :</span><a href="led-advertising-screen-for-shopping-mall-uk.php">Cinstar LED advertising screen upgrades shopping mall in UK</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/outdoor-led-advertising-screen-new-zealand.php">Cinstar LED advertising screen for shopping center New Zealand</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-for-shopping-mall-uk.php">Cinstar LED advertising screen upgrades shopping mall in UK</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

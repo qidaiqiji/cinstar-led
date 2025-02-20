@@ -14,7 +14,7 @@
     <!-- 头部结束 -->
     <div class="container about-container">
         <div class="about-img">
-            <img src="../images/banner_about.jpg" alt="banner">
+            <img src="https://www.cinstar-led.com/images/banner_about.jpg" alt="banner">
         </div>
         <div class="about-desc">
             <div class="head-title">
@@ -36,22 +36,22 @@
             </div>
             <div class="imgBox">
                 <div class="img-item">
-                    <img src="../images/about/1 Reception.jpg" alt="Workshop">
+                    <img src="https://www.cinstar-led.com/images/about/1 Reception.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/2 Workshop.jpg" alt="Workshop">
+                    <img src="https://www.cinstar-led.com/images/about/2 Workshop.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/3 Workshop.jpg" alt="Workshop">
+                    <img src="https://www.cinstar-led.com/images/about/3 Workshop.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/4 Machines.jpg" alt="Workshop">
+                    <img src="https://www.cinstar-led.com/images/about/4 Machines.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/5 Machines.jpg" alt="Workshop">
+                    <img src="https://www.cinstar-led.com/images/about/5 Machines.jpg" alt="Workshop">
                 </div>
                 <div class="img-item">
-                    <img src="../images/about/6 Aging.jpg" alt="Workshop">
+                    <img src="https://www.cinstar-led.com/images/about/6 Aging.jpg" alt="Workshop">
                 </div>
             </div>
         </div>

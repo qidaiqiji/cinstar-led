@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news22.jpg" alt="Cinstar LED advertising screen installed at Malaysia hotel tower">
+                    <img src="https://www.cinstar-led.com/images/news/news22.jpg" alt="Cinstar LED advertising screen installed at Malaysia hotel tower">
                 </div>
                 <p>
                     Nowadays, LED display has become a part of our daily life. Wherever we go to train station, airport or shopping center, we can always see LED display. It is now the main stream for commercial advertising for its great advantages: Seamless display splicing, unlimited size and perfect image performance. Even we go to some hotels, we can see the LED display. With the arrival of digital ages, any places could be digitalized.
@@ -32,8 +32,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="outdoor-led-screen-advertising-sweden.php">Cinstar outdoor LED screen advertising at COOP Arena Sweden</a></h3>
-        <h3><span>Next :</span><a href="rental-led-display-auto-show-russia.php">Cinstar rental LED display supports Russia Auto Show</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/outdoor-led-screen-advertising-sweden.php">Cinstar outdoor LED screen advertising at COOP Arena Sweden</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/rental-led-display-auto-show-russia.php">Cinstar rental LED display supports Russia Auto Show</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

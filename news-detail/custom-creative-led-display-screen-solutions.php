@@ -30,28 +30,28 @@
                 As a special kind of creative led display, LED cube display screen is especially designed for scenarios like retail advertising, stage background decoration, trade show and exhibition attraction, corporate showroom and museum center creative icon, night club and DJ booth visual effects etc. 
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-Cube-Display/led-cube-display-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-Cube-Display/led-cube-display-1.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Creative LED Sphere Display Screen</b>
                 </p >
                 <p>LED sphere display, also called led ball display or globe led screen, is a revolutionary new type design of LED display screen. Featuring a seamless 360 degree view effect, Cinstar LED sphere display is capable of presenting images and videos without any distortion and more eye-catching to deliver a strong visual impact to audiences at planetarium, science and technology museum center, children's palace, corporate show room, gymnasium, transport terminals, luxury hotels, shopping malls, bars etc.</p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-Sphere-Display/led-sphere-display-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-Sphere-Display/led-sphere-display-1.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Creative LED Cylindrical Display Screen</b>
                 </p >
                 <p>Applying flexible LED module, Cinstar LED cylindrical screen is specially developed for irregular LED display projects and widely applied for installation at science and technology museums, exhibition centers, shopping malls, stage and concert, sightseeing areas, metro and airport advertising etc. Featuring smooth surface, seamless connection and splicing, high gray scale and refresh rate, Cinstar LED cylinder screen can deliver stunning image quality and excellent visual experience for any custom LED screen projects.</p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-Cylindrical-Display/led-cylindrical-display-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-Cylindrical-Display/led-cylindrical-display-1.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Customized LED Letter Logo Display Screen</b>
                 </p >
                 <p>As a special type of creative LED display screen, Cinstar LED letter display or LED logo display is mainly designed to cater to customer's trademark, company name, brand image enhancement and other types of advertising campaigns. With superior functions than traditional LED luminous words or LED neon light, Cinstar LED letter display board can show more vibrant colors and dynamic images to upgrade corporate image, convey enterprise culture, highlight brand value, and bring extraordinary commercial value and advertising revenue for customers. </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-letter-display-board/led-letter-display-3.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-letter-display-board/led-letter-display-3.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Tailored Creative LED Circular Display Screen</b>
@@ -60,7 +60,7 @@
                 LED circular display (also called as round LED display) is especially designed for spectacular installations like retail advertising, exhibition, shopping mall, museum center, DJ booth, event show, nightclub, and city landmarks etc. 
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-Circular-display/led-circular-display-2.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-Circular-display/led-circular-display-2.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Creative LED DJ Booth Display Screen</b>
@@ -69,7 +69,7 @@
                 LED DJ booth display screen is exclusively designed to replace the traditional dull and plain booth at night clubs, bars, wedding ceremony, stage background, music festival etc, to create a more immersive and eye-catching visual effect for the audiences. By combining LED triangle module and LED cube display, Cinstar creative LED DJ booth display screen can bring more possibilities on booth shapes and dimensions.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-DJ-Booth-Display/led-dj-booth-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-DJ-Booth-Display/led-dj-booth-1.jpg" alt="image">
                 </div>
                 <p class="desc-title">
                     <b>Creative LED Trumpet Display Screen</b>
@@ -78,7 +78,7 @@
                 By taking advantage of various creative irregular LED modules, Cinstar LED trumpet display screen can be customized into different sizes and shapes, catering to your specific requirements. With perfect fusion of video content, sound and lighting system, Cinstar LED trumpet display screen can create a truly immersive experience and present a supreme visual feast to all the audiences.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/products/custom-led/LED-Trumpet-Display/led-trumpet-display-1.jpg" alt="image">
+                    <img src="https://www.cinstar-led.com/images/products/custom-led/LED-Trumpet-Display/led-trumpet-display-1.jpg" alt="image">
                 </div>
                 <p>
                 For more customized creative LED display solutions, you can check this link for more detailed introduction: 
@@ -88,8 +88,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cr-series-flexible-rental-led-display.php">Cinstar unveils CR series flexible rental LED display screen</a></h3>
-        <h3><span>Next :</span><a href="pilot-fine-pitch-led-display-video-wall-usa.php">Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cr-series-flexible-rental-led-display.php">Cinstar unveils CR series flexible rental LED display screen</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/pilot-fine-pitch-led-display-video-wall-usa.php">Pilot Cinstar U1.25 configuration 5x6 LED video wall for SSS</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

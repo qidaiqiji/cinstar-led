@@ -23,7 +23,7 @@
                 <b>20th February, 2024, Shenzhen, China: </b><a href="https://www.cinstar-led.com/"><b>Cinstar Electronics</b></a> proudly announces the launch of its latest product, the <a href="https://www.cinstar-led.com/product-detail/ctv-series.php"><b>CTV Series All-in-One Direct View LED TV Video Wall</b></a>. This cutting-edge display solution elevates visual experiences by combining sleek aesthetics with top-tier performance designed for businesses and event spaces.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/CTV-Series.webp" alt="CTV Series">
+                    <img src="https://www.cinstar-led.com/images/news/CTV-Series.webp" alt="CTV Series">
                 </div>
                 <p><b>Here are the key Features of the CTV Series:</b></p>
                 <p><b>Let’s explore! </b></p>
@@ -41,8 +41,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-unveils-tf-series-holographic-led-film-screen-creative-applications.php">Cinstar unveils TF series holographic LED Film Screen for Creative Applications</a></h3>
-        <h3><span>Next :</span><a href="uhd-fine-pitch-led-video-wall-chicago-atlanta-london.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-unveils-tf-series-holographic-led-film-screen-creative-applications.php">Cinstar unveils TF series holographic LED Film Screen for Creative Applications</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/uhd-fine-pitch-led-video-wall-chicago-atlanta-london.php">3 sets Cinstar U1.25 UHD fine pitch LED video wall delivered</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

@@ -24,7 +24,7 @@
                     Shopping is now a critical part of daily activity for the people living in urban cities. And shopping mall is where most people would go, which makes it a perfect location to put up <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising screens</b></a> for commercial activities. No matter the building façade, elevator box façade or inside shops and stores, all are great places for advertising and can bring huge commercial value for sure.
                 </p>
                 <div class="img-box">
-                    <img src="../images/news/news30.jpg" alt="Cinstar LED advertising screen upgrades shopping mall in UK">
+                    <img src="https://www.cinstar-led.com/images/news/news30.jpg" alt="Cinstar LED advertising screen upgrades shopping mall in UK">
                 </div>
                 <p>
                     Recently, our customer installed several columns in one shopping center in UK. They adopted our LM 3.9 <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising display</b></a> for such creative installations. The main difficulties were fully front serviceable and cutting-edge 90 degree corners. And the reason why the customer chose our solution mainly because our LM series can cope with it easily. This series display enables front or rear services, support concave or convex and even right angle installations.
@@ -36,8 +36,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="cinstar-direct-view-led-video-wall-meeting-room-switzerland.php">Cinstar direct view LED video wall for meeting room Switzerland</a></h3>
-        <h3><span>Next :</span><a href="indoor-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen shines at shopping mall Finland</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-direct-view-led-video-wall-meeting-room-switzerland.php">Cinstar direct view LED video wall for meeting room Switzerland</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/indoor-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen shines at shopping mall Finland</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

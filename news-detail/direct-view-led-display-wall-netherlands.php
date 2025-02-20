@@ -20,8 +20,8 @@
             </div>
             <div class="content-box">
                 <div class="img-box several-imgs">
-                    <img src="../images/news/news4-1.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-1">
-                    <img src="../images/news/news4-2.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-2">
+                    <img src="https://www.cinstar-led.com/images/news/news4-1.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-1">
+                    <img src="https://www.cinstar-led.com/images/news/news4-2.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-2">
                 </div>
                 <p>
                     Recently in our factory, one stunning LED display will always attract your attention. It is one <a href="https://www.cinstar-led.com/products/direct-view-led.php"><b>direct view led dsplay wall</b></a> which is aging and ready to ship to Netherlands.
@@ -31,15 +31,15 @@
                 </p>
                 <p>Here is part of the aging screen, most panels were packed already. </p>
                 <div class="img-box several-imgs">
-                    <img src="../images/news/news4.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-3">
-                    <img src="../images/news/news4-3.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-4">
+                    <img src="https://www.cinstar-led.com/images/news/news4.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-3">
+                    <img src="https://www.cinstar-led.com/images/news/news4-3.jpg" alt="Cinstar direct view LED display wall delivered to Netherlands-4">
                 </div>
             </div>
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="direct-view-led-conference-room-india.php">Cinstar direct view LED for conference room India</a></h3>
-        <h3><span>Next :</span><a href="cinstar-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen aging for shopping mall Finland</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-conference-room-india.php">Cinstar direct view LED for conference room India</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-led-advertising-screen-shopping-mall-finland.php">Cinstar LED advertising screen aging for shopping mall Finland</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
+                    <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
                 </div>
                 <p>
                     In a major step toward revolutionizing corporate communication, four state-of-the-art <a href="https://www.cinstar-led.com/products/direct-view-led.php" target="_blank">direct view LED video walls</a> were recently delivered to the USA to create immersive video conference experiences. The client, a leading innovator in life-sized LED wall technology, aims to transform traditional video conferencing into a truly immersive and lifelike interaction for international companies. 
@@ -29,7 +29,7 @@
                     By embracing this cutting-edge solution, businesses can significantly enhance collaboration while reducing the costs associated with global travel and contributing to sustainability goals by lowering carbon emissions.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/direct-view-led-video-conference-2.webp" alt="direct view led video conference">
+                    <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-2.webp" alt="direct view led video conference">
                 </div>
                 <h2><strong>Transforming Video Conferencing with Direct View LED Video Walls</strong></h2>
                 <p>
@@ -39,7 +39,7 @@
                     The newly installed <a href="https://www.cinstar-led.com/products/direct-view-led.php" target="_blank">direct view LED video walls</a> deliver unparalleled image clarity, vibrant colors, and seamless visuals, creating a life-sized representation of participants. This immersive experience bridges the gap between virtual and physical presence, allowing teams to collaborate as if they were in the same room.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/direct-view-led-video-conference-3.webp" alt="direct view led video conference">
+                    <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-3.webp" alt="direct view led video conference">
                 </div>
                 <h2><strong>The Advantages of Direct View LED Technology for Video Conferencing</strong></h2>
                 <p>
@@ -49,7 +49,7 @@
                     Moreover, <a href="https://www.cinstar-led.com/products/direct-view-led.php" target="_blank">direct view LED TVs</a> are known for their energy efficiency and durability, making them a cost-effective and sustainable option for long-term use. These features make them an invaluable asset for global corporations seeking innovative communication solutions.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/direct-view-led-video-conference-4.webp" alt="direct view led video conference">
+                    <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-4.webp" alt="direct view led video conference">
                 </div>
                 <h2><strong>Reducing Travel Costs and Carbon Emissions</strong></h2>
                 <p>
@@ -67,7 +67,7 @@
                     Additionally, the scalability of direct view LED walls allows businesses to adapt their setups based on the size and requirements of their teams. From small meeting rooms to large conference halls, these displays can be customized to meet any need.
                 </p>
                 <div class="img-box" style="width: 50%"> 
-                    <img src="../images/news/direct-view-led-video-conference-5.webp" alt="direct view led video conference">
+                    <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-5.webp" alt="direct view led video conference">
                 </div>
                 <h2><strong>A Vision for the Future</strong></h2>
                 <p>
@@ -80,7 +80,7 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Next :</span><a href="dvled-video-wall-display-panel.php">HD1.2 UHD DV LED video wall display panels delivered to Boston college USA</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/dvled-video-wall-display-panel.php">HD1.2 UHD DV LED video wall display panels delivered to Boston college USA</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

@@ -20,7 +20,7 @@
             </div>
             <div class="content-box">
                 <div class="img-box">
-                    <img src="../images/news/news16.jpg" alt="Cinstar rental video screens for concert ideas Norway">
+                    <img src="https://www.cinstar-led.com/images/news/news16.jpg" alt="Cinstar rental video screens for concert ideas Norway">
                 </div>
                 <p>
                     Last week, Cinstar <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><b>rental video screens for concert ideas</b></a> presented a wonderful music show to the thousands of spectators in Norway Telenor Arena. The total screen for that concert show was 100sqm.
@@ -38,8 +38,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="led-advertising-screen-for-shopping-mall-finland.php">Cinstar LED advertising screen for shopping mall in Finland</a></h3>
-        <h3><span>Next :</span><a href="led-video-wall-panels-ready-for-shipping-to-sweden.php">Cinstar LED video wall panels ready for shipping to Sweden</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/led-advertising-screen-for-shopping-mall-finland.php">Cinstar LED advertising screen for shopping mall in Finland</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/led-video-wall-panels-ready-for-shipping-to-sweden.php">Cinstar LED video wall panels ready for shipping to Sweden</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>

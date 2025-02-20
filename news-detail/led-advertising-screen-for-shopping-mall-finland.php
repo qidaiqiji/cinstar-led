@@ -23,14 +23,14 @@
                     Shopping mall is one of the most important market segment Cinstar has always been concentrating to. At present, more and more shopping malls prefer to install digital LED display to do commercial advertising rather than traditional LCD videowall. The market demand is growing fast and will accelerate in the coming years.
                 </p>
                 <div class="img-box">
-                    <img src="../images/news/1.jpg" alt="Cinstar LED advertising screen for shopping mall in Finland">
+                    <img src="https://www.cinstar-led.com/images/news/1.jpg" alt="Cinstar LED advertising screen for shopping mall in Finland">
                 </div>
                 
                 <p>
                     Several weeks ago, Cinstar got one deal which is to replace one old screen in one shopping mall in Finland. The <a href="https://www.cinstar-led.com/products/led-advertising.php"><b>led advertising screen</b></a> was with giant size of 5mx12m. There are lots of requirements on that case such as 12m height suspension, panel weight capacity, front access etc. But Cinstar got it by quick response, full detailed solution representation and short lead time. The screen is under aging now and will be ready for delivery soon
                 </p>
                 <div class="img-box">
-                    <img src="../images/news/2.jpg" alt="Cinstar LED advertising screen for shopping mall in Finland">
+                    <img src="https://www.cinstar-led.com/images/news/2.jpg" alt="Cinstar LED advertising screen for shopping mall in Finland">
                 </div>
                 <p>
                         Cinstar has gained general acceptance from customers in 5 years by providing high quality LED display and considerate service&support. Its main markets including stage rental, retail and shopping mall, indoor and outdoor commercial advertisings. Until now Cinstar has assisted customers finished a lot of excellent projects at different segments.
@@ -39,8 +39,8 @@
         </div>
     </div>
     <div class="related-news">
-        <h3><span>Previous :</span><a href="led-screens-for-events-uk.php">Cinstar LED screens for events UUP conference UK</a></h3>
-        <h3><span>Next :</span><a href="rental-video-screens-for-concert-ideas-norway.php">Cinstar rental video screens for concert ideas Norway</a></h3>
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/led-screens-for-events-uk.php">Cinstar LED screens for events UUP conference UK</a></h3>
+        <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/rental-video-screens-for-concert-ideas-norway.php">Cinstar rental video screens for concert ideas Norway</a></h3>
     </div>
         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>
