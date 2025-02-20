@@ -73,13 +73,13 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/K-series-1.jpg" alt="K SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Commercial-LED/K-series-1.jpg" alt="K SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Commercial-LED/K-series-2.jpg" alt="K SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Commercial-LED/K-series-2.jpg" alt="K SERIES">
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">Stage Rental Event Production Solutions</h2>
@@ -140,13 +140,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/K-series-3.jpg" alt="Cinstar K2.9 Stage Rental Event LED Screen">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/K-series-3.jpg" alt="Cinstar K2.9 Stage Rental Event LED Screen">
                     <a class="case-title">
                         <span class="current">Cinstar K2.9 Stage Rental Event LED Screen</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/K-series-4.jpg" alt="Cinstar K3.9 Outdoor Rental Event Screen">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/K-series-4.jpg" alt="Cinstar K3.9 Outdoor Rental Event Screen">
                     <a class="case-title">
                         <span class="current">Cinstar K3.9 Outdoor Rental Event Screen</span>
                     </a>
@@ -533,7 +533,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

@@ -28,37 +28,37 @@
                         <i class="fa fa-angle-right right" style="right: 0;"></i>
                         <div class="img-main">
                             <div class="img">
-                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="holograhpic led film screen-1">
+                                <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="holograhpic led film screen-1">
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-2.jpg" alt="holograhpic led film screen-2">
+                                <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-2.jpg" alt="holograhpic led film screen-2">
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-3.jpg" alt="holograhpic led film screen-3">
+                                <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-3.jpg" alt="holograhpic led film screen-3">
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-4.jpg" alt="holograhpic led film screen-4">
+                                <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-4.jpg" alt="holograhpic led film screen-4">
                             </div>
                             <div class="img">
-                                <img src="../images/products/Creative-LED/holograhpic-led-film-screen-5.jpg" alt="holograhpic led film screen-5">
+                                <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-5.jpg" alt="holograhpic led film screen-5">
                             </div>
                         </div>
                     </div>
                     <ul class="img-list">
                         <li class="active">
-                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="holograhpic led film screen-1">
+                            <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="holograhpic led film screen-1">
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-2.jpg" alt="holograhpic led film screen-2">
+                            <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-2.jpg" alt="holograhpic led film screen-2">
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-3.jpg" alt="holograhpic led film screen-3">
+                            <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-3.jpg" alt="holograhpic led film screen-3">
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-4.jpg" alt="holograhpic led film screen-4">
+                            <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-4.jpg" alt="holograhpic led film screen-4">
                         </li>
                         <li>
-                            <img src="../images/products/Creative-LED/holograhpic-led-film-screen-5.jpg" alt="holograhpic led film screen-5">
+                            <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-5.jpg" alt="holograhpic led film screen-5">
                         </li>
                     </ul>
                 </div>
@@ -86,7 +86,7 @@
                             The transmittance of Cinstar flexible holographic LED film screen display can reach up to 70-90% which varies with different pixel pitch. With such high transparency rate, the LEDs are almost invisible from a certain distance, meanwhile the original glass wall design can be kept untouched and its light condition won't be affected.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-1.webp" alt="TF SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/TF-series-1.webp" alt="TF SERIES">
                     <div class="detail-cover width-cover">
                         <div class="detail-content content1">
                             <h2 class="new-detail-title">Great Transparency Performance</h2>
@@ -102,7 +102,7 @@
                             Cinstar flexible holographic LED film screen display can be bent or cut, best solution for curved or special-shaped glass wall installations. The panel can be customized and spliced to meet specific demand, great flexibility in display effect. What is more, it can captivate spectators easily by delivering stunning and high-resolution visual effect.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/holograhpic-led-film-screen-7.webp" alt="TF SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-7.webp" alt="TF SERIES">
                     <div class="detail-cover width-cover">
                         <div class="detail-content content2" style="margin-top: 15%">
                             <h2 class="new-detail-title">Unparalleled Flexibility & Scalability</h2>
@@ -119,7 +119,7 @@
                             With ideal viewing distance, the image looks like floating on the glass wall, delivering you a visual feast with 3D naked eye effect experience. Which can be perfectly integrated with the building to be invisible and create favorable commercial value for your business.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-2.webp" alt="TF SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/TF-series-2.webp" alt="TF SERIES">
                     <div class="detail-cover">
                         <div class="detail-content content2">
                             <h2 class="new-detail-title">Extraordinary Display Effect</h2>
@@ -136,7 +136,7 @@
                             Featured with flexible and self-adhesive design, Cinstar flexible holographic LED film screen display can be directly pasted to any flat or curved glass walls. The ultra-slim (1.8mm in depth) and light weight (4-6kg/sqm) panel can be tailored to different size and shape to meet specific requirement and realize all your bold imagination on the creative setting of the display.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/holograhpic-led-film-screen-6.jpg" alt="TF SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-6.jpg" alt="TF SERIES">
                     <div class="detail-cover width-cover">
                         <div class="detail-content content1" style="margin-left: 3%; width: 45%">
                             <h2 class="new-detail-title">Versatile Display Design</h2>
@@ -153,7 +153,7 @@
                             The flexible holographic LED film screen display can be widely installed at retail shop, restaurant, chain store, shopping center and corporate exhibition center etc to deliver eye-catching images and advertisements to achieve its commercial value.
                         </p>
                     </div>
-                    <img src="../images/products/Creative-LED/TF-series-7.webp" alt="TF SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/TF-series-7.webp" alt="TF SERIES">
                 </div>
             </div>
         </div>
@@ -165,13 +165,13 @@
                 <div class="videoItem">
                     <!-- <div class="videoDesc"></div> -->
                     <video controls class="video" 
-                    src="../images/products/Creative-LED/tf-video-1.mp4"
+                    src="https://www.cinstar-led.com/images/products/Creative-LED/tf-video-1.mp4"
                     ></video>
                 </div>
                 <div class="videoItem">
                     <!-- <div class="videoDesc"></div> -->
                     <video controls class="video" 
-                    src="../images/products/Creative-LED/tf-video-2.mp4"></video>
+                    src="https://www.cinstar-led.com/images/products/Creative-LED/tf-video-2.mp4"></video>
                 </div>
             </div>
         </div>
@@ -505,7 +505,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

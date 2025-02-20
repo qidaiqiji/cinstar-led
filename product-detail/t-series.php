@@ -74,13 +74,13 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Rental-LED/t-series.webp" alt="T-SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Rental-LED/t-series.webp" alt="T-SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Rental-LED/VX-Case-Show.webp" alt="T-Case-Show">
+                <img src="https://www.cinstar-led.com/images/products/Rental-LED/VX-Case-Show.webp" alt="T-Case-Show">
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">User-Friendly LED Video Displays</h2>
@@ -143,13 +143,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/rental/16-rental-case.jpg" alt="CR SERIES SHOWCASE">
+                    <img src="https://www.cinstar-led.com/images/rental/16-rental-case.jpg" alt="CR SERIES SHOWCASE">
                     <a class="case-title">
                         <span class="current">UK Campbell Park T4.8 Outdoor LED Screen Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/rental/18-rental-case.jpg" alt="CR SERIES SHOWCASE">
+                    <img src="https://www.cinstar-led.com/images/rental/18-rental-case.jpg" alt="CR SERIES SHOWCASE">
                     <a class="case-title">
                         <span class="current">North Ireland UUP Conference Party T3.9 LED Screen Display</span>
                     </a>
@@ -536,7 +536,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

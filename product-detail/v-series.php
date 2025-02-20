@@ -73,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img" style="width: 45%">
-                <img src="../images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-1.jpg" alt="V SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-2.jpg" alt="V SERIES" style="width: 90%">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-2.jpg" alt="V SERIES" style="width: 90%">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra High Definition LED Video Wall Solution</h2>
@@ -98,13 +98,13 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-3.jpg" alt="V SERIES" style="width: 90%">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-3.jpg" alt="V SERIES" style="width: 90%">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-4.jpg" alt="V SERIES" style="width: 90%">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-4.jpg" alt="V SERIES" style="width: 90%">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
@@ -122,13 +122,13 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-5.jpg" class="special" alt="V SERIES" style="width: 90%">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-5.jpg" class="special" alt="V SERIES" style="width: 90%">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/V-series-6.jpg" alt="V SERIES" style="width: 90%">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-6.jpg" alt="V SERIES" style="width: 90%">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Exceptional Visual Enjoyment</h2>
@@ -146,7 +146,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
                 <div class="videoItem" style="width: 60%">
                     <!-- <div class="videoDesc"></div> -->
                     <video controls class="video" 
-                    src="../images/products/Fine-Pitch/V-series-video.mp4"
+                    src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-video.mp4"
                     ></video>
                 </div>
             </div>
@@ -203,13 +203,13 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
             </div>
             <div class="img-wrap">
             <div class="caseItem">
-                    <img src="../images/fine/2-fine-pitch-case.jpg" alt="Swizerland Conference Room NL1.2">
+                    <img src="https://www.cinstar-led.com/images/fine/2-fine-pitch-case.jpg" alt="Swizerland Conference Room NL1.2">
                     <a class="case-title">
                         <span class="current">Swizerland Conference Room V1.2 LED Video Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fine/9-fine-pitch-case.jpg" alt="UK Heathrow International Airport NL1.92">
+                    <img src="https://www.cinstar-led.com/images/fine/9-fine-pitch-case.jpg" alt="UK Heathrow International Airport NL1.92">
                     <a class="case-title">
                         <span class="current">UK Heathrow International Airport V1.5 LED Video Display</span>
                     </a>
@@ -592,7 +592,7 @@ Cinstar V series LED video wall offers the very versatile fine pixel pitch LED s
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

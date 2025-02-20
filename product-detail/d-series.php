@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/D-series-1.jpg" alt="D SERIES-1">
+                <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-1.jpg" alt="D SERIES-1">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-2.jpg" alt="D SERIES-2">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-2.jpg" alt="D SERIES-2">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">500x500mm & 500x1000mm Panels For Option</h2>
@@ -99,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-3.jpg" alt="D SERIES-3">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-3.jpg" alt="D SERIES-3">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-4.jpg" alt="D SERIES-4">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-4.jpg" alt="D SERIES-4">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Excellent Load-Bearing Performance</h2>
@@ -123,7 +123,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/D-series-5.jpg" alt="D SERIES-5">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-5.jpg" alt="D SERIES-5">
                 </div>
             </div>
         </div>
@@ -179,13 +179,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/D-series-6.jpg" alt="Cinstar D5 Stage LED Dance Floor Display">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-6.jpg" alt="Cinstar D5 Stage LED Dance Floor Display">
                     <a class="case-title">
                         <span class="current">Cinstar D5 Stage LED Dance Floor Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/D-series-7.jpg" alt="Cinstar D6 LED Dance Floor Screen">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/D-series-7.jpg" alt="Cinstar D6 LED Dance Floor Screen">
                     <a class="case-title">
                         <span class="current">Cinstar D6 LED Dance Floor Screen</span>
                     </a>
@@ -578,7 +578,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

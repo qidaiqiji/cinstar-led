@@ -73,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img" style="width: 47%">
-                <img src="../images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-1.jpg" alt="HD SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra High Definition LED Video Display</h2>
@@ -98,13 +98,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-3.jpg" style="width: 90%" alt="HD SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-3.jpg" style="width: 90%" alt="HD SERIES">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES-4.jpg" style="width: 100%" alt="HD SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-4.jpg" style="width: 100%" alt="HD SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Concise And Clean Appearance</h2>
@@ -122,7 +122,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Fine-Pitch/HD-SERIES4.jpg" style="width: 90%" class="special" alt="HD SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES4.jpg" style="width: 90%" class="special" alt="HD SERIES">
                 </div>
             </div>
         </div>
@@ -178,13 +178,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fine/1-fine-pitch-case.jpg" alt="ESPN Conference Room HD1.56">
+                    <img src="https://www.cinstar-led.com/images/fine/1-fine-pitch-case.jpg" alt="ESPN Conference Room HD1.56">
                     <a class="case-title">
                         <span class="current">ESPN Conference Room HD1.56 LED Screen Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fine/4-fine-pitch-case.jpg" alt="US ESB Lobby HD1.56">
+                    <img src="https://www.cinstar-led.com/images/fine/4-fine-pitch-case.jpg" alt="US ESB Lobby HD1.56">
                     <a class="case-title">
                         <span class="current">US ESB Lobby HD1.56 LED Screen Display</span>
                     </a>
@@ -567,7 +567,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

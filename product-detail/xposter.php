@@ -15,11 +15,11 @@
     <div class="container">
         <!-- 产品详情 -->
         <div class="product-box">
-            <img src="../images/products/Creative-LED/Xposter 1.jpg" alt="Xposter">
-            <img src="../images/products/Creative-LED/Xposter 2.jpg" alt="Xposter">
-            <img src="../images/products/Creative-LED/Xposter 3.jpg" alt="Xposter">
-            <img src="../images/products/Creative-LED/Xposter 4.jpg" alt="Xposter">
-            <img src="../images/products/Creative-LED/Xposter 5.jpg" alt="Xposter">
+            <img src="https://www.cinstar-led.com/images/products/Creative-LED/Xposter 1.jpg" alt="Xposter">
+            <img src="https://www.cinstar-led.com/images/products/Creative-LED/Xposter 2.jpg" alt="Xposter">
+            <img src="https://www.cinstar-led.com/images/products/Creative-LED/Xposter 3.jpg" alt="Xposter">
+            <img src="https://www.cinstar-led.com/images/products/Creative-LED/Xposter 4.jpg" alt="Xposter">
+            <img src="https://www.cinstar-led.com/images/products/Creative-LED/Xposter 5.jpg" alt="Xposter">
         </div>
         <div class="table-detail">
             <div class="sub-title">
@@ -236,7 +236,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

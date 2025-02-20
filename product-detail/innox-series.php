@@ -73,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-1.png" alt="INNOX SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail hd-series">
             <div class="detail">
                 <div class="img-part half" style="width: 50%">
-                    <img src="../images/products/Commercial-LED/Innox-2.jpg" alt="INNOX SERIES" style="width: 100%">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-2.jpg" alt="INNOX SERIES" style="width: 100%">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Ultra Slim And Lightweight Panel</h2>
@@ -101,13 +101,13 @@
                     </p>
                 </div>
                 <div class="img-part half" style="width: 50%">
-                    <img src="../images/products/Commercial-LED/Innox-3.png" alt="INNOX SERIES" style="width: 100%">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-3.png" alt="INNOX SERIES" style="width: 100%">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half" style="width: 40%">
-                    <img src="../images/products/Commercial-LED/Innox-4.jpg" alt="INNOX SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-4.jpg" alt="INNOX SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Front Installation & Maintenance</h2>
@@ -125,13 +125,13 @@
                     </p>
                 </div>
                 <div class="img-part half" style="width:54%">
-                    <img src="../images/products/Commercial-LED/Innox-5.jpg" class="special" alt="INNOX SERIES" style="width: 100%">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-5.jpg" class="special" alt="INNOX SERIES" style="width: 100%">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/Innox-6.jpg" class="special" alt="INNOX SERIES" style="width: 90%">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-6.jpg" class="special" alt="INNOX SERIES" style="width: 90%">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Superb Visual Performance</h2>
@@ -149,7 +149,7 @@
                     </p>
                 </div>
                 <div class="img-part half" style="width: 50%">
-                    <img src="../images/products/Commercial-LED/Innox-7.jpg" class="special" alt="INNOX SERIES" style="width: 100%">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-7.jpg" class="special" alt="INNOX SERIES" style="width: 100%">
                 </div>
             </div>
         </div>
@@ -205,13 +205,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fixed/Ratina-Shopping-Mall-Innox-3.1-LED-Video-Display.jpg" alt="Ratina Shopping Mall Innox 3.1 LED Video Display">
+                    <img src="https://www.cinstar-led.com/images/fixed/Ratina-Shopping-Mall-Innox-3.1-LED-Video-Display.jpg" alt="Ratina Shopping Mall Innox 3.1 LED Video Display">
                     <a class="case-title">
                         <span class="current">Ratina Shopping Mall Innox 3.1 LED Video Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fixed/Airport-Information-Board-Innox-2.6-LED-Video-Wall.jpg" alt="Airport Information Board Innox 2.6 LED Video Wall">
+                    <img src="https://www.cinstar-led.com/images/fixed/Airport-Information-Board-Innox-2.6-LED-Video-Wall.jpg" alt="Airport Information Board Innox 2.6 LED Video Wall">
                     <a class="case-title">
                         <span class="current">Airport Information Board Innox 2.6 LED Video Wall</span>
                     </a>
@@ -658,7 +658,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

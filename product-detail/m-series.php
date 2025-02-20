@@ -74,7 +74,7 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Rental-LED/M-series-1.webp" alt="M SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-1.webp" alt="M SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
@@ -82,7 +82,7 @@
             <div style="background: #000; color: #fff; padding: 120px 0">
                 <div class="detail" style="margin: 0 auto">
                     <div class="img-part half">
-                        <img src="../images/products/Rental-LED/M-series-2.webp" alt="M SERIES">
+                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-2.webp" alt="M SERIES">
                     </div>
                     <div class="desc-part half">
                         <h2 class="title">Robust And User Friendly Module</h2>
@@ -101,14 +101,14 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/M-series-3.webp" alt="M SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-3.webp" alt="M SERIES">
                 </div>
             </div>
             <hr class="under-line">
             <div style="background: #050505; color: #fff; padding: 120px 0">
                 <div class="detail" style="margin: 0 auto">
                     <div class="img-part half">
-                        <img src="../images/products/Rental-LED/M-series-4.webp" alt="M SERIES">
+                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-4.webp" alt="M SERIES">
                     </div>
                     <div class="desc-part half">
                         <h2 class="title">Versatile Creative Installation For Any Events</h2>
@@ -127,14 +127,14 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Rental-LED/M-series-5.webp" class="special" alt="M SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-5.webp" class="special" alt="M SERIES">
                 </div>
             </div>
             <hr class="under-line">
             <div style="background: #050505; color: #fff; padding: 120px 0">
                 <div class="detail" style="margin: 0 auto">
                     <div class="img-part half">
-                        <img src="../images/products/Rental-LED/M-series-6.webp" alt="M SERIES">
+                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-6.webp" alt="M SERIES">
                     </div>
                     <div class="desc-part half">
                         <h2 class="title">High Profile Mechanical Design</h2>
@@ -197,13 +197,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Rental-LED/M-series-7.webp" alt="Award Ceremony M3.9 Stage Rental LED Display.jpg">
+                    <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-7.webp" alt="Award Ceremony M3.9 Stage Rental LED Display.jpg">
                     <a class="case-title">
                         <span class="current">Award Ceremony M3.9 Stage Rental LED Display.jpg</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Rental-LED/M-series-8.webp" alt="Bank Events M2.9 Stage Rental LED Display">
+                    <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-8.webp" alt="Bank Events M2.9 Stage Rental LED Display">
                     <a class="case-title">
                         <span class="current">Bank Events M2.9 Stage Rental LED Display</span>
                     </a>
@@ -645,7 +645,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

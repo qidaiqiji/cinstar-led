@@ -74,14 +74,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/MC.jpg" alt="MC SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Commercial-LED/MC.jpg" alt="MC SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MC SERIES1.jpg" alt="MC SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/MC SERIES1.jpg" alt="MC SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Super Light Weight Panel</h2>
@@ -99,13 +99,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MC SERIES2.jpg" alt="MC SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/MC SERIES2.jpg" alt="MC SERIES">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MC SERIES3.jpg" alt="MC SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/MC SERIES3.jpg" alt="MC SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Fully Protected Panel</h2>
@@ -123,7 +123,7 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/MC SERIES4.jpg" class="special" alt="MC SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/MC SERIES4.jpg" class="special" alt="MC SERIES">
                 </div>
             </div>
         </div>
@@ -179,13 +179,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/fixed/10-fixed-case.jpg" alt="Sweden Ice Hockey Arena MC15">
+                    <img src="https://www.cinstar-led.com/images/fixed/10-fixed-case.jpg" alt="Sweden Ice Hockey Arena MC15">
                     <a class="case-title">
                         <span class="current">Sweden Ice Hockey Arena MC15 LED Screen Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/fixed/5-fixed-case.jpg" alt="Finland Shopping Mall Crown Screen MC31">
+                    <img src="https://www.cinstar-led.com/images/fixed/5-fixed-case.jpg" alt="Finland Shopping Mall Crown Screen MC31">
                     <a class="case-title">
                         <span class="current">Finland Shopping Mall Crown Screen MC31 LED Screen Display</span>
                     </a>
@@ -534,7 +534,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

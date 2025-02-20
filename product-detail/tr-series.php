@@ -72,13 +72,13 @@
                 </div>
             </div>
             <div class="product-img">
-                <img src="../images/products/Creative-LED/TR-SERIES.jpg" alt="TR-SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Creative-LED/TR-SERIES.jpg" alt="TR-SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
             <div class="left-img">
-                <img src="../images/products/Creative-LED/TR-Case-Show.jpg" alt="TR-SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Creative-LED/TR-Case-Show.jpg" alt="TR-SERIES">
             </div>
             <div class="right-desc text-long">
                 <h2 class="title">Creative Effect Solutions</h2>
@@ -128,13 +128,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Creative-LED/tr-case-1.jpg" alt="TR-SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/tr-case-1.jpg" alt="TR-SERIES">
                     <a class="case-title">
                         <span class="current">Shopping Mall Decoration Advertising LED Screen Display</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Creative-LED/tr-case-2.jpg" alt="TR-SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Creative-LED/tr-case-2.jpg" alt="TR-SERIES">
                     <a class="case-title">
                         <span class="current">Auto 4S Store Glass Wall LED Screen Display</span>
                     </a>
@@ -438,7 +438,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>

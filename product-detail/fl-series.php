@@ -73,14 +73,14 @@
                 </div>
             </div>
             <div class="product-img small-long">
-                <img src="../images/products/Commercial-LED/FL-series-1.jpg" alt="FL SERIES">
+                <img src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-1.jpg" alt="FL SERIES">
             </div>
         </div>
         <!-- 产品详情 -->
         <div class="product-detail">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FL-series-2.jpg" alt="FL SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-2.jpg" alt="FL SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">Creative Design Delivers Your Ideas</h2>
@@ -98,13 +98,13 @@
                     </p>
                 </div>
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FL-series-3.jpg" alt="FL SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-3.jpg" alt="FL SERIES">
                 </div>
             </div>
             <hr class="under-line">
             <div class="detail">
                 <div class="img-part half">
-                    <img src="../images/products/Commercial-LED/FL-series-4.jpg" alt="FL SERIES">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-4.jpg" alt="FL SERIES">
                 </div>
                 <div class="desc-part half">
                     <h2 class="title">High Commercial Values</h2>
@@ -166,13 +166,13 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/FL-series-5.jpg" alt="Cinstar U1.56 Corporate Reception Fine Pitch LED">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-5.jpg" alt="Cinstar U1.56 Corporate Reception Fine Pitch LED">
                     <a class="case-title">
                         <span class="current">Cinstar FL2.5 Art Gallery Irregular Creative LED Screen</span>
                     </a>
                 </div>
                 <div class="caseItem">
-                    <img src="../images/products/Commercial-LED/FL-series-6.jpg" alt="Cinstar U2.3 Conference Room LED Video Wall">
+                    <img src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-6.jpg" alt="Cinstar U2.3 Conference Room LED Video Wall">
                     <a class="case-title">
                         <span class="current">Cinstar FL4 Shopping Center Ceiling Creative LED Screen</span>
                     </a>
@@ -476,7 +476,7 @@
             </div>
         </div>
         <div class="contact-banner">
-            <img src="../images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
+            <img src="https://www.cinstar-led.com/images/home-new/contact-banner.webp" alt="Contact Us Now - Cinstar LED">
             <div class="contact-banner-content">
                 <div class="contact-banner-dialog">
                     <p>Wanna Upgrade Your Next Projects?</p>
