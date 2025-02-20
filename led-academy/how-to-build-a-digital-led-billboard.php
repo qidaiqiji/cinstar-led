@@ -53,7 +53,7 @@
                 </div>
                 <p>Building a <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>digital LED billboard</strong></a> is an exciting venture that combines cutting-edge technology with impactful outdoor advertising. As one of the most effective tools for reaching a wide audience, LED billboards are becoming increasingly popular in the advertising world. However, constructing one involves strategic planning, technical expertise, and careful attention to detail.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-digital-led-billboard-for-advertising.webp" alt="outdoor digital led billboard for advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-digital-led-billboard-for-advertising.webp" alt="outdoor digital led billboard for advertising"></a>
                 </div>
                 <p>In this guide, we’ll walk you through the essential steps to build a successful outdoor electronic billboard, covering everything from design to installation.</p>
                 <h2>Step 1: Understand the Purpose and Location</h2>

@@ -57,7 +57,7 @@
                         In today’s fast-paced business world, video conferencing has become a critical tool for communication and collaboration. Companies around the globe rely on high-quality video conferencing systems to connect remote teams, facilitate client meetings, and conduct virtual events. A key element in ensuring an effective video conferencing experience is the display technology used. Traditional LCD screens and projectors often fall short in delivering the necessary clarity, brightness, and seamless visuals. This is where <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> display technology is transforming the industry.
                     </p>
                     <div class="img-box">
-                            <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-display-walls.webp" alt="direct view led display walls"></a>
+                            <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led-display-walls.webp" alt="direct view led display walls"></a>
                         </div>
                     <p>
                         With advancements in display technology, <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED video wall</strong></a> solutions have emerged as the ultimate choice for high-impact visual communication. These displays offer superior brightness, seamless integration, and an immersive experience that enhances video conferencing, making them ideal for corporate boardrooms, training centers, and large conference halls.

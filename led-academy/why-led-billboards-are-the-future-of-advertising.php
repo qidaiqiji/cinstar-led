@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-billboard-advertising.webp" alt="led billboard advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-billboard-advertising.webp" alt="led billboard advertising"></a>
                 </div>
                 <section>
                     <h2>The Shift from Traditional to Digital</h2>

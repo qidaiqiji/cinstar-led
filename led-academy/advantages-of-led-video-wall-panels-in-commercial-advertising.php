@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-video-wall-panels-advertising.webp" alt="led video wall panels advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-video-wall-panels-advertising.webp" alt="led video wall panels advertising"></a>
                 </div>
                 <section>
                     <h2>Revolutionizing Advertising Strategies</h2>

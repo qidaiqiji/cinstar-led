@@ -53,7 +53,7 @@
                 </div>
                 <p>In today’s fast-paced digital world, <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> technology is taking center stage in transforming how businesses communicate visually. From immersive experiences in retail environments to cutting-edge corporate displays and awe-inspiring entertainment setups, <strong>direct view LED displays</strong> are redefining the landscape of digital communication and audience engagement like never before. With an ever-growing emphasis on superior visuals and impactful content delivery, <strong>direct view LED video walls</strong> are setting new benchmarks across various sectors.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-displays.webp" alt="direct view led displays"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led-displays.webp" alt="direct view led displays"></a>
                 </div>
                 <p>This blog delves into the key reasons behind the rapid adoption of <strong>direct view LED video walls</strong> and highlights how companies like Cinstar are at the forefront of delivering groundbreaking LED solutions tailored to evolving industry needs.</p>    
                 <h2>What is Direct View LED Technology?</h2>

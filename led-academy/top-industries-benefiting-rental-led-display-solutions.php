@@ -56,7 +56,7 @@
                 <h2>1. Event Management and Live Entertainment</h2>
                 <p>The event management and live entertainment industries are among the most significant users of <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><b>rental LED displays.</b></a> Whether for music festivals, conferences, trade shows, corporate events, or sports events, <b>LED display rental</b> solutions offer a dynamic and captivating way to engage audiences. With the ability to display high-definition visuals in large formats, <b>LED video walls</b> can turn any event into an unforgettable experience.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/rental/Cinstar-EC3.9-USA.jpg" alt="rental LED display solutions"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/rental/Cinstar-EC3.9-USA.jpg" alt="rental LED display solutions"></a>
                 </div>
                 <p>These LED displays permit customizable setups, making them perfect for occasion arrangements. From outdoor concerts to indoor conferences, the flexibility and portability of <b>rental LED displays</b> provide organizers with a cost-effective solution without needing a permanent installation.</p>
                 <h2>2. Retail and Advertising Vertical</h2>

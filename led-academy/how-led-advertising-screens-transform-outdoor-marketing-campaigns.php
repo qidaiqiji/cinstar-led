@@ -53,7 +53,7 @@
                 </div>
                 <p>In the competitive world of outdoor marketing, innovation is the key to capturing audience attention and driving brand engagement. One of the most transformative tools in this domain is the <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED advertising screen</strong></a>. Combining vibrant visuals with cutting-edge technology, these screens offer unparalleled opportunities to create impactful marketing campaigns that leave a lasting impression.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-advertising-screens-outdoor.webp" alt="led advertising screens outdoor"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-advertising-screens-outdoor.webp" alt="led advertising screens outdoor"></a>
                 </div>
                 <p>Companies like Cinstar are at the forefront of this revolution, providing advanced <strong>LED display screens for advertising outdoor</strong> that cater to diverse industry needs. Let’s explore how these screens are transforming outdoor advertising and why they are a game-changer for modern marketing strategies.</p>                
                 <h2>The Advantages of LED Advertising Screens</h2>

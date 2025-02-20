@@ -57,7 +57,7 @@
                         Sports and entertainment venues have always been prime locations for brands to connect with audiences. In recent years, <a href="https://www.cinstar-led.com/products/led-advertising.php" target="_blank">led advertising</a> has transformed the way businesses interact with fans, offering high-impact, dynamic displays that capture attention instantly.
                     </p>
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-screen-for-advertising-outdoor.webp" alt="led screen for advertising outdoor"></a>
+                        <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-screen-for-advertising-outdoor.webp" alt="led screen for advertising outdoor"></a>
                     </div>
                     <p>
                         Traditional static billboards are being replaced by advanced digital solutions that offer greater flexibility and engagement. A well-placed <a href="https://www.cinstar-led.com/products/led-advertising.php" target="_blank">led advertising screen</a> not only enhances fan experiences but also serves as a lucrative source of advertising revenue for venue operators.

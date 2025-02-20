@@ -50,7 +50,7 @@
                 </div>
                 <p><b>Outdoor LED displays</b> are an effective method to grab engagement, immerse audiences, and boost branding. From bustling metropolis centers to arenas and event platforms, these exhibits are built to resist the elements and provide dynamic visuals day and night. Nevertheless, thriving installation and continuous maintenance of an <a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>outdoor LED display</b></a> need detailed planning and care to guarantee longevity and optimal performance. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-LED-display-screen.webp" alt="outdoor LED display screen"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-LED-display-screen.webp" alt="outdoor LED display screen"></a>
                 </div>
                 <p>Here’s everything you should understand to get the most out of your <b>outdoor LED screen.</b></p>
                 <h2>Step 1: Selecting the Suitable Outdoor LED Display</h2>

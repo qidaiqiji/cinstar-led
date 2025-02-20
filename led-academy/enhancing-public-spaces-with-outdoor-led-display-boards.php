@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-display-boards-1.webp" alt="outdoor led display boards"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-display-boards-1.webp" alt="outdoor led display boards"></a>
                 </div>
                 <section>
                     <h2>The Rise of Outdoor LED Displays</h2>

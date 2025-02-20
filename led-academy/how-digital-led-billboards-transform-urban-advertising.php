@@ -53,7 +53,7 @@
                 </div>
                 <p>Urban landscapes have long been a canvas for advertisers, but the advent of <strong>digital LED billboards</strong> has redefined the way brands communicate with their audiences. With their vibrant displays and dynamic capabilities, these cutting-edge advertising platforms are reshaping the visual identity of cityscapes worldwide. From high-traffic intersections to iconic city centers, <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>outdoor LED billboards</strong></a> are transforming urban advertising into a powerful and visually engaging medium.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-billboard-advertising-sign.webp" alt="outdoor led billboard"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-billboard-advertising-sign.webp" alt="outdoor led billboard"></a>
                 </div>
                 <h2>The Rise of Digital LED Billboards</h2>
                 <p>The transition from static print billboards to dynamic <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>LED billboard signs</strong></a> marks a significant evolution in advertising. Unlike traditional billboards, digital LED displays offer unparalleled flexibility in content delivery. Brands can now showcase multiple advertisements, update campaigns in real-time, and even integrate interactive features. These capabilities not only enhance the advertising experience but also enable businesses to tailor their messages to specific audiences at specific times.</p>

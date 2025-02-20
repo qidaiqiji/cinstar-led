@@ -56,7 +56,7 @@
                 <h2>The Significance of Selecting the Suitable Outdoor LED Display</h2>
                 <p>Durability and weather resistance are crucial factors when selecting an LED display. Standard LED screens usually fail to satisfy the strict needs of outdoor necessities and cannot withstand sunlight, rain, humidity, and extreme temperatures. Cinstar's <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><b>Outdoor LED Displays</b></a> can function under these demanding requirements, consistently delivering clear, bright, and vibrant visuals.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/fixed/12-fixed-case.jpg" alt="Outdoor LED Display Screens"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/fixed/12-fixed-case.jpg" alt="Outdoor LED Display Screens"></a>
                 </div>
                 <p>High IP ratings, such as IP65, make them perfect for outdoor conditions, offering optimal performance regardless of the weather.</p>
                 <h2>Superior Performance with Outdoor LED Screen Technology</h2>

@@ -53,7 +53,7 @@
                 </div>
                 <p>The digital out-of-home (DOOH) advertising industry is undergoing a revolutionary transformation with the advent of <strong>LED advertising</strong>. As businesses strive for greater visibility and engagement, <a href="https://www.cinstar-led.com/products/led-advertising.php" target="_blank"><strong>LED advertising screens</strong></a> have emerged as a powerful solution to deliver dynamic, eye-catching visuals that captivate audiences.</p>    
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-advertising-screen-dooh.jpg" alt="led advertising screen"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-advertising-screen-dooh.jpg" alt="led advertising screen"></a>
                 </div>
                 <p>Unlike traditional static billboards, an <a href="https://www.cinstar-led.com/products/led-advertising.php" target="_blank"><strong>LED screen for advertising outdoor</strong></a> offers unmatched flexibility, durability, and visibility. Leading innovators like <strong>Cinstar</strong> provide state-of-the-art solutions, enabling businesses to display high-resolution videos, animations, and real-time updates. These advantages make <a href="https://www.cinstar-led.com/products/led-advertising.php" target="_blank"><strong>LED display screens for advertising outdoor</strong></a> a preferred choice for brands looking to make a lasting impression.</p>
                 <h2>The Rise of LED Advertising</h2>

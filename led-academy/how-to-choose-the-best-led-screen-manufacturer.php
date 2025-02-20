@@ -55,7 +55,7 @@
                     Choosing the right <strong>LED screen manufacturer</strong> is critical for businesses seeking to invest in high-quality LED displays for advertising, events, or indoor and outdoor applications. With so many options available, making the right choice can be overwhelming. This article provides valuable tips and factors to consider when selecting a reliable <strong>LED display manufacturer</strong> to ensure you meet your business needs efficiently.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/best-led-screen-manufacturer-for-business.webp" alt="led screen manufacturer"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/best-led-screen-manufacturer-for-business.webp" alt="led screen manufacturer"></a>
                 </div>
                 <h2>Why Choosing the Right Manufacturer Matters</h2>
                 <p>

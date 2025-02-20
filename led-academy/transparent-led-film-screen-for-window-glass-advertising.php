@@ -54,7 +54,7 @@
                 </div>
                 <p>In the ever-evolving world of digital advertising, businesses are constantly seeking innovative ways to capture the attention of their target audience. One of the most groundbreaking advancements in this field is the <a href="https://www.cinstar-led.com/products/transparent-led-film-screen.php"><strong>transparent LED film</strong></a>. This cutting-edge technology is transforming the way brands advertise, particularly through window displays. In this blog, we’ll explore the benefits of <strong>transparent LED screen</strong> technology, focusing on its lightweight design and easy application, which make it a game-changer for window advertising.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/transparent-led-film-screen-glass-wall-advertising.webp" alt="transparent led film screen glass wall advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/transparent-led-film-screen-glass-wall-advertising.webp" alt="transparent led film screen glass wall advertising"></a>
                 </div>
                 <h2>What is Transparent LED Film?</h2>
                 <p><strong>Transparent LED film</strong> is a thin, flexible material that can be applied directly to glass surfaces, such as windows. Unlike traditional LED displays, this innovative solution allows light to pass through, maintaining the transparency of the glass while displaying vibrant, high-resolution images and videos. This makes it an ideal choice for businesses looking to enhance their storefronts or office windows with dynamic advertising content.</p>

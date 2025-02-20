@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-tv-home-cinema.webp" alt="direct view led tv home cinema"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led-tv-home-cinema.webp" alt="direct view led tv home cinema"></a>
                 </div>
                 <section>
                     <h2>What is Direct View LED Technology?</h2>

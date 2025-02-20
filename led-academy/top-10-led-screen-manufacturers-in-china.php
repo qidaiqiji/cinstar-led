@@ -53,7 +53,7 @@
                 </div>
                 <p>China has emerged as the global hub for <strong>LED screen manufacturers</strong>, providing high-quality and innovative LED solutions for businesses worldwide. From <strong>LED video wall panels</strong> to customizable LED displays, Chinese manufacturers are leading the way in offering state-of-the-art products at competitive prices. Here, we explore the top 10 <a href="https://www.cinstar-led.com"><strong>LED display manufacturers</strong></a>, including the highly regarded <strong>Cinstar</strong>.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/china-led-screen-manufacturers.jpg" alt="china led screen manufacturers"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/china-led-screen-manufacturers.jpg" alt="china led screen manufacturers"></a>
                 </div>
                 <h2>1. Leyard</h2>
                 <p>Leyard is a prominent <strong>LED display manufacturer</strong> specializing in indoor and outdoor LED solutions. Known for their superior quality and advanced technology, Leyard products are widely used in events, advertising, and broadcasting industries.</p>

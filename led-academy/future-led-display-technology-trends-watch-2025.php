@@ -53,7 +53,7 @@
                 </div>
                 <p>LED display technology is evolving, and for this reason, innovations and trends emerge yearly. As we look into the future, moreover, toward 2025, several compelling expansions are redefining how LED displays are used across various industries. They are redefining the landscape of various industries, from advertising to entertainment and corporate environments. Let us delve into the critical trends in LED display technology to watch in 2025. The focus will be on <a href="https://www.cinstar-led.com"><b>LED Video Wall Panels</b></a> and how the industry adjusts to varying needs.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/rental/Cinstar-EC2.9-Dubai.jpg" alt="LED Video Wall Panels"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/rental/Cinstar-EC2.9-Dubai.jpg" alt="LED Video Wall Panels"></a>
                 </div>
                 <h2>The Rise of Advanced LED Video Walls</h2>
                 <p>LED Video Walls are growing and refining. Because of their unique features, these large-scale displays are increasingly used everywhere, from corporate displays and shows to sports occasions and digital promotions. The demand for ultra-high-definition (UHD) visuals and immersive experiences drives innovation in developing <b>LED Video Wall Panels</b>.</p>

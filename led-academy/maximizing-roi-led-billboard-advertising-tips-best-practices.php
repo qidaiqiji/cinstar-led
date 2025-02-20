@@ -53,7 +53,7 @@
                 </div>
                 <p>Every business works to maximize ROI. LED billboard advertising is changing the advertising game. It is an efficient and dynamic tool for executing effective advertising campaigns. With their rich visuals, high visibility, and ability to deliver dynamic content, <b>LED billboards </b>allow businesses to reach large audiences powerfully and engagingly. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/fixed/18-fixed-case.jpg" alt="digital LED billboard"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/fixed/18-fixed-case.jpg" alt="digital LED billboard"></a>
                 </div>
                 <p>Here's a guide to maximize your investment in <b>digital LED billboards</b>.</p>
                 <p class="line-bold"><b>1. Target the Right Audience with Location Selection</b></p>

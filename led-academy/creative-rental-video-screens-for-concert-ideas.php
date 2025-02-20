@@ -57,7 +57,7 @@
                         In the world of live entertainment, audience engagement is everything. Concerts are no longer just about the music—they are about creating an unforgettable experience. One of the best ways to elevate a concert production is by incorporating cutting-edge visual effects using a <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank">rental LED screen</a>. These high-definition displays allow event organizers to craft breathtaking visuals that enhance the performance and immerse the audience in the show.
                     </p>
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-screen-for-concert-event.webp" alt="rental led screen for concert event"></a>
+                        <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/rental-led-screen-for-concert-event.webp" alt="rental led screen for concert event"></a>
                     </div>
                     <p>
                         From dynamic stage backdrops to synchronized lighting effects, a well-placed <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank">rental LED display</a> can completely transform the atmosphere of any live event. Let’s explore some creative ways to use LED screens for concerts and how they can amplify the audience's experience.

@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-video-wall-shopping-mall.webp" alt="3d led video wall shopping mall"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-video-wall-shopping-mall.webp" alt="3d led video wall shopping mall"></a>
                 </div>
                 <section>
                     <h2>The Evolution of Advertising in Shopping Malls</h2>

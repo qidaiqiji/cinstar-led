@@ -53,7 +53,7 @@
                 </div>
                 <p>In today’s fast-paced advertising landscape, businesses are constantly seeking innovative solutions to capture attention and engage audiences. Traditional printing advertisements, such as billboards and posters, have been a staple for decades, but the rise of digital solutions like the <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED display screen</strong></a> is transforming the advertising industry. With advancements in technology, <strong>Cinstar</strong> offers high-quality digital displays that outperform printed advertisements in numerous ways.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-display-screen.jpg" alt="outdoor led display screen"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-display-screen.jpg" alt="outdoor led display screen"></a>
                 </div>
                 <h2>1. Visual Impact and Engagement</h2>
                 <p>When it comes to visual appeal, an <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED screen</strong></a> far surpasses traditional print advertisements. While printed billboards rely on static images, outdoor LED screens display dynamic, high-resolution content like videos, animations, and real-time updates. This capability enhances audience engagement and ensures your message stands out.</p>

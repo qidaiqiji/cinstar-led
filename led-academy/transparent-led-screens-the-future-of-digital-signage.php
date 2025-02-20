@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/transparent-led-screen-digital-signage.webp" alt="transparent led screen digital signage"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/transparent-led-screen-digital-signage.webp" alt="transparent led screen digital signage"></a>
                 </div>
                 <section>
                     <h2>Key Advantages of Transparent LED Screens</h2>

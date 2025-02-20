@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-advertising-1.webp" alt="led advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-advertising-1.webp" alt="led advertising"></a>
                 </div>
                 <section>
                     <h2>The Rise of LED Advertising in Cities</h2>

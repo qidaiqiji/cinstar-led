@@ -54,7 +54,7 @@
                 </div>
                 <p>Emergencies can arise anytime, anywhere, and ensuring the public's safety becomes important during such times. Effective communication lets authorities quickly convey important messages about natural disasters, severe weather warnings, or urgent evacuation notices. One of the most powerful tools for relaying these quickly in critical situations is outdoor <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED screens</strong></a>. These high-tech, large displays have become important in assisting authorities in communicating quickly and efficiently during public emergencies.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-display-for-public-safety.webp" alt="3d led display for public safety"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-display-for-public-safety.webp" alt="3d led display for public safety"></a>
                 </div>
                 <h2>What Are Outdoor LED Displays?</h2>
                 <p>LED display screens for advertising outdoors are big, high-resolution digital screens that use technology to present content. They are mostly seen in shared spaces such as parks, highways, city centers, stadiums, and transportation hubs. Unlike standard billboards, These screens can change real-time information, such as text, images, and videos. This makes them more versatile and effective for urgent communication.</p>

@@ -53,7 +53,7 @@
                 </div>
                 <p>Outdoor advertising has taken a revolutionary turn with the advent of <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED screen</strong></a> technology. Thanks to their vibrant visuals, high durability, and adaptability, outdoor LED screens have become a staple in modern advertising strategies. Companies like Cinstar, a global leader in LED display solutions, are pushing the boundaries of creativity and performance in this space. Here, we explore the top five applications of <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED display screens</strong></a> and how they’re transforming advertising.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-screens-advertising.webp" alt="outdoor led screens advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-screens-advertising.webp" alt="outdoor led screens advertising"></a>
                 </div>
                 <h2>1. Digital Billboards</h2>
                 <p>Digital billboards have become one of the most effective forms of outdoor advertising. Featuring high-resolution <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED displays</strong></a>, these billboards can showcase dynamic content that grabs the audience's attention. Unlike static advertisements, digital billboards allow advertisers to rotate multiple messages, offering greater flexibility and impact.</p>

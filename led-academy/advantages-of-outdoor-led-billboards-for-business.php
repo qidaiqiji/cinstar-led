@@ -55,7 +55,7 @@
                     In today’s competitive market, businesses constantly seek innovative ways to enhance their visibility and engage audiences. Among the most effective tools for modern advertising are <strong>outdoor LED billboards</strong>. With their striking visuals, durability, and versatility, these billboards have revolutionized the way brands communicate with their target audience. Whether you’re a small business or a global enterprise, leveraging a digital billboard can significantly amplify your marketing efforts.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-billboard-for-business.webp" alt="outdoor led billboard for business"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-billboard-for-business.webp" alt="outdoor led billboard for business"></a>
                 </div>
                 <h2>The Power of Outdoor LED Billboards</h2>
                 <p>

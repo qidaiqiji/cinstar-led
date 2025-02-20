@@ -54,7 +54,7 @@
                 <h2>Introduction</h2>
                 <p>The digital signage revolution that has revolutionized the way businesses engage with their audiences is led by outdoor LED video walls. These solutions, whether through cutting-edge technology or adaptable applications, enthrall spectators in crowded and outdoor settings. When utilized as an eye-catching <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED screen for advertising outdoors</strong></a>, their efficacy is especially noticeable, guaranteeing that a large audience sees messages.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-video-walls-advertising-1.jpg" alt="outdoor led video walls advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-video-walls-advertising-1.jpg" alt="outdoor led video walls advertising"></a>
                 </div>
                 <h2>Utilizing LED Video Walls to Increase Visual Appeal</h2>
                 <p>Regarding producing a breathtaking visual experience, the rental video screens for concert ideas' adaptability for concert ideas is unparalleled. Even in direct sunshine, these panels' sharp resolution and brilliant colors ensure that every aspect of the material is visible.</p>
@@ -71,7 +71,7 @@
                 <h2>Eco-Friendly Advertising Solutions</h2>
                 <p>LED screens for outdoor advertising campaigns support the growing emphasis on sustainability among businesses. Compared to conventional signs, these screens use less energy, lowering operating expenses and having a minor environmental effect.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-video-walls-advertising-2.jpg" alt="outdoor led video walls advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-video-walls-advertising-2.jpg" alt="outdoor led video walls advertising"></a>
                 </div>
                 <p>Because of their endurance, they last longer and require fewer replacements over time. In addition to saving money, this supports ecologically friendly advertising strategies that appeal to people who care about the environment.</p>
                 <h2>The Unique Features of LED Technology</h2>

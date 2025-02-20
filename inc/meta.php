@@ -89,4 +89,4 @@ if($hrefLink != '')
 ?>
 
 <link rel="preload" href="../css/font-awesome/css/font-awesome.min.css" as="style" onload="this.rel='stylesheet'">
-<link rel="icon" href="../images/favicon.ico">
+<link rel="icon" href="https://www.cinstar-led.com/images/favicon.ico">

@@ -53,7 +53,7 @@
                 </div>
                 <p>Outdoor LED display boards are an innovative way for businesses and organizations to connect with and communicate with their audience. Their ability to deliver vibrant, dynamic, and customizable information in real time makes them extremely popular among advertisers and event organizers. This section presents the six standout advantages of <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED display boards</strong></a> and explains why this tool is an excellent option for modern marketers and communicators.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-display-boards.webp" alt="outdoor led display boards"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-display-boards.webp" alt="outdoor led display boards"></a>
                 </div>
                 <h2>1. Outstanding Visibility in Any Setting</h2>
                 <p>Outdoor LED display boards are designed to be the most visible boards in any environment. Day or night, bright screens make the content stand out in any setting.</p>

@@ -55,7 +55,7 @@
                     <p>Eye-catching becomes crucial with all the speedy technological skills prevailing in today's fast-paced world. LED video walls are changing the face of digital communication. They allow businesses and event organizers to be innovative in engaging their audiences. Large outdoor advertising, immersive event experiences, and powerful displays are delivered with high-quality visuals to capture attention and create lasting impressions.</p>
                     <p>Whether enhancing a trade show booth or displaying dynamic content in a retail space, the possibilities are endless with LED video walls. <a href="https://www.cinstar-led.com/"><strong>LED video wall panels</strong></a> and billboard advertising solutions are unmatched in versatility and impact. Here are six creative ways to maximize the potential of LED video wall rentals.</p>
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-video-wall.webp" alt="outdoor led video wall"></a>
+                        <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-video-wall.webp" alt="outdoor led video wall"></a>
                     </div>
                 </section>
                 <section>

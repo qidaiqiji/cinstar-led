@@ -53,7 +53,7 @@
                 </div>
                 <p>In the rapidly evolving world of advertising and entertainment, businesses are turning to innovative technologies to engage audiences and make their brands stand out. One such groundbreaking technology is the <strong>3D LED screen</strong>. Unlike traditional displays, a <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED display</strong></a> creates a mesmerizing, lifelike experience that captivates viewers and drives higher engagement.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-display-screen-advertising.jpg" alt="3d led display screen advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-display-screen-advertising.jpg" alt="3d led display screen advertising"></a>
                 </div>
                 <p>With a combination of cutting-edge LED technology and creative content, 3D displays deliver stunning visuals that seem to leap off the screen. <strong>Cinstar</strong>, a leader in LED display technology, provides state-of-the-art <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED video walls</strong></a> and <strong>3D LED billboards</strong> that are reshaping advertising and commercial spaces.</p>
                 <h2>How 3D LED Screens Revolutionize Advertising</h2>

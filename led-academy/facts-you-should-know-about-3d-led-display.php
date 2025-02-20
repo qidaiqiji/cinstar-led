@@ -53,7 +53,7 @@
                 </div>
                 <p>While technology has reached every corner of our lives, it has set remarkable standards in viewing experiences. Not to mention, a <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED display</strong></a> is one of the modern advancements. These displays show 3D effects that can be seen without special glasses. The images are very realistic and engage everyone.</p>
                 <div class="img-box">
-                    <img src="../images/blog/facts-about-3d-led-display.webp" alt="facts about 3d led display">
+                    <img src="https://www.cinstar-led.com/images/blog/facts-about-3d-led-display.webp" alt="facts about 3d led display">
                 </div>
                 <p>Moreover, a 3D LED screen is also energy-efficient, showing more precise pictures, luminous pigments, and pleasing effects. These screens are starting to be used more in advertising, with many companies using them to impress consumers. In this post, we will shed light on everything that you must know about 3D LED Display.</p>
                 <h2>An Overview of LED displays</h2>

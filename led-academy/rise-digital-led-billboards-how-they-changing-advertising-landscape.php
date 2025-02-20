@@ -43,7 +43,7 @@
                 </div>
                 <p>Conventional advertising techniques slowly give way to more vibrant, engaging, and technologically developed possibilities. One of the most effective transformations in the advertising terrain is the promotion of <b>digital LED billboards</b>. These contemporary wonders are changing how brands communicate with audiences, delivering more significant flexibility, eye-catching visuals, and the capacity to provide real-time messages. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/digital-led-billboards.webp" alt="digital led billboards"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/digital-led-billboards.webp" alt="digital led billboards"></a>
                 </div>
                 <p><b>LED billboards</b> are at the fore as the advertisement drive grows, revolutionizing outdoor promotion.</p>
                 <h2 style="font-size: 20px;font-weight: bold;">The Power of LED Billboards</h2>

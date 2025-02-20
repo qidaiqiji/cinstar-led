@@ -53,7 +53,7 @@
                 </div>
                 <p>In the realm of modern advertising, <strong>outdoor LED billboards</strong> have emerged as a game-changing tool for businesses aiming to capture audience attention in high-traffic areas. With their vibrant visuals, flexibility, and advanced technology, <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>digital LED billboards</strong></a> offer unparalleled opportunities to elevate marketing campaigns. Let’s delve into the benefits, costs, and essential tips for maximizing the impact of <strong>LED billboard advertising</strong>.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-billboard-sale.webp" alt="outdoor led billboard sale"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-billboard-sale.webp" alt="outdoor led billboard sale"></a>
                 </div>
                 <h2>What Makes Outdoor LED Billboards Stand Out?</h2>
                 <p>A <strong>digital LED billboard</strong> stands out for its ability to deliver high-quality, dynamic content that engages audiences in ways traditional static billboards cannot. Here are some of the key advantages:</p>

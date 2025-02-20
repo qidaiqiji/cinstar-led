@@ -42,16 +42,16 @@
                     </div>
                 </div>
                 <p>
-                As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to <a href="../">deliver excellent visual impact</a>.
+                As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to <a href="https://www.cinstar-led.com">deliver excellent visual impact</a>.
                 </p>
                 <p>
                 Taking outdoor advertising for example, LED billboard is beating traditional print advertising no matter what the brightness, image quality, durability and usability. It is like a rock star in the advertising industry.
                 </p>
                 <div class="img-box">
-                    <img src="../images/blog/blog5-1.jpg" alt="Advertising LED Billboard-1">
+                    <img src="https://www.cinstar-led.com/images/blog/blog5-1.jpg" alt="Advertising LED Billboard-1">
                 </div>
                 <p>
-                LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="../products/commercial-led-display.php">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
+                LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="https://www.cinstar-led.com/products/commercial-led-display.php">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
                 </p>
                 <ul class="list">
                     <li>
@@ -73,7 +73,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 2: Turn on/off LED billboard</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-2.jpg" alt="Advertising LED Billboard-2">
+                            <img src="https://www.cinstar-led.com/images/blog/blog5-2.jpg" alt="Advertising LED Billboard-2">
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -81,7 +81,7 @@
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            When turning off LED billboard, first to shut down the power of display, then the controlling software and last the controlling computer. If turning off computer when LED billboard is still running, which may cause very high brightness spot on <a href="../products">LED display</a> and burn the LEDs.
+                            When turning off LED billboard, first to shut down the power of display, then the controlling software and last the controlling computer. If turning off computer when LED billboard is still running, which may cause very high brightness spot on <a href="https://www.cinstar-led.com/products">LED display</a> and burn the LEDs.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -95,7 +95,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 3: Power control</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-3.jpg" alt="Advertising LED Billboard-3">
+                            <img src="https://www.cinstar-led.com/images/blog/blog5-3.jpg" alt="Advertising LED Billboard-3">
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -110,7 +110,7 @@
                             Maintaining the stable power supply and making sure reliable grounding system. Do not use LED billboard at extreme weather conditions like strong thunderstorm and lightning. 
                         </p><p>
                             <i class="fa fa-angle-double-right"></i>
-                            When powering for a <a href="../products/commercial-led-display.php">giant LED billboard</a>, avoid powering the whole screen at the same time. The instantaneous power may cause severe impact to your powering system.
+                            When powering for a <a href="https://www.cinstar-led.com/products/commercial-led-display.php">giant LED billboard</a>, avoid powering the whole screen at the same time. The instantaneous power may cause severe impact to your powering system.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -120,11 +120,11 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 4: LED billboard cleaning</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-4.jpg" alt="Advertising LED Billboard-4">
+                            <img src="https://www.cinstar-led.com/images/blog/blog5-4.jpg" alt="Advertising LED Billboard-4">
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            Scheduled cleaning work. Exposed to the open air, the dusts, particles and rains will leave dirt and traces on the surface of LED billboard, which affects the image quality on the display. So, a routine cleaning work should be performed, whatever <a href="../products">indoor or outdoor LED display</a>.
+                            Scheduled cleaning work. Exposed to the open air, the dusts, particles and rains will leave dirt and traces on the surface of LED billboard, which affects the image quality on the display. So, a routine cleaning work should be performed, whatever <a href="https://www.cinstar-led.com/products">indoor or outdoor LED display</a>.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -138,7 +138,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Tips 5: Storage and moistureproof</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/blog5-5.jpg" alt="Advertising LED Billboard-5">
+                            <img src="https://www.cinstar-led.com/images/blog/blog5-5.jpg" alt="Advertising LED Billboard-5">
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

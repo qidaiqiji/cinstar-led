@@ -54,7 +54,7 @@
                 </div>
                 <p>The role of technology in sports is essential in amplifying fans' experiences and making events unforgettable. One of the coolest things happening around sports stadiums and arenas today relates to <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED display board</strong></a>. These fantastic digital screens have entirely changed how teams play with their followers and how live games are broadcast live. LED advertising screens and outdoor LED video walls are quite at the peak of this modern revolution, with improved visibility, wider creativity, and flexibility.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-display-for-sports.webp" alt="outdoor led display for sports"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-display-for-sports.webp" alt="outdoor led display for sports"></a>
                 </div>
                 <h2>What Are Outdoor LED Displays?</h2>
                 <p>Outdoor LED Display Boards are large, high-definition screens utilizing light-emitting diodes (LEDs) to showcase images, video, and other media. These displays are meant for the outdoors, ensuring durability, weather resistance, and bright and clear images even under direct sunlight.</p>

@@ -53,7 +53,7 @@
                 </div>
                 <p>The broadcasting and television industry demands cutting-edge technology to deliver superior visual experiences. A <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> video wall has become an essential tool in modern TV studios, providing unparalleled image quality, versatility, and reliability. As the need for dynamic and seamless visuals increases, investing in a <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED video wall</strong></a> ensures broadcasters stay ahead of the curve.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-video-wall-tv-studios.jpg" alt="direct view led video wall"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led-video-wall-tv-studios.jpg" alt="direct view led video wall"></a>
                 </div>
                 <p>When it comes to creating immersive environments for live broadcasts, newsrooms, or entertainment shows, a <strong>direct view LED TV</strong> offers superior brightness, high resolution, and exceptional color accuracy. Companies like <strong>Cinstar</strong> have been at the forefront of providing reliable, high-quality <strong>direct view LED display wall</strong> solutions tailored for the broadcasting industry.</p>
                 <h2>The Role of Direct View LED in TV Studios</h2>

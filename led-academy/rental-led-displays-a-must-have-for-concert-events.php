@@ -53,7 +53,7 @@
                 </div>
                 <p>Concert events are all about creating unforgettable experiences for the audience, and visual elements play a crucial role in achieving this goal. In recent years, <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><strong>rental LED displays</strong></a> have become an indispensable tool for concert organizers, providing dynamic visuals that captivate and engage audiences like never before. From stunning backdrops to immersive stage designs, the versatility and impact of these displays make them a must-have for any successful concert event.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-display-concert-event.webp" alt="rental led display concert event"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/rental-led-display-concert-event.webp" alt="rental led display concert event"></a>
                 </div>
                 <p>This blog explores why <strong>rental LED screens</strong> are essential for modern concert experiences and how they can elevate your event to new heights.</p>        
                 <h2>The Power of Rental LED Displays in Concerts</h2>

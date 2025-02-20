@@ -53,7 +53,7 @@
                 </div>
                 <p>As the retail industry evolves, shopping mall owners are constantly seeking innovative ways to attract customers and boost foot traffic. One of the most effective and impactful tools for achieving this is the <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED screen</strong></a>. These advanced displays not only enhance visibility but also transform traditional advertising into a dynamic and engaging experience.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-screen-shopping-mall.jpg" alt="outdoor led screen shopping mall"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-screen-shopping-mall.jpg" alt="outdoor led screen shopping mall"></a>
                 </div>
                 <h2>Unmatched Visibility and Engagement</h2>
                 <p>Shopping malls are often located in busy urban areas, where grabbing the attention of passersby is crucial. Unlike static banners or posters, an <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php"><strong>outdoor LED display</strong></a> provides vivid, high-resolution visuals that can’t be ignored. The brightness and clarity of an <strong>outdoor LED display screen</strong> ensure advertisements are visible even in direct sunlight, making them perfect for outdoor environments.</p>

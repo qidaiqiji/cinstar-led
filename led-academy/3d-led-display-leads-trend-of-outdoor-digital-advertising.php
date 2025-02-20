@@ -53,7 +53,7 @@
                 </div>
                 <p>In the ever-evolving world of outdoor advertising, businesses are constantly looking for innovative ways to capture attention and engage audiences. The introduction of the <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED screen</strong></a> has revolutionized outdoor digital advertising, offering stunning visuals that leave a lasting impression. Combining cutting-edge technology with creativity, <strong>3D LED displays</strong> have quickly become the preferred choice for brands aiming to stand out in crowded markets.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-display-advertising-outdoor.jpg" alt="3d led display advertising outdoor"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-display-advertising-outdoor.jpg" alt="3d led display advertising outdoor"></a>
                 </div>
                 <h2>Unparalleled Visual Impact</h2>
                 <p>The primary reason why the <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED display</strong></a> leads the trend in outdoor advertising is its ability to deliver unparalleled visual impact. Unlike traditional flat displays, a <strong>3D LED video wall</strong> creates an immersive viewing experience that captivates passersby. By showcasing lifelike images and animations with depth and dimension, businesses can bring their advertisements to life.</p>

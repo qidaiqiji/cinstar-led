@@ -53,7 +53,7 @@
                 </div>
                 <p>Choosing the right LED display manufacturer is vital to the performance, durability, and cost-effectiveness of digital displays for your business, event, or venue. Whether you need LED video wall panels, a direct-view LED display wall, or something else, a well-researched choice will guarantee the best results. The main factors to consider while selecting the visual display unit manufacturer are given below.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/right-led-display-manufacturer.webp" alt="right led display manufacturer"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/right-led-display-manufacturer.webp" alt="right led display manufacturer"></a>
                 </div>
                 <h2>1. Know Your Display Requirements</h2>
                 <p>Before researching LED screen manufacturers, define your requirements. Do you plan to use the screens indoors in a retail location, or do you need something more durable for an outdoor <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct-view LED display wall</strong></a> application?</p>

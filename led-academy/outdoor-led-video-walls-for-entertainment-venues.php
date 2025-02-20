@@ -57,7 +57,7 @@
                         In the world of live entertainment, delivering an unforgettable experience to audiences is the ultimate goal. Whether it's a music festival, sports event, or large-scale public gathering, the need for high-quality visual displays has never been greater. <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php" target="_blank">Outdoor LED video walls</a> are redefining how event organizers captivate their audiences by providing stunning visuals, dynamic content, and seamless integration into the event space.
                     </p>
                     <div class="img-box">
-                            <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-video-wall-display.webp" alt="outdoor led video wall display"></a>
+                            <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-video-wall-display.webp" alt="outdoor led video wall display"></a>
                         </div>
                     <p>
                         The advancement of <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php" target="_blank">outdoor LED display</a> technology has enabled larger, brighter, and more energy-efficient screens that enhance engagement and ensure that no attendee misses a moment of the action. Let’s explore how these innovations are transforming entertainment venues and setting new standards in event production.

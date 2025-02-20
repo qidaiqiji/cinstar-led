@@ -50,7 +50,7 @@
                 </div>
                 <p>LED display technology is increasing, with advancements that make screens brighter, more efficient, and visually striking. From immersive occasions to sustainable resolutions, LED video wall panels alter how enterprises engage with audiences. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-display-technology.webp" alt="LED display technology"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/LED-display-technology.webp" alt="LED display technology"></a>
                 </div>
                 <p>Here’s a peek at the critical trends shaping the tomorrow of LED displays and how these inventions push the industry ahead.</p>
                 <p><b>⦁	Fine-pitch LED Panels for High-Definition Clarity</b></p>

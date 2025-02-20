@@ -53,7 +53,7 @@
                 </div>
                 <p>In today’s fast-paced advertising landscape, businesses are constantly seeking innovative ways to engage audiences. One technology that has revolutionized outdoor marketing is the <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>digital LED billboard</strong></a>. These modern, high-tech displays offer significant advantages over traditional advertising methods, delivering measurable results in terms of cost efficiency and ROI. Companies like <strong>Cinstar</strong> provide reliable and customizable solutions to help businesses maximize their advertising potential.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/digital-led-billboard-outdoor.jpg" alt="digital led billboard outdoor"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/digital-led-billboard-outdoor.jpg" alt="digital led billboard outdoor"></a>
                 </div>
                 <h2>Advantages of Digital Outdoor LED Billboards</h2>
                 <p>A <strong>digital LED billboard</strong> offers unparalleled benefits compared to static signage. Some of the primary advantages include:</p>

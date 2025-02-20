@@ -55,7 +55,7 @@
                     In the fiercely competitive retail landscape, businesses must adopt innovative solutions to stand out and attract customers. One such transformative technology is the <strong>LED advertising screen</strong>. By leveraging dynamic and visually striking displays, retail stores can revolutionize their outdoor marketing efforts. This article explores why <a href="https://www.cinstar-led.com/products/led-advertising.php">LED display screens for advertising outdoor</a> are a game-changer for retail businesses.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-display-screen-for-advertising-outdoor.webp" alt="led display screen for advertising outdoor"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-display-screen-for-advertising-outdoor.webp" alt="led display screen for advertising outdoor"></a>
                 </div>
                 <h2>Unmatched Visibility and Brightness</h2>
                 <p>

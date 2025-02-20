@@ -53,7 +53,7 @@
                 </div>
                 <p>In the fast-paced world of event production, creating visually stunning experiences is essential for audience engagement and success. Whether it’s a music concert, corporate conference, or live event, incorporating a <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank"><strong>rental LED display</strong></a> can elevate your production to new heights. Modern technology has made <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank"><strong>rental LED screens</strong></a> a must-have for event planners looking to create immersive, impactful, and memorable events.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-display-for-events.jpg" alt="rental led display for events"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/rental-led-display-for-events.jpg" alt="rental led display for events"></a>
                 </div>
                 <h2>Why Choose Rental LED Displays for Events?</h2>
                 <p>One of the major reasons event planners choose <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" target="_blank"><strong>rental LED video walls</strong></a> is their versatility. Unlike static backdrops or projectors, <strong>rental LED displays</strong> offer superior brightness, clarity, and flexibility in design. These screens can display high-definition visuals, videos, and animations that captivate attendees and enhance the overall event experience.</p>

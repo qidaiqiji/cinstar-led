@@ -53,7 +53,7 @@
                 </div>
                 <p>Outdoor advertising has entered a new era of innovation with the introduction of <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED screens</strong></a>. These state-of-the-art displays captivate audiences by delivering lifelike visuals and immersive experiences, transforming the way brands communicate with their customers. Companies like Cinstar are leading the charge in this technological revolution, offering cutting-edge solutions that redefine outdoor advertising strategies.</p>       
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-screen-outdoor-advertising.webp" alt="3d led screen outdoor advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-screen-outdoor-advertising.webp" alt="3d led screen outdoor advertising"></a>
                 </div>
                 <h2>What Makes 3D LED Screens Unique?</h2>
                 <p>A <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php"><strong>3D LED screen</strong></a> uses advanced technology to create depth and realism in visual content. Unlike traditional flat displays, these screens simulate three-dimensional effects, making advertisements appear as though they are leaping off the surface. This innovation allows brands to create visually stunning campaigns that leave a lasting impression on their audience.</p>

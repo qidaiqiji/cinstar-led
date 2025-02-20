@@ -53,7 +53,7 @@
                 </div>
                 <p>LED video wall panels are becoming a staple in modern public spaces. They have revolutionized how people connect with their surroundings. These panels offer incredible aesthetic and functional enhancement benefits, from <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>LED billboard advertising</strong></a> to engaging experiences. They have created impactful and engaging environments. Here are some of the ways these LED video walls enhance public spaces.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-video-walls-panels-1.webp" alt="led video walls panels"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-video-walls-panels-1.webp" alt="led video walls panels"></a>
                 </div>
                 <h2>High-Resolution Displays With Bright Visuals</h2>
                 <p>The LED video wall panel has high resolution and brightness. These displays command attention whether in an airport, sports stadium, or town center. They are structured to offer quality visuals, ensuring that they do not falter under direct sunlight exposure.</p>
@@ -66,7 +66,7 @@
                     <li><strong>Event Promotion:</strong> Event managers use LED screens to boost activities. More footfalls and interaction occur.</li>
                 </ul>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-video-walls-panels-2.webp" alt="led video walls panels"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-video-walls-panels-2.webp" alt="led video walls panels"></a>
                 </div>
                 <h2>Improving the Ambience</h2>
                 <p>Beyond being an advertisement tool, LED video walls could make a public space more lively. Imagine entering a shopping center or an entertainment venue with huge LED screens displaying vibrant digital art, live sports events, or immersive interactive experiences.</p>

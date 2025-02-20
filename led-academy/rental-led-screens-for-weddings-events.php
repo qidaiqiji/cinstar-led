@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-screen-for-wedding.webp" alt="rental led screen for wedding"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/rental-led-screen-for-wedding.webp" alt="rental led screen for wedding"></a>
                 </div>
                 <section>
                     <h2>The Growing Trend of Rental LED Displays at Weddings</h2>

@@ -53,7 +53,7 @@
                 </div>
                 <p>In today’s fast-paced world, <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>digital LED billboards</strong></a> have transformed the advertising landscape. These dynamic displays have become an essential tool for businesses to capture attention and promote their products and services effectively. Whether it’s a bustling city intersection or a high-traffic highway, an <strong>outdoor LED billboard</strong> ensures that advertising messages reach a vast audience with stunning visuals and engaging content.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outddoor-led-billboard-sign.jpg" alt="outddoor led billboard sign"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outddoor-led-billboard-sign.jpg" alt="outddoor led billboard sign"></a>
                 </div>
                 <h2>What Makes LED Billboards Effective?</h2>
                 <p><strong>LED billboard advertising</strong> offers unmatched flexibility and impact compared to traditional static billboards. The ability to display high-resolution images, videos, and animations allows businesses to create eye-catching campaigns that resonate with their target audience. These billboards offer 24/7 visibility, ensuring that advertisements remain impactful both during the day and at night.</p>

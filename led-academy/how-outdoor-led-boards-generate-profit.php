@@ -43,7 +43,7 @@
                 </div>
                 <p>With increasing consumer demands and preferences, companies require creative ways to capture attention and drive revenue. One favorably practical means for accomplishing this is an <b>outdoor LED display board</b>. Whether on a bustling highway or a significant occasion, <a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>outdoor LED screens</b></a> deliver dynamic and eye-catching content that can immensely enhance a business's visibility and sales. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-outdoor.webp" alt="outdoor led display screen"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/blog-outdoor.webp" alt="outdoor led display screen"></a>
                 </div>
                 <p>Here's how investing in an <b>outdoor LED display</b> can maximize your return on investment (ROI).</p>
                 <h2 style="font-size: 20px;font-weight: bold;">⦁	Unmatched Visibility and Engagement</h2>

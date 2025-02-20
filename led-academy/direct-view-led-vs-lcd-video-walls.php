@@ -50,7 +50,7 @@
                 </div>
                 <p>Video walls have become a decisive mechanism for enterprises, from retail shops to corporate lobbies and event rooms. With advanced technology, video walls create a spectacular visual experience, drawing engagement and delivering a distinctive platform for branding and communication. Yet, selecting the most acceptable one for your area can be demanding, with choices like <a href="https://cinstar-led.com/products/direct-view-led.php"><b>Direct View LED</b></a> and LCD video walls. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led.webp" alt="direct view led"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led.webp" alt="direct view led"></a>
                 </div>
                 <p>Here, we’ll break down the pros and cons of each to assist you in making the correct alternative.</p>
                 <h2>What is a direct-view LED video wall?</h2>

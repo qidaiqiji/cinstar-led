@@ -53,7 +53,7 @@
                 </div>
                 <p>Everyone wants to do everything possible to make their event a success. With technology taking over every aspect of life, how can it lag behind in events? Despite your reason for the event, an LED screen can do it all. Such screens provide an optimal visual solution for event programs. However, it's important to understand its significance before opting for <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"><strong>LED display screen rental</strong></a>. Also, in this post, we’ll explain ways of improving your event with LED screens.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-display-screen-rental.jpg" alt="led display screen rental"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-display-screen-rental.jpg" alt="led display screen rental"></a>
                 </div>
                 <h2>Why are LED screens important for an Event?</h2>
                 <p>Before jumping into the ways of enhancing your event, let's first understand the importance:</p>

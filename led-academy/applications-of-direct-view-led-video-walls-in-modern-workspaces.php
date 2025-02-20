@@ -55,7 +55,7 @@
                     Modern workspaces are evolving at a rapid pace, embracing cutting-edge technologies to enhance communication, collaboration, and decision-making processes. One of the most impactful innovations in this transformation is the <strong>direct view LED video wall</strong>. With unparalleled clarity, scalability, and versatility, DVLED displays are revolutionizing how businesses design and use their workspaces.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-video-wall-for-workspace.webp" alt="direct view led"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led-video-wall-for-workspace.webp" alt="direct view led"></a>
                 </div>
                 <p>
                     This blog explores the top applications of <strong>direct view LED display walls</strong> in modern workspaces, highlighting their role in conference rooms, control centers, and collaborative environments.

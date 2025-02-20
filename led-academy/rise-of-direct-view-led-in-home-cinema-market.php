@@ -53,7 +53,7 @@
                 </div>
                 <p>Home entertainment technology has undergone a massive transformation over the past decade. As consumers seek premium visual experiences for their living spaces, <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED</strong></a> technology is emerging as the ultimate solution for immersive home cinema systems. From <strong>direct view LED video walls</strong> to advanced <a href="https://www.cinstar-led.com/products/direct-view-led.php"><strong>direct view LED TVs</strong></a>, this cutting-edge display technology is revolutionizing the way we enjoy movies, sports, and games at home.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/direct-view-led-tv.jpg" alt="direct view led tv"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/direct-view-led-tv.jpg" alt="direct view led tv"></a>
                 </div>
                 <h2>What Makes Direct View LED Ideal for Home Cinemas?</h2>
                 <p><strong>Direct view LED</strong> technology sets itself apart from traditional display systems like LCD and OLED. Instead of relying on a backlight, these screens use individual LEDs to create vivid, high-contrast images with unparalleled brightness. This results in stunning visuals that remain clear and vibrant even in rooms with ambient lighting.</p>

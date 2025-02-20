@@ -45,10 +45,10 @@
                     </div>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog11-1.jpg" alt="Purchasing Outdoor LED Display-1">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog11-1.jpg" alt="Purchasing Outdoor LED Display-1">
                 </div>
                 <p>
-                In recent years, with the rapid development of <a href="../">LED technology</a>, LED display has been widely recognized as the most preferred media channel by various industries. When comes to the installation environment, which can be divided into indoor and outdoor categories. Due to the particularity of different applications, how to choose the right LED product and perform normative installation and maintenance have become some kind of knowledge that LED display owners are supposed to master.
+                In recent years, with the rapid development of <a href="https://www.cinstar-led.com/">LED technology</a>, LED display has been widely recognized as the most preferred media channel by various industries. When comes to the installation environment, which can be divided into indoor and outdoor categories. Due to the particularity of different applications, how to choose the right LED product and perform normative installation and maintenance have become some kind of knowledge that LED display owners are supposed to master.
                 </p>
                 <p>
                 As a kind of industrial product, LED display requires high standards on both installation and maintenance performance, especially outdoor LED display. During installation process, the outdoor display needs to be protected against external environment such as strong wind, water and shock. Once a serious disaster such as a fire occurs due to improper installation and maintenance or poor product quality, the consequences will be immeasurable. Here we are going to share with you what to look into before and after purchasing your LED display.
@@ -57,7 +57,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Product quality</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog11-2.jpg" alt="Purchasing Outdoor LED Display-2">
+                            <img src="https://www.cinstar-led.com/images/blog/Blog11-2.jpg" alt="Purchasing Outdoor LED Display-2">
                         </div>
                         <p><i class="fa fa-angle-double-right"></i><b>Whether the quality of the LED display meets the standards</b></p>
                         <p><b>Thermal design</b></p>
@@ -66,24 +66,24 @@
                         </p>
                         <p><b>Waterproofing</b></p>
                         <p>
-                        Waterproof is critical and a must to <a href="../products/commercial-led-display.php">outdoor LED display</a>. For outdoor installations, the IP rating has to be at least IP65. At first, the gluing has to be done precisely to ensure the waterproofing of the LEDs and won’t affect its viewing angle. Besides, the solid coating has to be performed on the PCB to protect it from damage of humidity, salt and corrosion. In addition, the module has to be equipped with waterproof soft rubber rings. At last, the cabinet frame has to be truly waterproof, any leaking problem will cause endless troubles and bring big safety risk.
+                        Waterproof is critical and a must to <a href="https://www.cinstar-led.com/products/commercial-led-display.php">outdoor LED display</a>. For outdoor installations, the IP rating has to be at least IP65. At first, the gluing has to be done precisely to ensure the waterproofing of the LEDs and won’t affect its viewing angle. Besides, the solid coating has to be performed on the PCB to protect it from damage of humidity, salt and corrosion. In addition, the module has to be equipped with waterproof soft rubber rings. At last, the cabinet frame has to be truly waterproof, any leaking problem will cause endless troubles and bring big safety risk.
                         </p>
                         <p>
-                        <a href="../">Cinstar</a> has strict quality control procedures which guarantee any incoming material meets our standard. Each procedure is under thorough inspection, only the qualified can go to the next procedures. Cinstar always sticks to <a href="../products">quality LED display</a> and never compromise on the quality. For both manufacturer or customer, a poor quality product is good enough to destroy all the trust and reputation. We won’t let that happen at Cinstar. 
+                        <a href="https://www.cinstar-led.com/">Cinstar</a> has strict quality control procedures which guarantee any incoming material meets our standard. Each procedure is under thorough inspection, only the qualified can go to the next procedures. Cinstar always sticks to <a href="https://www.cinstar-led.com/products">quality LED display</a> and never compromise on the quality. For both manufacturer or customer, a poor quality product is good enough to destroy all the trust and reputation. We won’t let that happen at Cinstar. 
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
                             <b>Service quality </b>
                         </p>
                         <p>
-                        As a customer satisfaction oriented company, Cinstar pays great attention to the service quality. Cinstar has 20 engineers in the after-sales team, all of them are industry veterans with more than 6 years-experience and managed hundreds of projects from <a href="../products/commercial-led-display.php">commercial installation</a> to large scale rental events.
+                        As a customer satisfaction oriented company, Cinstar pays great attention to the service quality. Cinstar has 20 engineers in the after-sales team, all of them are industry veterans with more than 6 years-experience and managed hundreds of projects from <a href="https://www.cinstar-led.com/products/commercial-led-display.php">commercial installation</a> to large scale rental events.
                         </p>
                         <p>
                         We are capable of providing technical training for customer at Cinstar facility or customer company. If needed, the on-site installation instruction service can be arranged as well. Selling is the beginning of cooperation, but service will let us know more about each other.
                         </p>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>External installation environment</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog11-3.jpg" alt="Purchasing Outdoor LED Display-3">
+                            <img src="https://www.cinstar-led.com/images/blog/Blog11-3.jpg" alt="Purchasing Outdoor LED Display-3">
                         </div>
                         <p>
                         According to statistics, for every 5 °C increase in external ambient temperature, the life of the cooling fan of the LED display will drop by about 50%. If the LED display is installed in the high temperature environment, the ventilator or air conditioner are necessary to create air circulation to cool the LED display and maintain its normal working temperature.
@@ -95,10 +95,10 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>User's maintenance awareness</h2></div>
                         <div class="img-box">
-                            <img src="../images/blog/Blog11-4.jpg" alt="Purchasing Outdoor LED Display-4">
+                            <img src="https://www.cinstar-led.com/images/blog/Blog11-4.jpg" alt="Purchasing Outdoor LED Display-4">
                         </div>
                         <p>
-                        With the continuous breakthrough of LED technology in recent years, more and more advertising agencies are investing big capital on LED display and upgrading their print billboards into <a href="../products/commercial-led-display.php">digital LED billboard displays</a> for better advertising and media content delivering. But a regular cleaning and maintenance work is usually neglected by many users. They may have no such awareness or simply think LED display requires no maintenance just like print billboard. 
+                        With the continuous breakthrough of LED technology in recent years, more and more advertising agencies are investing big capital on LED display and upgrading their print billboards into <a href="https://www.cinstar-led.com/products/commercial-led-display.php">digital LED billboard displays</a> for better advertising and media content delivering. But a regular cleaning and maintenance work is usually neglected by many users. They may have no such awareness or simply think LED display requires no maintenance just like print billboard. 
                         </p>
                         <p>
                         In fact, after long-term use of outdoor LED display, a large amount of dust and impurities will accumulate on the surface. It is very important to do regular cleaning and maintenance to maintain the ideal working condition for the LED displays. The cleaning will be both on its surface and inside of cabinets. But the first thing is to cut off power of the LED display before conducting any cleaning.
@@ -107,10 +107,10 @@
                         Except the regular cleaning and maintenance, a scheduled inspection should also be conducted at least once a week. The inspection content mainly guarantees whether there is abnormal sound, odd smell and color difference in the LED display. If the LED display is not used for a long time, it needs to be inspected beforehand.
                         </p>
                         <p>
-                        When the <a href="../products">LED display screen</a> is working, it is better to avoid full brightness white running all the time. Because full brightness white will maximize the power consumption and is easy to cause current overload, power supply overheating and other phenomena, which has a serious impact on the life of the LED display.
+                        When the <a href="https://www.cinstar-led.com/products">LED display screen</a> is working, it is better to avoid full brightness white running all the time. Because full brightness white will maximize the power consumption and is easy to cause current overload, power supply overheating and other phenomena, which has a serious impact on the life of the LED display.
                         </p>
                         <p>
-                        Cinstar is offering the cost effective LED display solutions for your commercial advertising business. Our <a href="../products/commercial-led-display.php">outdoor advertising screens</a> are with high stability and excellent image performance, and are capable of any kinds of installations. Our quality assurance and after-sales service quality will make sure every penny of your investment count.
+                        Cinstar is offering the cost effective LED display solutions for your commercial advertising business. Our <a href="https://www.cinstar-led.com/products/commercial-led-display.php">outdoor advertising screens</a> are with high stability and excellent image performance, and are capable of any kinds of installations. Our quality assurance and after-sales service quality will make sure every penny of your investment count.
                         </p>
                     </li>
                 </ul>

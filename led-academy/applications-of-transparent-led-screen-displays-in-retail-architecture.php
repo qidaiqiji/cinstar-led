@@ -55,7 +55,7 @@
                     The world of digital signage and architecture is rapidly evolving, and <strong>transparent LED screen displays</strong> are at the forefront of this transformation. These innovative solutions are redefining how we integrate technology into spaces while maintaining openness and aesthetic appeal. From retail to modern architecture, transparent screens offer versatile applications that captivate audiences and enhance functionality.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/transparent-led-film-screen-for-retail-advertising.webp" alt="transparent led film screen"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/transparent-led-film-screen-for-retail-advertising.webp" alt="transparent led film screen"></a>
                 </div>
                 <p>
                     In this blog, we’ll explore the top five applications of transparent screen displays and how they are transforming retail and architectural spaces.

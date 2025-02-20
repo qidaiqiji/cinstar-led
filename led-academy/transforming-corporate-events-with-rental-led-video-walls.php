@@ -55,7 +55,7 @@
                     In the modern era of corporate events, making a lasting impression is crucial. From product launches to conferences and trade shows, creating a visually compelling environment is key to engaging audiences. This is where a <strong>rental LED video wall</strong> comes into play. By providing high-resolution visuals and dynamic content, these video walls have become a game-changer for corporate events. In this article, we'll explore how rental LED walls are revolutionizing the event landscape.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-video-wall-corporate-events.webp" alt="rental led video wall corporate events"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/rental-led-video-wall-corporate-events.webp" alt="rental led video wall corporate events"></a>
                 </div>
                 <h2>Enhanced Visual Impact</h2>
                 <p>

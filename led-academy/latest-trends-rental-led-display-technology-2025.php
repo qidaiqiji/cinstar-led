@@ -50,7 +50,7 @@
                 </div>
                 <p>As we approach 2025, the <b>rental LED display</b> technology world is witnessing remarkable advancements, reshaping the event and marketing industries. From more brilliant visuals to easier form, the latest <b>rental LED screens</b> bring fresh possibilities for entertaining audiences in any environment. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/rental-led-display.webp" alt="rental led display"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/rental-led-display.webp" alt="rental led display"></a>
                 </div>
                 <p>Here’s a peek at the highest <a href="https://cinstar-led.com/products/rental-led-display-screen.php"><b>rental LED display screen</b></a> trends that made an impact for 2024.</p>
                 <p><b>⦁	Ultra-Fine Pixel Pitch for Enhanced Clarity</b></p>

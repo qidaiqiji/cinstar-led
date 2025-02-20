@@ -43,7 +43,7 @@
                 </div>
                 <p>Weddings and private events are all about creating memorable experiences. Of course, they matter a lot to you, and you want the best to leave a lasting impression on the guests. Incorporate the new-age tools with modern technology, such as a <a href="https://cinstar-led.com/products/rental-led-display-screen.php"><b>rental LED display</b></a>, into your event setup.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/blog-Rental-LED-Display.webp" alt="Rental LED Display Screen"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/blog-Rental-LED-Display.webp" alt="Rental LED Display Screen"></a>
                 </div>
                 <p>From a romantic wedding to an intimate private family gathering, <b>rental LED screens</b> offer versatile and visually stunning ambiance that can elevate the overall atmosphere.</p>
                 <p>Here are some creative ways to use <a href="https://cinstar-led.com/products/rental-led-display-screen.php"><b>rental LED video walls</b></a> and LED wall rentals to enhance your next big event.</p>

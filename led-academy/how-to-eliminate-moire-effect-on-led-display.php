@@ -45,18 +45,18 @@
                     </div>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog7-1.jpg" alt="Eliminate Moiré Effect on LED Display-1">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog7-1.jpg" alt="Eliminate Moiré Effect on LED Display-1">
                 </div>
                 <div class="sub-title"><h2>What is moiré effect?</h2></div>                
                 <p>
-                When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the <a href="../products/rental-led-display-screen.php">LED display screen</a>. These ripples are called moiré pattern or moiré effect. Moiré effect is a visual perception that occurs when viewing a set of lines or dots that is superimposed on another set of lines or dots, where the sets differ in relative size, angle, or spacing.
+                When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php">LED display screen</a>. These ripples are called moiré pattern or moiré effect. Moiré effect is a visual perception that occurs when viewing a set of lines or dots that is superimposed on another set of lines or dots, where the sets differ in relative size, angle, or spacing.
                 </p>
                 <p>
                 The main effect of the moiré effect lies in TV camera. If the LED display has unbalanced illumination between pixels, the image quality on the LED display will be affected and cause glare when viewing the display at a close distance. Which sets a big challenge to TV studio production and other live production on video equipment.
                 </p>
                 <div class="sub-title"><h2>How to eliminate moiré effect?</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog7-2.jpg" alt="Eliminate Moiré Effect on LED Display-2">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog7-2.jpg" alt="Eliminate Moiré Effect on LED Display-2">
                 </div>               
                 <p>
                 Eliminating moiré can be present in your images in a number of ways. It's usually completely unwanted. But it can be solved from both image shooting and image display.
@@ -67,7 +67,7 @@
                 </p>
                 <div class="sub-title"><h2>2. Adjust the camera during shooting</h2></div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog7-3.jpg" alt="Eliminate Moiré Effect on LED Display-3">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog7-3.jpg" alt="Eliminate Moiré Effect on LED Display-3">
                 </div>
                 <p><b>Change its shooting angle.</b>The angle between the camera and the LED display will cause moiré, slightly changing the angle of the camera (by rotating the camera) can reduce or eliminate moiré.</p>
                 <p><b>Change the position.</b>The moiré can be reduced by moving the camera left and right or up and down to change the angles between camera and LED display.</p>
@@ -76,7 +76,7 @@
                 <p><b>Processing with software.</b>to eliminate the moiré that appears on the final image.</p>
                 <p>The above method can be applied in some specific situations, but there are practical operational problems for television cameras, especially television live programs.
                 <div class="sub-title"><h2>3. Optical processing screen to eliminate moiré</h2></div>
-                <p>When shooting an optically processed <a href="../">LED display</a>, the camera can capture images with no moiré at almost any angle, any position, and any focal length. At present, some domestic and foreign manufacturers have mastered the relevant technology.</p>
+                <p>When shooting an optically processed <a href="https://www.cinstar-led.com">LED display</a>, the camera can capture images with no moiré at almost any angle, any position, and any focal length. At present, some domestic and foreign manufacturers have mastered the relevant technology.</p>
                 <p>With such method, an optically processed screen will be fixed closely to the surface of LED display. The special screen contains certain proportion of light absorbing material and a bead lens coating, which meet the requirements of TV shooting in terms of light transmittance and color tone and won’t affect the brightness, gray scale and color temperature of the LED display.</p>
             </div>
             <?php include('../inc/messageBox.php'); ?>

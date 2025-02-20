@@ -55,7 +55,7 @@
                     As digital advertising continues to evolve, businesses are increasingly turning to <strong>outdoor LED displays</strong> to captivate audiences and deliver impactful messages. The unparalleled benefits of these cutting-edge screens, such as exceptional brightness, durability, and adaptability, make them a preferred choice for modern advertising campaigns. This article explores why <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php">outdoor LED screens</a> are the future of digital advertising and how they can revolutionize the way businesses engage with their audiences.
                 </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/outdoor-led-display-for-digital-advertising.webp" alt="outdoor led display for digital advertising"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/outdoor-led-display-for-digital-advertising.webp" alt="outdoor led display for digital advertising"></a>
                 </div>
                 <h2>Unmatched Brightness for Maximum Visibility</h2>
                 <p>

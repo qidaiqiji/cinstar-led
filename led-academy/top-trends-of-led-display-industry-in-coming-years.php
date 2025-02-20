@@ -53,7 +53,7 @@
                 </div>
                 <p>The LED display industry has experienced exponential growth over the past decade, with technology advancements paving the way for new applications and opportunities. From high-resolution displays to sustainable solutions, the industry is rapidly evolving. As businesses look to enhance their visual communication strategies, staying ahead of the trends is essential. Companies like Cinstar, a leading <a href="https://www.cinstar-led.com"><strong>LED screen manufacturer</strong></a>, are driving innovation and shaping the future of this dynamic industry.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-screen-manufacturers-china.webp" alt="led screen manufacturers china"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-screen-manufacturers-china.webp" alt="led screen manufacturers china"></a>
                 </div>
                 <h2>The Rise of MicroLED Technology</h2>
                 <p>One of the most significant trends in the LED display industry is the adoption of MicroLED technology. Known for its exceptional brightness, energy efficiency, and color accuracy, MicroLED is becoming a preferred choice for high-end applications. Unlike traditional LEDs, MicroLEDs offer improved scalability and resolution, making them ideal for both indoor and outdoor displays.</p>

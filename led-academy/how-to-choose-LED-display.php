@@ -42,16 +42,16 @@
                     </div>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/blog4-1.jpg" alt="How to Choose LED Display">
+                    <img src="https://www.cinstar-led.com/images/blog/blog4-1.jpg" alt="How to Choose LED Display">
                 </div>
                 <p>
-                As LED display is widely applied to all walks of life and getting more and more attentions, how to identify the right product from hundreds of manufacturers is what you should learn about in your daily work. It is a big topic and requires your profound knowledge of LED display industry, which can’t be done within one week or two months. But if you are a green hand to LED display, here are what you should look into to identify the quality of <a href="../">LED displays</a>.
+                As LED display is widely applied to all walks of life and getting more and more attentions, how to identify the right product from hundreds of manufacturers is what you should learn about in your daily work. It is a big topic and requires your profound knowledge of LED display industry, which can’t be done within one week or two months. But if you are a green hand to LED display, here are what you should look into to identify the quality of <a href="https://www.cinstar-led.com">LED displays</a>.
                 </p>
                 <ul class="list">
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Brightness</h2></div>
                         <p>
-                        Brightness is a key parameter of LED display. Normally, high brightness will show more vivid and better image quality. But it doesn’t mean the higher brightness, the better the LED display. It is mainly decided by the installation environment and viewing distance. Generally speaking, 1000-1200nits is enough for indoor installation. 2500-5000nits for semi-outdoor installation. Outdoor installation requires more than 5500nits. But for <a href="../products/fine-pitch-led-display.php">fine pitch LED display</a>, 500-800nits works nicely. 
+                        Brightness is a key parameter of LED display. Normally, high brightness will show more vivid and better image quality. But it doesn’t mean the higher brightness, the better the LED display. It is mainly decided by the installation environment and viewing distance. Generally speaking, 1000-1200nits is enough for indoor installation. 2500-5000nits for semi-outdoor installation. Outdoor installation requires more than 5500nits. But for <a href="https://www.cinstar-led.com/products/fine-pitch-led-display.php">fine pitch LED display</a>, 500-800nits works nicely. 
                         </p>
                         <p>
                         In a word, if you can see the clear image on the display beyond minimum viewing distance and the brightness doesn’t bring stinging feeling to your eyes, then it is the brightness level you would need. 
@@ -60,7 +60,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Viewing angle</h2></div>
                         <p>
-                        As to LED display, wider viewing angle means more people can see the image from different directions. It including horizontal viewing angle and vertical viewing angle. At present, for indoor LED display, the horizontal viewing angle is 140-160degrees, the vertical viewing angle is 120-140degrees. For <a href="../products/commercial-led-display.php">outdoor LED display</a> (SMD), the horizontal angle is more than 120degrees, the vertical viewing angle is more than 100degrees. There are two elements which can affect the viewing angle: LED chips layout when encapsulated and the design of mask.
+                        As to LED display, wider viewing angle means more people can see the image from different directions. It including horizontal viewing angle and vertical viewing angle. At present, for indoor LED display, the horizontal viewing angle is 140-160degrees, the vertical viewing angle is 120-140degrees. For <a href="https://www.cinstar-led.com/products/commercial-led-display.php">outdoor LED display</a> (SMD), the horizontal angle is more than 120degrees, the vertical viewing angle is more than 100degrees. There are two elements which can affect the viewing angle: LED chips layout when encapsulated and the design of mask.
                         </p>
                     </li>
                     <li>
@@ -81,7 +81,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Contrast ratio</h2></div>
                         <p>
-                        When you looking at a LED display, if the image on it is pale and looks like covered by a veil, it is caused by low contrast ratio. As to LED display, the contrast ratio can’t be lower than 1000:1. It is mainly decided by the LED lamps and the mask of module. Normally, the black face LED and deep black mask will create higher contrast ratio than white LED. Which in return <a href="../products/rental-led-display-screen.php">brings better image quality performance</a>.
+                        When you looking at a LED display, if the image on it is pale and looks like covered by a veil, it is caused by low contrast ratio. As to LED display, the contrast ratio can’t be lower than 1000:1. It is mainly decided by the LED lamps and the mask of module. Normally, the black face LED and deep black mask will create higher contrast ratio than white LED. Which in return <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php">brings better image quality performance</a>.
                         </p>
                     </li>
                     <li>
@@ -90,7 +90,7 @@
                         niformity including three aspects: the mechanical flatness and uniformity of color and brightness. Mechanical flatness is decided by the precision of module and panel. Poor flatness will cause bright lines or black lines on LED display. The color and brightness uniformity related to LED lamps. If the LED lamps on the screen are with different batches, the image looks not clean and will cause black dots or mosaic effect. The most effective way to test the uniformity is to set the LED display at the state of white with full brightness.
                         </p>
                         <p>
-                        The main parameters mentioned above will help you judge the quality of LED display and find out <a href="../products">the most cost-effective product solution</a> for your project. 
+                        The main parameters mentioned above will help you judge the quality of LED display and find out <a href="https://www.cinstar-led.com/products">the most cost-effective product solution</a> for your project. 
                         </p>
                     </li>
                 </ul>

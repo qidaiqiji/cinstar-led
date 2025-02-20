@@ -53,7 +53,7 @@
                 </div>
                 <p>Fascinating visuals are essential for catching attention and effectively delivering a message. One of the most impactful methods to accomplish this is through outdoor LED displays. An outdoor LED screen delivers unpaired visibility and vibrant communication, whether for advertisement drives, public notifications, or event publicity. </p>
                 <div class="img-box">
-                <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/benefits-of-outdoor-LED-displays.webp" alt="outdoor LED displays"></a>
+                <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/benefits-of-outdoor-LED-displays.webp" alt="outdoor LED displays"></a>
                 </div>
                 <p>This blog will examine the advantages of <b>outdoor LED display screens</b> for advertisement and public communication.</p>
                 <p class="line-bold"><b>⦁	High Visibility and Brightness</b></p>

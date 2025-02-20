@@ -57,7 +57,7 @@
                         Cities around the world are increasingly using advanced digital technology to enhance their visual appeal and strengthen their branding efforts. Among the most innovative developments in urban advertising and aesthetics are <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php" target="_blank">3D LED billboards</a>. These cutting-edge displays transform traditional advertising spaces into mesmerizing digital experiences, capturing public attention like never before.
                     </p>
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-billboard-1.webp" alt="3d led billboard"></a>
+                        <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-billboard-1.webp" alt="3d led billboard"></a>
                     </div>
                     <p>
                         With the rise of immersive digital marketing, city landscapes are evolving into dynamic canvases. A well-placed <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php" target="_blank">3D LED screen</a> not only enhances the visual environment but also strengthens a city’s identity, making it a vibrant and attractive hub for residents and tourists alike.

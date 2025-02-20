@@ -57,7 +57,7 @@
                         In today’s digital era, businesses are constantly seeking innovative ways to engage their audience and make a lasting impression. Traditional static billboards have evolved into dynamic, visually striking displays that captivate audiences like never before. <a href="https://www.cinstar-led.com/products/digital-led-billboard.php" target="_blank">Digital LED billboards</a> have become the ultimate medium for delivering high-impact advertising campaigns, allowing brands to showcase dynamic content, videos, and real-time messages.
                     </p>
                     <div class="img-box">
-                            <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-billboard-advertising-sign.webp" alt="led billboard advertising sign"></a>
+                            <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-billboard-advertising-sign.webp" alt="led billboard advertising sign"></a>
                         </div>
                     <p>
                         From global brands to local businesses, companies are leveraging <a href="https://www.cinstar-led.com/products/digital-led-billboard.php" target="_blank">outdoor LED billboards</a> to create memorable marketing experiences. Let’s explore some of the most creative and successful campaigns that have left audiences in awe.

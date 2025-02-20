@@ -53,7 +53,7 @@
                 </div>
                 <p>In the competitive world of retail, standing out is essential. Traditional displays often struggle to capture the attention of today's visually driven consumers. Enter the <strong>3D LED screen</strong>, a groundbreaking technology transforming retail storefronts into captivating and immersive experiences. This article delves into how 3D displays are revolutionizing retail spaces and why they are poised to become the future of storefront advertising.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3d-led-display-for-retail-advertising.webp" alt="3D LED display"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3d-led-display-for-retail-advertising.webp" alt="3D LED display"></a>
                 </div>
                 <h2>Transforming Storefronts into Immersive Experiences</h2>
                 <p>

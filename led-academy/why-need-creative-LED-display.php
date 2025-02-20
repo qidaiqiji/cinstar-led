@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/blog6-1.jpg" alt="Creative LED Display-1">
+                    <img src="https://www.cinstar-led.com/images/blog/blog6-1.jpg" alt="Creative LED Display-1">
                 </div>
                 <p>
                     It is a fact that we will easily get bored and have aesthetic fatigue, if all the things around us
@@ -53,14 +53,14 @@
                 </p>
                 <p>
                     Whatever it is rental event or commercial advertising, people always prefer the solution which can
-                    catch their attention immediately and <a href="../">bring supreme visual enjoyment</a>. That is why
+                    catch their attention immediately and <a href="https://www.cinstar-led.com/">bring supreme visual enjoyment</a>. That is why
                     we can see some very special creative LED displays on music festival, concert, touring and also some
                     landmark locations for commercial advertising.
                 </p>
                 <p>
                     The creative LED display is a kind of LED display which can be customized to any dimension and shape
                     according to specific project. As to the shapes they can create, the <a
-                        href="../products/creative-led-display.php">creative LED display</a> is mainly divided into the
+                        href="https://www.cinstar-led.com/products/creative-led-display.php">creative LED display</a> is mainly divided into the
                     following types:
                 </p>
                 <ul class="list">
@@ -75,7 +75,7 @@
                             and other creative curved designs to attract attentions.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-2.jpg" alt="Creative LED Display-2">
+                            <img src="https://www.cinstar-led.com/images/blog/blog6-2.jpg" alt="Creative LED Display-2">
                         </div>
                     </li>
                     <li>
@@ -87,10 +87,10 @@
                             center, science museum or Planetarium etc to provider an immersive fascinating visual
                             experience. In addition, they can also be designed to polyhedron display or giant
                             curved-surface ceiling LED display in theme park or aquarium to <a
-                                href="../products/commercial-led-display.php">deliver an impressive visual enjoyment</a>.
+                                href="https://www.cinstar-led.com/products/commercial-led-display.php">deliver an impressive visual enjoyment</a>.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-3.jpg" alt="Creative LED Display-3">
+                            <img src="https://www.cinstar-led.com/images/blog/blog6-3.jpg" alt="Creative LED Display-3">
                         </div>
                     </li>
                     <li>
@@ -99,7 +99,7 @@
                         </div>
                         <p>
                             The min unit of such display is the LED strip. They can be combined to any shapes you want
-                            to decorate stage or night club to <a href="../products/commercial-led-display.php">create cool and
+                            to decorate stage or night club to <a href="https://www.cinstar-led.com/products/commercial-led-display.php">create cool and
                                 eye-catching visual effect</a>. What is more, thousands of such LED strips could be
                             installed on facades of building or skyscraper and configured to be a giant LED video
                             display, similar to the famous Burji Dubai.
@@ -117,7 +117,7 @@
                         </p>
 
                         <div class="img-box">
-                            <img src="../images/blog/blog6-4.jpg" alt="Creative LED Display-4">
+                            <img src="https://www.cinstar-led.com/images/blog/blog6-4.jpg" alt="Creative LED Display-4">
                         </div>
                         <p>
                             After figuring out the types of creative LED display, you might be interested about what
@@ -130,7 +130,7 @@
                             is the only limit.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-5.jpg" alt="Creative LED Display-5">
+                            <img src="https://www.cinstar-led.com/images/blog/blog6-5.jpg" alt="Creative LED Display-5">
                         </div>
                         <p>
                             Your clients are always happier to present a cooler and engaging atmosphere event for all
@@ -138,7 +138,7 @@
                             which will bring you more opportunities and better business.
                         </p>
                         <p>
-                            <a href="../products/rental-led-display-screen.php">Cinstar rental LED displays</a> are capable of multiple
+                            <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php">Cinstar rental LED displays</a> are capable of multiple
                             creative installations, fast set up and dismantle, easier to maintain and transport. We
                             assure you the excellent operation experience and the most cost-effective display solution.
                         </p>
@@ -149,7 +149,7 @@
                             influential brands and sponsors.
                         </p>
                         <div class="img-box">
-                            <img src="../images/blog/blog6-6.jpg" alt="Creative LED Display-6">
+                            <img src="https://www.cinstar-led.com/images/blog/blog6-6.jpg" alt="Creative LED Display-6">
                         </div>
                         <p>
                             In addition, when you build LED billboard, you can integrate your display with rotating
@@ -157,7 +157,7 @@
                             wave effect. Such installation will make your billboard with much high value added and get
                             more campaign contracts on it.
                         </p>
-                        <p><a href="../products/commercial-led-display.php">Cinstar advertising billboard solution</a> supports
+                        <p><a href="https://www.cinstar-led.com/products/commercial-led-display.php">Cinstar advertising billboard solution</a> supports
                             any customized/OEM manufacturing for any of your project. The high performance and tested
                             quality and stability make every penny of your investment count.
                         </p>

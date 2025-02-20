@@ -57,7 +57,7 @@
                         The retail industry is undergoing a transformation, with businesses constantly seeking innovative ways to enhance customer experiences and create unforgettable brand impressions. One of the most impactful advancements in retail technology is the use of <strong>DVLED</strong> video walls and <a href="https://www.cinstar-led.com/products/fine-pitch-led-display.php"><strong>Fine pitch LED display</strong></a> screens. These technologies are revolutionizing in-store advertising, branding, and customer engagement, offering dynamic and interactive solutions that captivate shoppers like never before.
                     </p>
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/dvled-video-walls-retail-spaces.webp" alt="dvled video walls retail spaces"></a>
+                        <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/dvled-video-walls-retail-spaces.webp" alt="dvled video walls retail spaces"></a>
                     </div>
                     <p>
                         This blog explores how <strong>DVLED video walls</strong> and <a href="https://www.cinstar-led.com/products/fine-pitch-led-display.php"><strong>Fine pitch LED screens</strong></a> are reshaping the retail landscape, driving customer interaction, and enabling retailers to establish a more immersive and personalized shopping environment. 

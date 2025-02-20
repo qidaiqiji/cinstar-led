@@ -53,7 +53,7 @@
                 </div>
                 <p>Gone are the days of simple logos and signs. Why allow the old traditional advertisement ideas to let you miss an opportunity to grab audiences? In today's fast-moving digital world, an <a href="https://www.cinstar-led.com/products/digital-led-billboard.php"><strong>LED billboard</strong></a> significantly takes over advertising. Promote your business and connect more with your customers through social media. The reach you can get this way is much bigger than what was possible before.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-billboard-1.jpg" alt="led billboard"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-billboard-1.jpg" alt="led billboard"></a>
                 </div>
                 <p>This post will explain everything you need about LED billboards to make the ideal decision for your business.</p>
                 <h2>Why prefer LED Billboards?</h2>

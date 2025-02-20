@@ -50,7 +50,7 @@
                 </div>
                 <p>So, <b>3D LED billboards</b> are making a big splash in the digital advertising landscape. Gone are the days when a static billboard was adequate to spin heads. Today's audiences enjoy something more interesting, and 3D LED exhibits provide just that. By building eye-popping visuals with depth and movement, these screens deliver a new way for brands to tell their stories and make everlasting imprints.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3D-led-billboard.webp" alt="3D led billboard"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3D-led-billboard.webp" alt="3D led billboard"></a>
                 </div>
                 <h2>Creating Brand Stories Stand Out</h2>
                 <p>The charm of a <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED display</b></a> lies in its power to build scenes that seem almost genuine. Imagine a product that doesn't just pose on a screen but looks like it's reaching out to you. This depth and authenticity mean that brands can now tell stories that feel like life, enabling them to connect with audiences in a way that conventional 2D displays can't reach. With a <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED screen</b></a>, it's not just an ad—it's an occasion and a vibe. </p>

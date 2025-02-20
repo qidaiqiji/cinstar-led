@@ -57,7 +57,7 @@
                     </p>
                 </section>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/dvled-display-for-business.webp" alt="dvled display for business"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/dvled-display-for-business.webp" alt="dvled display for business"></a>
                 </div>
                 <section>
                     <h2>Understanding DVLED Technology</h2>

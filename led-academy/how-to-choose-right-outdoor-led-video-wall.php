@@ -56,7 +56,7 @@
                     <p>Here's your handy guide to help you make an informed decision for choosing the right LED video wall.</p>
                     <p>But before jumping to that, let us guide you through the importance of LED video walls and why are these must-haves nowadays.</p>
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-video-wall-rentals.webp" alt="led video wall rentals"></a>
+                        <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-video-wall-rentals.webp" alt="led video wall rentals"></a>
                     </div>
                 </section>
                 <section>

@@ -45,10 +45,10 @@
                     </div>
                 </div>
                 <div class="img-box">
-                    <img src="../images/blog/Blog9-1.jpg" alt="LED Display Moisture-Proof-1">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog9-1.jpg" alt="LED Display Moisture-Proof-1">
                 </div>
                 <p>
-                The rainy and humid weather in summer brings no good to LED display. The pervasive vapor will increase the humidity in the air and affect the normal operation of LED display. Long-term high humidity environment may cause damage to electronic components and lead to problems like dead lamp, dark light, short circuit and open circuit, resulting in performance failure and impairing function and life of LED display. Then how to make your LED display moisture-proof is an issue that needs to be solved to both <a href="../products">indoor and outdoor LED display</a>. Here are some tips we gonna share with you.
+                The rainy and humid weather in summer brings no good to LED display. The pervasive vapor will increase the humidity in the air and affect the normal operation of LED display. Long-term high humidity environment may cause damage to electronic components and lead to problems like dead lamp, dark light, short circuit and open circuit, resulting in performance failure and impairing function and life of LED display. Then how to make your LED display moisture-proof is an issue that needs to be solved to both <a href="https://www.cinstar-led.com/products">indoor and outdoor LED display</a>. Here are some tips we gonna share with you.
                 </p>
                 <p><b>Moisture-proof on LED module</b></p>
                 <p>
@@ -60,20 +60,20 @@ If possible, a temperature and humidity monitor should be installed in the stora
                 </p>
                 <p><b>Moisture-proof on outdoor LED display</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog9-2.jpg" alt="LED Display Moisture-Proof-2">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog9-2.jpg" alt="LED Display Moisture-Proof-2">
                 </div>
                <p>
-               <a href="../products/commercial-led-display.php">Outdoor LED display</a> is designed to be waterproof but there is no way to stop the vapor and moisture. When installing LED display, a temperature and humidity sensor should also be installed to monitor the changes of the humidity. If the cabinet is already with monitor card, it can monitor the temperature, humidity, smoke, working condition of modules and power supply etc. Much advanced and convenient.
+               <a href="https://www.cinstar-led.com/products/commercial-led-display.php">Outdoor LED display</a> is designed to be waterproof but there is no way to stop the vapor and moisture. When installing LED display, a temperature and humidity sensor should also be installed to monitor the changes of the humidity. If the cabinet is already with monitor card, it can monitor the temperature, humidity, smoke, working condition of modules and power supply etc. Much advanced and convenient.
                </p>
                <p>
-               The <a href="../">LED display</a> has to be inspected when it suffers its first rainy day or heavy rain after installation, to make sure there is no any sign of moisture, vapor, leak inside of the cabinet. Any problem found should be fixed immediately to prevent worse situation.
+               The <a href="https://www.cinstar-led.com/">LED display</a> has to be inspected when it suffers its first rainy day or heavy rain after installation, to make sure there is no any sign of moisture, vapor, leak inside of the cabinet. Any problem found should be fixed immediately to prevent worse situation.
                </p>
                <p>
                If the ambient humidity ranges from 10% to 85%, then the LED display has to be powered on at least once a day, each time the display works should be more than 2 hours. If the ambient humidity is higher than 90% RH, the LED display has to work more than 4 hours every day. Long time no use in high humidity circumstances will cause damage to the LEDs and other humidity sensitive electronic components, then affect the function and lifespan of LED display. 
                </p>
                <p><b>Moisture-proof on indoor LED display</b></p>
                 <div class="img-box">
-                    <img src="../images/blog/Blog9-3.jpg" alt="LED Display Moisture-Proof-3">
+                    <img src="https://www.cinstar-led.com/images/blog/Blog9-3.jpg" alt="LED Display Moisture-Proof-3">
                 </div>
                 <p><b>Indoor fixed LED display</b></p>
                 <p>
@@ -88,7 +88,7 @@ If the ambient humidity reaches higher than 65% RH, the LED display has to work 
                 If the ambient humidity ranges from 10% to 65%, for every half a month, the LED display should be taken out and light up to display video for at least 2 hours or more. If the ambient humidity is higher than 65% RH, the frequency will be every week and light up for more than 3 hours or more.
                 </p>
                 <p>
-                The indoor <a href="../products/rental-led-display-screen.php">rental LED display</a> can’t be used for outdoor rental events, especially in the open air. If the LED display suffers water spraying by accident, turn off the power immediately first, then wipe away the water and dry it with dryer. After that, the LED panel should be placed for 2 hours and then light up for anther 2 hours.
+                The indoor <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php">rental LED display</a> can’t be used for outdoor rental events, especially in the open air. If the LED display suffers water spraying by accident, turn off the power immediately first, then wipe away the water and dry it with dryer. After that, the LED panel should be placed for 2 hours and then light up for anther 2 hours.
                 </p>
                 <p>
                 In short, whether indoor or outdoor LED display, the most effective way to avoid moisture damage to the LED display is to use it frequently. A frequently used LED display screen suffers much smaller humidity effect than the less used display. The heat generated from working LED display can evaporate some vapor, thus greatly reducing the possibility of short circuit caused by moisture. </p>

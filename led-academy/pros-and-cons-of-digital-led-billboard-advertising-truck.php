@@ -44,7 +44,7 @@
                         </a>
                     </div>
                 </div>
-                <img src="../images/news/maxresdefault.jpg" class="img-responsive" style="max-width: 100%;" alt="Digital LED Billboard Advertising Truck">
+                <img src="https://www.cinstar-led.com/images/news/maxresdefault.jpg" class="img-responsive" style="max-width: 100%;" alt="Digital LED Billboard Advertising Truck">
                 <br>
                 <p>Marketing isn't something that comes naturally to everyone. You could be an aspiring entrepreneur wanting to set up a global business, but if you lack in the marketing side of the company, then your product, no matter how good it is, won't hold it all together. You could be great on the manufacturing side, but for setting up a full-fledged international business with your products, you need to be good on the marketing side</p>
 

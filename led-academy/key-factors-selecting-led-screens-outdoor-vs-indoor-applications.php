@@ -43,7 +43,7 @@
                 </div>
                 <p>LED screens have become vital to advertising, entertainment, and announcement dissemination. Whether you want to enhance your enterprise signage, build an immersive event experience, or exhibit vibrant content, picking the correct LED screen is vital. Yet, the considerations for buying LED screens for outdoor applications vary immensely compared to indoor ones. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/LED-Screens-for-Outdoor-1.webp" alt="LED Screens for Outdoor"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/LED-Screens-for-Outdoor-1.webp" alt="LED Screens for Outdoor"></a>
                 </div>
                 <p>This article explores the key factors when selecting <a href="https://www.cinstar-led.com/"><b>LED video wall panels</b></a> for both environments. </p>
                 <p><b>Let's dive in!</b></p>
@@ -58,7 +58,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-hand-o-right"></i><h2>Weather Resistance and Durability</h2></div>
                         <!-- <div class="img-box">
-                            <img src="../images/blog/blog2-3.jpg" alt="COB Encapsulation Technology-3">
+                            <img src="https://www.cinstar-led.com/images/blog/blog2-3.jpg" alt="COB Encapsulation Technology-3">
                         </div> -->
                         <p class="sub-title"><b><a href="https://cinstar-led.com/products/outdoor-led-display-screen.php"><b>Outdoor LED Screens</b></a></b></p>
                         <p>Outdoor screens must withstand harsh weather conditions such as rain, wind, dust, and temperature fluctuations. Ensure the <b>LED video wall panels</b> have an IP65 or higher water and dust resistance rating. The casing should be robust, and components should be able to operate in a wide temperature range.</p>

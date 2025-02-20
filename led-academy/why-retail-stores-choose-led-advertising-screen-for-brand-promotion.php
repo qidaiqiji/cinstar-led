@@ -53,7 +53,7 @@
                 </div>
                 <p>In today’s competitive retail market, capturing customer attention is essential for brand promotion and business growth. Traditional methods of advertising are no longer sufficient, as digital solutions like <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED advertising screens</strong></a> have emerged as the most effective tools for engaging customers. Retailers are increasingly opting for <strong>LED advertising</strong> to enhance their store presence, promote products, and provide an unforgettable shopping experience.</p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/led-advertising-screen-retail.jpg" alt="led advertising screen retail"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/led-advertising-screen-retail.jpg" alt="led advertising screen retail"></a>
                 </div>
                 <h2>Visual Appeal and Customer Engagement</h2>
                 <p>The visual appeal of an <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED advertising screen</strong></a> sets it apart from traditional signage. These screens offer vibrant colors, high brightness, and crystal-clear image quality that make advertisements stand out. Whether placed inside the store or outside, <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED display screens for advertising outdoor</strong></a> capture the attention of passersby and potential customers instantly.</p>

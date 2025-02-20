@@ -53,7 +53,7 @@
                 </div>
                 <p>Remaining ahead of the curve in outdoor advertising signifies welcoming innovation and technology. The latest breakthrough is the <a href="https://cinstar-led.com/products/3d-led-display-screen.php"><b>3D LED billboard</b></a>. This dynamic advertising tool changes how brand labels engage with their target audience. </p>
                 <div class="img-box">
-                    <a href="https://www.cinstar-led.com/contact/"><img src="../images/blog/3D-LED-billboards.webp" alt="3D LED billboards"></a>
+                    <a href="https://www.cinstar-led.com/contact/"><img src="https://www.cinstar-led.com/images/blog/3D-LED-billboards.webp" alt="3D LED billboards"></a>
                 </div>
                 <p>This blog will dive into why <b>3D LED displays</b> are the next big thing in outdoor advertising, how they function, and their advantages.</p>
                 <p class="line-bold"><b>⦁	Unmatched Visual Impact</b></p>

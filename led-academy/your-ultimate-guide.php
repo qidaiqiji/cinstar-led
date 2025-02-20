@@ -48,14 +48,14 @@
                 Are you organizing a big event? Want it to outclass all the other events happening in your town? Make use of LED display in your big event; you can thank us later. LED display is the trending cutting edge technology that has been used for almost all the mainstream events that were successful hits in recent years. These statistics themselves are enough to convince you to incorporate as many LED displays in your event as possible. What did you say? You cannot buy hundreds and thousands of LED displays for your event? Are you on a budget? Alright! We have good news for you; <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php"> rental displays</a> yes, you heard that right. It is very much possible to rent LED displays just like you rent the entire setup of your event. Seems too good to be true, right? No, we aren’t messing with you here; it is true, believe it or not. Having said that, we must tell you that you need to know certain things before renting LED displays. Don’t worry; we have got you covered; anything and everything related to renting LED displays is discussed briefly in this article. Read till the end! 
                 </p>
                 <div class="img-box">
-                    <img src="../images/blog/pexels-photo-1058275.jpeg" alt="Your Ultimate Guide to LED Display-1">
+                    <img src="https://www.cinstar-led.com/images/blog/pexels-photo-1058275.jpeg" alt="Your Ultimate Guide to LED Display-1">
                 </div>
                 <ul class="list">
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Things To Know Before Renting LED Displays</h2></div>
                         <p><i class="fa fa-angle-double-right"></i><b>How To Choose the Right LED Display to Rent?</b></p>
                         <div class="img-box">
-                            <img src="../images/blog/pexels-photo-3220846.jpeg" alt="Your Ultimate Guide to LED Display-2">
+                            <img src="https://www.cinstar-led.com/images/blog/pexels-photo-3220846.jpeg" alt="Your Ultimate Guide to LED Display-2">
                         </div>
                         <p>
                         When it comes to renting LED displays, you have quite a lot of options to choose from according to your convenience and requirement. The options are as follows:
