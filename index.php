@@ -116,8 +116,8 @@
         <div class="banner mobile-show">
             <ul class="swiper-wrapper">
                 <li class="swiper-slide">
-                    <img src="images/products/new-page/Indoor-led-display/indoor-led-display-1-2.webp" alt="indoor-led-display">
-                    <a href="products/indoor-led-display.php" class="text-cover">
+                    <img src="https://www.cinstar-led.com/images/products/new-page/Indoor-led-display/indoor-led-display-1-2.webp" alt="indoor-led-display">
+                    <a href="https://www.cinstar-led.com/products/indoor-led-display.php" class="text-cover">
                         <p>Indoor LED Display</p>
                         <span>The Most Cost Effective Indoor LED Display Screen</span>
                         <span class="border-button">Get More Information</span>
@@ -128,24 +128,24 @@
         <div class="swiper banner mobile-hide">
             <ul class="swiper-wrapper">
                 <li class="swiper-slide">
-                    <img src="images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct-view-led">   
-                    <a href="products/direct-view-led.php" class="text-cover">
+                    <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct-view-led">   
+                    <a href="https://www.cinstar-led.com/products/direct-view-led.php" class="text-cover">
                         <p>Direct View LED</p>
                         <span>UHD Visual Impact Fine Pitch LED Video Wall</span>
                         <span class="border-button">Get More Information</span>
                     </a>
                 </li>
                 <li class="swiper-slide">
-                    <img loading="lazy" src="images/products/new-page/3d-led-display/3d-led-display-1.webp" alt="3d-led-display">
-                    <a href="products/3d-led-display-screen.php" class="text-cover">
+                    <img loading="lazy" src="https://www.cinstar-led.com/images/products/new-page/3d-led-display/3d-led-display-1.webp" alt="3d-led-display">
+                    <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php" class="text-cover">
                         <p>3D LED Display</p>
                         <span>Outdoor Naked Eye 3D LED Screen Advertising</span>
                         <span class="border-button">Get More Information</span>
                     </a>
                 </li>
                 <li class="swiper-slide">
-                    <img loading="lazy" src="images/products/new-page/Indoor-led-display/indoor-led-display-1.webp" alt="indoor-led-display">
-                    <a href="products/indoor-led-display.php" class="text-cover">
+                    <img loading="lazy" src="https://www.cinstar-led.com/images/products/new-page/Indoor-led-display/indoor-led-display-1.webp" alt="indoor-led-display">
+                    <a href="https://www.cinstar-led.com/products/indoor-led-display.php" class="text-cover">
                         <p>Indoor LED Display</p>
                         <span>The Most Cost Effective Indoor LED Display Screen</span>
                         <span class="border-button">Get More Information</span>
@@ -178,7 +178,7 @@
             </div>
         </div>
         <div class="profile">
-            <img src="images/home-new/banner-cinstar-1.webp" alt="Cinstar Profile">
+            <img src="https://www.cinstar-led.com/images/home-new/banner-cinstar-1.webp" alt="Cinstar Profile">
             <div class="profile-content">
                 <div class="profile-dialog">
                     <h2>Cinstar Profile</h2>
@@ -206,43 +206,43 @@
                     <div class="img-box">
                         <div class="img-main1 img-main">
                             <div class="img">
-                                <img src="images/home-new/cinstar-reception-2.webp" alt="cinstar-reception">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-reception-2.webp" alt="cinstar-reception">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-team-3.jpg" alt="cinstar-team">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-team-3.jpg" alt="cinstar-team">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-production-4.jpg" alt="cinstar-production">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-production-4.jpg" alt="cinstar-production">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-production-5.jpg" alt="cinstar-production">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-production-5.jpg" alt="cinstar-production">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-aging-6.jpg" alt="cinstar-aging">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-aging-6.jpg" alt="cinstar-aging">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-aging-7.jpg" alt="cinstar-aging">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-aging-7.jpg" alt="cinstar-aging">
                             </div>
                         </div>
                     </div>
                     <ul class="img-list1 img-list">
                         <li class="active">
-                            <img src="images/home-new/cinstar-reception-2.webp" alt="cinstar-reception">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-reception-2.webp" alt="cinstar-reception">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-team-3.jpg" alt="cinstar-team">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-team-3.jpg" alt="cinstar-team">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-production-4.jpg" alt="cinstar-production">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-production-4.jpg" alt="cinstar-production">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-production-5.jpg" alt="cinstar-production">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-production-5.jpg" alt="cinstar-production">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-aging-6.jpg" alt="cinstar-aging">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-aging-6.jpg" alt="cinstar-aging">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-aging-7.jpg" alt="cinstar-aging">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-aging-7.jpg" alt="cinstar-aging">
                         </li>
                     </ul>
                 </div>
@@ -264,43 +264,43 @@
                     <div class="img-box">
                         <div class="img-main2 img-main">
                             <div class="img">
-                                <img src="images/home-new/cinstar-case-7.webp" alt="cinstar-case-7">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-7.webp" alt="cinstar-case-7">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-case-8.webp" alt="cinstar-case-8">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-8.webp" alt="cinstar-case-8">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-case-9.webp" alt="cinstar-case-9">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-9.webp" alt="cinstar-case-9">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-case-10.webp" alt="cinstar-case-10">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-10.webp" alt="cinstar-case-10">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-case-12.jpg" alt="cinstar-case-12">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-12.jpg" alt="cinstar-case-12">
                             </div>
                             <div class="img">
-                                <img src="images/home-new/cinstar-case-13.webp" alt="cinstar-case-13">
+                                <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-13.webp" alt="cinstar-case-13">
                             </div>
                         </div>
                     </div>
                     <ul class="img-list2 img-list">
                         <li class="active">
-                            <img src="images/home-new/cinstar-case-7.webp" alt="cinstar-case-7">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-7.webp" alt="cinstar-case-7">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-case-8.webp" alt="cinstar-case-8">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-8.webp" alt="cinstar-case-8">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-case-9.webp" alt="cinstar-case-9">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-9.webp" alt="cinstar-case-9">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-case-10.webp" alt="cinstar-case-10">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-10.webp" alt="cinstar-case-10">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-case-12.jpg" alt="cinstar-case-12">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-12.jpg" alt="cinstar-case-12">
                         </li>
                         <li>
-                            <img src="images/home-new/cinstar-case-13.webp" alt="cinstar-case-13">
+                            <img src="https://www.cinstar-led.com/images/home-new/cinstar-case-13.webp" alt="cinstar-case-13">
                         </li>
                     </ul>
                 </div>
@@ -313,66 +313,66 @@
             </div>
             <div class="product-container">
                 <div class="product-item">
-                    <a class="thumb" href="/product-detail/ctv-series.php">
-                        <img src="/images/home-new/ctv-series.webp" alt="ctv series" class="short" style="width: 100%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/ctv-series.php">
+                        <img src="https://www.cinstar-led.com/images/home-new/ctv-series.webp" alt="ctv series" class="short" style="width: 100%">
                     </a>
-                    <a class="list-title" href="/product-detail/ctv-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/ctv-series.php">
                         <span class="current">All In One LED TV</span><span class="more">CTV Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/product-detail/ch-series.php">
-                        <img src="/images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/ch-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/CH-series-1.webp" alt="ch-series" class="short" style="width: 93%">
                     </a>
-                    <a class="list-title" href="/product-detail/ch-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/ch-series.php">
                         <span class="current">DVLED COB</span><span class="more">CH Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/product-detail/cr-series.php">
-                        <img src="/images/products/Rental-LED/CR-series-1.webp" alt="CR series" style="width: 93%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/cr-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/CR-series-1.webp" alt="CR series" style="width: 93%">
                     </a>
-                    <a class="list-title" href="/product-detail/cr-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/cr-series.php">
                         <span class="current">Flexible Rental LED Display</span><span class="more">CR Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/product-detail/x-series.php">
-                        <img src="/images/products/Commercial-LED/X-series-1.webp" style="width: 95%" alt="x-series" class="short">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/x-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Commercial-LED/X-series-1.webp" style="width: 95%" alt="x-series" class="short">
                     </a>
-                    <a class="list-title" href="/product-detail/x-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/x-series.php">
                         <span class="current">Outdoor LED Display Screen</span><span class="more">X Series</span>
                     </a>
                 </div>
                 <div class="product-item mobile-hide">
-                    <a class="thumb" href="/product-detail/hd-series.php">
-                        <img src="/images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/hd-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2.webp" alt="hd-series"  style="width: 93%">
                     </a>
-                    <a class="list-title" href="/product-detail/hd-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/hd-series.php">
                         <span class="current">Direct View LED Video Wall</span><span class="more">HD Series</span>
                     </a>
                 </div>
                 <div class="product-item mobile-hide">
-                    <a class="thumb" href="/product-detail/a-series.php">
-                        <img src="/images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/a-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%">
                     </a>
-                    <a class="list-title" href="/product-detail/a-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/a-series.php">
                         <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
                     </a>
                 </div>
                 <div class="product-item mobile-hide">
-                    <a class="thumb" href="/product-detail/m-series.php">
-                        <img src="images/products/Rental-LED/M-series-1.webp" alt="M-series" class="short" style="width: 90%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/m-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-1.webp" alt="M-series" class="short" style="width: 90%">
                     </a>
-                    <a class="list-title" href="/product-detail/m-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/m-series.php">
                         <span class="current">Rental LED Video Wall Panel</span><span class="more">M Series</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="/product-detail/tf-series.php">
-                        <img src="/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series" style="width: auto;">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/tf-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series" style="width: auto;">
                     </a>
-                    <a class="list-title" href="/product-detail/tf-series.php">
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/tf-series.php">
                         <span class="current">LED Film Display Screen</span><span class="more">TF Series</span>
                     </a>
                 </div>
@@ -386,66 +386,66 @@
             <div class="content series-list-content">
                 <div class="series-box">
                     <div class="series-item">
-                        <a href="products/direct-view-led.php" class="img-box"><img src="images/home-new/product-direct-view-led-14.webp" alt="product-direct-view-led-14"></a>
+                        <a href="https://www.cinstar-led.com/products/direct-view-led.php" class="img-box"><img src="images/home-new/product-direct-view-led-14.webp" alt="product-direct-view-led-14"></a>
                         <p>Cinstar direct view LED display walls are versatile and customizable for a wide variety of installations like wall mounted LED display panel, all-in-one LED TV screen and movable LED digital poster display. Our direct view LED displays are designed with solid quality to satisfy all your high profile applications in TV studio, corporate showroom, control room, conference room, board room and home cinema etc.</p>
                         <div class="title-box-change">
-                            <a href="products/direct-view-led.php" class="title-border-button">Direct View LED Video Wall</a>
+                            <a href="https://www.cinstar-led.com/products/direct-view-led.php" class="title-border-button">Direct View LED Video Wall</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/indoor-led-display.php" class="img-box"><img src="images/home-new/product-indoor-led-display-15.webp" alt="product-indoor-led-display-15"></a>
+                        <a href="https://www.cinstar-led.com/products/indoor-led-display.php" class="img-box"><img src="images/home-new/product-indoor-led-display-15.webp" alt="product-indoor-led-display-15"></a>
                         <p>Cinstar indoor LED display screens offer wide pixel pitches and panel designs for your options. Featuring top tier LEDs, high refresh rate driver IC and ultra-sleek panel construction, all our indoor LED displays are the ideal solutions for both rental events and advertisings, ensuring vibrant color, high quality image production and bringing you more happy clients. You deserve a reliable LED video wall manufacturer for your business.</p>
                         <div class="title-box-change">
-                            <a href="products/indoor-led-display.php" class="title-border-button">Indoor LED Display Screen</a>
+                            <a href="https://www.cinstar-led.com/products/indoor-led-display.php" class="title-border-button">Indoor LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/outdoor-led-display-screen.php " class="img-box"><img src="images/home-new/product-outdoor-led-display-16.jpg" alt="product-outdoor-led-display-16"></a>
+                        <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php " class="img-box"><img src="images/home-new/product-outdoor-led-display-16.jpg" alt="product-outdoor-led-display-16"></a>
                         <p>Featuring high brightness (more than 5500nits) and excellent IP rating (IP65), Cinstar outdoor LED display boards serve as the most reliable video display for both outdoor stage rental and outdoor LED advertising. All Cinstar outdoor LED display panel can be maintained from front or rear side to ensure the quick installation and easy maintenance. Cinstar can be the best  LED display screen manufacturer for your outdoor LED solutions.</p>
                         <div class="title-box-change">
-                            <a href="products/outdoor-led-display-screen.php " class="title-border-button">Outdoor LED Display Screen</a>
+                            <a href="https://www.cinstar-led.com/products/outdoor-led-display-screen.php " class="title-border-button">Outdoor LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/rental-led-display-screen.php" class="img-box"><img src="images/home-new/product-rental-led-display-17.webp" alt="product-rental-led-display-17"></a>
+                        <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" class="img-box"><img src="images/home-new/product-rental-led-display-17.webp" alt="product-rental-led-display-17"></a>
                         <p>Designed with black LEDs, superb refresh rate(3840Hz) and great grayscale, Cinstar rental LED display can easily deliver top image quality for all rental events like music festival, concert tour, corporate event, Gala, award ceremony etc. With magnetic module and practical modular design, Cinstar rental wall panels can be built and dismantled quick and easy. Contact us for cost effective rental wall panel solutions.</p>
                         <div class="title-box-change">
-                            <a href="products/rental-led-display-screen.php" class="title-border-button">Rental LED Display Screen</a>
+                            <a href="https://www.cinstar-led.com/products/rental-led-display-screen.php" class="title-border-button">Rental LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/event-led-screen.php" class="img-box"><img src="images/home-new/product-event-led-display-18.jpg" alt="product-event-led-display-18"></a>
+                        <a href="https://www.cinstar-led.com/products/event-led-screen.php" class="img-box"><img src="images/home-new/product-event-led-display-18.jpg" alt="product-event-led-display-18"></a>
                         <p>Cinstar has a series of quality rental LED screen for events, church applications and stage rental events etc. To cater to all types of installations, Cinstar rental wall panels can be built with truss suspension, ground/floor stacking or simply wall mounted. If you are looking for a trustworthy LED display screen manufacturer for your rental events, try out Cinstar rental LED screens and our supreme quality services.</p>
                         <div class="title-box-change">
-                            <a href="products/event-led-screen.php" class="title-border-button">LED Screens for Event</a>
+                            <a href="https://www.cinstar-led.com/products/event-led-screen.php" class="title-border-button">LED Screens for Event</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/led-advertising.php" class="img-box"><img src="images/home-new/product-advertising-display-19.jpg" alt="product-advertising-display"></a>
+                        <a href="https://www.cinstar-led.com/products/led-advertising.php" class="img-box"><img src="images/home-new/product-advertising-display-19.jpg" alt="product-advertising-display"></a>
                         <p>As a leading reliable LED display screen manufacturer in China, all Cinstar advertising LED digital signages are developed with top stability and durability to overcome any harsh weather conditions to achieve the 24/7 operations. Cinstar LED screen can be customized to satisfy all kinds of installations and requirements on creative shapes. We aim to be a value-added partner to you and help to expand your business with max support.</p>
                         <div class="title-box-change">
-                            <a href="products/led-advertising.php" class="title-border-button">LED Advertising Display</a>
+                            <a href="https://www.cinstar-led.com/products/led-advertising.php" class="title-border-button">LED Advertising Display</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/3d-led-display-screen.php" class="img-box"><img src="images/home-new/product-3d-led-display-20.jpg" alt="product-3d-led-display-20"></a>
+                        <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php" class="img-box"><img src="images/home-new/product-3d-led-display-20.jpg" alt="product-3d-led-display-20"></a>
                         <p>Would you like your LED display screen to stand out from the crowd and become a remarkable iconic landscape, Cinstar 3D LED display screen is for sure your first choice. No matter you want to get a seamless sharp right angle or truly smooth curve to deliver the most visual impact advertising to get the viewers engaged, Cinstar 3D wall panels screen can reach all your expectations and ensuring you the best 3D LED display.</p>
                         <div class="title-box-change">
-                            <a href="products/3d-led-display-screen.php" class="title-border-button">3D LED Display Screen</a>
+                            <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php" class="title-border-button">3D LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/creative-led-display.php" class="img-box"><img src="images/home-new/product-creative-led-display-21.webp" alt="product-creative-led-display-21"></a>
+                        <a href="https://www.cinstar-led.com/products/creative-led-display.php" class="img-box"><img src="images/home-new/product-creative-led-display-21.webp" alt="product-creative-led-display-21"></a>
                         <p>Cinstar creative LED video wall panels offer wide options like holographic LED film screen, transparent wall display, flexible LED module and dance floor wall panels etc, to strengthen your competitiveness and stand out from your rivals with creative wall solutions. Serving as the industry leading LED display screen manufacturer, Cinstar will supply you the creative wall panels with best design and quality.</p>
                         <div class="title-box-change">
-                            <a href="products/creative-led-display.php" class="title-border-button">Creative LED Display Screen</a>
+                            <a href="https://www.cinstar-led.com/products/creative-led-display.php" class="title-border-button">Creative LED Display Screen</a>
                         </div>
                     </div>
                     <div class="series-item">
-                        <a href="products/custom-led-display.php" class="img-box"><img src="images/home-new/product-custom-led-display-22.jpg" alt="product-custom-led-display-22"></a>
+                        <a href="https://www.cinstar-led.com/products/custom-led-display.php" class="img-box"><img src="images/home-new/product-custom-led-display-22.jpg" alt="product-custom-led-display-22"></a>
                         <p>Cinstar offers OEM & ODM services for any customized LED video wall panel request from our customers. Our custom wall displays can satisfy the very diversified applications like LED cube display, LED sphere screen, digital LED shelf, LED cylindrical display, taxi top LED sign, and LED trumpet display etc. They can working as LED video walls and also the creative decoration to the open space. A great visual solution for creative design.</p>
                         <div class="title-box-change">
-                            <a href="products/custom-led-display.php" class="title-border-button">Custom LED Display Screen</a>
+                            <a href="https://www.cinstar-led.com/products/custom-led-display.php" class="title-border-button">Custom LED Display Screen</a>
                         </div>
                     </div>
                 </div>
@@ -575,13 +575,13 @@
         </div>
         <div class="caseStudy product-section">
             <div class="head-title gallery-title">
-                <h2><a href="gallery/">Projects Gallery</a></h2>
+                <h2><a href="https://www.cinstar-led.com/gallery/">Projects Gallery</a></h2>
                 <p>Cinstar cost effective LED display screen support your project</p>
             </div>
             <div class="case-list">
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall">
+                        <img src="https://www.cinstar-led.com/images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall">
                     </span>
                     <span class="case-title">
                         <span class="current">Lulea Hockey Media Cube LED Video Wall</span>
@@ -589,7 +589,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home-new/Touring-P3.9-LED-Video-Wall-Panel-23.webp" alt="Touring-P3.9-LED-Video-Wall-Panel">
+                        <img src="https://www.cinstar-led.com/images/home-new/Touring-P3.9-LED-Video-Wall-Panel-23.webp" alt="Touring-P3.9-LED-Video-Wall-Panel">
                     </span>
                     <span class="case-title">
                         <span class="current">Touring P3.9 LED Display Screen</span>
@@ -597,7 +597,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home-new/P8-3D-LED-Video-Wall-Panel-24.webp" alt="P8-3D-LED-Video-Wall-Panel">
+                        <img src="https://www.cinstar-led.com/images/home-new/P8-3D-LED-Video-Wall-Panel-24.webp" alt="P8-3D-LED-Video-Wall-Panel">
                     </span>
                     <span class="case-title">
                         <span class="current">P8 3D LED Digital Signage</span>
@@ -605,7 +605,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home-new/TV-Studio-P1.2-LED-Video-Wall-Panel-25.jpg" alt="TV-Studio-P1.2-LED-Video-Wall-Panel">
+                        <img src="https://www.cinstar-led.com/images/home-new/TV-Studio-P1.2-LED-Video-Wall-Panel-25.jpg" alt="TV-Studio-P1.2-LED-Video-Wall-Panel">
                     </span>
                     <span class="case-title">
                         <span class="current">TV Studio P1.2 LED Video Wall</span>
@@ -613,7 +613,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home-new/Church-P2.9-LED-Video-Wall-Panel-26.webp" alt="Church-P2.9-LED-Video-Wall-Panel">
+                        <img src="https://www.cinstar-led.com/images/home-new/Church-P2.9-LED-Video-Wall-Panel-26.webp" alt="Church-P2.9-LED-Video-Wall-Panel">
                     </span>
                     <span class="case-title">
                         <span class="current">Church P2.9 LED Screen Panel</span>
@@ -621,7 +621,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home-new/P6-Advertising-LED-Video-Wall-27.jpg" alt="P6 Advertising LED Video Wall">
+                        <img src="https://www.cinstar-led.com/images/home-new/P6-Advertising-LED-Video-Wall-27.jpg" alt="P6 Advertising LED Video Wall">
                     </span>
                     <span class="case-title">
                         <span class="current">P6 Advertising LED Screen</span>
@@ -629,7 +629,7 @@
                 </div>
                 <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home-new/P8-LED-Digital-Billboard-28.webp" alt="P8 LED Digital Billboard">
+                        <img src="https://www.cinstar-led.com/images/home-new/P8-LED-Digital-Billboard-28.webp" alt="P8 LED Digital Billboard">
                     </span>
                     <span class="case-title">
                         <span class="current">P8 LED Digital Billboard</span>
@@ -637,7 +637,7 @@
                 </div>
                 <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home/ESPN-Conference-Room-1.56mm.jpg" alt="ESPN Conference Room 1.56mm">
+                        <img src="https://www.cinstar-led.com/images/home/ESPN-Conference-Room-1.56mm.jpg" alt="ESPN Conference Room 1.56mm">
                     </span>
                     <span class="case-title">
                         <span class="current">ESPN 1.56mm LED Screen Display</span>
@@ -645,7 +645,7 @@
                 </div>
                 <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home/Mosco-Airport-10mm.webp" alt="Mosco Airport 10mm">
+                        <img src="https://www.cinstar-led.com/images/home/Mosco-Airport-10mm.webp" alt="Mosco Airport 10mm">
                     </span>
                     <span class="case-title">
                         <span class="current">Mosco Airport 10mm LED Video Display</span>
@@ -653,7 +653,7 @@
                 </div>
                 <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home/New-Zealand-Shopping-Mall-6mm.webp" alt="New Zealand Shopping Mall 6mm">
+                        <img src="https://www.cinstar-led.com/images/home/New-Zealand-Shopping-Mall-6mm.webp" alt="New Zealand Shopping Mall 6mm">
                     </span>
                     <span class="case-title">
                         <span class="current">New Zealand 6mm LED Screen Display</span>
@@ -661,7 +661,7 @@
                 </div>
                 <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home/Strickly-Star-3.9mm.webp" alt="Strickly Star 3.9mm">
+                        <img src="https://www.cinstar-led.com/images/home/Strickly-Star-3.9mm.webp" alt="Strickly Star 3.9mm">
                     </span>
                     <span class="case-title">
                         <span class="current">Strickly Star 3.9mm LED Video Display</span>
@@ -669,7 +669,7 @@
                 </div>
                 <div class="case-item mobile-hide">
                     <span class="case-thumb">
-                        <img src="images/home/Swizerland-Conference-room-1.2mm.webp" alt="Swizerland Conference room 1.2mm">
+                        <img src="https://www.cinstar-led.com/images/home/Swizerland-Conference-room-1.2mm.webp" alt="Swizerland Conference room 1.2mm">
                     </span>
                     <span class="case-title">
                         <span class="current">Swizerland 1.2mm LED Screen Display</span>
@@ -685,8 +685,8 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">
-                        <img src="images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
+                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">
+                        <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -700,8 +700,8 @@
                     <hr class="under-line">
                 </div>
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/dvled-video-wall-display-panel.php">
-                        <img src="images/news/dvled-1.jpg" alt="dv led">
+                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/dvled-video-wall-display-panel.php">
+                        <img src="https://www.cinstar-led.com/images/news/dvled-1.jpg" alt="dv led">
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -714,8 +714,8 @@
                     </div>
                 </div>
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/media-cube-led-display-video-wall-at-lulea-hockey-sweden.php">
-                        <img src="images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall">
+                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/media-cube-led-display-video-wall-at-lulea-hockey-sweden.php">
+                        <img src="https://www.cinstar-led.com/images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall">
                     </a>
                     <div class="news-detail">
                         <div class="news-title">

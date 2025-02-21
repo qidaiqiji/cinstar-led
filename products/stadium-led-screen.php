@@ -14,7 +14,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Fine-Pitch/banner-sta.jpg" alt="Stadium LED Display">
+            <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/banner-sta.jpg" alt="Stadium LED Display">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Stadium LED Display</h1>
@@ -25,8 +25,8 @@
         <div class="spce-container">
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/bt-series.php">
-                        <img src="../images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES" style="width: 70%">
+                    <a href="https://www.cinstar-led.com/product-detail/bt-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES" style="width: 70%">
                         <div class="spec-detail">
                             <h2 class="series-title">BT SERIES</h2>
                             <p>Pixel Pitch (mm): 4 / 5 / 6.67  / 8 / 10</p>
@@ -43,13 +43,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/bt-series.php" class="spec-title">BT SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/bt-series.php" class="spec-title">BT SERIES</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/sa-series.php">
-                        <img src="../images/products/Commercial-LED/SA-series-1.jpg" alt="SA SERIES">
+                    <a href="https://www.cinstar-led.com/product-detail/sa-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Commercial-LED/SA-series-1.jpg" alt="SA SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">SA SERIES</h2>
                             <p>Pixel Pitch (mm):  4 / 5 / 6  / 8 / 10</p>
@@ -66,7 +66,7 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/sa-series.php" class="spec-title">SA SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/sa-series.php" class="spec-title">SA SERIES</a>
                 </div>
             </div>
         </div>

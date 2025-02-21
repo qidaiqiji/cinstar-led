@@ -29,7 +29,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img src="../images/products/Fine-Pitch/banner.jpg" alt="fine pitch led display">
+            <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/banner.jpg" alt="fine pitch led display">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Fine Pitch DVLED Display</h1>
@@ -40,8 +40,8 @@
         <div class="spce-container">
         <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/ch-series.php">
-                        <img src="../images/products/Fine-Pitch/CH-series-1.webp" style="width: 100%" alt="CH SERIES">
+                    <a href="https://www.cinstar-led.com/product-detail/ch-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/CH-series-1.webp" style="width: 100%" alt="CH SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">CH SERIES</h2>
                             <p>Pixel Pitch (mm): 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -55,13 +55,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/ch-series.php" class="spec-title">CH SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/ch-series.php" class="spec-title">CH SERIES</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/ec-series.php">
-                        <img src="../images/products/Fine-Pitch/EC-series-1.webp" style="width: 100%" alt="EC SERIES">
+                    <a href="https://www.cinstar-led.com/product-detail/ec-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/EC-series-1.webp" style="width: 100%" alt="EC SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">EC SERIES</h2>
                             <p>Pixel Pitch (mm): 0.62 / 0.78  / 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -75,13 +75,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/ec-series.php" class="spec-title">EC SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/ec-series.php" class="spec-title">EC SERIES</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/hd-series.php">
-                        <img src="../images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES">
+                    <a href="https://www.cinstar-led.com/product-detail/hd-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2.webp" style="width: 100%" alt="HD SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">HD SERIES</h2>
                             <p>Pixel Pitch (mm): 0.93 / 1.25 / 1.56 / 1.87</p>
@@ -96,13 +96,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/hd-series.php" class="spec-title">HD SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/hd-series.php" class="spec-title">HD SERIES</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/v-series.php">
-                        <img src="../images/products/Fine-Pitch/V-series-1.jpg" class="long-img" alt="V SERIES">
+                    <a href="https://www.cinstar-led.com/product-detail/v-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-1.jpg" class="long-img" alt="V SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">V SERIES</h2>
                             <p>Pixel Pitch (mm): 1.25 / 1.53 / 1.86 / 2.5 </p>
@@ -117,13 +117,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/v-series.php" class="spec-title">V SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/v-series.php" class="spec-title">V SERIES</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/u-series.php">
-                        <img src="../images/products/Commercial-LED/U-series-1.jpg" class="long-img" alt="U SERIES">
+                    <a href="https://www.cinstar-led.com/product-detail/u-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Commercial-LED/U-series-1.jpg" class="long-img" alt="U SERIES">
                         <div class="spec-detail">
                             <h2 class="series-title">U SERIES</h2>
                             <p>Pixel Pitch (mm): 0.93 / 1.25 / 1.56  / 1.87 </p>
@@ -140,7 +140,7 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/u-series.php" class="spec-title">U SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/u-series.php" class="spec-title">U SERIES</a>
                 </div>
             </div>
         </div>
@@ -151,7 +151,7 @@
                 <h2 class="title">The Ultimate Guide to Seamless DVLED & Fine Pitch LED Displays</h2>
                 <p>In recent years, DVLED panels have become the gold standard in the world of digital displays. Offering unmatched image quality and seamless integration, they have transformed the landscape of industries ranging from entertainment to corporate communication. In this comprehensive guide, we’ll delve into everything you need to know about <strong>fine pitch LED screens</strong>, with a focus on DVLED technology and why Cinstar is your go-to supplier for premium LED video walls.</p>
                 <div class="img-box">
-                    <img src="../images/products/Fine-Pitch/fine-pitch-1.jpg" alt="fine pitch-1">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/fine-pitch-1.jpg" alt="fine pitch-1">
                 </div>
                 <div class="chapter-box">
                     <p style="font-weight: bold; font-size:18px">Table of Contents</p>
@@ -212,7 +212,7 @@
                     <li><strong>Durability:</strong> DVLED displays are built to last, offering robust performance in both indoor and outdoor settings.</li>
                 </ul>
                 <div class="img-box">
-                    <img src="../images/products/Fine-Pitch/fine-pitch-2.jpg" alt="fine pitch-2">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/fine-pitch-2.jpg" alt="fine pitch-2">
                 </div>
                 <div id="chapter3" class="chapter-title">
                     <h3>Applications of Fine Pitch LED Displays</h3>
@@ -226,7 +226,7 @@
                     <li><strong>Entertainment Venues:</strong> From cinemas to concerts, DVLED walls provide immersive visual experiences.</li>
                 </ul>
                 <div class="img-box">
-                    <img src="../images/products/Fine-Pitch/fine-pitch-3.jpg" alt="fine pitch-3">
+                    <img src="https://www.cinstar-led.com/images/products/Fine-Pitch/fine-pitch-3.jpg" alt="fine pitch-3">
                 </div>
                 <div id="chapter4" class="chapter-title">
                     <h3>Cost of DVLED Panels</h3>

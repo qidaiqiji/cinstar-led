@@ -31,7 +31,7 @@
     <?php include('../inc/top.php'); ?>
     <div class="container new-product-container">
         <div class="product-banner">
-            <img style="height: 100%" src="../images/products/transparent-led/transparent-led-film-screen-bg.webp" alt="transparent led film screen">
+            <img style="height: 100%" src="https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-bg.webp" alt="transparent led film screen">
             <div class="img-cover"></div>
             <div class="text-cover">
                 <h1>Transparent LED Film Screen</h1>
@@ -42,8 +42,8 @@
         <div class="spce-container">
         <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/tf-series.php">
-                        <img src="../images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series">
+                    <a href="https://www.cinstar-led.com/product-detail/tf-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf-series">
                         <div class="spec-detail">
                             <h2 class="series-title">TF Series</h2>
                             <p>Pixel Pitch (mm): 4 / 6 / 8  / 10 / 16</p>
@@ -59,13 +59,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/tf-series.php" class="spec-title">TF Series</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/tf-series.php" class="spec-title">TF Series</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/tr-series.php">
-                        <img src="../images/products/Creative-LED/TR-SERIES.jpg" alt="TR SERIES" style="width: 70%">
+                    <a href="https://www.cinstar-led.com/product-detail/tr-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Creative-LED/TR-SERIES.jpg" alt="TR SERIES" style="width: 70%">
                         <div class="spec-detail">
                             <h2 class="series-title">TR SERIES</h2>
                             <p>Pixel Pitch (mm): 3.91 / 6.25 / 7.82</p>
@@ -80,13 +80,13 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/tr-series.php" class="spec-title">TR SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/tr-series.php" class="spec-title">TR SERIES</a>
                 </div>
             </div>
             <div class="specification">
                 <div class="product-img img-bigger">
-                    <a href="../product-detail/ts-series.php">
-                        <img src="../images/products/Creative-LED/TS-Series.jpg" alt="TS SERIES" style="width: 60%">
+                    <a href="https://www.cinstar-led.com/product-detail/ts-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Creative-LED/TS-Series.jpg" alt="TS SERIES" style="width: 60%">
                         <div class="spec-detail">
                             <h2 class="series-title">TS SERIES</h2>
                             <p>Pixel Pitch (mm): 2.8 / 3.9 / 7.8 / 10.4 / 15.6</p>
@@ -101,7 +101,7 @@
                             </ul>
                         </div>
                     </a>
-                    <a  href="../product-detail/ts-series.php" class="spec-title">TS SERIES</a>
+                    <a  href="https://www.cinstar-led.com/product-detail/ts-series.php" class="spec-title">TS SERIES</a>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
                 <p>In the rapidly evolving world of display technology, transparent LED film screens have emerged as a groundbreaking solution that bridges the gap between design and functionality. These innovative screens offer a unique combination of high-resolution digital displays and transparency, enabling creative and visually appealing applications across various industries. Whether you're looking to enhance your storefront, create an engaging architectural feature, or revolutionize corporate spaces, transparent LED screens offer unparalleled versatility and aesthetic appeal.</p>
                 <p>In this comprehensive guide, we’ll explore everything you need to know about the product, including their key features, applications, benefits, and why Cinstar is your ultimate partner for premium-quality LED solutions.</p>
                 <div class="img-box">
-                    <img src="../images/products/transparent-led/transparent-led-film-screen-1.jpg" alt="transparent led film screen-1">
+                    <img src="https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-1.jpg" alt="transparent led film screen-1">
                 </div>
                 <div class="chapter-box">
                     <p style="font-weight: bold; font-size:18px">Table of Contents</p>
@@ -169,7 +169,7 @@
                 <p>Transparent film screens are designed to transform ordinary glass surfaces into dynamic visual displays without obstructing visibility. Unlike traditional LED panels, which can be bulky and opaque, they are sleek and versatile, blending seamlessly with their environment.</p>
                 <p>In essence, a transparent led display combines the power of high-quality visuals with an aesthetic that complements modern architectural and design trends.</p>
                 <div class="img-box">
-                    <img src="../images/products/transparent-led/transparent-led-film-screen-2.webp" alt="transparent led film screen-2">
+                    <img src="https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-2.webp" alt="transparent led film screen-2">
                 </div>
                 <div id="chapter2" class="chapter-title">
                     <h3>Key Features of Transparent LED Film Screens</h3>
@@ -189,7 +189,7 @@
                 <h4>7. Long Lifespan</h4>
                 <p>High-quality transparent film screens, like those from Cinstar, are built to last, ensuring reliable performance over time.</p>               
                 <div class="img-box">
-                    <img src="../images/products/transparent-led/transparent-led-film-screen-3.webp" alt="transparent led film screen-3">
+                    <img src="https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-3.webp" alt="transparent led film screen-3">
                 </div>
                 <div id="chapter3" class="chapter-title">
                     <h3>Applications of Transparent LED Screen Displays</h3>
@@ -209,7 +209,7 @@
                 <h4>6. Museums and Galleries</h4>
                 <p>Transparent LED displays are increasingly being used in museums and galleries to provide interactive exhibits or digital overlays that complement the artifacts on display.</p>
                 <div class="img-box">
-                    <img src="../images/products/transparent-led/transparent-led-film-screen-4.webp" alt="transparent led film screen-4">
+                    <img src="https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-4.webp" alt="transparent led film screen-4">
                 </div>
                 <div id="chapter4" class="chapter-title">
                     <h3>Advantages of Transparent LED Video Walls</h3>
@@ -235,7 +235,7 @@
                 <p>If you’re looking to invest in transparent screen displays, it’s crucial to choose a reliable supplier. At Cinstar, we offer a wide range of transparent screens designed to meet the needs of various industries.</p>
                 <p>Our products are known for their exceptional quality, durability, and performance, making them the ideal choice for businesses seeking high-impact display solutions. Whether you’re looking for a large-scale installation or a smaller display, Cinstar has the perfect solution for you.</p>
                 <div class="img-box">
-                    <img src="../images/products/transparent-led/transparent-led-film-screen-5.webp" alt="transparent led film screen-5">
+                    <img src="https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-5.webp" alt="transparent led film screen-5">
                 </div>
                 <div id="chapter6" class="chapter-title">
                     <h3>FAQs About Transparent LED Film Screens</h3>
