@@ -25,6 +25,27 @@
         <div class="spce-container">
             <div class="specification">
                 <div class="product-img img-bigger">
+                    <a href="https://www.cinstar-led.com/product-detail/xd-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Commercial-LED/xd-series-1.webp" alt="XD SERIES" style="width: 85%">
+                        <div class="spec-detail">
+                            <h2 class="series-title">XD SERIES</h2>
+                            <p>Pixel Pitch (mm): 6.25 / 8.33 / 10</p>
+                            <p>Brightness (nits):  6500nits</p>
+                            <p>Refresh Rate(Hz):  >3840</p>
+                            <p>Application: Indoor & Outdoor LED Perimeter Board Solution</p>
+                            <ul>
+                                <li>UEFA standard stadium perimeter LED display solution</li>
+                                <li>Top safety and stability for high profile performance</li>
+                                <li>Viewing angle adjustable for better visual enjoyment</li>
+                                <li>High IP rating, easy maintenance and concise panel design</li>
+                            </ul>
+                        </div>
+                    </a>
+                    <a  href="https://www.cinstar-led.com/product-detail/xd-series.php" class="spec-title">XD SERIES</a>
+                </div>
+            </div>
+            <div class="specification">
+                <div class="product-img img-bigger">
                     <a href="https://www.cinstar-led.com/product-detail/bt-series.php">
                         <img src="https://www.cinstar-led.com/images/products/Commercial-LED/BT-series-1.jpg" alt="BT SERIES" style="width: 70%">
                         <div class="spec-detail">

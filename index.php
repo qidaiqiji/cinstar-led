@@ -353,11 +353,11 @@
                     </a>
                 </div>
                 <div class="product-item mobile-hide">
-                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/a-series.php">
-                        <img src="https://www.cinstar-led.com/images/products/Rental-LED/A-series-1.webp" alt="a-series" class="short" style="width: 95%">
+                    <a class="thumb" href="https://www.cinstar-led.com/product-detail/xd-series.php">
+                        <img src="https://www.cinstar-led.com/images/products/Commercial-LED/xd-series-1.webp" alt="XD SERIES" class="short" style="width: 95%">
                     </a>
-                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/a-series.php">
-                        <span class="current">Stage LED Video Screen Wall</span><span class="more">A Series</span>
+                    <a class="list-title" href="https://www.cinstar-led.com/product-detail/xd-series.php">
+                        <span class="current">Stadium Perimeter LED Display</span><span class="more">XD Series</span>
                     </a>
                 </div>
                 <div class="product-item mobile-hide">
