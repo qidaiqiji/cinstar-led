@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Stage LED screens, Stage led display | Cinstar-led</title>
-    <meta name="description" content="Cinstar brings the best led solutions in the form of LED Display Board for wide range of applications. We have best collection of led display signs that are perfect for digital advertising for any business.">
-    <meta name="keywords" content="creative LED display, transparent LED display, poster LED display, Cinstar-led, LED digital sinage, flexible LED screen wall, transparent LED wall, programmable LED display">  
+    <title>Creative LED Display Screen | Flexible LED Display | LED Poster | Cinstar LED</title>
+    <meta name="description" content="Wanna upgrade your event or retail business with creative LED display screen? Contact Cinstar for the best floor & flexible LED screen, poster display now!">
+    <meta name="keywords" content="creative led screen, creative led display, floor led screen, flexible led screen, flexible led display, led poster display, flexible led display screen">  
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
