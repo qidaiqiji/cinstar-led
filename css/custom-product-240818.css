@@ -1,7 +1,7 @@
 @charset "utf-8";
 p {
     line-height: 1.5;
-    font-size: .225rem;
+    /* font-size: 18px; */
 }
 img {
     width: 100%;

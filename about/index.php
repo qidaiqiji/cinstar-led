@@ -7,6 +7,16 @@
     <title>About Our Global LED Display Solutions | Cinstar LED</title>
     <meta name="description" content="Learn about Cinstar LED, a global provider of advanced LED display solutions, delivering superior products for outdoor, indoor, and rental applications.">
     <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer">
+    <style>
+        @media (max-width: 576px) {
+            .head-title h2 {
+                font-size: 26px;
+            }
+            .desc-title b{
+                line-height: 1.5;
+            }
+        }
+    </style>
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->
@@ -18,16 +28,16 @@
         </div>
         <div class="about-desc">
             <div class="head-title">
-                <h1 style="color: #000; margin-bottom: 20px;">About Our Global LED Display Solutions</h1>
+                <h1 style="color: #000; margin-bottom: 20px;">Your Global Partner in Display Solutions</h1>
             </div>
             <div class="paragraph">
-               Founded in 2012, Cinstar Electronics is a Chinese LED display manufacturer dedicated to designing and providing high quality LED products and competitive solutions for various applications. Our team are industry veterans with at least 5-year experiences and managed thousands of LED projects from rental events to commercial installations. Our products have been exported to over 40 countries and used in many high-profile installations and events worldwide.
+            Established in 2012, Cinstar Electronics is a leading LED display manufacturer in China, specializing in the design and production of high-quality LED solutions for diverse applications. With a team of industry experts, each with a minimum of five years of experience, we have successfully managed thousands of LED projects, ranging from rental event setups to permanent commercial installations. Our products have been exported to over 40 countries, making a significant impact on high-profile events and installations worldwide.
             </div>
             <div class="paragraph">
-                Cinstar has highly comprehensive product lines which cover wide range of applications like commercial advertisement, entertainment industry, corporate event, award ceremony, conference & meeting and monitor room etc. All our LED products are CE, UL, ETL, FCC certificated and compatible to European and American markets. 
+            We offer a comprehensive range of LED display solutions, catering to various industries, including commercial advertising, entertainment, corporate events, award ceremonies, conferences, and control rooms. Our indoor and outdoor LED displays are engineered to meet the highest standards, ensuring exceptional performance and reliability. All Cinstar LED products are CE, UL, ETL, and FCC certified, making them fully compliant with the European and North American markets.
             </div>
             <div class="paragraph">
-                Cinstar spares no effort to insist the business principle of “Honesty, Integrity and Responsibility” and is committed to being a trusted LED display manufacturer and integrated service provider.
+            Guided by the core values of "Honesty, Integrity, and Responsibility," Cinstar is committed to being a trusted LED display manufacturer and integrated service provider. We continuously strive to deliver cutting-edge LED technology, competitive pricing, and unparalleled customer support, ensuring outstanding visual experiences for clients worldwide.
             </div>
         </div>
         <div class="about-company">
@@ -81,27 +91,49 @@
         </div>
         <div class="support-desc">
             <p>
-                As a customer satisfaction-oriented service provider, Cinstar not only supply quality LED products, but also fast and considerate support. From initial ideas to accomplished projects, Cinstar always stands with customers, listening their thought or suggestion and respond quick to their request or complaint. Cinstar continuously supports customers to enhance product commercial value and achieve business success through strict project management and satisfying after-sale services.
+            Cinstar is committed to customer satisfaction, ensuring that every client receives high-quality LED productspaired with fast, reliable, and professional support. From initial consultation to project completion, we work closely with our clients, listening to their needs, addressing concerns promptly, and providing customized solutions to maximize the commercial value of their LED display investments. Our goal is to help businesses achieve long-term success through meticulous project management and superior after-sales services.
             </p>
-            <p class="desc-title"><b>24/7 Phone Service</b></p>
-            <p>Whenever there is new project request, urgent technical support or general quality issue complaint, we can be reached in real time. And we promise to feedback a clear schedule of solution within 24 hours. </p>
-            <p class="desc-title"><b>Pre-Sales Service</b></p>
-            <p>Installation environment investigation and evaluation, solution recommendation and confirmation, customized design if needed, technical drawing of installation frame, product function inspection before delivery etc. </p>
-            <p class="desc-title"><b>On-Site Service</b></p>
-            <p>If needed, our experienced engineers can be assigned to provide professional installation guidance and free on-site technical training. On-site screen calibration, on-site configuration and testing etc.</p>
-            <p class="desc-title"><b>After Sales Service</b></p>
+            <p class="desc-title"><b>24/7 Support – Always Available When You Need Us</b></p>
+            <p>We understand the importance of real-time support, which is why Cinstar offers 24/7 phone service for all customer inquiries, whether it's a new project request, urgent technical support, or a product-related issue. Our team ensures a quick response time, with a clear resolution plan provided within 24 hours.</p>
+            <p class="desc-title"><b>Pre-Sales Services – Ensuring the Best LED Solutions for You</b></p>
+            <p style="margin-bottom: 20px">To guarantee the perfect LED display solution for each project, Cinstar’s pre-sales services include:</p>
+            <p style="margin-bottom: 20px"><strong>Installation site evaluation</strong> – Assessing environmental factors for optimal screen placement.</p>
+            <p style="margin-bottom: 20px"><strong>Customized LED display solutions</strong> - solutions – Tailoring recommendations to match client needs.</p>
+            <p style="margin-bottom: 20px"><strong>Technical design support</strong> – Providing detailed installation drawings and structural guidance.</p>
+            <p><strong>Product functionality checks</strong> – Thorough testing before shipping to ensure seamless performance.</p>
+            <p class="desc-title"><b>On-Site Installation & Technical Training</b></p>
+            <p style="margin-bottom: 20px">For large-scale or complex installations, Cinstar provides on-site support with expert engineers available to guide installation and offer hands-on training.</p>
+            <p style="margin-bottom: 20px"><strong>Professional Installation Assistance</strong> – Our specialists help with screen setup, configuration, and calibration.</p>
+            <p style="margin-bottom: 20px"><strong>Technical Training</strong> – Free on-site training sessions for your team to ensure efficient operation and troubleshooting.</p>
+            <p><strong>System Optimization</strong> – On-site configuration, performance testing, and final adjustments to guarantee peak performance.</p>
+            <p class="desc-title"><b>After-Sales Services – Long-Term Support for Your Investment</b></p>
             <div class="last">
-                Free maintenance within warranty period. 
-                Charged favorable cost for labor and material, if warranty period expires;
-                <ul class="list">
-                    <li>1.Free technical training: integrative and normative technical training is available for free to customers to ensure they are skilled in regular operations of hardware and software and are able to diagnose and solve general problems.</li>
-                    <li>2.Engineer technical service: periodical screen performance inspection, opinion survey to improve our service quality.</li>
-                    <li>3.Software upgrade: lifelong maintenance of controlling system, incessant improvement of system function and continuous software upgrade.</li>
-                </ul>
-                Free on-site service for hardware related issues.
+                <p style="margin-bottom: 20px">Cinstar provides extensive after-sales services to ensure your LED display system remains in top condition:</p>
+                <p><strong>Warranty & Maintenance</strong></p>
+                <p>Free maintenance during the warranty period.</p>
+                <p style="margin-bottom: 20px">Post-warranty services at affordable rates, covering labor and materials.</p>
+                <p><strong>Technical Training</strong></p>
+                <p>Comprehensive training programs to ensure your team is skilled in hardware and software operations.</p>
+                <p style="margin-bottom: 20px">Guidance on troubleshooting and system maintenance.</p>
+                <p><strong>Ongoing Performance Monitoring</strong></p>
+                <p>Periodic inspections to assess screen performance and identify potential improvements.</p>
+                <p style="margin-bottom: 20px">Customer feedback collection to continuously enhance our service quality.</p>
+                <p><strong>Software Upgrades & System Maintenance</strong></p>
+                <p>Lifetime software updates to enhance system functionality and optimize performance.</p>
+                <p style="margin-bottom: 20px">Continuous improvements in control system efficiency.</p>
+                <p><strong>On-Site Hardware Support</strong></p>
+                <p>Free on-site service for hardware-related issues during the warranty period.</p>
+                <p>Expert assistance to resolve technical concerns swiftly and effectively.</p>
             </div>
         </div>
-                <!-- 底部开始 -->
+        <div class="head-title" style="margin: 0.6rem 0">
+            <h2>Why Choose Cinstar for Your LED Display Solutions?</h2>
+        </div>
+        <div class="support-desc">
+            <p style="margin-bottom: 20px;">We don’t just provide LED screens; we ensure that every product delivers long-lasting performance and maximum value. Our dedicated customer service team, expert engineers, and industry-leading support make us the trusted choice for businesses worldwide.</p>
+            <p>With Cinstar’s exceptional service commitment, you can focus on growing your business while we take care of your LED display needs. Your success is our priority!</p>
+        </div>
+         <!-- 底部开始 -->
         <?php include('../inc/foot.php'); ?>
         <?php include('../inc/js.php'); ?>
         <script>GetCurStyle("about");</script>

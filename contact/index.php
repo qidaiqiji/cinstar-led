@@ -13,7 +13,7 @@
     <div class="container">
         <div class="contact-box">
             <div class="head-title">
-                <h1>Get in Touch</h1>
+                <h1>Get in Touch for Your Needs</h1>
             </div>
             <div class="contact-head">
                 <div class="contact-item">
