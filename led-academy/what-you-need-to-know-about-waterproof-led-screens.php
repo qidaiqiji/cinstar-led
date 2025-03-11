@@ -52,7 +52,7 @@
                 <h1 class="title">Everything You Need To Know About Waterproof LED Screens</h1>
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
-                    <span>February 17, 2024</span>
+                    <span>February 17, 2025</span>
                     <div class="share-icons">
                         <a class="facebook" aria-label="Facebook" target="_blank"  rel="noopener noreferrer">
                             <i class="fa fa-facebook-square" aria-hidden="true"></i>
