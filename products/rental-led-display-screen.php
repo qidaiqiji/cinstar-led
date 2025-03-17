@@ -51,9 +51,9 @@
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "8",
-    "bestRating": "10",
-    "worstRating": "7",
+    "ratingValue": "5.0",
+    "bestRating": "5",
+    "worstRating": "0",
     "ratingCount": "9"
   }
 }
