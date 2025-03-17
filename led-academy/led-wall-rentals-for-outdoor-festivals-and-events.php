@@ -50,7 +50,7 @@
     <div class="container">
         <div class="content-container blog-content">
             <div class="content">
-                <h1 class="title">Maximizing ROI with LED Display Screen for Advertising Outdoor</h1>
+                <h1 class="title">LED Wall Rentals: The Ultimate Solution for Outdoor Festivals and Events</h1>
                 <div class="date">
                     <span><i class="fa fa-calendar"></i></span>
                     <span>March 11, 2025</span>
