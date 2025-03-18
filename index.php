@@ -5,7 +5,6 @@
     <?php include('inc/rem.php'); ?>
     <meta name="description" content="We are Leading LED display manufacturer and offering high-quality LED video wall panels and screens. Contact us for LED screen display for your needs.">
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen">  
-    <meta name="google-site-verification" content="wySaQserLo-ZIXvzIkAAvHQJHmiTBtHdGIHnWkfOEJc" />
     <title>LED Video Wall Panels & LED Screen Display Manufacturers</title>
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
@@ -107,10 +106,6 @@
     </script>
 </head>
 <body class="page-index">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJM6DGZG"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <?php include('inc/top.php'); ?>   
     <div class="container new-product-container">
         <div class="banner mobile-show">
