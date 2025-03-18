@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>DVLED | Fine Pitch LED Display & Screen | LED Video Wall Panels | Cinstar-LED</title>
+    <title>DVLED | Fine Pitch LED Display & Video Wall Panels | Cinstar LED</title>
     <meta name="description" content="Cinstar offers the best DVLED and fine pitch LED screen for all your direct view LED video wall application. Contact Cinstar LED for your needs.">
     <meta name="keywords" content="DVLED, DVLED screen, DVLED display, DVLED wall, DVLED panels, DVLED video wall, fine pitch led screen, fine pitch led display, fine pixel pitch led screen, fine pitch led video wall, fine pitch led wall, direct view led display">  
     <style>
@@ -24,6 +24,94 @@
             }
         }
     </style>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Cinstar LED",
+            "alternateName": "Cinstar",
+            "url": "https://www.cinstar-led.com/",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+                "https://www.instagram.com/cinstarled/",
+                "https://twitter.com/Cinstar_led"
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Cinstar LED",
+            "url": "https://www.cinstar-led.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.cinstar-led.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+            "name": "Fine Pitch LED Display & Video Wall",
+            "image": "https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-1.jpg",
+            "description": "Cinstar fine pitch LED display delivers ultra-high resolution and seamless performance for control rooms, conference halls, and broadcasting studios. Our fine pitch LED video wall ensures superior image clarity, deep contrast, and a smooth viewing experience. Built with cutting-edge technology, Cinstar’s DVLED screen offers exceptional brightness and color uniformity. Whether for corporate settings or large-scale venues, our DVLED display provides unmatched visual excellence. With a scalable DVLED video wall, enjoy a bezel-free, immersive digital experience for presentations, monitoring, and high-end commercial applications.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Cinstar LED"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "bestRating": "5",
+                "worstRating": "0",
+                "ratingCount": "30"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "What is the Difference Between DVLED and LCD?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "DVLED (Direct-View LED) displays generate images and videos directly from LEDs, eliminating the need for a backlit panel like LCDs. This results in higher brightness, superior contrast ratio, seamless scalability, and better energy efficiency compared to traditional LCD screens. Unlike LCDs, which require bezels, DVLED screens create truly seamless video walls, making them ideal for large-scale digital signage and immersive displays."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Are Fine Pitch LED Displays Suitable for Outdoor Use?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes! Many fine pitch LED displays are specifically designed for outdoor applications, offering high brightness, weatherproof durability, and UV-resistant coatings. These outdoor DVLED solutions maintain exceptional performance in rain, extreme temperatures, and direct sunlight, making them perfect for digital billboards, stadium arenas, transportation hubs, and digital signage in public spaces."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How Long Do DVLED Displays Last?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "A high-quality DVLED screen, such as the ones from Cinstar, typically offers a lifespan of 100,000 hours or more with proper maintenance. This makes them a long-term investment, significantly outlasting traditional LCD or projector-based displays. The solid-state construction ensures reliable performance with minimal maintenance requirements, reducing operational costs over time."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can DVLED Be Customized for Specific Needs?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely! DVLED technology is highly adaptable, allowing for custom sizes, shapes, resolutions, and aspect ratio to fit various applications. Whether it’s a fine pitch LED video wall for broadcasting, a curved LED display for retail branding, or a large-scale command center screen, Cinstar provides tailored solutions to meet unique project demands."
+                    }
+                }
+            ]
+        }
+    </script>
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>

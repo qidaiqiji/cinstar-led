@@ -7,9 +7,97 @@
     <link rel="stylesheet" href="../css/custom-product-240818.css">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Custom LED Display Screen - LED Shelf | Cube & Spherical Display | Cinstar LED</title>
+    <title>Custom LED Display Screen | LED Cube & Spherical Display | Cinstar LED</title>
     <meta name="description" content="Explore the fantastic custom LED display screen solution to boost your business with Cinstar LED shelf, cube and spherical LED display screen.">
     <meta name="keywords" content="custom led screen, custom led display, custom led display screen, led shelf display, cube led display, spherical led screen">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Cinstar LED",
+            "alternateName": "Cinstar",
+            "url": "https://www.cinstar-led.com/",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+                "https://www.instagram.com/cinstarled/",
+                "https://twitter.com/Cinstar_led"
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Cinstar LED",
+            "url": "https://www.cinstar-led.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.cinstar-led.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+            "name": "Custom LED Display & Screen",
+            "image": "https://www.cinstar-led.com/images/products/custom-led/LED-Sphere-Display/led-sphere-display-3.jpg",
+            "description": "Cinstar custom LED display solutions offer limitless possibilities for unique and creative visual experiences. Our custom LED screen can be tailored in size, shape, and resolution to fit any application. With a high-quality custom LED display screen, businesses can enhance branding and engagement. Cinstar’s innovative LED shelf display is perfect for retail promotions, while our cube LED display and spherical LED screen provide eye-catching 3D visuals. Designed for versatility and impact, our custom LED solutions bring dynamic and immersive displays to any environment.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Cinstar LED"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "bestRating": "5",
+                "worstRating": "0",
+                "ratingCount": "19"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Can Custom LED Display Screen Be Used Both Indoors and Outdoors?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, a custom LED display screen is designed to be used in both indoor and outdoor environments, making it a versatile solution for businesses. Indoor custom LED screens are often used in retail stores, corporate offices, hotels, and event venues to display promotions, interactive content, or digital signage. These displays are built with high resolution and lower brightness to suit indoor lighting conditions while ensuring crisp, vibrant visuals."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How Cube LED Displays Boost Your Business?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "A cube LED display is an innovative way to attract customers and enhance branding. Unlike traditional flat-screen displays, a cube LED screen display offers 360-degree visibility, ensuring that content is viewable from multiple directions. This feature makes it ideal for use in retail stores, trade shows, shopping malls, and event venues, where grabbing attention is crucial."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where Can Spherical LED Screens Be Used?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "A spherical LED screen is one of the most visually striking digital displays available today. Thanks to its 360-degree viewing capability and curved LED technology, it can be used in various settings to create immersive and eye-catching experiences. One of the most common applications of a spherical LED display is in museums, science centers, and exhibition halls. A spherical LED screen is also an effective marketing tool for trade shows and special events, where brands want to captivate audiences with innovative digital content. "
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Does LED Shelf Display Worth Investment?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "For retailers and supermarkets, an LED shelf display is a game-changer. It transforms traditional shelving into a digital advertising platform, allowing businesses to display real-time promotions, product information, and engaging visuals directly at the point of purchase. Investing in a shelf LED display offers numerous benefits. LED shelf displays are cost-effective in the long run. Whether in supermarkets, convenience stores, or cosmetic retail chains, an LED shelf display is a smart investment that enhances both brand visibility and sales performance."
+                    }
+                }
+            ]
+        }
+    </script>
 </head>
 <body class="page-index .menu-open">
     <!-- 头部开始 -->

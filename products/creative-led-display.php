@@ -6,9 +6,105 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Creative LED Display Screen | Flexible LED Display | LED Poster | Cinstar LED</title>
+    <title>Creative LED Display Screen | Flexible LED Poster Display | Cinstar LED</title>
     <meta name="description" content="Wanna upgrade your event or retail business with creative LED display screen? Contact Cinstar for the best floor & flexible LED screen, poster display now!">
     <meta name="keywords" content="creative led screen, creative led display, floor led screen, flexible led screen, flexible led display, led poster display, flexible led display screen">  
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Cinstar LED",
+            "alternateName": "Cinstar",
+            "url": "https://www.cinstar-led.com/",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+                "https://www.instagram.com/cinstarled/",
+                "https://twitter.com/Cinstar_led"
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Cinstar LED",
+            "url": "https://www.cinstar-led.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.cinstar-led.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+            "name": "Creative LED Display & Screen",
+            "image": "https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-1.jpg",
+            "description": "Cinstar creative LED display solutions bring innovation to digital visuals with unique shapes and dynamic content. Our creative LED screen is designed for immersive experiences in exhibitions, retail, and events. The floor LED screen delivers stunning interactive displays, while the flexible LED screen and flexible LED display adapt to curved surfaces for limitless design possibilities. Cinstar’s LED poster display provides a sleek and high-impact digital signage solution, perfect for advertising and promotions. Elevate your brand with cutting-edge LED technology tailored for creativity and engagement.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Cinstar LED"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "bestRating": "5",
+                "worstRating": "0",
+                "ratingCount": "15"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "What are the key features of a high-quality floor LED screen?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "A high-quality floor LED screen is distinguished by several key features that make it ideal for various applications. Firstly, it offers exceptional durability and resistance to wear, ensuring good operation even under heavy foot traffic. Moreover, floor LED screens boast high brightness levels to maintain visibility in well-lit environments. Additionally, seamless integration with content management systems allows for easy updates and scheduling of dynamic content, making them versatile for different promotional needs."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Why choose Cinstar as your flexible LED display screen supplier?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Choosing Cinstar for your flexible LED display screen needs ensures access to cutting-edge technology and superior product quality. Cinstar's flexible LED display screens are renowned for their innovative design, offering bendable panels that can adapt to curved surfaces, creating visually striking installations. With a robust support network and dedicated customer service, Cinstar provides comprehensive assistance from design to installation, ensuring a smooth and successful deployment of flexible LED display screens."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How easy is it to install a flexible LED screen?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Installing a flexible LED screen from Cinstar is designed to be straightforward and efficient, thanks to their modular and lightweight design. These screens utilize easy-to-mount panels that can be quickly assembled and adjusted to fit curved or irregular surfaces. With minimal technical expertise required, Cinstar's flexible LED screens offer a hassle-free installation process, saving time and labor costs for retail businesses and event organizers alike."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can a flexible LED display be customized?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, Cinstar's flexible LED displays are highly customizable to meet specific project requirements. Customization extends to content management capabilities, allowing businesses to showcase tailored messages or promotional content effectively. With Cinstar's expertise in flexible LED display technology, clients have the flexibility to create immersive and engaging visual experiences that resonate with their audience, enhancing brand visibility and customer engagement."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is LED poster display a good option for retail business?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "LED poster displays are an excellent option for retail businesses looking to enhance their advertising efforts. LED poster displays from Cinstar offer high-definition resolution and vibrant color reproduction, ensuring eye-catching presentations of product promotions, seasonal offers, or brand messaging. With easy content management and remote control capabilities, LED poster displays empower retailers to deliver targeted marketing messages effectively, driving foot traffic and increasing sales."
+                    }
+                },
+            ]
+        }
+    </script>8
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>

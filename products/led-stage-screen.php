@@ -6,9 +6,89 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Stage LED Screen & Video Wall - LED Display Panel for Stage</title>
+    <title>Stage LED Screen & Video Wall | LED Display Panel for Stage</title>
     <meta name="description" content="Cinstar offers the most reliable & creative LED stage screen video wall. Contact us for the best LED display panel for stage solutions with affordable prices.">
     <meta name="keywords" content="LED stage screen, stage LED video wall, stage LED wall, LED screen for stage, rental LED ">  
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Cinstar LED",
+            "alternateName": "Cinstar",
+            "url": "https://www.cinstar-led.com/",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+                "https://www.instagram.com/cinstarled/",
+                "https://twitter.com/Cinstar_led"
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Cinstar LED",
+            "url": "https://www.cinstar-led.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.cinstar-led.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+            "name": "LED Stage Screen Solutions",
+            "image": "https://www.cinstar-led.com/images/products/Rental-LED/CR-series-1.webp",
+            "description": "Cinstar LED stage screen delivers stunning visuals and dynamic performance, making it the perfect choice for concerts, theater productions, and live events. Our stage LED screen offers high brightness, seamless clarity, and wide viewing angles for an immersive experience. The stage LED wall is designed for versatility, ensuring smooth integration into any stage setup. With Cinstar’s stage LED display and LED panel for stage, you get reliable, high-quality video solutions. Elevate your performances with a premium LED screen for stage, built for durability and exceptional visual impact.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Cinstar LED"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "bestRating": "5",
+                "worstRating": "0",
+                "ratingCount": "26"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How is stage LED screen used in events?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Stage LED screens are indispensable in events, offering vibrant visual effects that enhance audience engagement. Whether it's a concert, corporate event, conference, or trade show, stage LED displays serve multiple purposes. They can display live performances, presentations, videos, and dynamic graphics, ensuring that all attendees have a clear view regardless of their seating location. LED screens are often integrated into stage designs to create immersive environments and amplify the impact of performances or presentations."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can LED stage screens be used for both indoor and outdoor events?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, LED stage screens are versatile and can be used in both indoor and outdoor settings. For indoor events, they provide high-definition visuals with excellent brightness and color accuracy, making them suitable for conferences, exhibitions, and concerts. Outdoor stage LED video walls are designed to withstand any weather conditions, offering high brightness levels to combat sunlight and ensuring visibility from a distance. They are commonly used in festivals, outdoor concerts, sports events, and public gatherings where large audiences gather."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you offer customized LED stage screen rental solutions?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely, we provide tailored LED stage screen rental solutions to meet specific event requirements. Whether you need screens of varying sizes, specific pixel pitches for clarity, we offer customizable options. Our services include professional installation guidance, technical support, and on-site maintenance to ensure seamless operation throughout your event. With a range of LED panels and accessories available, we cater to diverse event needs, ensuring that your stage visuals are impactful and memorable."
+                    }
+                }
+            ]
+        }
+    </script>
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>

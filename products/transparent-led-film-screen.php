@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Transparent LED Screen Display & Video Wall | LED Film Screen | Cinstar LED</title>
+    <title>Transparent LED Film Screen & Video Wall Display | Cinstar LED</title>
     <meta name="description" content="Wanna apply innovative holographic transparent LED film screen for indoor and outdoor glass wall display advertising? Try out Cinstar transparent LED video wall solutions!">
     <meta name="keywords" content="LED film screen, transparent LED screen, transparent LED video wall, transparent LED screen display, transparent LED film">
     <style>
@@ -26,6 +26,102 @@
             }
         }
     </style>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Cinstar LED",
+            "alternateName": "Cinstar",
+            "url": "https://www.cinstar-led.com/",
+            "logo": "https://www.cinstar-led.com/images/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour",
+                "https://www.instagram.com/cinstarled/",
+                "https://twitter.com/Cinstar_led"
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Cinstar LED",
+            "url": "https://www.cinstar-led.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.cinstar-led.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+            "name": "Transparent LED Film Screen",
+            "image": "https://www.cinstar-led.com/images/products/transparent-led/transparent-led-film-screen-1.jpg",
+            "description": "Cinstar transparent LED film screen offers a revolutionary display solution with ultra-thin, lightweight, and flexible design. Our LED film screen ensures high brightness and stunning visuals while maintaining transparency for glass walls and storefronts. The transparent LED screen delivers dynamic content without obstructing the view, making it perfect for retail, exhibitions, and corporate branding. Cinstar’s transparent LED video wall provides seamless, high-impact visuals with a modern aesthetic. Elevate your space with a cutting-edge transparent LED screen display, combining innovation with outstanding performance.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Cinstar LED"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "bestRating": "5",
+                "worstRating": "0",
+                "ratingCount": "26"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Can a transparent LED display be used outdoors?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, they are designed for outdoor use, with weather-resistant materials and high brightness levels to combat sunlight."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What maintenance is required for transparent LED screens?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "They require minimal maintenance. Regular cleaning and occasional inspections to ensure all components are functioning properly are usually sufficient."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How customizable are transparent LED video walls?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Highly customizable! They can be tailored in terms of size, shape, and resolution to fit your specific needs."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is the typical lifespan of a transparent LED screen display?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "With proper maintenance, high-quality transparent film screens from Cinstar can last up to 100,000 hours."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Are transparent LED screens energy-efficient?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, They are highly energy-efficient, consuming less power than traditional display technologies."
+                    }
+                }
+            ]
+        }
+    </script>
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
