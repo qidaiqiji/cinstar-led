@@ -27,6 +27,57 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/how-to-utilize-led-billboards-for-advertising.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/utilize-LED-Billboard-for-Advertising.webp" alt="utilize LED Billboard for Advertising"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/how-to-utilize-led-billboards-for-advertising.php">How To Utilize LED Billboards For Holiday And Seasonal Advertising</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        LED billboards are incredibly effective for standing out in crowded marketplaces during festive seasons. With their vibrant visuals and dynamic capabilities, outdoor LED display board offer a unique opportunity to connect with your audience in memorable ways. 
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/how-to-utilize-led-billboards-for-advertising.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>March 21, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/led-billboard-for-public-transport-advertising.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/LED-billboard-for-Transport-Advertising.webp" alt="LED billboard for Transport Advertising"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/led-billboard-for-public-transport-advertising.php">How LED Billboards are Revolutionizing Public Transport Advertising</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        One area where billboard innovation changes the game is public transport advertising. From buses to trains to subways and transit hubs, LED billboards are revolutionising engagement, enabling advertisers to get their message across in a dynamic, high-visibility, and cost-effective way.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/led-billboard-for-public-transport-advertising.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>March 21, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/mistakes-to-avoid-when-using-led-billboards-for-advertising.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/LED-Billboard-for-Advertising.webp" alt="LED Billboard for Advertising"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/mistakes-to-avoid-when-using-led-billboards-for-advertising.php">Top Mistakes to Avoid When Using LED Billboards for Advertising</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        Businesses are growing tired of traditional advertising methods, such as newspapers, posters, and radio ads. These days, companies use digital LED billboards to get the attention of passersby and attract new customers to visit and try their products or services.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/mistakes-to-avoid-when-using-led-billboards-for-advertising.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>March 21, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/advantages-of-cinstar-led-displays-for-business.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/outdoor-led-display-board-for-business.webp" alt="outdoor led display board for business"></a>
                     </div>
                     <div class="blog-content">

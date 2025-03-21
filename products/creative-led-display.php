@@ -101,10 +101,10 @@
                         "@type": "Answer",
                         "text": "LED poster displays are an excellent option for retail businesses looking to enhance their advertising efforts. LED poster displays from Cinstar offer high-definition resolution and vibrant color reproduction, ensuring eye-catching presentations of product promotions, seasonal offers, or brand messaging. With easy content management and remote control capabilities, LED poster displays empower retailers to deliver targeted marketing messages effectively, driving foot traffic and increasing sales."
                     }
-                },
+                }
             ]
         }
-    </script>8
+    </script>
 </head>
 <body class="page-index">
     <?php include('../inc/top.php'); ?>
