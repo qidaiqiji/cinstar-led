@@ -730,7 +730,7 @@
                 <div class="head-title">
                     <h2>Get In Touch</h2>
                 </div>
-                <form id="myforms" name="myforms" method="post" action="/quotes/Index/index" onSubmit="return Checks()">
+                <form id="myforms" name="myforms" method="post" action="/backend/form/submit" onSubmit="return Checks()">
                     <div class="contact-body">
                         <input type="text" placeholder="Name" maxlength="50" name="name" class="contact-input">
                         <input type="text" placeholder="Company" maxlength="50" name="company" class="contact-input">

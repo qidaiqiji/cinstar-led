@@ -35,7 +35,7 @@
                 Get A Quote
             </div>
             <div class="footer-detail">
-                <form id="myform" name="myform" method="post" action="/quotes/Index/index" onSubmit="return Check()">
+                <form id="myform" name="myform" method="post" action="/backend/form/submit" onSubmit="return Check()">
                     <p class="input-line">
                         <input type="text" name="name" maxlength="50" placeholder="Name">
                         <input type="text" name="company" maxlength="50" placeholder="Company">
