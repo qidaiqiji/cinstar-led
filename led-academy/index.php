@@ -27,6 +27,57 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/creative-uses-for-led-video-wall-rental.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/Creative-Uses-For-LED-Video-Wall-Rentals.webp" alt="Creative Uses For LED Video Wall Rentals"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/creative-uses-for-led-video-wall-rental.php">Top 5 Creative Uses For LED Video Wall Rentals</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        These days, video walls are found everywhere, whether in crowded areas, on highways, or in the supermarket. LED video walls are made up of smaller panels that connect to make a bigger screen. Many brands and businesses have recently started using these as part of their advertisement strategy
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/creative-uses-for-led-video-wall-rental.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>April 08, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/top-trends-in-outdoor-digital-led-billboard-advertising-sign.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/Digital-LED-Billboard-Technology-Trends.webp" alt="Digital LED Billboard Technology Trends"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/top-trends-in-outdoor-digital-led-billboard-advertising-sign.php">5 Trends in Digital LED Billboard Technology to Watch</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        Digital LED billboard technology changes quickly, revolutionizing how businesses use outdoor LED billboard to reach their target audiences through advertising. As most companies look for innovative ways to attract attention
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/top-trends-in-outdoor-digital-led-billboard-advertising-sign.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>April 08, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/led-billboard-sign-boosts-brand-impact.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/custom-led-video-wall-panels.webp" alt="custom led video wall panels"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/led-billboard-sign-boosts-brand-impact.php">How LED Billboard Sign Boosts Nighttime Brand Impact</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        Suppose you've driven around an urban area at night and seen the dramatic effects of advertising illuminated. Contrary to traditional billboards that rely on outside lighting, LED billboard advertising creates vivid
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/led-billboard-sign-boosts-brand-impact.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>April 08, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/custom-led-video-wall-panels-for-business.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/custom-led-video-wall-panels.webp" alt="custom led video wall panels"></a>
                     </div>
                     <div class="blog-content">
