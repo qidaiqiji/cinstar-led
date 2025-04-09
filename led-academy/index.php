@@ -61,7 +61,7 @@ html, body {
                 </div>
                 <div class="blog-item">
                     <div class="img-box">
-                        <a href="https://www.cinstar-led.com/led-academy/led-billboard-sign-boosts-brand-impact.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/custom-led-video-wall-panels.webp" alt="custom led video wall panels"></a>
+                        <a href="https://www.cinstar-led.com/led-academy/led-billboard-sign-boosts-brand-impact.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/LED-Billboard-Sign-Boosts-Brand-Impact.webp" alt="LED Billboard Sign Boosts Brand Impact"></a>
                     </div>
                     <div class="blog-content">
                         <div class="blog-title">
