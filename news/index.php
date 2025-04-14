@@ -29,6 +29,13 @@
     <script>
         let dataList = [
             {
+                imgSrc:'https://www.cinstar-led.com/images/news/cob-direct-view-led-video-wall.jpg',
+                title:'Why COB is Better Than SMD in Direct View LED Video Wall',
+                data:'2025-04-14',
+                detail:'The display industry is rapidly evolving, especially in the realm of Direct View LED (DVLED) technology. From large-scale public displays to indoor commercial screens and even high-end Direct View LED TV, the need for ultra-fine pixel pitches, improved durability, and better image quality is growing fast. One of the most important innovations fueling this shift is COB',
+                href: 'https://www.cinstar-led.com/news-detail/why-cob-is-better-than-smd-in-direct-view-led.php'
+            },
+            {
                 imgSrc:'https://www.cinstar-led.com/images/news/direct-view-led-video-conference-1.webp',
                 title:'Four Direct View LED Video Walls Delivered to USA for Immersive Video Conference Experience',
                 data:'2025-01-24',

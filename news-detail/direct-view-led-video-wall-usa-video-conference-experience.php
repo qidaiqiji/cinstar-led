@@ -80,6 +80,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/why-cob-is-better-than-smd-in-direct-view-led.php">Why COB is Better Than SMD in Direct View LED Video Wall</a></h3>
         <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/dvled-video-wall-display-panel.php">HD1.2 UHD DV LED video wall display panels delivered to Boston college USA</a></h3>
     </div>
         <!-- 底部开始 -->

@@ -680,6 +680,21 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/why-cob-is-better-than-smd-in-direct-view-led.php">
+                        <img src="https://www.cinstar-led.com/images/news/cob-direct-view-led-video-wall.jpg" alt="cob direct view led video wall">
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>Why COB is Better Than SMD in Direct View LED Video Wall</h3>
+                            <p class="date">2025-04-14</p>
+                        </div>
+                        <div class="news-desc">
+                        The display industry is rapidly evolving, especially in the realm of Direct View LED (DVLED) technology. From large-scale public displays to indoor commercial screens and even high-end Direct View LED TV, the need for ultra-fine pixel pitches, improved durability, and better image quality is growing fast. One of the most important innovations fueling this shift is COB
+                        </div>
+                    </div>
+                    <hr class="under-line">
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">
                         <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
                     </a>
@@ -707,21 +722,6 @@
                         Thanks to the excellent work of our partner’s extraordinary business development team, another Cinstar HD1.2 direct view (DVLED) LED video wall display panels are ready to be delivered to Boston college to provide a more engaging visual experiences for the college students and staff. What more important is that this DVLED is connected with a lot of portals that our partner built to create an innovative platform where all the people around
                         </div>
                     </div>
-                </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/media-cube-led-display-video-wall-at-lulea-hockey-sweden.php">
-                        <img src="https://www.cinstar-led.com/images/home/Lulea-Hockey-Media-Cube-LED-Video-Wall.webp" alt="Lulea Hockey Media Cube LED Video Wall">
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>Cinstar P4 media cube LED video wall shines at Lulea Hockey & COOP Norrbotten Arena </h3>
-                            <p class="date">2024-09-20</p>
-                        </div>
-                        <div class="news-desc">
-                        Big thanks to our partner’s great efforts and professionalism, the Cinstar P4 massive media cube LED video wall panels were installed and operated as scheduled to deliver high profile match performance for the opening day games of Lulea Hockey and COOP Norrbotten arena. The stunning performance of this current most advanced media cubes caught big attention in the SHL(Swedish Hockey League) field. 
-                        </div>
-                    </div>
-                    <hr class="under-line">
                 </div>
             </div>
         </div>
