@@ -680,6 +680,21 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/cinstar-outdoor-3d-led-screen-delivered-to-Iraq.php">
+                        <img src="https://www.cinstar-led.com/images/news/3d-led-screen-iraq-1.jpg" alt="3d led screen iraq">
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>50SQM Cinstar Outdoor 3D LED Screen Delivered to Iraq</h3>
+                            <p class="date">2025-06-28</p>
+                        </div>
+                        <div class="news-desc">
+                            Cinstar LED is proud to announce the successful delivery of a 52-square-meter outdoor 3D LED screen to Iraq, marking a groundbreaking step in the region’s digital display industry. The display, model X3.9 (P3.9), measures 12.56 meters wide by 4 meters high and features a smooth curve at the center—a critical design element enabling an immersive 3D visual effect
+                        </div>
+                    </div>
+                    <hr class="under-line">
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/why-cob-is-better-than-smd-in-direct-view-led.php">
                         <img src="https://www.cinstar-led.com/images/news/cob-direct-view-led-video-wall.jpg" alt="cob direct view led video wall">
                     </a>
@@ -707,22 +722,8 @@
                         In a major step toward revolutionizing corporate communication, four state-of-the-art direct view LED video walls were recently delivered to the USA to create immersive video conference experiences. The client, a leading innovator in life-sized LED wall technology, aims to transform traditional video conferencing into a truly immersive and lifelike interaction for international companies.
                         </div>
                     </div>
-                    <hr class="under-line">
                 </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/dvled-video-wall-display-panel.php">
-                        <img src="https://www.cinstar-led.com/images/news/dvled-1.jpg" alt="dv led">
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>HD1.2 UHD DV LED video wall display panels delivered to Boston college USA</h3>
-                            <p class="date">2024-10-24</p>
-                        </div>
-                        <div class="news-desc">
-                        Thanks to the excellent work of our partner’s extraordinary business development team, another Cinstar HD1.2 direct view (DVLED) LED video wall display panels are ready to be delivered to Boston college to provide a more engaging visual experiences for the college students and staff. What more important is that this DVLED is connected with a lot of portals that our partner built to create an innovative platform where all the people around
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
         <div class="contact-detail product-section">

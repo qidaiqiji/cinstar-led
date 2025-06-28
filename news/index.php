@@ -29,6 +29,13 @@
     <script>
         let dataList = [
             {
+                imgSrc:'https://www.cinstar-led.com/images/news/3d-led-screen-iraq-1.jpg',
+                title:'50SQM Cinstar Outdoor 3D LED Screen Delivered to Iraq',
+                data:'2025-06-28',
+                detail:'Cinstar LED is proud to announce the successful delivery of a 52-square-meter outdoor 3D LED screen to Iraq, marking a groundbreaking step in the region’s digital display industry. The display, model X3.9 (P3.9), measures 12.56 meters wide by 4 meters high and features a smooth curve at the center—a critical design element enabling an immersive 3D visual effect',
+                href: 'https://www.cinstar-led.com/news-detail/cinstar-outdoor-3d-led-screen-delivered-to-Iraq.php'
+            },
+            {
                 imgSrc:'https://www.cinstar-led.com/images/news/cob-direct-view-led-video-wall.jpg',
                 title:'Why COB is Better Than SMD in Direct View LED Video Wall',
                 data:'2025-04-14',

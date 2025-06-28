@@ -112,6 +112,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-outdoor-3d-led-screen-delivered-to-Iraq.php">50SQM Cinstar Outdoor 3D LED Screen Delivered to Iraq</a></h3>
         <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">Four Direct View LED Video Walls Delivered to USA for Immersive Video Conference ExperienceSA</a></h3>
     </div>
     <!-- 底部开始 -->
