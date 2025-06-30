@@ -30,9 +30,9 @@
                 <div class="contact-item">
                     <div class="icon-box"><i class="fa fa-envelope-o"></i></div>
                     <p class="title">E-mail</p>
-                    <p>General Inquiry: <a href="mailto:info@cinstar-led.com" style="cursor: pointer;color:#0909f2">info@cinstar-led.com</a></p>
+                    <!-- <p>General Inquiry: <a href="mailto:info@cinstar-led.com" style="cursor: pointer;color:#0909f2">info@cinstar-led.com</a></p> -->
                     <p>Sales Inquiry: <a href="mailto:sales@cinstar-led.com" style="cursor: pointer;color:#0909f2">sales@cinstar-led.com</a></p>
-                    <p>Technical Support: <a href="mailto:support@cinstar-led.com" style="cursor: pointer;color:#0909f2">support@cinstar-led.com</a></p>
+                    <!-- <p>Technical Support: <a href="mailto:support@cinstar-led.com" style="cursor: pointer;color:#0909f2">support@cinstar-led.com</a></p> -->
                 </div>
             </div>
         </div>
