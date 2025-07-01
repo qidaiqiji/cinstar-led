@@ -28,14 +28,14 @@
                             </div>
                         </li>
                         <li class="menu-item" id="in01">
-                            <a href="https://www.cinstar-led.com/about" class="menu-link">ABOUT</a>
+                            <a href="https://www.cinstar-led.com/about/" class="menu-link">ABOUT</a>
                             <div class="subMenu">
                                 <ul class="subMenu-ul"></ul>
                             </div>
                         </li>
                         <li class="menu-item" id="in02">
                             <div class="menu-with-icon">
-                                <a href="https://www.cinstar-led.com/products" class="menu-link has-sub">PRODUCTS</a>
+                                <a href="https://www.cinstar-led.com/products/" class="menu-link has-sub">PRODUCTS</a>
                                 <div class="menu-icon">
                                     <i class="fa fa-chevron-right"></i>
                                 </div>
@@ -130,7 +130,7 @@
                         </li>
                         <li class="menu-item" id="in04">
                             <div class="menu-with-icon">
-                                <a href="https://www.cinstar-led.com/gallery" class="menu-link has-sub">GALLERY</a>
+                                <a href="https://www.cinstar-led.com/gallery/" class="menu-link has-sub">GALLERY</a>
                                 <div class="menu-icon">
                                     <i class="fa fa-chevron-right"></i>
                                 </div>
@@ -156,19 +156,19 @@
                             </div>
                         </li>
                         <li class="menu-item" id="in05">
-                            <a href="https://www.cinstar-led.com/led-academy" class="menu-link">LED ACADEMY</a>
+                            <a href="https://www.cinstar-led.com/led-academy/" class="menu-link">LED ACADEMY</a>
                             <div class="subMenu">
                                 <ul class="subMenu-ul"></ul>
                             </div>
                         </li>
                         <li class="menu-item" id="in06">
-                            <a href="https://www.cinstar-led.com/news" class="menu-link">NEWS</a>
+                            <a href="https://www.cinstar-led.com/news/" class="menu-link">NEWS</a>
                             <div class="subMenu">
                                 <ul class="subMenu-ul"></ul>
                             </div>
                         </li>
                         <li class="menu-item" id="in07">
-                            <a href="https://www.cinstar-led.com/contact" class="menu-link">CONTACT</a>
+                            <a href="https://www.cinstar-led.com/contact/" class="menu-link">CONTACT</a>
                             <div class="subMenu">
                                 <ul class="subMenu-ul"></ul>
                             </div>

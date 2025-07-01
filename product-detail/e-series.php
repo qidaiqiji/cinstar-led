@@ -626,7 +626,7 @@
                     <p>Wanna Upgrade Your Next Projects?</p>
                 </div>
                 <div class="contact-banner-mark">
-                    <a href="../contact" class="contact-banner-button">Contact Us Now</a>
+                    <a href="https://www.cinstar-led.com/contact/" class="contact-banner-button">Contact Us Now</a>
                 </div>
             </div>
         </div>

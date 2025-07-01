@@ -81,7 +81,7 @@
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            When turning off LED billboard, first to shut down the power of display, then the controlling software and last the controlling computer. If turning off computer when LED billboard is still running, which may cause very high brightness spot on <a href="https://www.cinstar-led.com/products">LED display</a> and burn the LEDs.
+                            When turning off LED billboard, first to shut down the power of display, then the controlling software and last the controlling computer. If turning off computer when LED billboard is still running, which may cause very high brightness spot on <a href="https://www.cinstar-led.com/products/">LED display</a> and burn the LEDs.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -124,7 +124,7 @@
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            Scheduled cleaning work. Exposed to the open air, the dusts, particles and rains will leave dirt and traces on the surface of LED billboard, which affects the image quality on the display. So, a routine cleaning work should be performed, whatever <a href="https://www.cinstar-led.com/products">indoor or outdoor LED display</a>.
+                            Scheduled cleaning work. Exposed to the open air, the dusts, particles and rains will leave dirt and traces on the surface of LED billboard, which affects the image quality on the display. So, a routine cleaning work should be performed, whatever <a href="https://www.cinstar-led.com/products/">indoor or outdoor LED display</a>.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

@@ -98,7 +98,7 @@
                             <b>A wide variety of display contents</b>
                         </p>
                         <p>
-                        Utilizing advanced optoelectronic technology, outdoor LED screen can display a wide variety of contents such as text, static and dynamic image, graphic animation, 2D and 3D videos etc. The whole <a href="https://www.cinstar-led.com/products">LED screen</a> could be split into several parts to display different contents and maximize its commercial values. 
+                        Utilizing advanced optoelectronic technology, outdoor LED screen can display a wide variety of contents such as text, static and dynamic image, graphic animation, 2D and 3D videos etc. The whole <a href="https://www.cinstar-led.com/products/">LED screen</a> could be split into several parts to display different contents and maximize its commercial values. 
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

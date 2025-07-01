@@ -90,7 +90,7 @@
                         niformity including three aspects: the mechanical flatness and uniformity of color and brightness. Mechanical flatness is decided by the precision of module and panel. Poor flatness will cause bright lines or black lines on LED display. The color and brightness uniformity related to LED lamps. If the LED lamps on the screen are with different batches, the image looks not clean and will cause black dots or mosaic effect. The most effective way to test the uniformity is to set the LED display at the state of white with full brightness.
                         </p>
                         <p>
-                        The main parameters mentioned above will help you judge the quality of LED display and find out <a href="https://www.cinstar-led.com/products">the most cost-effective product solution</a> for your project. 
+                        The main parameters mentioned above will help you judge the quality of LED display and find out <a href="https://www.cinstar-led.com/products/">the most cost-effective product solution</a> for your project. 
                         </p>
                     </li>
                 </ul>
