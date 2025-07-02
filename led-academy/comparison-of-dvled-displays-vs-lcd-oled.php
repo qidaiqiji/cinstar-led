@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/comparison-of-dvled-displays-vs-lcd-oled.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>DVLED Displays vs. LCD, OLED, and LED: Which Is Right for Your Business?</title>

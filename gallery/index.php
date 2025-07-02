@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/gallery/">
     <link rel="stylesheet" href="../css/gallery-240815.css">
     <title>Visual Excellence in LED Displays | Cinstar LED</title>
     <meta name="description" content="Browse through Cinstar LED’s gallery to view stunning indoor, outdoor, and rental LED displays. Witness the visual impact we bring to clients.">

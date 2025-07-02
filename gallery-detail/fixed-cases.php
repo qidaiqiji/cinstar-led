@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/gallery-detail/fixed-cases.php">
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
     <title>Transform Your Space with Fixed LED Cases | Cinstar LED</title>
     <meta name="description" content="View our collection of fixed cases designed for professional LED installations. Elevate your project with CinstarLED's top-notch solutions.">

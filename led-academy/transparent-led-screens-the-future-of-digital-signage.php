@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/transparent-led-screens-the-future-of-digital-signage.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Transparent LED Screens Are the Future of Digital Signage</title>

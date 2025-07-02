@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/gallery-detail/rental-cases.php">
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
     <title>Exceptional LED Rental Cases for Events | Cinstar LED</title>
     <meta name="description" content="Check out LED rental case showcase from Cinstar LED. See how our versatile solutions enhance events, from concerts to corporate functions!">

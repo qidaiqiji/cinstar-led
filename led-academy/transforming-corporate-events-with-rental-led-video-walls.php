@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/transforming-corporate-events-with-rental-led-video-walls.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Transforming Corporate Events with Rental LED Video Walls</title>

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/outdoor-led-screen-best-advertising-channel-for-shopping-mall.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Outdoor LED Screens Are the Best Advertising Channel for Shopping Mall Owners</title>

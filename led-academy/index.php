@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/">
     <link rel="stylesheet" href="../css/blog-240917.css">
     <title>Your Guide to LED Technology | Cinstar LED</title>
     <meta name="description" content="Explore Cinstar LED Academy for in-depth knowledge on LED technology. Access educational resources, tips, and updates on the LED industry.">

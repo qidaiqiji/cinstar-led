@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-trends-in-outdoor-digital-led-billboard-advertising-sign.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>5 Trends in Digital LED Billboard Technology to Watch | Cinstar LED</title>

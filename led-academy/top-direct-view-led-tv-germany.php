@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-direct-view-led-tv-germany.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Top 10 Direct View LED TV Companies in Germany – Expert Analysis & Cinstar LED Advantage</title>

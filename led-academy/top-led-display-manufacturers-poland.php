@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-led-display-manufacturers-poland.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Display Manufacturers Poland | LED Screen & Video Wall Panels | Cinstar LED</title>

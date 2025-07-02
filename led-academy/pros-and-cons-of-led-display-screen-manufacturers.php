@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/pros-and-cons-of-led-display-screen-manufacturers.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Pros and Cons of Local and International LED Display Screen Manufacturers | Cinstar LED</title>

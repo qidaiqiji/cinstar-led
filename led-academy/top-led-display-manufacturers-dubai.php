@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-led-display-manufacturers-dubai.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Display Screen Manufacturers Dubai | Best LED Video Wall Panels Supplier | Cinstar LED</title>

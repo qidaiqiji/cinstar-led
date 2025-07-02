@@ -4,6 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/about-240815.css">
+    <link rel="canonical" href="https://www.cinstar-led.com/about/">
     <title>About Our Global LED Display Solutions | Cinstar LED</title>
     <meta name="description" content="Learn about Cinstar LED, a global provider of advanced LED display solutions, delivering superior products for outdoor, indoor, and rental applications.">
     <meta name="keywords" content="LED display supplier, full color LED display, LED display china, LED screen supplier, LED screen manufacturer">

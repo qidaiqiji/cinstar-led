@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-led-video-wall-manufacturers-saudi-arabia.php">
     <link rel="stylesheet" href="../css/product-241227.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Top 5 LED Video Wall Manufacturers in Saudi Arabia | LED Display Screen Experts | Cinstar LED</title>

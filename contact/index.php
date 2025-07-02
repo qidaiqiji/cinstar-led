@@ -4,6 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/contact-241024.css">
+    <link rel="canonical" href="https://www.cinstar-led.com/contact/">
     <title>Get in Touch with Us | Cinstar LED</title>
     <meta name="description" content="Contact Cinstar LED for support, product details, or business inquiries. We’re dedicated to providing excellent customer service.">
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier">

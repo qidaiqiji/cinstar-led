@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/gallery-detail/fine-pitch-cases.php">
     <link rel="stylesheet" href="../css/galleryDetail-240816.css">
     <title>Fine Pitch LED Cases | Visual Excellence | Cinstar LED</title>
     <meta name="description" content="Discover visual excellence with fine pitch LED cases. Cinstar LED delivers stunning clarity and detail for premium installations!">
