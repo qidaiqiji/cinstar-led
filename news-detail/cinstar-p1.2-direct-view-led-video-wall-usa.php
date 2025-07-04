@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-p1.2-direct-view-led-video-wall-usa.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>4K Direct View LED Video Wall USA | LED Screen System | Cinstar LED</title>
     <meta name="description" content="High profile Cinstar P1.2 4K UHD direct view LED video wall is aging and ready for shipment to USA">

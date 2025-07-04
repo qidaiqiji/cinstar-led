@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-church-led-screen-uk.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Church LED Screen UK | Cinstar LED</title>
     <meta name="description" content="40sqm Cinstar church LED screen walks into Belfast Cathedral church for story sharing gathering.">

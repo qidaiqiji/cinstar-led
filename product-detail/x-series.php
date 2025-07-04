@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/x-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor LED Advertising Billboard Display | Cinstar LED</title>
     <meta name="description" content="Cinstar X series outdoor LED advertising display screen is the best solution for 3D LED billboard advertising campaigns. Try it out today!">

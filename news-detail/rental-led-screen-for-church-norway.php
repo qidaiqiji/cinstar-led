@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/rental-led-screen-for-church-norway.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Rental LED Screen for Church | Norway Oslo Convention Center</title>
     <meta name="description" content="60sqm Cinstar rental LED screen for church was used for worship at Oslo convention center in Norway.">

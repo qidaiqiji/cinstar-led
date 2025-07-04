@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news/">
     <link rel="stylesheet" href="../css/news-241217.css">
     <title>LED Industry News and Updates | Cinstar LED</title>
     <meta name="description" content="Get the latest news from Cinstar LED, including product releases, company events, and industry news. Keep up with our latest achievements and innovations.">

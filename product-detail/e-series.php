@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/e-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>LED Rental Panel | Indoor Outdoor LED Panel Screen | LED Screen Rental | Cinstar-led</title>
     <meta name="description" content="Featuring wide pixel pitches from indoor 2.6mm, 2.9mm, 3.9mm to outdoor 3.9mm, 4.8mm and 5.6mm, Cinstar E SERIES rental LED panel has two panel sizes 500x500mm and 500x1000mm to meet any of your LED rental event productions.">

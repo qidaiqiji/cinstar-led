@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cob-direct-view-led-video-wall-usa.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>P1.2 COB Direct View LED Video Wall USA High School</title>
     <meta name="keywords" content="dvled, direct view led, direct view led video wall, fine pitch led video wall, fine pitch led display, led video wall panel, led video wall display, led video wall USA, led display screen, indoor led display">

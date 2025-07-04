@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/fl-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Creative LED Screen | Soft Flexible LED Module | Irregular LED Display | Cylinder LED Display | Cinstar-led</title>
     <meta name="description" content="Cinstar FL soft flexible LED module can do any creative led screen like shopping mall and metro station cylinder led display, irregular shaped led screen and globe led screen etc to deliver all your creative ideas.">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/rental-video-screens-for-concert-ideas-norway.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Rental Video Screens for Concert Ideas | Norway Telenor Arena | Cinstar LED</title>
     <meta name="description" content="100sqm Cinstar rental video screens for concert ideas were delivered to Telenor Arena Norway to light up the show.">

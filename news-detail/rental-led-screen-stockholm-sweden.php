@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/rental-led-screen-stockholm-sweden.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Rental LED Screen | Stockholm Sweden | Cinstar LED</title>
     <meta name="description" content="180sqm of Cinstar high profile rental LED screens were applied for Zinzino annual event at Stockholm Sweden.">

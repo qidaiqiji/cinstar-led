@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/features-outdoor-led-screen-should-have.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Outdoor LED Screen | LED Electronic Display | Cinstar LED</title>
     <meta name="description" content="Outdoor LED screen is perfect for outdoor advertising campaign. Wanna stand out from competition? Choose Cinstar LED electronic displays.">

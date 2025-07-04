@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/t-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Concert LED Screen | Cinstar-led, LED Panel Screen | Best LED Video Screen</title>
     <meta name="description" content="Cinstar concert LED screen T Series equipped with a fast locking system for rapid construction, a curving system allowing both convex and concave configurations, hanging and ground stacking installation. This LED panel screen will be the best LED video screen for you.">

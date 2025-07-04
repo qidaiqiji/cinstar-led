@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/why-cob-is-better-than-smd-in-direct-view-led.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Why COB is Better Than SMD in Direct View LED Video Wall | Cinstar LED</title>
     <meta name="keywords" content="Explore why COB is outperforming SMD in Direct View LED technology. Learn how COB is better in DVLED Walls, LED TVs, and LED video wall. Discover Cinstar’s advanced COB solutions.">

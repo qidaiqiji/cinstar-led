@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/hd-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>HD LED Display | Cinstar-led, LED Video Wall Display, 4K LED Screen Wall</title>
     <meta name="description" content="Cinstar HD series offers the finest HD LED display suitable for the most demanding applications where a 2K or 4K LED screen wall is a need in a fixed installation environment. Need a high quality LED video wall display for your project? Cinstar has what you need!">

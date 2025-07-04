@@ -4,6 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-outdoor-3d-led-screen-delivered-to-Iraq.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>50SQM Cinstar Outdoor 3D LED Screen Delivered to Iraq | Cinstar LED</title>
     <meta name="keywords" content="3D LED screen, 3D LED display, outdoor 3D LED screen, Cinstar LED, LED screen Iraq, P3.9 LED display, curved LED screen, immersive advertising LED">

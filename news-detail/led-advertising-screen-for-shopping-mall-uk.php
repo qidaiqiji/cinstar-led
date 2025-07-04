@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/led-advertising-screen-for-shopping-mall-uk.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Advertising Screen UK | Shopping Mall | Cinstar LED</title>
     <meta name="description" content="260sqm Cinstar LED advertising screen display decorated and upgraded the shopping mall in UK. ">

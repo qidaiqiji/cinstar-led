@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/rental-led-display-dubai-auto-show.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Rental LED Display Dubai | Auto Show | Cinstar LED</title>
     <meta name="description" content="126sqm Cinstar P3.9 indoor rental LED display screen shines at Infinity Dubai Auto Show for the best image productions.">

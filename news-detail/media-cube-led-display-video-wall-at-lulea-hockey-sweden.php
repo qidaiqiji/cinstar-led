@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/media-cube-led-display-video-wall-at-lulea-hockey-sweden.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Media Cube LED Display Video Wall | Lulea Ice Hockey Sweden</title>
     <meta name="keywords" content="media cube, ice hockey, mediakub, LED video wall panels, LED display screen, sports arena, led system, led technology">

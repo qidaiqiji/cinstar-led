@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/uhd-4k-direct-view-led-home-cinema-usa.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>UHD 4K Direct View LED | Home Cinema USA | Cinstar LED</title>
     <meta name="description" content="UHD Cinstar U1.2 4K direct view led display wall is delivered & installed and served as home cinema in USA.">

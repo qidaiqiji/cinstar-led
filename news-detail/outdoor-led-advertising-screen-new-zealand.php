@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/outdoor-led-advertising-screen-new-zealand.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Outdoor LED Advertising Screen New Zealand | Shopping Center | Cinstar LED</title>
     <meta name="description" content="65sqm Cinstar outdoor LED advertising screen is installed at one shopping center in New Zealand for promotion and advertising campaign. ">

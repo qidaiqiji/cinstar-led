@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/direct-view-led-tv-to-replace-projectors-and-lcd-video-wall.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Direct View LED TV | Projectors & LCD Video Wall | Cinstar LED</title>
     <meta name="description" content="Cinstar direct view LED TV is perfect to upgrade your projector and LCD video wall for better visual experience.">

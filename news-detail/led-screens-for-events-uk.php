@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/led-screens-for-events-uk.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Screens for Events UK | Conference Events | Cinstar LED</title>
     <meta name="description" content="42sqm Cinstar indoor rental LED screens for events at UUP conference UK.">

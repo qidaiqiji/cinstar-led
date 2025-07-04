@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/bt-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Outdoor Stadium LED Display | LED Perimeter Banner Screen | Sport Arena LED Advertising | Cinstar-led</title>
     <meta name="description" content="Cinstar BT series outdoor stadium led perimeter display system can be used as perimeter banner LED screen and LED scoreboard for both indoor and outdoor sport arena to show clear image led advertising.">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/products/indoor-led-display.php">
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <!-- <link rel="stylesheet" href="../css/new-product-240917.css"> -->
     <link rel="stylesheet" href="../css/product-241227.css">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-unveils-x-series-ultra-bright-versatile-outdoor-led-advertising-billboard.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar LED's X Series Ultra-Bright Outdoor LED Billboard</title>
     <meta name="keywords" content="fine pitch led video wall, fine pitch led display, fine pitch led wall, led video wall, indoor led display">

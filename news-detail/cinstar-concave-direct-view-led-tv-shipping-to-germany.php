@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-concave-direct-view-led-tv-shipping-to-germany.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Concave Direct View LED TV Germany | Cinstar LED</title>
     <meta name="description" content="A giant 20x9 panels of Cinstar concave P1.2 4K direct view LED TV is ready for delivery to Germany.">

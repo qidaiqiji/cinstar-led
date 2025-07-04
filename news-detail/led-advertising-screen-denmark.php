@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/led-advertising-screen-denmark.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Advertising Screen Denmark | Cinstar LED</title>
     <meta name="description" content="40sqm Cinstar P10 outdoor LED advertising screen is installed at one shopping mall in Denmark.">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/v-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title> Fine Pitch LED Video Wall I Direct-View LED Screen I Narrow Pixel Pitch LED Display I Cinstar LED</title>
     <meta name="description" content=" Top quality and customizable versatile fine pixel pitch LED video wall screen can satisfy all installations (hanging, self-standing all-in-one LED wall and wall mounted) to delivery the best image quality and stunning visual impact for scenarios at conference room, control room, boardroom and TV studio etc.">

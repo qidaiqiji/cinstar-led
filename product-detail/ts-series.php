@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ts-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>LED Window Display | Cinstar-led, LED Curtain Wall | LED Curtain Display</title>
     <meta name="description" content="Cinstar LED window display TS series with great transparency which ensures no any daylight or vision will be blocked out. The high brightness of the LED curtain wall and supreme image of the LED curtain display assures superb visual performance at any installation environments.">

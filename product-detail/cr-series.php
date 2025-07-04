@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/cr-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Folding Flexible Rental LED Display Screen | Cinstar LED</title>
     <meta name="description" content="Upgrade your next events with Cinstar folding indoor and outdoor flexible rental LED display screen solutions.">

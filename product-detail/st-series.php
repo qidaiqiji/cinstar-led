@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/st-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Advertising LED Screen | Outdoor Advertising Display | LED Advertising Sign | Cinstar-led</title>
     <meta name="description" content="Cinstar ST series advertising led screen is the most cost effective outdoor advertising display for high profile out of home advertising. We offers wide pixel pitches LED advertising signs to meet your budgets.">

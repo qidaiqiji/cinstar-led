@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/led-video-wall-panels-ready-for-shipping-to-sweden.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Video Wall Panels Sweden | Rental LED Display | Cinstar LED</title>
     <meta name="description" content="Pilot 9sqm Cinstar rental LED video wall panels for Sweden factory project is ready for shipping.">

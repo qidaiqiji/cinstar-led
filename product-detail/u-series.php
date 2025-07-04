@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/u-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Fine Pixel Pitch LED Screen | UHD LED Video Display | Narrow Pitch LED Screen | 4K LED Video Wall | Cinstar-led</title>
     <meta name="description" content="Cinstar U series UHD seamless fine pixel pitch LED screen can achieve 2K 4K 8K UHD image for any control room, monitor room, command room, TV studio and conference room for direct view narrow pixel pitch LED video screen. We have high profile and budget UHD LED video display solutions for all your projects.">

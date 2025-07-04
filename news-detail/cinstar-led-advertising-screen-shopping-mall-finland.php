@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-led-advertising-screen-shopping-mall-finland.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Advertising Screen | Shopping Mall Finland | Cinstar LED</title>
     <meta name="description" content="26sqm Cinstar outdoor LED advertising screen is ready for shipping to shopping mall Finland. Contact Cinstar LED for LED advertising solutions.">

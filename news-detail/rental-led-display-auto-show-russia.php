@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/rental-led-display-auto-show-russia.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Rental LED Display Russia | Car Auto Show | Cinstar LED</title>
     <meta name="description" content="50sqm of Cinstar P3.9 rental LED display is applied to Russia auto show for visual attraction and demonstration.">

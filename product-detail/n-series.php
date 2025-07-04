@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/n-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Indoor LED display Screen | Led Video Display Screen Wall</title>
     <meta name="description" content="We offer Indoor LED display Screen, Led Video Display Screen Wall, LED Billboard Advertising, Led Display Signs for Church. Contact us Now.">

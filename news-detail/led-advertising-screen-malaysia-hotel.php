@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/led-advertising-screen-malaysia-hotel.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Advertising Screen | Malaysia | Cinstar LED</title>
     <meta name="description" content="12sqm Cinstar indoor LED advertising screen is installed at Malaysia hotel tower for commercial advertising.">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/tf-series.php">
     <link rel="stylesheet" href="../css/new-detail-241108-1.css">
     <title>Transparent LED Film Screen Display | Flexible Holographic LED Video Wall</title>
     <meta name="description" content="Cinstar transparent holographic LED film screen display is best for indoor glass wall advertising at 4S store, shopping mall and retail shop. ">

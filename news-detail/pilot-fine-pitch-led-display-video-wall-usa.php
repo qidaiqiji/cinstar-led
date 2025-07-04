@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/pilot-fine-pitch-led-display-video-wall-usa.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Fine Pitch LED Display Video Wall USA</title>
     <meta name="description" content="The Cinstar pilot fine pitch LED display video wall is delivered to our USA customer for innovative and immersive life-size video conference.">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ctv-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <link rel="stylesheet" href="../css/ctv-product.css">
     <title>All in One Direct View LED TV Video Wall | Cinstar LED</title>

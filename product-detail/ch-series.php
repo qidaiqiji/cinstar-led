@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ch-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Direct View LED Wall | LED Video Wall Panels | Fine Pitch LED Display | Cinstar LED</title>
     <meta name="description" content="Cinstar CH series high profile COB direct view LED video wall panels can deliver the most impact visual experience and top durability. The best fine pitch LED display screen solution for high profile installations like TV studio, conference room, control room and home cinema etc.">

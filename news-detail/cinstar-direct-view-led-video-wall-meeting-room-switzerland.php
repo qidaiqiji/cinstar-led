@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/cinstar-direct-view-led-video-wall-meeting-room-switzerland.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Direct View LED Video Wall Switzerland | Meeting Room | Cinstar LED</title>
     <meta name="description" content="10sqm Cinstar direct view LED video wall display is delivered and installed at a meeting room in Switzerland.">

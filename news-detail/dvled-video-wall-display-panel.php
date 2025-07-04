@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/dvled-video-wall-display-panel.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Cinstar P1.2 DV LED Video Wall Display Panel Boston USA</title>
     <meta name="keywords" content="media cube, ice hockey, mediakub, LED video wall panels, LED display screen, sports arena, led system, led technology">

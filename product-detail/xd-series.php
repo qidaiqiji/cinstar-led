@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/xd-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Stadium Perimeter LED Display | LED Perimeter Board | Cinstar LED</title>
     <meta name="description" content="Upgrade your sports arena with Cinstar stadium perimeter LED display. An ideal LED perimeter board for stadium advertising and fans engagement.">

@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/outdoor-led-screen-advertising-sweden.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Outdoor LED Screen Advertising | COOP Arena Sweden</title>
     <meta name="description" content="28sqm Cinstar mesh outdoor LED screen is installed at COOP Arena in Sweden for high profile advertising.">

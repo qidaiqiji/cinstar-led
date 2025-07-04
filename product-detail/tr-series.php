@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/product-detail/tr-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <title>Transparent LED Display | LED Curtain | LED Mesh Display | Cinstar-led</title>
     <meta name="description" content="Cinstar transparent LED display TR series offers ultra-high transparency screens for indoor rental and fixed installations. It can be used as LED backdrop curtain on stage event and also LED mesh display for window commercial advertising.">

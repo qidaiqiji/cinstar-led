@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/best-shopping-mall-led-advertising-display-in-finland.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Advertising Display | Shopping Mall Finland | Cinstar LED</title>
     <meta name="description" content="Two years ago, Cinstar delivered one giant LED advertising display for shopping mall Koskikeskus in Tampere Finland.">

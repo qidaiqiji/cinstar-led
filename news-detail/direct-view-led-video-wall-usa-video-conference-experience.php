@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>Direct View LED Video Wall USA | Video Conference Experience | Cinstar LED</title>
     <meta name="keywords" content="direct view led, direct view led video wall, direct view led display, direct view led tv, direct view led wall, direct view led display video wall, direct view led display wall, video conference system">

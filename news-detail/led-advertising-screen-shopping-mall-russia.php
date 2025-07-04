@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/news-detail/led-advertising-screen-shopping-mall-russia.php">
     <link rel="stylesheet" href="../css/newsDetail-240926.css">
     <title>LED Advertising Screen Russia | Shopping Mall LED Billboard</title>
     <meta name="description" content="20sqm Cinstar LED advertising screen billboard is installed at one shopping mall in Russia for promotion and campaign.">
