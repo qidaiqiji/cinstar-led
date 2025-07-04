@@ -3,6 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
+    <link rel="canonical" href="https://www.cinstar-led.com/products/">
     <link rel="stylesheet" href="../css/product-241227.css">
     <title>High-Quality LED Display Products | Cinstar LED</title>
     <meta name="description" content="Explore Cinstar LED's wide range of LED display solutions for indoor, outdoor, and rental applications. Built for high-quality performance and durability.">
