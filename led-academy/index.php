@@ -28,6 +28,57 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/flexible-led-screen-vs-flexible-oled-screen.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/led-screen-VS-oled-screen.webp" alt="led screen VS oled screen"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/flexible-led-screen-vs-flexible-oled-screen.php">Flexible LED screen VS flexible OLED screen: Which is Better?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            With the advancements in display technology, flexible screens have revolutionized both commercial and creative industries. Flexible LED and OLED screens are two of the biggest names in this field
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/flexible-led-screen-vs-flexible-oled-screen.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 22, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/led-display-lifespan-how-long-will-led-screen-last.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/led-display-lifespan.webp" alt="led display lifespan"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/led-display-lifespan-how-long-will-led-screen-last.php">LED Display Lifespan: How Long Will LED Screen Last</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            Let's get real. No one enjoys changing or repairing LED screens. That uncomfortable lean on the wobbly chair, the digging through the cupboard for the correct wattage, and the shock when you discover you don't have a spare
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/led-display-lifespan-how-long-will-led-screen-last.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 22, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/the-biggest-led-display-in-the-world-here-what-you-need-to-know.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/top5-largest-led-displays.webp" alt="top5 largest led displays"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/the-biggest-led-display-in-the-world-here-what-you-need-to-know.php">The Biggest LED Displays in the World: Here's What You Need to Know</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            When you hear the words "LED displays," your thoughts immediately go to Times Square. You may imagine a concert venue, or a stadium. However, in another part of the world, display on an entirely different scale is redefining what a screen can be.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/the-biggest-led-display-in-the-world-here-what-you-need-to-know.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 22, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/how-led-billboards-work.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/guide-to-outdoor-digital-displays.webp" alt="guide to outdoor digital displays"></a>
                     </div>
                     <div class="blog-content">
