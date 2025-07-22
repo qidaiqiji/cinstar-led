@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/what-is-COB-technology.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>What is COB Encapsulation Technology | Cinstar LED</title>
     <meta name="description" content="Get an overview of COB technology, its key features, and why it’s vital for LED displays from Cinstar LED. See how it enhances visual performance.">

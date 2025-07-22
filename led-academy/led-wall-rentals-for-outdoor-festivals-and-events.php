@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/led-wall-rentals-for-outdoor-festivals-and-events.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Wall Rentals for Outdoor Festivals and Events</title>
     <meta name="description" content="Discover why rental LED screens are the best solution for outdoor festivals and events. Learn how LED wall rentals provide high visibility, durability, and seamless content display.">

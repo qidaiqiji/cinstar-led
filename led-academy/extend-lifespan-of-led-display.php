@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/extend-lifespan-of-led-display.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Maximize the Lifespan of LED Displays | Cinstar LED</title>
     <meta name="description" content="Maximize the lifespan of your LED display with tips from Cinstar LED. Discover maintenance techniques to ensure long-term performance.">

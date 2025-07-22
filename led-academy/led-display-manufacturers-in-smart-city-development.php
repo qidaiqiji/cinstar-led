@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/led-display-manufacturers-in-smart-city-development.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Role of LED Display Manufacturers in Smart City Development</title>
     <meta name="description" content="Discover how LED display manufacturers contribute to smart city development with energy-efficient, high-performance LED video wall panels for public safety, traffic management, and digital engagement.">

@@ -3,7 +3,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-to-identify-quality-led-display-screen.php">
     <title>How To Identify The Quality Of LED Display Screen | Cinstar LED</title>

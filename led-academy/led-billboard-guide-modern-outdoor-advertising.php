@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/led-billboard-guide-modern-outdoor-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Billboards and Outdoor Advertising | Cinstar LED</title>
     <meta name="description" content="What makes LED billboards so effective? Discover their advantages from Cinstar LED in modern outdoor advertising and how they captivate audiences.">

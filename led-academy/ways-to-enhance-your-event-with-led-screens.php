@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/ways-to-enhance-your-event-with-led-screens.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>6 Ways to Enhance Your Event with LED Screens | Cinstar LED</title>
     <meta name="description" content="Boost your event with LED screens: vibrant visuals, live streaming, interactive displays, branded content, wayfinding, and dynamic stage backdrops for lasting impact!">

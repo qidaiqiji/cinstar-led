@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-to-improve-clarity-of-led-display.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How to Improve Clarity of LED Display | Cinstar LED</title>
     <meta name="description" content="Enhance the clarity of your LED display with easy-to-follow techniques. Cinstar LED provides practical solutions for sharper, clearer visuals.">

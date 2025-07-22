@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/key-factors-selecting-led-screens-outdoor-vs-indoor-applications.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Key Factors for Selecting LED Screens | Cinstar LED</title>
     <meta name="description" content="Compare essential factors for selecting LED screens for both indoor and outdoor applications, ensuring optimal performance and reliability from Cinstar LED.">

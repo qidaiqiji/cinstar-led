@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/why-led-billboards-are-the-future-of-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>From Traditional to Modern: Why LED Billboards are the Future of Advertising</title>
     <meta name="description" content="Discover why LED billboards are replacing traditional print advertising, offering dynamic content, cost-effectiveness, and energy efficiency.">

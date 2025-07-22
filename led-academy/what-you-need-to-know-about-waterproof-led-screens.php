@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/what-you-need-to-know-about-waterproof-led-screens.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Everything You Need To Know About Waterproof LED Screens | Cinstar LED</title>
     <meta name="description" content="Learn how waterproof LED screens stand up to harsh environments, ensuring high performance and reliability for outdoor and industrial applications.">

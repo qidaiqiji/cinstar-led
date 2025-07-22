@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/outdoor-led-billboards-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Billboards and Advertising | Cinstar LED</title>
     <meta name="description" content="Learn how outdoor LED billboards are revolutionizing advertising with data-driven strategies. Stay ahead of the curve with Cinstar LED's blog.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/dvled-video-walls-and-fine-pitch-led-screens-for-retail-spaces.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Transforming Retail Spaces with DVLED Video Walls and Fine Pitch LED Screens</title>
     <meta name="description" content="Explore how DVLED video walls and Fine pitch LED screens are transforming retail spaces, enhancing advertising, branding, and customer engagement.">

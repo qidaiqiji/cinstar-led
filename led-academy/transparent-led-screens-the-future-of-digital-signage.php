@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/transparent-led-screens-the-future-of-digital-signage.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Transparent LED Screens Are the Future of Digital Signage</title>
     <meta name="description" content="Discover why transparent LED screens are the future of digital signage. Learn about their advantages, applications, and transformative role in modern architecture.">

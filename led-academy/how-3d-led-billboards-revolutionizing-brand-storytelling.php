@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-3d-led-billboards-revolutionizing-brand-storytelling.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>3D LED Billboards in Brand Storytelling | Cinstar LED</title>
     <meta name="description" content="3D LED displays are changing the face of entertainment by adding visual storytelling, and futuristic visuals at live events. Explore more at Cinstar LED.">

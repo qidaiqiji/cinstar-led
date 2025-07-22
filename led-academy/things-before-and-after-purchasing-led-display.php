@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/things-before-and-after-purchasing-led-display.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Buying Checklist | Cinstar LED</title>
     <meta name="description" content="Ensure a successful investment by understanding what to consider before and after purchasing an outdoor LED display. Get expert advice from Cinstar LED.">

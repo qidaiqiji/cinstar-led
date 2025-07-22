@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-led-advertising-screens-change-digital-out-of-home.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How LED Advertising Screens Are Changing Digital Out-of-Home</title>
     <meta name="description" content="Explore how LED advertising screens transform digital out-of-home advertising. Discover their impact, advantages, and why Cinstar leads the way">

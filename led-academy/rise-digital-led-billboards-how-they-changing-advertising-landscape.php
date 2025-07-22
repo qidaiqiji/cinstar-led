@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/rise-digital-led-billboards-how-they-changing-advertising-landscape.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rise of Digital LED Billboards | Cinstar LED</title>
     <meta name="description" content="Understand how Cinstar LED's digital LED billboards are revolutionizing advertising methods by increasing interaction and efficacy.">

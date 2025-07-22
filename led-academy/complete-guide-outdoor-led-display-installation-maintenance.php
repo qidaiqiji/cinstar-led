@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/complete-guide-outdoor-led-display-installation-maintenance.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Display Installation and Care | Cinstar LED</title>
     <meta name="description" content="Set up and maintain your outdoor LED display like a pro! Check the guide from Cinstar LED, offers practical steps for durability and top-notch visuals.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/transparent-led-film-screen-for-window-glass-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Transparent LED Film: A Game-Changer for Window Advertising</title>
     <meta name="description" content="Discover how Transparent LED Film is revolutionizing window advertising with its lightweight design and easy application. Learn about the benefits of transparent LED screens and video walls.">

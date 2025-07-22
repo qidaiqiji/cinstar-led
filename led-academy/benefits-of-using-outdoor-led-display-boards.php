@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/benefits-of-using-outdoor-led-display-boards.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>6 Benefits of Using Outdoor LED Display Boards | Cinstar-LED</title>
     <meta name="description" content="Learn how outdoor LED display boards boost brand visibility, reduce energy costs, and last longer. Discover 6 benefits for your business today!">

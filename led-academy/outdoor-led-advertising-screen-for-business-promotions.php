@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/outdoor-led-advertising-screen-for-business-promotions.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Advertising Screen for Seasonal and Event-Based Promotions | Cinstar LED</title>
     <meta name="description" content="Discover how outdoor LED advertising screen enhances seasonal and event-based promotions with dynamic visuals and real-time updates. Learn why Cinstar LED is the trusted LED screen manufacturer for high-impact digital advertising.">

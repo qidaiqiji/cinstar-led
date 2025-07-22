@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/led-billboard-for-public-transport-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How LED Billboards are Revolutionizing Public Transport Advertising | Cinstar LED</title>
     <meta name="description" content="Read how Cinstar LED billboards transform public transport ads with vivid, dynamic displays. Boost visibility & engagement on the move—discover the revolution now!">

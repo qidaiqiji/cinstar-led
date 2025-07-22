@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/outdoor-led-displays-for-sports-stadiums-and-events.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How Outdoor LED Displays Are Enhancing Sports Stadiums and Events | Cinstar LED</title>
     <meta name="description" content="Learn how outdoor LED displays are revolutionizing sports stadiums, enhancing game-day excitement, fan interaction, and event operations like never before!">

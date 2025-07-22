@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/future-led-display-technology.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Future Trends in LED Display Technology | Cinstar LED</title>
     <meta name="description" content="The LED display industry is evolving rapidly. Discover the trends led by Cinstar LED, ranging from immersive experiences to AI-driven innovation.">

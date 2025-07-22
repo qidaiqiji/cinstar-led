@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/outdoor-led-billboards-smart-investment-for-businesses.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Outdoor LED Billboards Are a Smart Investment for Businesses</title>
     <meta name="description" content="Discover why outdoor LED billboards provide high ROI for businesses. Learn how digital LED billboards enhance visibility, engagement, and revenue generation.">

@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-led-screen-manufacturers-spain.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Screen Manufacturers Spain | LED Display & Video Wall Panels | Cinstar LED</title>
     <meta name="description" content="Discover the top 5 LED screen manufacturers in Spain and why Cinstar LED is a global leader in LED video wall panels.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/rental-led-screens-vs-purchasing-which-right-business.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rental LED Screens vs. Purchasing | Cinstar LED</title>
     <meta name="description" content="Analyze the pros and cons of renting versus purchasing LED screens to determine the best fit for your business objectives and budget with Cinstar LED.">

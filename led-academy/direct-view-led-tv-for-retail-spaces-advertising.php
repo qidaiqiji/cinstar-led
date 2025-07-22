@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/direct-view-led-tv-for-retail-spaces-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED TV for Retail Spaces | Fine Pitch LED Display | Cinstar LED</title>
     <meta name="description" content="Explore how direct view LED TV and fine pitch LED displays are revolutionizing retail environments and discover why Cinstar LED is the preferred LED display manufacturer for high-performance retail displays.">

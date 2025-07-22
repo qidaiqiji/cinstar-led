@@ -5,7 +5,7 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/products/fine-pitch-led-display.php">
     <link rel="stylesheet" href="../css/product-common-240917.css">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>DVLED | Fine Pitch LED Display & Video Wall Panels | Cinstar LED</title>
     <meta name="description" content="Cinstar offers the best DVLED display and fine pitch LED screen for all your direct view LED video wall application. Contact Cinstar LED for your needs.">
@@ -126,7 +126,7 @@
                 <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
-        <div class="spce-container">
+        <div class="spce-container" style="display: flex;">
         <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="https://www.cinstar-led.com/product-detail/ch-series.php">

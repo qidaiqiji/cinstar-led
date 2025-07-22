@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/direct-view-led-vs-lcd-video-walls.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED vs. LCD Video Walls | Cinstar LED</title>
     <meta name="description" content="Choosing between Direct View LED and LCD video walls? Explore their pros and cons from Cinstar LED to find the best fit for your space and budget.">

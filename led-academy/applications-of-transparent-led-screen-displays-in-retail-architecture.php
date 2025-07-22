@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/applications-of-transparent-led-screen-displays-in-retail-architecture.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Top 5 Applications of Transparent LED Screen Displays in Retail and Architecture</title>
     <meta name="description" content="Explore the top 5 applications of transparent LED screen displays in retail and architecture. Learn how transparent LED film and video walls transform spaces with stunning visuals.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/advantages-of-fine-pitch-led-display.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Choose Fine Pitch LED Displays | Cinstar LED</title>
     <meta name="description" content="Fine pitch LED displays offer incredible sharpness and detail. Explore how these displays elevate content delivery in any environment with Cinstar LED.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/why-rental-led-display-is-star-in-stage-concert-events.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Rental LED Display Is the Star in Stage Concert Events</title>
     <meta name="description" content="Discover why rental LED displays are essential for stage concerts. Learn their benefits, ideas for rental video screens, and why Cinstar is the industry leader">

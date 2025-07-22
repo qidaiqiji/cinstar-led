@@ -28,6 +28,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/how-led-billboards-work.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/guide-to-outdoor-digital-displays.webp" alt="guide to outdoor digital displays"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/how-led-billboards-work.php">How Do LED Billboards Work? A Beginner’s Guide to Outdoor Digital Displays</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            What powers those huge, glowing screens you see on highways or lighting up Times Square? Those are not gigantic TVs; they are LED billboards that changed the way brands communicate with the world.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/how-led-billboards-work.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 17, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/benefits-of-led-lighting-in-advertising-business.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/benefits-of-led-lighting.webp" alt="benefits of led lighting"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/benefits-of-led-lighting-in-advertising-business.php">Top 7 Benefits of LED Lighting in Modern Advertising Business</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            n today's competitive marketplace, capturing customer attention is increasingly challenging. That's why brands are replacing static images with dynamic LED advertising solutions to boost visibility and results
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/benefits-of-led-lighting-in-advertising-business.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 17, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/3d-led-display-for-theme-parks-and-entertainment-venues.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/blog1-1.jpg" alt="3d led display for theme parks"></a>
                     </div>
                     <div class="blog-content">

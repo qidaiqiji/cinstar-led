@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/growing-demand-3d-led-billboards-smart-cities-2025.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rise of 3D LED Billboards in Smart Cities | Cinstar LED</title>
     <meta name="description" content="Growing demand for 3D LED billboards is reshaping smart cities in 2025. Discover their impact on urban engagement and advertising from Cinstar LED.">

@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-led-display-screen-suppliers-france.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Display Screen Suppliers France | LED Video Wall Panels | Cinstar LED</title>
     <meta name="description" content="Discover the top 5 LED display screen suppliers in France and learn why Cinstar LED is the leading LED video wall panels manufacturer in French market.">

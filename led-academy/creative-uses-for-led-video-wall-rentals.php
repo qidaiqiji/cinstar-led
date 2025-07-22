@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/creative-uses-for-led-video-wall-rentals.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>6 Creative Uses for LED Video Wall Rentals | Cinstar LED</title>
     <meta name="description" content="LED video wall rentals create impactful displays for any event. From corporate events to concerts, explore 6 creative ways to captivate your audience with stunning visuals.">

@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/why-dvled-wall-ideal-for-lobby-and-boradroom.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why DVLED Wall Is Ideal for Lobby and Boardroom Applications | Fine Pitch LED Video Wall</title>
     <meta name="description" content="Discover why a DVLED wall is the perfect solution for corporate lobbies and boardrooms. Learn how fine pitch LED display, DVLED panels, and DVLED video wall enhance branding, presentations, and collaboration with seamless visuals and long-lasting performance.">

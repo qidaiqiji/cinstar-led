@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/outdoor-led-display-for-shopping-malls-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How Shopping Malls Use Outdoor LED Display to Attract Customers | Cinstar LED</title>
     <meta name="description" content="Explore how shopping malls utilize outdoor LED display to boost customer engagement and enhance promotional campaigns. Learn why Cinstar LED is a trusted outdoor LED screen manufacturer.">

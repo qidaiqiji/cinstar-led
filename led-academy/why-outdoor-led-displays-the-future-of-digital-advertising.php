@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/why-outdoor-led-displays-the-future-of-digital-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Outdoor LED Displays Are the Future of Digital Advertising</title>
     <meta name="description" content="Discover why outdoor LED displays are the future of digital advertising. Explore their benefits, including brightness, durability, and adaptability, to transform your marketing strategies.">

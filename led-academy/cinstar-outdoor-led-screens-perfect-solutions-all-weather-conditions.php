@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/cinstar-outdoor-led-screens-perfect-solutions-all-weather-conditions.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Outdoor LED Screens for All Weather Conditions | Cinstar LED</title>
     <meta name="description" content="From harsh winters to blazing summers, Cinstar LED's outdoor LED screens provide reliable performance in all weather conditions. Check out the Blog today!">

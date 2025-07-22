@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/role-direct-view-led-displays-large-scale-events.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Role of Direct View LED Displays on Events | Cinstar LED</title>
     <meta name="description" content="Discover the role of Direct View LED displays in large-scale event productions by Cinstar LED, ranging from high-resolution visuals to flexible designs.">

@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/transparent-led-film-screen-for-building-facade-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Transforming Building Façades with Transparent LED Film Screen | Cinstar LED</title>
     <meta name="description" content="Discover how transparent LED film screen can modernize office façades and enhance internal communication. Learn why Cinstar LED is the preferred LED display manufacturer for innovative, high-performance solutions.">

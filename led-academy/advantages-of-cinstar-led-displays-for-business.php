@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/advantages-of-cinstar-led-displays-for-business.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Advantages of Choosing Cinstar LED Displays For Your Business | Cinstar LED</title>
     <meta name="description" content="Enhance your business visibility with Cinstar LED displays, offering high-quality visuals, energy savings, and long-lasting performance.">

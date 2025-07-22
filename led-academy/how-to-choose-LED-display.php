@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-to-choose-LED-display.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Factors for Choosing an LED Display | Cinstar LED</title>
     <meta name="description" content="Consider these important factors when choosing an LED display. Cinstar LED helps you navigate your options for optimal performance.">

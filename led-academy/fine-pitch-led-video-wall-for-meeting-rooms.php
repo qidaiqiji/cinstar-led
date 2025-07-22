@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/fine-pitch-led-video-wall-for-meeting-rooms.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Fine Pitch LED Video Wall for Corporate Meeting Rooms | Cinstar LED</title>
     <meta name="description" content="Discover how fine pitch LED video walls enhance collaboration, presentations, and aesthetics in modern office spaces. Learn why Cinstar LED is the preferred LED display manufacturer for indoor corporate environments.">

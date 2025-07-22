@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/digital-signage-system-drives-sales-for-restaurant.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How a Digital Signage System Can Drive Sales in Your Restaurant | Cinstar LED</title>
     <meta name="description" content="In this blog, we will explore how digital signage can transform your restaurant business and why investing in LED technology is a smart choice.">

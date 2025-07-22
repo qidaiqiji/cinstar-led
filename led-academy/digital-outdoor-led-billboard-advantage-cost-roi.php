@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/digital-outdoor-led-billboard-advantage-cost-roi.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Digital Outdoor LED Billboard: Advantage, Cost, and ROI</title>
     <meta name="description" content="Explore the advantages, costs, and ROI of digital outdoor LED billboards. Learn why LED billboard advertising is a smart investment for businesses with Cinstar's high-quality solutions">

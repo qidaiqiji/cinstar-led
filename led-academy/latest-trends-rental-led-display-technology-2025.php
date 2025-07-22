@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/latest-trends-rental-led-display-technology-2025.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>2025 Rental LED Display Trends | Cinstar LED</title>
     <meta name="description" content="Get ahead with the latest trends in rental LED displays for 2025. Learn about applications, and design innovations shaping the industry from Cinstar LED.">

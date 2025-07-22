@@ -6,7 +6,7 @@
     <link rel="canonical" href="https://www.cinstar-led.com/products/indoor-led-display.php">
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <!-- <link rel="stylesheet" href="../css/new-product-240917.css"> -->
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Indoor LED Display Screen & Video Wall | LED Panel Signs | Cinstar LED</title>
     <meta name="description" content="Indoor LED display screen and LED panel signs are the most preferred video wall solutions for all indoor advertising venues. Contact Cinstar LED for your projects!">
@@ -123,7 +123,7 @@
                 <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
-        <div class="spce-container">
+        <div class="spce-container" style="display: flex;">
         <div class="specification">
                 <div class="product-img img-bigger">
                     <a href="https://www.cinstar-led.com/product-detail/m-series.php">

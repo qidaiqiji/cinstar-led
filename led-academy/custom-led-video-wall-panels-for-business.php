@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/custom-led-video-wall-panels-for-business.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Custom LED Video Wall Panels | Tailored LED Display Solutions by Cinstar LED</title>
     <meta name="description" content="Discover how Cinstar LED's custom LED video wall panels enhance business visibility and engagement. As a leading LED display manufacturer, we provide tailored LED screen display solutions for various industries.">

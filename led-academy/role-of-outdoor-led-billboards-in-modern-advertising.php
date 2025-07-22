@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/role-of-outdoor-led-billboards-in-modern-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Role of Outdoor LED Billboards in Modern Advertising</title>
     <meta name="description" content="Explore the essential role of outdoor LED billboards in the advertising industry. Learn how digital LED billboards and LED billboard advertising are revolutionizing marketing strategies">

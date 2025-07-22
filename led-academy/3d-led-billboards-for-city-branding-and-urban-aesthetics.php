@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/3d-led-billboards-for-city-branding-and-urban-aesthetics.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Role of 3D LED Billboards in City Branding and Urban Aesthetics</title>
     <meta name="description" content="Discover how 3D LED billboards are transforming city branding and enhancing urban aesthetics with innovative digital displays.">

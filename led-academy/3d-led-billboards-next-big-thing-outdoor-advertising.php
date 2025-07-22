@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/3d-led-billboards-next-big-thing-outdoor-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>3D LED Billboards are the Next Big Thing | Cinstar LED</title>
     <meta name="description" content="Learn why 3D LED billboards are the next big trend in outdoor advertising, providing immersive experiences that enhance brand visibility from Cinstar LED">

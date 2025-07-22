@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/applications-of-direct-view-led-video-walls-in-modern-workspaces.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Top Applications of Direct View LED Video Walls in Modern Workspaces</title>
     <meta name="description" content="Explore the top applications of direct view LED video walls in modern workspaces, including conference rooms, control centers, and collaborative environments.">

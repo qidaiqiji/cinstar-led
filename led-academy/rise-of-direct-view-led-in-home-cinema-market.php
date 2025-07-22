@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/rise-of-direct-view-led-in-home-cinema-market.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>The Rise of Direct View LED in Home Cinema Market</title>
     <meta name="description" content="Discover how Direct View LED technology, including Direct View LED video walls and TVs, is revolutionizing the home cinema market with immersive experiences">

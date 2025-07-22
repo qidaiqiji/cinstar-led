@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/direct-view-led-video-wall-for-control-room-and-monitoring-center.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How Direct View LED Video Wall Transforms Control Room and Monitoring Center</title>
     <meta name="description" content="Discover how a Direct View LED video wall enhances control rooms and monitoring centers with seamless visuals, high precision, and 24/7 reliability. Learn about the benefits of Direct View LED display walls, Direct View LED TVs, and fine-pitch LED solutions for mission-critical operations.">

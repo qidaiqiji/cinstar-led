@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/led-display-screens-for-advertising-outdoor-for-retail-business.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why LED Display Screens for Advertising Outdoor Are a Game-Changer for Retail Businesses</title>
     <meta name="description" content="Discover why LED display screens for advertising outdoor are transforming retail businesses by attracting more customers and increasing engagement.">

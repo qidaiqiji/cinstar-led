@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/why-cinstar-is-a-leading-led-screen-manufacturer.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why Cinstar Is a Leading Manufacturer of LED Screens | Cinstar LED</title>
     <meta name="description" content="Cinstar is a leading LED screen maker, offering advanced technology, exceptional reliability, and outstanding performance for business applications.">

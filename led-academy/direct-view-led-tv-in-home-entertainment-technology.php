@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/direct-view-led-tv-in-home-entertainment-technology.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Direct View LED TV: The Next Step in Home Entertainment Technology</title>
     <meta name="description" content="Discover how Direct View LED TV is revolutionizing home entertainment with exceptional picture quality, seamless design, and unparalleled viewing experiences.">

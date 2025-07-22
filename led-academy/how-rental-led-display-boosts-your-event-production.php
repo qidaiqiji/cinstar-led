@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-rental-led-display-boosts-your-event-production.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How Rental LED Display Boosts Your Event Production</title>
     <meta name="description" content="Learn how rental LED displays enhance event production with dynamic visuals, flexibility, and immersive experiences. Ideal for concerts, conferences, and more">

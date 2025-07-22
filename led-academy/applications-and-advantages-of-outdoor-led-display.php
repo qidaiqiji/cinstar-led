@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/applications-and-advantages-of-outdoor-led-display.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Advantages of Outdoor LED Displays | Cinstar LED</title>
     <meta name="description" content="Make your events and promotions stand out with high-resolution outdoor LED displays. Cinstar LED offers reliable solutions for vibrant, engaging visuals.">

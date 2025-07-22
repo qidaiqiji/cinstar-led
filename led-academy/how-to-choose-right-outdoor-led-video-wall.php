@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-to-choose-right-outdoor-led-video-wall.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How to Choose the Right Outdoor LED Video Wall | Cinstar LED</title>
     <meta name="description" content="Choosing the right outdoor LED video wall is key to making an impact. Our guide helps you select the perfect display for stadiums, festivals, or public spaces.">

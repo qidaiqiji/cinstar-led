@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/rental-led-display-screen-for-trade-show-booth-visibility.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How Rental LED Screen Boosts Trade Show Booth Visibility | Rental LED Display Solutions</title>
     <meta name="description" content="Discover how a rental LED screen enhances trade show booth visibility, engages audiences, and showcases dynamic content. Learn the benefits of rental LED display, rental LED video wall, and LED wall rental for exhibitions.">

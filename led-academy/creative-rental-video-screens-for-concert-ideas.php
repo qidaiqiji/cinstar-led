@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/creative-rental-video-screens-for-concert-ideas.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Creative Rental Video Screens for Concert Ideas: Engaging Your Audience with Stunning Visuals</title>
     <meta name="description" content="Explore creative rental video screens for concert ideas that captivate audiences with cutting-edge designs, interactivity, and immersive visuals.">

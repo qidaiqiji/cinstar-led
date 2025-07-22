@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-3d-led-screens-revolutionize-outdoor-advertising.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How 3D LED Screens Revolutionize Outdoor Advertising</title>
     <meta name="description" content="Explore how 3D LED screens are transforming outdoor advertising with immersive visuals and enhanced marketing campaigns. Learn more with Cinstar's innovative solutions.">

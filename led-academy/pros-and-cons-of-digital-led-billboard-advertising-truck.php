@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/pros-and-cons-of-digital-led-billboard-advertising-truck.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Pros & Cons of Digital LED Billboard Trucks | Cinstar LED</title>
     <meta name="description" content="Evaluate the pros and cons of digital LED billboard advertising trucks. Cinstar LED provides insights for advertisers looking to maximize impact.">

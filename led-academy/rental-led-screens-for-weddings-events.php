@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/rental-led-screens-for-weddings-events.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Rental LED Screens for Weddings: Adding a Touch of Magic to Special Days</title>
     <meta name="description" content="Discover how rental LED screens can make weddings magical with dynamic displays for videos, photos, and live streaming.">

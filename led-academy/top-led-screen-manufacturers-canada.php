@@ -5,7 +5,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/top-led-screen-manufacturers-canada.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Screen Manufacturers Canada | LED Video Wall Panels | Cinstar LED</title>
     <meta name="description" content="Explore the top 10 LED screen manufacturers in Canada. Discover and learn why Cinstar LED is a trusted supplier in LED video wall panels.">

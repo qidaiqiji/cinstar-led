@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/picking-right-led-display-manufacturer.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Picking the Right LED Display Manufacturer | Cinstar LED</title>
     <meta name="description" content="Learn what to look for in an LED display manufacturer with Cinstar LED. Focus on quality, certifications, and industry expertise for long-lasting results.">

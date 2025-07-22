@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/why-3d-led-displays-are-future-of-retail-storefronts.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Why 3D LED Displays Are the Future of Retail Storefronts</title>
     <meta name="description" content="Explore why 3D LED displays are transforming retail storefronts into immersive customer experiences. Learn how this technology is revolutionizing the retail industry.">

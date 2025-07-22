@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/led-academy/tips-to-build-your-LED-billboard.php">
-    <link rel="stylesheet" href="../css/product-241227.css">
+    <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Build High-Value Digital LED Billboard | Cinstar LED</title>
     <meta name="description" content="Ensure your digital LED billboard delivers high value with these three key tips. Check insights from Cinstar LED for impactful design and placement.">
