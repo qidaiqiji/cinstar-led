@@ -110,9 +110,6 @@
                 <p>
                     In this blog, we'll simplify everything into a common language. No marketing terms or technology speak. Just the facts about LED life ratings, what helps those ratings (and harms), and what can be expected as the years pass with your LED screens.
                 </p>
-                <div class="img-box">
-                    <img src="https://www.cinstar-led.com/images/blog/led-display-lifespan-2.webp" alt="led display lifespan 2">
-                </div>
                 <h2>Average Lifespan of an LED Display</h2>
                 <p>
                     Most high-quality LED displays have a lifespan of 50,000 to 100,000 hours, which translates to:
