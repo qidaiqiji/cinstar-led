@@ -28,6 +28,23 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/stadium-led-displays-are-worth-the-investment.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/stadium-led-displays-worth-the-investment.webp" alt="stadium led displays worth the investment"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/stadium-led-displays-are-worth-the-investment.php">Stadium LED Displays: Worth the Investment? How to Pick the Best</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            Step into any contemporary stadium, and you'll notice it immediately: a huge LED board illuminating the field, replays, scores, fan response, and possibly even a kiss cam experience or two.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/stadium-led-displays-are-worth-the-investment.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 23, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/flexible-led-screen-vs-flexible-oled-screen.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/led-screen-VS-oled-screen.webp" alt="led screen VS oled screen"></a>
                     </div>
                     <div class="blog-content">

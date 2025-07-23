@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>LED Display Lifespan- How Long Will LED Screen Last</title>
     <meta name="description" content="Find out how long LED screens last, what affects their lifespan, and tips to maximize performance for your display investment.">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display">
     <meta name="author" content="Cinstar LED">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">

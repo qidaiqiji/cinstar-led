@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>Flexible LED screen VS flexible OLED screen: Which is Better?</title>
     <meta name="description" content="LED or OLED? Learn the key factors that set flexible screens apart and which one is the smarter investment for your next display project.">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="custom led screen, custom led display, custom led display screen, led shelf display, cube led display, spherical led screen">
     <meta name="author" content="Cinstar LED">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">

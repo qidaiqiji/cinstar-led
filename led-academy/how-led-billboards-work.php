@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How LED Billboards Work? Beginner’s Outdoor Display Guide</title>
     <meta name="description" content="Learn how LED billboards work with this beginner's guide. Explore the basics of outdoor digital displays, their components, and how they attract viewers.">
-    <meta name="keywords" content="LED advertising, outdoor LED video wall, LED billboard sign, LED screens for outdoor advertising, 3D Display, custom LED">
+    <meta name="keywords" content="led billboard, digital led billboard, LED billboard sign, outdoor led billboard, led billboard for advertising, led billboard screen, led billboard display, LED billboard sign, outdoor advertising billboard">
     <meta name="author" content="Cinstar LED">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
