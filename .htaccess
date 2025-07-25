@@ -6,12 +6,39 @@
     RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
 	# Start Custom Redirects
-
+	
     # Redirect product-detail pages
 	Redirect 301 /product-detail/nl-series.php /products/
 	Redirect 301 /product-detail/lm-series.php /products/
 	Redirect 301 /product-detail/mi-series.php /products/
 	Redirect 301 /product-detail/products/led-stage-screen.php /products/led-stage-screen.php
+	Redirect 301 /product-detail/products/led-advertising.php /products/led-advertising.php
+	Redirect 301 /product-detail/products/3d-led-display-screen.php /products/3d-led-display-screen.php
+	Redirect 301 /product-detail/products/creative-led-display.php /products/creative-led-display.php
+	Redirect 301 /product-detail/products/rental-led-display-screen.php /products/rental-led-display-screen.php
+	Redirect 301 /product-detail/products/custom-led-display.php /products/custom-led-display.php
+	Redirect 301 /product-detail/products/digital-led-billboard.php /products/digital-led-billboard.php
+	Redirect 301 /product-detail/products/fine-pitch-led-display.php /products/fine-pitch-led-display.php
+	Redirect 301 /product-detail/products/commercial-led-display.php /products/commercial-led-display.php
+	Redirect 301 /product-detail/products/stadium-led-screen.php /products/stadium-led-screen.php
+	Redirect 301 /product-detail/products/transparent-led-film-screen.php /products/transparent-led-film-screen.php
+	Redirect 301 /product-detail/products/outdoor-led-display-screen.php /products/outdoor-led-display-screen.php
+	Redirect 301 /products/products/stadium-led-screen.php /products/stadium-led-screen.php
+	Redirect 301 /products/products/outdoor-led-display-screen.php /products/outdoor-led-display-screen.php
+	Redirect 301 /products/products/digital-led-billboard.php /products/digital-led-billboard.php
+	Redirect 301 /products/products/rental-led-display-screen.php /products/rental-led-display-screen.php
+	Redirect 301 /products/products/led-stage-screen.php /products/led-stage-screen.php
+	Redirect 301 /products/products/custom-led-display.php /products/custom-led-display.php
+	# Redirect 301 /products//outdoor-led-display-screen.php /products/outdoor-led-display-screen.php
+	# Redirect 301 /products//transparent-led-film-screen.php /products/transparent-led-film-screen.php
+	# Redirect 301 /products//led-advertising.php /products/led-advertising.php
+	# Redirect 301 /products//commercial-led-display.php /products/commercial-led-display.php
+	# Redirect 301 /products//fine-pitch-led-display.php /products/fine-pitch-led-display.php
+	# Redirect 301 /products//digital-led-billboard.php /products/digital-led-billboard.php
+	# Redirect 301 /products//3d-led-display-screen.php /products/3d-led-display-screen.php
+	# Redirect 301 /products//custom-led-display.php /products/custom-led-display.php
+	# Redirect 301 /products//rental-led-display-screen.php /products/rental-led-display-screen.php
+	# Redirect 301 /products//creative-led-display.php /products/creative-led-display.php
 	Redirect 301 /product-detail/db-series.php /products/
 	Redirect 301 /product-detail/vx-series.php /products/
 	Redirect 301 /product-detail/ei-series.php /products/
@@ -27,6 +54,10 @@
 	Redirect 301 /product-detail/products/stage-led-screen.php /products/
 	Redirect 301 /product-detail/fantasy.php /products/
 	Redirect 301 /product-detail/rs-series.php /products/rental-led-display-screen.php
+	Redirect 301 /product-detail/sa-series.php/1000 /product-detail/sa-series.php
+	Redirect 301 /products/product-detail/ts-series.php /product-detail/ts-series.php
+	Redirect 301 /product-detail/gallery-detail/rental-cases.php /gallery-detail/rental-cases.php
+	Redirect 301 /product-detail/ec- /product-detail/ec-series.php
 
 	# Redirect products paths
 	Redirect 301 /products/outdoor- /products/outdoor-led-display-screen.php
@@ -36,6 +67,7 @@
 	Redirect 301 /products/3d-led-d /products/3d-led-display-screen.php
 	Redirect 301 /products/commerci /products/commercial-led-display.php
 	Redirect 301 /products/direct-v /products/direct-view-led.php
+	Redirect 301 /products/direct-view-l  /products/direct-view-led.php
 	Redirect 301 /products/fine-pit /gallery-detail/fine-pitch-cases.php
 	Redirect 301 /products/rental-l /products/rental-led-display-screen.php
 	Redirect 301 /products/custom-led.php /products/custom-led-display.php
@@ -48,10 +80,16 @@
 	Redirect 301 /products/rental-led.php/1000 /products/rental-led-display-screen.php
 	Redirect 301 /products/commercial-led.php/1000 /products/commercial-led-display.php
 	Redirect 301 /products/products/fine-pitch.php /products/fine-pitch-led-display.php
+	Redirect 301 /products/products /products/
+	Redirect 301 /products/gallery /products/
 
 	Redirect 301 /products/rental-led.php /products/rental-led-display-screen.php
 	Redirect 301 /products/3d-led-display.php /products/3d-led-display-screen.php
 	Redirect 301 /products/creative-led.php /products/creative-led-display.php
+
+	Redirect 301 /products/gallery-detail/rental-cases.php /gallery-detail/rental-cases.php
+	# Redirect 301 /products/direct-view-led.php Title: /products/direct-view-led.php
+	Redirect 301 /products/about /about/
 
 	# Redirects with specific query parameters
 	RewriteCond %{QUERY_STRING} source=post_page---------------------------
@@ -65,6 +103,7 @@
 
 	# General redirects
 	RewriteRule ^markets/?$ / [R=301,L]
+	Redirect 301 /markets/fine-pitch.php /products/fine-pitch-led-display.php
 	Redirect 301 /commercial-led-display.php /products/commercial-led-display.php
 	Redirect 301 /news-detail/2016-3-17.php /news/
 	Redirect 301 /creative-led-display.php /products/creative-led-display.php
@@ -72,7 +111,6 @@
 	Redirect 301 /etqozhqy.html /
 	Redirect 301 /contact.html /contact/
 	Redirect 301 /sitemap.html /
-	Redirect 301 /news-detail/pros-and-cons-of-digital-led-billboard-advertising-truck.php /pros-and-cons-of-digital-led-billboard-advertising-truck/
 	Redirect 301 /support /
 	Redirect 301 /news-detail/2020-10-19.php /news/
 	Redirect 301 /news-detail/2018-12-25.php /
@@ -105,6 +143,17 @@
 	Redirect 301 /news-detail/2014-11-10.php /
 	Redirect 301 /news-detail/2019-8-20.php /
 	Redirect 301 /news-detail/2019-12-16.php /
+	Redirect 301 /news-detail/2017-9-20.php /
+	Redirect 301 /news-detail/2019-10-11.php /
+	Redirect 301 /news-detail/2019-6-26.php /
+	Redirect 301 /news-detail/2018-11-13.php /
+	Redirect 301 /news-detail/2020-8-27.php /
+	Redirect 301 /news-detail/2023-04-19.php /
+	Redirect 301 /news-detail/2021-7-12.php /
+	Redirect 301 /news-detail/2016-10-13.php /
+	Redirect 301 /news-detail/2022-2-10.php /
+	Redirect 301 /news-detail/2017-10-26.php /
+	Redirect 301 /news-detail/2013-8-21.php /
 	Redirect 301 /product-detail/gallery-detail/fine-pitch-cases.php /gallery-detail/fine-pitch-cases.php
 	Redirect 301 /product-detail/products /products/
 	Redirect 301 /product-detail/tl-series.php /products/
@@ -113,16 +162,28 @@
 	Redirect 301 /product-detail/contact /contact/
 	Redirect 301 /product-detail/gallery /gallery/
 	Redirect 301 /product-detail/about /about/
-	Redirect 301 /product-detail/products/stadium-led-screen.php /products/stadium-led-screen.php
 	Redirect 301 /product-detail/led-academy /led-academy/
 	Redirect 301 /product-detail/news /news/
 	Redirect 301 /product-detail/ct-series.php /products/
 	Redirect 301 /products/commercial-led.php/1000 /products/commercial-led.php
+	Redirect 301 /news-detail/pros-and-cons-of-digital-led-billboard-advertising-truck.php /led-academy/pros-and-cons-of-digital-led-billboard-advertising-truck.php
 	RedirectMatch 301 ^/product-det$ /products/
 	RedirectMatch 301 ^/product-$ /products/
 
 	# Redirect image path
 	Redirect 301 /images/news/dvled-1.webp /news-detail/dvled-video-wall-display-panel.php
+
+	# Redirect led academy
+    Redirect 301 /what-is-COB-technology /led-academy/what-is-COB-technology.php
+	Redirect 301 /applications-and-advantages-of-outdoor-led-display /led-academy/applications-and-advantages-of-outdoor-led-display.php
+	Redirect 301 /tips-to-build-your-LED-billboard /led-academy/tips-to-build-your-LED-billboard.php
+	Redirect 301 /advantages-of-fine-pitch-led-display /led-academy/advantages-of-fine-pitch-led-display.php
+	Redirect 301 /3things-when-install-LED-display /led-academy/3things-when-install-LED-display.php
+	Redirect 301 /your-ultimate-guide /led-academy/your-ultimate-guide.php
+	Redirect 301 /how-to-make-led-display-moisture-proof /led-academy/how-to-make-led-display-moisture-proof.php
+	Redirect 301 /why-need-creative-LED-display /led-academy/why-need-creative-LED-display.php
+	Redirect 301 /pros-and-cons-of-digital-led-billboard-advertising-truck /led-academy/pros-and-cons-of-digital-led-billboard-advertising-truck.php
+	Redirect 301 /how-to-eliminate-moire-effect-on-led-display /led-academy/how-to-eliminate-moire-effect-on-led-display.php
 
 	# Remove trailing slash from .php URLs
 	RewriteCond %{REQUEST_URI} \.php/$
