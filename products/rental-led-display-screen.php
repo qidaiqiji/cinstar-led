@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
-    <title>Rental LED Display Screen & Video Wall | Cinstar LED</title>
-    <meta name="description" content="Rent high-quality LED display, video wall, and screen for concerts, stage events, and more. Perfect solutions for all your rental LED display needs!">
+    <title>Rental LED Displays | LED Video Walls & Screens Rental</title>
+    <meta name="description" content="We provide indoor and outdoor rental LED display products for businesses, events, and advertising. Rent high-quality LED displays now for your needs!">
     <meta name="keywords" content="rental LED display, rental LED screen, LED display screen rental, LED wall rental, rental LED video wall, LED stage screen, LED concert screen, Event LED screen, rental LED wall">  
 
 <script type="application/ld+json">

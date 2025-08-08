@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Transparent LED Film Screen & LED Video Wall – Cinstar LED</title>
-    <meta name="description" content="Get ultra-thin, flexible Transparent LED Film Screen & video walls from Cinstar, perfect for glass walls in retail, events & exhibitions, and architectural displays.">
+    <title>Transparent LED Film Screens | LED Video wall</title>
+    <meta name="description" content="We offer transparent LED film screens and LED Video walls ideal for glass surfaces. Sleek, bright, and easy to install, perfect for modern commercial displays.">
     <meta name="keywords" content="LED film screen, transparent LED film, transparent LED film screen, transparent LED screen, transparent led video wall">
     <style>
         h4 {

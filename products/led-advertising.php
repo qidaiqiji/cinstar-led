@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Outdoor LED Screen For Advertising | LED Display Board</title>
-    <meta name="description" content="Our outdoor LED advertising screen & display board offer stunning visuals & energy efficiency. Perfect for billboards, events designed to perform in all conditions.">
+    <title>Outdoor LED Advertising Display Screens | LED advertising board </title>
+    <meta name="description" content="Get high-quality LED advertising screens and LED advertising boards at the best prices. We offer commercial LED displays with pixel options for all outdoor needs.">
     <meta name="keywords" content="led advertising screen, led advertising board, led advertising display, led advertising, outdoor advertising LED display screen,  led advertising display screen, led screen for advertising, led display for advertising">
 
 <script type="application/ld+json">
