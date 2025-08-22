@@ -220,12 +220,12 @@
                     <tbody>
                         <tr class="thead">
                             <td></td>
-                            <td>E2.6</td>
-                            <td>E2.8</td>
-                            <td>E2.9</td>
-                            <td>E3.9</td>
-                            <td>E2.8(Outdoor)</td>
-                            <td>E3.9(Outdoor)</td>
+                            <td>M2.6</td>
+                            <td>M2.8</td>
+                            <td>M2.9</td>
+                            <td>M3.9</td>
+                            <td>M2.8(Outdoor)</td>
+                            <td>M3.9(Outdoor)</td>
                         </tr>
                         <tr>
                             <td>

@@ -90,7 +90,7 @@
             </div>
         </div>
         <!-- SERIES FEATURES -->
-        <div class="features">
+        <!-- <div class="features">
             <div class="sub-title">
                 <span>TR Series Features</span>
             </div>
@@ -121,7 +121,7 @@
                 </div>
                 
             </div>
-        </div>
+        </div> -->
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
