@@ -28,6 +28,57 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/how-do-transparent-led-screens-work.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/Transparent-LED-Screens-1.webp" alt="Transparent LED Screens"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/how-do-transparent-led-screens-work.php">How Do Transparent LED Screens Work?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            Transparent LED screens are changing the way technology is used in building design and business environments. Unlike standard LED displays, these screens present high-brightness, full-color images without blocking the view behind them.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/how-do-transparent-led-screens-work.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>August 22, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/7-key-factors-to-consider-before-buying-an-outdoor-led-display.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/outdoor-led-display.webp" alt="outdoor led display"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/7-key-factors-to-consider-before-buying-an-outdoor-led-display.php">7 Key Factors to Consider Before Buying an Outdoor LED Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            When night falls, cities light up with bright outdoor LED display screens that show advertisements, live performances, and cultural details. These massive screens convey information and serve as a new symbol of city identity
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/7-key-factors-to-consider-before-buying-an-outdoor-led-display.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>August 22, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/advantages-of-3d-led-wall-panels-in-modern-spaces.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/3D-LED-Wall-Panels.webp" alt="3D LED Wall Panels in Modern Spaces"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/advantages-of-3d-led-wall-panels-in-modern-spaces.php">Top 10 Advantages of Using 3D LED Wall Panels in Modern Spaces</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            In the last couple of years, 3D LED wall panels have transformed the very nature of visual presentation. From business gatherings to stores, exhibitions, and leisure venues, these cutting-edge panels bring images and videos to life in a manner that even the finest flat screens can't match
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/advantages-of-3d-led-wall-panels-in-modern-spaces.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>August 22, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/stadium-led-displays-are-worth-the-investment.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/stadium-led-displays-worth-the-investment.webp" alt="stadium led displays worth the investment"></a>
                     </div>
                     <div class="blog-content">
