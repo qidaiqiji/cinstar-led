@@ -144,7 +144,7 @@
                     <li>Optional heat dissipation techniques are particularly important for outdoor or high-brightness use.</li>
                 </ul>
                 <div class="img-box">
-                    <img src="https://www.cinstar-led.com/images/blog/Transparent-LED-Screens-2.webp" alt="Balancing Transparency, Resolution, and Brightness">
+                    <img src="https://www.cinstar-led.com/images/blog/Transparent-LED-Screens-3.webp" alt="Balancing Transparency, Resolution, and Brightness">
                 </div>
                 <h4>Balancing Transparency, Resolution, and Brightness</h4>
 
