@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/n-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Indoor LED display Screen | Led Video Display Screen Wall</title>
-    <meta name="description" content="We offer Indoor LED display Screen, Led Video Display Screen Wall, LED Billboard Advertising, Led Display Signs for Church. Contact us Now.">
+    <title>Cinstar N-Series Rental LED Video Walls | LED Video Display</title>
+    <meta name="description" content="Cinstar N-Series rental LED video walls provide crystal-clear display, lightweight panels, and flexible setup solutions for events and entertainment.">
     <meta name="keywords" content="rental LED display, indoor rental LED display, p3.9 LED display, Indoor stage rental, rental LED panel, rental LED tiles, rental LED module, Rental events LED display board">
 </head>
 <body class="page-index .menu-open">

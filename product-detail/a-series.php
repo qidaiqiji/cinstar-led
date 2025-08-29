@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/a-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Stage LED Screen | Indoor Outdoor Rental LED Display | LED Video Wall Rental | Cinstar-led</title>
-    <meta name="description" content="Cinstar EC series LED video screen offers versatile LED screen solutions for a wide variety of LED display rental applications. Ergonomic engineering panel and practical user-friendly design enable a perfect operation experience">
+    <title>A-Series Rental LED Screens | LED Video Wall Panel</title>
+    <meta name="description" content="Cinstar A-Series LED video wall panels boast a modular design and flexible installation options, making them an ideal choice for stages, events shows.">
     <meta name="keywords" content="LED video screen, LED display rental, LED screen,  LED display panel, LED video display, cinstar, cinstar-led">
 </head>
 <body class="page-index .menu-open">

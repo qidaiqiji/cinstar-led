@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/t-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Concert LED Screen | Cinstar-led, LED Panel Screen | Best LED Video Screen</title>
-    <meta name="description" content="Cinstar concert LED screen T Series equipped with a fast locking system for rapid construction, a curving system allowing both convex and concave configurations, hanging and ground stacking installation. This LED panel screen will be the best LED video screen for you.">
+    <title>Cinstar T-Series Rental LED Displays | Rental LED Wall Panels</title>
+    <meta name="description" content="Cinstar T-Series rental LED displays deliver powerful brightness, seamless visuals, and flexible design for concerts, trade shows, and live performances.">
     <meta name="keywords" content="Concert LED screen, LED panel screen, best LED video screen, LED video wall rental, outdoor rental LED videowall, outdoor LED screen hire, event production LED screen">
 </head>
 <body class="page-index .menu-open">
