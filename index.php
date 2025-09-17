@@ -10,9 +10,9 @@
     <!-- End Google Tag Manager -->
     <?php include('inc/meta.php'); ?>
     <?php include('inc/rem.php'); ?>
-    <meta name="description" content="We are Leading LED display manufacturer and offering high-quality LED video wall panels and screens. Contact us for LED screen display for your needs.">
+    <meta name="description" content="We are a leading LED display manufacturer and supplier offering high-quality LED video wall panels and screens. Contact us for LED screen display for your needs.">
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen">  
-    <title>LED Video Wall Panels & LED Screen Display Manufacturers</title>
+    <title>LED Video Wall Panels | LED Screen Display Manufacturer - Cinstar LED</title>
     <link rel="canonical" href="https://www.cinstar-led.com/">
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
