@@ -1,13 +1,13 @@
 /* 常用基本标签重设 */
 @charset "utf-8";
-/*@font-face{
-    font-family:'Uniform-Condensed';
-    src: url(./font/Uniform-Condensed.ttf);
-}*/
+@font-face{
+    font-family:'Montserrat';
+    src: url(./font/Montserrat-Regular.ttf);
+}
 html,body{ height: 100%; user-select: none;}
 body{ 
     font-size: 18px;
-    font-family:'Calibri';
+    font-family:'Montserrat', Calibri;
 }
 body,div,p,a,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6{ margin: 0; padding: 0; font-weight: normal} 
 em{ font-style: normal; }
