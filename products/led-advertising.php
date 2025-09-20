@@ -85,7 +85,7 @@
       "name": "How Effective is an LED Screen for Advertising Outdoor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "With their bright, vivid colors and high-resolution displays, LED advertising boards offer unparalleled visibility, even in direct sunlight. LED advertising is more dynamic than traditional static billboards, allowing for a wide range of content, including videos, animations, and live updates. This ability to display moving images and change messages in real time enhances engagement, ensuring your advertising is not only seen but remembered. An LED video wall advertising is also durable, designed to withstand the elements like rain, snow, and extreme temperatures. Their long lifespan and energy efficiency make them a cost-effective solution for continuous outdoor advertising.",
+        "text": "With their bright, vivid colors and high-resolution displays, LED advertising boards offer unparalleled visibility, even in direct sunlight. LED advertising is more dynamic than traditional static billboards, allowing for a wide range of content, including videos, animations, and live updates. This ability to display moving images and change messages in real time enhances engagement, ensuring your advertising is not only seen but remembered. An LED video wall advertising is also durable, designed to withstand the elements like rain, snow, and extreme temperatures. Their long lifespan and energy efficiency make them a cost-effective solution for continuous outdoor advertising."
       }
     }
   ]
