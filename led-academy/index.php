@@ -28,6 +28,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/how-to-calculate-led-screen-resolution-&-pick-the-perfect-display.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/3d-outdoor-led-billboard-1.webp" alt="3d outdoor led billboard 1"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/how-to-calculate-led-screen-resolution-&-pick-the-perfect-display.php">How to Calculate LED Screen Resolution & Pick the Perfect Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            Selecting the right LED screen is not just about choosing the screen size. Resolution, pixel pitch, and considering distance all contribute to the quality and success of the display.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/how-to-calculate-led-screen-resolution-&-pick-the-perfect-display.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 08, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/modular-led-display-panels-features-costs-and-advantages.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/modular-led-display-panels-1.webp" alt="modular led display panels"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/modular-led-display-panels-features-costs-and-advantages.php">Modular LED Display Panels: Features, Costs, and Advantages</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            Modular LED display panels are an affordable option for businesses. They provide a dynamic and high-quality display for advertisements or other events. 
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/modular-led-display-panels-features-costs-and-advantages.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 08, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/12-creative-ways-to-use-a-rental-led-display-screen.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/rental-led-display-screen-for-concerts.webp" alt="rental led display screen for concerts"></a>
                     </div>
                     <div class="blog-content">
