@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/v-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title> Fine Pitch LED Video Wall I Direct-View LED Screen I Narrow Pixel Pitch LED Display I Cinstar LED</title>
-    <meta name="description" content=" Top quality and customizable versatile fine pixel pitch LED video wall screen can satisfy all installations (hanging, self-standing all-in-one LED wall and wall mounted) to delivery the best image quality and stunning visual impact for scenarios at conference room, control room, boardroom and TV studio etc.">
+    <title>V Series DVLED Screens Solutions | Cinstar LED</title>
+    <meta name="description" content="Cinstar V Series DVLED Displays immersive, ultra-clear LED walls designed for advertising, events, and large-scale indoor or outdoor installations.">
     <meta name="keywords" content="fine pitch led display, fine pixel pitch led display, direct-view led video wall, narrow pixel pitch led video screen, small pixel pitch led display, uhd led screen, 4k led wall, led advertising screen, indoor led screen">
 </head>
 <body class="page-index .menu-open">

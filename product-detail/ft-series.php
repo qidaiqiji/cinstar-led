@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ft-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Cinstar FT Series 750x750 Outdoor LED Advertising Display</title>
-    <meta name="description" content="Cinstar FT series outdoor LED display board supports front or rear service access. The high brightness >5000 and great stability makes it the best choice for commercial outdoor advertising business.">
+    <title>FT Series 750x750 Commercial Advertising Display | Cinstar LED</title>
+    <meta name="description" content="FT Series 750x750 LED Advertising Display ensures unmatched brightness and reliability. Easy front/rear access makes it ideal for outdoor commercial displays.">
     <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens">
 </head>
 <body class="page-index .menu-open">

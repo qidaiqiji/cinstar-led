@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/innox-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Innox Series 3D LED Panels | Indoor LED Display & Screen Solutions</title>
-    <meta name="description" content="Innox Series Indoor LED Displays provide bright, clear visuals and durable performance—ideal for presentations, events, and commercial spaces.">
+    <title>Innox series 1000x250 LED Advertising Board | Cinstar LED</title>
+    <meta name="description" content="Innox series 1000x250 LED Advertising Board provides bright, clear visuals and durable performance ideal for presentations and commercial spaces.">
     <meta name="keywords" content="LED board manufacturer, cheap LED display, LED video display screen, LED video screen price, LED screen for hire">
 </head>
 <body class="page-index .menu-open">

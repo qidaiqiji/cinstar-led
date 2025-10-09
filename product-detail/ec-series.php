@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ec-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Fine Pitch LED Video Wall | LED Video Wall Panel | Cinstar LED</title>
-    <meta name="description" content="Cinstar EC series COB fine pitch LED video wall panels can meet all your expectations on price and quality. Your first choice for control room and conference room installations etc.">
+    <title>EC Series Direct View LED Video Wall | Cinstar LED</title>
+    <meta name="description" content="Experience next-level LED display technology with Cinstar EC Series – bright, durable, and customizable Direct View LED Video Walls for any venue.">
     <meta name="keywords" content="fine pitch LED display, fine pitch LED video wall, fine pitch LED screen, LED video wall, LED wall panel, narrow pixel pitch LED display, LED display screen">
 </head>
 <body class="page-index .menu-open">

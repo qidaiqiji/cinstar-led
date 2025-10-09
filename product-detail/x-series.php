@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/x-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Cinstar X Series | Outdoor 3D LED Advertising Billboard Panel</title>
-    <meta name="description" content="Cinstar X Series outdoor LED billboard panels deliver stunning visuals, durability, and high brightness, perfect for impactful advertising campaigns.">
+    <title>X Series 1000x1000 Outdoor Advertising Board | Cinstar LED</title>
+    <meta name="description" content="X Series 1000x1000 Outdoor Advertising Board delivers stunning visuals, durability, and high brightness, perfect for impactful advertising campaigns.">
     <meta name="keywords" content="outdoor led display, led advertising display, outdoor led billboard, led billboard advertising, 3d led display, 3d led billboard">
 </head>
 <body class="page-index .menu-open">

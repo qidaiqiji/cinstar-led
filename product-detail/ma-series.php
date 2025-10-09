@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ma-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Outdoor Advertising Billboard | LED Advertising Billboard | Outdoor LED Billboard | Outdoor LED Screen | Cinstar-led</title>
-    <meta name="description" content="Cinstar MA series outdoor LED billboard features magnesium panel for high reliability outdoor LED advertising. Our outdoor LED advertising billboard is your best choice for digital out of home advertising.">
+    <title>MA Series Outdoor Advertising Billboard | Cinstar LED</title>
+    <meta name="description" content="Cinstar MA series outdoor LED billboard features magnesium panel for high reliability outdoor LED advertising. Get a Quote now!">
     <meta name="keywords" content="outdoor led screen, outdoor led display, outdoor led advertising screen, outdoor led billboard, outdoor led display advertising, digital advertising billboard, out of home led advertising billboard">
 </head>
 <body class="page-index .menu-open">

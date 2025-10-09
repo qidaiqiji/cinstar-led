@@ -5,7 +5,7 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/mc-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
-    <title>Cinstar MC Series 3D LED Video Display</title>
+    <title>MC Series Curtain LED Advertising Panel | Cinstar LED</title>
     <meta name="description" content="Cinstar MC Series IP67 outdoor LED displays combine durability and stunning visuals. Ideal for advertising, events, and public installations.">
     <meta name="keywords" content="LED advertising display, LED video curtainl, outdoor display board, curtain LED display, mesh LED screen wall, outdoor LED display board">
 </head>

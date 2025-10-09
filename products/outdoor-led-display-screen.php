@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
-    <title>Outdoor LED Display Screen & Video Wall | Outdoor LED Board</title>
-    <meta name="description" content="Enhance outdoor advertising with LED video wall & display board. Our high-resolution outdoor LED screen is designed to stand out in any environment.">
+    <title>Outdoor LED Display | Outdoor LED Screens, Boards & Video Wall</title>
+    <meta name="description" content="Cinstar LED offers a wide range of outdoor LED display solutions, including LED video walls & display boards, built for high brightness and visibility in any environment.">
     <meta name="keywords" content="outdoor LED display, outdoor LED screen, outdoor led display screen, outdoor led video wall, outdoor led display board, LED video wall panel, outdoor led board, outdoor LED advertising display">  
 
 <script type="application/ld+json">
@@ -102,14 +102,14 @@
             <img src="https://www.cinstar-led.com/images/products/new-page/outdoor-led-display-screen/outdoor-led-display-screen-1.jpg" alt="outdoor led display screen-1">
             <div class="img-cover"></div>
             <div class="text-cover">
-                <p>Outdoor LED Display Screen</p>
+                <h1 style="text-align: center;">Outdoor LED Displays & Video Walls</h1>
                 <span>Boost Your Business With Cinstar Outdoor LED Display Board</span>
                 <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
             <div class="content text-content">
-                <h1>Advanced Outdoor LED Display Screen</h1>
+                <h2>High Resolution Outdoor LED Display Manufacturer</h2>
                 <p>Outdoor LED display is a highly effective and dependable contemporary advertising tool that offers customers a great return on their investment.  Compared to traditional printed billboards, LED display board offers a range of benefits, they are more versatile, durable, and has a longer lifespan. Additionally, it provides a high level of protection and can be used effectively for commercial purposes.</p>
                 <p>As a leading LED video wall manufacturer in the industry for more than 12 years, Cinstar have accumulated profound manufacturing experience and have sophisticated R&D team with more than 15 years of experience in the field of product design and development. All these capabilities and advantages allow us to produce high-quality, reliable outdoor LED sign.</p>
                 <p>We manufacture a range of outdoor LED signs that offer diversity, optimal selection, and adaptability in defining a high-performance video wall. In addition, we offer high quality video walls specifically designed for commercial advertising use. These video walls are ideal for various applications, including retail, entertainment, corporate, and control rooms.</p>
@@ -123,56 +123,56 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/x-series.php"><img style="width: 80%" class="img-long" src="https://www.cinstar-led.com/images/products/Commercial-LED/X-series-1.webp" alt="X Series-1"></a>
                         <div class="title-box-change">
-                            <h3>Fine Pitch Outdoor LED Screen</h3>
+                            <h3>X Series Outdoor LED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Do you desire to convey your message to a larger audience? Cinstar has developed durable fine pitch outdoor LED screen panels, specifically designed for high-end advertising purposes. If you need a quality outdoor screen for your business, this Cinstar high resolution fine pitch display screen is for sure the best for you.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/x-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/mc-series.php"><img style="width: 35%" src="https://www.cinstar-led.com/images/home/MC-SERIES.jpg" alt="MC SERIES"></a>
                         <div class="title-box-change">
-                            <h3>Outdoor Curtain LED Display Screen</h3>
+                            <h3 style="line-height: 1;">MC Series Outdoor Curtain LED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/mc-series.php">MC Series Product</a>
                         </div>
                         <p>The outdoor curtain LED display screen is a remarkable and excellent product manufactured by Cinstar for the purpose of outdoor advertising. We manufacture quality outdoor advertising LED screen for your advertising business. Characterized by user-friendly functionality and simple installation, while remaining economically advantageous. </p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/mc-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ft-series.php"><img style="width: 80%" class="img-long" src="https://www.cinstar-led.com/images/home/FT-SERIES.webp" alt="FT Series"></a>
                         <div class="title-box-change">
-                            <h3>Front Service Outdoor LED Display</h3>
+                            <h3 style="line-height: 1;">FT Series Front Service Outdoor LED</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ft-series.php">FT Series Product</a>
                         </div>
                         <p>Taking consideration of the user's budget, Cinstar designs front service outdoor LED screen for specific applications. The space saving and lightweight construction is key feature of this display. Designed to endure any weather conditions, Cinstar display screen is constructed from the highest quality materials.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/ft-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/tr-series.php"><img style="width: 60%" src="https://www.cinstar-led.com/images/home/TR-SERIES.webp" alt="TR-SERIES" alt="TR SERIES"></a>
                         <div class="title-box-change">
-                            <h3>Transparent Outdoor LED Display</h3>
+                            <h3 style="line-height: 1;">TR Series Transparent Outdoor LED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/tr-series.php">TR Series Product</a>
                         </div>
                         <p>This transparent LED screen serves as one of the most durable and exquisite LED screens offered by Cinstar. Our best quality display board product is manufactured with exceptional transparency and a fashionable style, making it a visually appealing addition to your shops and workplaces. Indoor and outdoor available.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/tr-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ma-series.php"><img style="width: 80%" src="https://www.cinstar-led.com/images/products/Commercial-LED/MA-series-1.jpg" alt="MA series"></a>
                         <div class="title-box-change">
-                            <h3>Outdoor LED Video Display</h3>
+                            <h3 style="line-height: 1;">MA Series Outdoor LED Video Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ma-series.php">MA Series Product</a>
                         </div>
                         <p>The outdoor display we provide features a cabinet design that ensures exceptional flatness. The cabinet has a standard dimension of 960x960mm, making it effortless to install and build up. The aluminum alloy video wall offers a broad viewing angle, an unparalleled refresh rate, and excellent reliability.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/ma-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/st-series.php"><img style="width: 94%" src="https://www.cinstar-led.com/images/products/Commercial-LED/ST-series-1-1.jpg" alt="ST series"></a>
                         <div class="title-box-change">
-                            <h3>Outdoor LED Display Board</h3>
+                            <h3 style="line-height: 1;">ST Series Outdoor LED Display Board</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/st-series.php">ST Series Product</a>
                         </div>
                         <p>You might consider using Cinstar Outdoor display board as a solution if you intend to use an display for your advertising projects. As a matured product, this outdoor advertising LED display screen is not only more affordable, but it is also certified for its endurance. Try Cinstar display board to expand your business!</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/st-series.php">View Product</a>
                     </div>
                 </div>
             </div>

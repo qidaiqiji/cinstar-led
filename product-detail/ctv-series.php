@@ -6,8 +6,8 @@
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/ctv-series.php">
     <link rel="stylesheet" href="../css/detail-240913.css">
     <link rel="stylesheet" href="../css/ctv-product.css">
-    <title>All in One Direct View LED TV Video Wall | Cinstar LED</title>
-    <meta name="description" content="Wanna have a better meeting or video conference experience? Try out Cinstar all in one direct view LEDTV video wall now!">
+    <title>CTV Series Direct View LED TV | Cinstar LED</title>
+    <meta name="description" content="Cinstar CTV Series Direct View LED TV offers vivid colors, seamless performance, and durable panels for indoor and outdoor video wall solutions.">
     <meta name="keywords" content="dvled, direct view led, all in one led tv, direct view led video wall, direct view led wall, all in one led wall, fine pitch led display, fine pixel pitch led screen, narrow pixel pitch led display">
 </head>
 <body class="page-index .menu-open">

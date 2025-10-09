@@ -92,11 +92,11 @@ function Check()
             <div class="footer-social">
                 <a href="https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour" target="_blank" rel="nofollow"><i class="fa fa-facebook-f"></i></a>
                 <a href="https://www.instagram.com/cinstarled/" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a>
-                <a href="https://twitter.com/Cinstar_led" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.youtube.com/@CinstarLED" target="_blank" rel="nofollow"><i class="fa fa-youtube"></i></a>
             </div>
         </div>
     </div>
 </div>
 <div class="copy">
-    Copyright 2012-2023 &copy; Cinstar Electronics. All Rights Reserved
+    Copyright 2025 &copy; Cinstar Electronics. All Rights Reserved
 </div>

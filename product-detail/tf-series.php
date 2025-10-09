@@ -5,8 +5,8 @@
     <?php include('../inc/rem.php'); ?>
     <link rel="canonical" href="https://www.cinstar-led.com/product-detail/tf-series.php">
     <link rel="stylesheet" href="../css/new-detail-241108-1.css">
-    <title>TF Series Flexible Holographic LED Video Wall for Advertising</title>
-    <meta name="description" content="Cinstar transparent holographic LED film screen display is best for indoor glass wall advertising at 4S store, shopping mall and retail shop. ">
+    <title>TF Series Transparent LED Advertising Panel | Cinstar LED</title>
+    <meta name="description" content="Cinstar TF Series IP67 outdoor LED displays combine durability and stunning visuals. Ideal for advertising, events, and public installations.">
     <meta name="keywords" content="led film screen, led film display, flexible led display, led advertising display, holographic led screen, led video wall display">
 </head>
 <body class="page-index .menu-open">

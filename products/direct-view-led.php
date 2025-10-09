@@ -99,78 +99,92 @@
             <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct view led-1">
             <div class="img-cover"></div>
             <div class="text-cover">
-                <p>Direct View LED</p>
+                <h1 style="text-align: center;">Direct View LED Video Walls</h1>
                 <span>UHD Visual Impact Direct View LED TV</span>
                 <a class="border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
             </div>
         </div>
         <div class="spec-content text-container">
             <div class="content text-content">
-                <h1>Superior Direct View LED Video Wall</h1>
-                <p>Direct view LED video wall refers to LED display with LED spacing below P2.5, ranging from P2.0, P1.8, P1.5 to P1.2, P0.9, P0.7 and even lower pitches. Thanks to the great advancements of LED encapsulation and LED display manufacturing technology, the resolution of LED video wall has been significantly improved. Fine pitch LED video wall is now becoming the main force in the audio visual industry and the most favored video equipment for system integrations. </p>
-                <p>Cinstar LED provides a diverse selection of LED products that offer high definition video display, lightweight panel, thin profile, exceptional display performance, seamless splicing technology, and other advanced characteristics. Cinstar's LED video wall solutions are consistently the optimal choice for all kinds of high profile installations for TV studio, conference room, show room and home cinema etc. Our products are available in various sizes and pixel configurations, ensuring that they can effectively meet all the requirements of your LED projects.</p>
-                <p>Cinstar LED has been an established player in the DVLED market for more than 13 years. Our mission is to offer superior LED video wall with ultra-wide viewing angle, vibrant colors, best image production and most impactful visual effect for each of our customers!</p>
+                <h2>What is a DVLED Display</h2>
+                <p>Direct-view LED or DVLED video wall refers to an LED display with LED spacing below P2.5, ranging from P2.0, P1.8, P1.5 to P1.2, P0.9, P0.7, and even lower pitches. Thanks to the great advancements of LED encapsulation and LED display manufacturing technology, the resolution of <a style="color: blue;" href="https://www.cinstar-led.com/">LED Video Wall Panels</a> has been significantly improved.</p>
+                <p>Cinstar LED provides a diverse selection of LED products that offer high definition video display, lightweight panel, thin profile, exceptional display performance, seamless splicing technology, and other advanced features, and home characteristics. Our products are available in various sizes and pixel configurations, ensuring that they can effectively meet all the requirements of your LED projects.</p>
+                <p>Cinstar LED has been an established player in the DVLED market for more than 13 years. Our mission is to offer a superior DVLED video wall with ultra-wide viewing angle, vibrant colors, the best image production, and the most impactful visual effect for each of our customers!</p>
             </div>
         </div>
         <div class="spec-content">
             <div class="content series-list-content">
-                <h2>Cinstar Direct View LED Display</h2>
+                <h2>Direct View LED Display Products</h2>
                 <div class="series-box">
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ctv-series.php"><img style="width: 90%;" src="https://www.cinstar-led.com/images/home-new/ctv-series.webp" alt="ctv Series"></a>
                         <div class="title-box-change">
-                            <h3>All in One Direct View LEDTV</h3>
+                            <h3>CTV Series Direct View LED TV</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ctv-series.php">CTV series Product</a>
                         </div>
                         <p>Cinstar CTV series commercial level direct view LED display video wall is especially designed for enterprise meeting room to deliver a much larger and more immersive meeting or video conference experience than conventional LCD video wall which limited by its size and visual experience. Wide range of display dimensions can meet all the requirements of the sizes of the meeting room. A powerful system with vibrant colors can make the meeting more engaged and pleasant.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/ctv-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ch-series.php"><img style="width: 80%;" src="https://www.cinstar-led.com/images/products/Fine-Pitch/CH-series-1.webp" alt="CH Series-1"></a>
                         <div class="title-box-change">
-                            <h3>COB Direct View LED TV</h3>
+                            <h3>CH Series Direct View LED TV</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ch-series.php">CH Series Product</a>
                         </div>
                         <p>Cinstar direct view LED TV has gained a strong reputation as a reliable and popular technology that is highly desired by customers worldwide. It produces high-quality images, videos, and other content. In addition, it consumes a minimal amount of power. Cinstar fine pixel pitch LED display is widely utilized in a variety of locations like airports, banks, restaurants, subways, hospitals, and showrooms. Cinstar's direct view LED display wall offers an exceptional video solution that delivers an unparalleled viewing experience.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/ch-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/hd-series.php"><img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2"></a>
                         <div class="title-box-change">
-                            <h3>Direct View LED Wall</h3>
+                            <h3>HD Series DVLED Wall</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct View display is a cutting-edge product designed to meet the growing need for superior LED video display. Cinstar DVLED screen boasts a super high refreshing display and fast frame changing, ensuring a visually stunning experience. With its perfect color saturation, it consistently delivers the best image production. With impressive greyscale, pixel density, brightness, and contrast ratio, Cinstar direct view LED video wall thrives at accurately reproducing the vibrant colors of images and videos.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/hd-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ec-series.php"><img style="width: 90%;" src="https://www.cinstar-led.com/images/products/Fine-Pitch/EC-series-1.webp" alt="EC Series-1"></a>
                         <div class="title-box-change">
-                            <h3>COB Direct View LED Video Wall</h3>
+                            <h3>EC Series DVLED Video Wall</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ec-series.php">EC Series Product</a>
                         </div>
                         <p>The direct view LED screen has become highly regarded due to its impressive features such as high resolution, high brightness, excellent display effect and great cost performance. Whether it's for TV studios, home cinema, conference rooms, board rooms, or control rooms, Cinstar LED video wall is the ideal option for showcasing highly detailed and visually stunning images. If you need a superior LED video wall for your projects, Cinstar is the best choice for you. </p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/ec-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/v-series.php"><img style="width: 90%;" src="https://www.cinstar-led.com/images/products/Fine-Pitch/V-series-1.jpg" alt="v Series"></a>
                         <div class="title-box-change">
-                            <h3>DVLED Screen</h3>
+                            <h3>V Series DVLED Screen</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/v-series.php">V series Product</a>
                         </div>
                         <p>Featuring high precision CNC technology and rigorous quality performance control, Cinstar DVLED screen can not only be used as wall mounted LED video screen for corporate showroom, home cinema, meeting room and board room etc, it can be built as LED digital poster screen for commercial advertising at shopping center, retail store, chain store, hotel reception and exhibition booth etc. You can always find the best LED video wall screen from Cinstar.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/v-series.php">View Product</a>
                     </div>
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/u-series.php"><img style="width: 70%;" src="https://www.cinstar-led.com/images/products/Commercial-LED/U-series-1.jpg" alt="u Series"></a>
                         <div class="title-box-change">
-                            <h3>DVLED Display</h3>
+                            <h3>U Series DVLED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/u-series.php">U series Product</a>
                         </div>
                         <p>A quality DVLED screen can always release your nerve on screen quality performance, annoying after sales services and balance between price and quality. Verified by numerous customers and projects, Cinstar direct view LED display video wall can guarantee you the best stability, excellent image performance, top quality level and optimized cost management. You can get one quality DVLED wall screen from Cinstar LED, even with limited budget.</p>
-                        <a class="series-border-button" href="mailto:sales@cinstar-led.com">Get A Quote Now</a>
+                        <a class="series-border-button" href="https://www.cinstar-led.com/product-detail/u-series.php">View Product</a>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="spec-content choose-content">
+            <div class="content">
+                <h2>Cinstar DVLED Technology</h2>
+                <div class="img-box">
+                    <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/dvled-technology-1.webp" alt="dvled technology 1">
+                    <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/dvled-technology-2.webp" alt="dvled technology 2">
+                </div>
+                <p>The Cinstar Display achieves superior visual performance in indoor spaces through its DVLED technology, combined with premium manufacturing techniques. Our direct view LED displays range from P0.9 to P2.5, to provide high-definition images and consistent color quality for applications such as conference rooms, control centers, tv studios and retail spaces.</p>
+                <p>Our displays achieve high refresh rate up to 7680Hz, which provides both motion clarity and flicker-free display quality for broadcasting and professional presentations. The screens operate at 800 to 1500nits, which allows them to provide balanced brightness and energy efficiency in various indoor lighting conditions.</p>
+                <p>The Cinstar products produce deep blacks, vivid colors and precise image reproduction, owing to the 16-bit grayscale processing and contrast ratio that exceeds 5000:1. The displays use Novastar or Colorlight control systems to provide HDR10 functionality and wide color range which produces authentic visual details.</p>
+                <p>The die-cast aluminum cabinets achieve perfect alignment through precision engineering, which maintains a tolerance of 0.1mm to provide flawless splicing and superior heat dissipation.</p>
+                <p>Through the innovation of DVLED technology, Cinstar displays provide dependable operation with outstanding visual quality and extended lifespan for worldwide professional users.</p>
             </div>
         </div>
         <div class="spec-content icon-content">
@@ -239,10 +253,14 @@
                     <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-2.jpg" alt="Direct View LED-2">
                     <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-3.jpg" alt="Direct View LED-3">
                 </div>
-                <p>There are many compelling reasons to consider upgrading your existing video equipment to a direct view LED display. They have emerged as the preferred choice for various applications such as shopping malls, meeting rooms, control rooms, and television studios. They also offer a great solution for branding and display purposes.</p>
-                <p>When it comes to video products, Cinstar DVLED display stands out with its superior pixel density and brightness. The DVLED wall boasts a high refresh rate and a dynamic contrast, making it a top choice for customers. Therefore, ensuring superb visual comfort is crucial. These new additions are being introduced in response to the increasing need for more precise details and improved visibility at direct view distances. </p>
-                <p>Cinstar LED video wall offers a stunning display of vivid visual content, including images, videos, texts, and more, thanks to its highly precise pixel pitches. These direct view LED walls create stunning visual experiences that maintain their quality over time, offering high image resolution and vibrant colors.</p>
-                <p>In addition, the advanced features contribute to the durability of your display screens. They provide a range of benefits compared to traditional indoor LED screens. Cinstar direct view LED TV offers the convenience of easy stack or hanging installation, eliminating the need for tools. Its versatility allows for a wide range of applications. If you require them for specialized display purposes, Cinstar can be your trusted supplier in China!</p>
+                <p>There are many compelling reasons to consider upgrading your existing video equipment to a direct view LED display. </p>
+                <ol>
+                    <li style="margin-bottom: 0.15rem;line-height: 1.5;">Offer various branding applications such as shopping malls, meeting rooms, control rooms, and television studios. </li>
+                    <li style="margin-bottom: 0.15rem;line-height: 1.5;">When it comes to video products, Cinstar DVLED display stands out with its superior pixel density and brightness, a high refresh rate and a dynamic contrast.</li>
+                    <li style="margin-bottom: 0.15rem;line-height: 1.5;">Cinstar LED video wall offers a stunning display of vivid visual content, including images, videos, texts, and more. These direct view LED walls create stunning visual experiences that maintain their quality over time.</li>
+                    <li style="margin-bottom: 0.15rem;line-height: 1.5;">In addition, the advanced features contribute to the durability of your display screens. They provide a range of benefits compared to traditional indoor LED screens.</li>
+                    <li style="margin-bottom: 0.15rem;line-height: 1.5;">Cinstar direct view LED TV offers the convenience of easy stack or hanging installation, eliminating the need for tools. Its versatility allows for a wide range of applications.</li>
+                </ol>
             </div>
         </div>
         <div class="contact-banner">
@@ -271,36 +289,36 @@
                         <li>
                             <a href="#chapter2" class="target">
                                 <i class="fa fa-paper-plane-o"></i>
-                                <span>Chapter 1  What is 1080P, 2K and 4K?</span>
+                                <span>What is 1080P, 2K and 4K?</span>
                             </a>
                         </li>
                         <li>
                             <a href="#chapter3" class="target">
                                 <i class="fa fa-paper-plane-o"></i>
-                                <span>Chapter 2  Applications of Direct View LED Video Wall</span>
+                                <span>Applications of Direct View LED Video Wall</span>
                             </a>
                         </li>
                         <li>
                             <a href="#chapter4" class="target">
                                 <i class="fa fa-paper-plane-o"></i>
-                                <span>Chapter 3  Advantages of Cinstar Direct View LED TV</span>
+                                <span>Advantages of Cinstar Direct View LED TV</span>
                             </a>
                         </li>
                         <li>
                             <a href="#chapter5" class="target">
                                 <i class="fa fa-paper-plane-o"></i>
-                                <span>Chapter 4  How to Install Direct View LED Wall?</span>
+                                <span>How to Install Direct View LED Wall?</span>
                             </a>
                         </li>
                         <li>
                             <a href="#chapter6" class="target">
                                 <i class="fa fa-paper-plane-o"></i>
-                                <span>Chapter 5  FAQs of Direct View LED Display</span>
+                                <span>FAQs of Direct View LED Display</span>
                             </a>
                         </li>
                     </ul>
                 </div>
-                <h3 class="chapter-title" id="chapter2">Chapter 1  What is 1080P, 2K and 4K?</h3>
+                <h3 class="chapter-title" id="chapter2">What is 1080P, 2K and 4K?</h3>
                 <p>The DVLED screen has become the primary option for visual displaying systems, offering the ability to showcase high definition or ultra-high definition content. To understand the resolution, it is important to get to grips yourself with terms like 1080P, 2K, and 4K.</p>
                 <p>1080P, also referred to as Full HD or FHD, is a term widely employed to describe a high-definition video resolution. The resolution is 1920x1080 pixels, allowing for a higher level of detail compared to 720P. Such a resolution is often seen on a widescreen with an aspect ratio of 16:9. </p>
                 <p>2K resolution often proves necessary for displaying content on DVLED display. The resolution is 2048x1080. Although the number of pixels is the same vertically and very close at horizontally, 1080P and 2K are typically considered as two different resolution formats.</p>
@@ -312,7 +330,7 @@
                 <div class="img-box">
                     <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-7.jpg" alt="Direct View LED-7">
                 </div>
-                <h3 class="chapter-title" id="chapter3">Chapter 2  Applications of Direct View LED Video Wall</h3>
+                <h3 class="chapter-title" id="chapter3">Applications of Direct View LED Video Wall</h3>
                 <p>The direct view LED display video wall is an ideal choice for applications that require showcasing highly detailed image and video content on a compact display. These are the primary market segments for quality visual production.</p>
                 <p><b>Control Room & Monitor Room</b></p>
                 <p>The control room and monitor room, which once dominated by LCD video walls, have become crucial markets for DVLED panels. The LED display at these locations is designed to maximize the amount of content it can show, based on its function attributes.  </p>
@@ -334,7 +352,7 @@
                 <div class="img-box">
                     <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-10.jpg" alt="Direct View LED-10">
                 </div>
-                <h3 class="chapter-title" id="chapter4">Chapter 3  Advantages of Cinstar Direct View LED Display Wall</h3>
+                <h3 class="chapter-title" id="chapter4">Advantages of Cinstar Direct View LED Display Wall</h3>
                 <p>Are you aware of the key features and advantages that direct view LED display video wall can bring to your business? This cutting-edge LED display technology is at the forefront of the AV industry. Now, let's explore the advantages of it.</p>
                 <p><b>Cutting-edge 4K HDR Technology </b></p>
                 <p>HDR, short for High Dynamic Range, is a highly desired feature in TVs and also available in direct view LED. A display equipped with HDR technology enhances the video content, providing a more detailed and vibrant visualization. All because HDR technology provides a wider color gamut and greater accuracy, resulting in a higher contrast ratio. In order to achieve this remarkable visual experience, the DVLED screen simply requires particular controller and receiving cards. </p>
@@ -352,7 +370,7 @@
                 <div class="img-box">
                     <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-12.jpg" alt="Direct View LED-12">
                 </div>
-                <h3 class="chapter-title" id="chapter5">Chapter 4  How to Install Direct View LED Wall?</h3>
+                <h3 class="chapter-title" id="chapter5">How to Install Direct View LED Wall?</h3>
                 <p>Wall mounting and ground stacking are the most common installations for direct view LED wall. However, it differs depending on the specific projects. Wall-mounting is the preferred method for installing most DVLED panels. Here are the procedures for wall-mounting:</p>
                 <p><b>Frame Installation</b></p>
                 <p>Cinstar direct view LED display video wall features incredibly lightweight and slim panel, eliminating the need for complex framing to support the entire screen. When perform the installation, the frame need to be installed at the first stage.</p>
@@ -369,7 +387,7 @@
                 <p>Installing the direct view LED display video wall directly on the ground is not recommended. The frame must be perfectly level for proper installation. Otherwise, there may be noticeable gaps. Installing the direct view LED wall requires quite a bit of attention and patience. To achieve optimal visual performance, it is important to carefully align all the panels and eliminate any gaps.</p>
                 <p><b>Great Caution Required</b></p>
                 <p>Our direct view LED TV screen uses magnetic modules and is equipped with vacuum service tool for maintenance purposes. However, the great caution is necessary when working with the module to prevent any potential damage to the LEDs and PCB board. When it comes to maintenance work, a high level of professionalism and expertise is required to repair broken LEDs. To avoid further damages, when the pixel pitch goes lower than P1.2, we suggest that you will express the modules to our local partners for repairing.</p>
-                <h3 class="chapter-title" id="chapter6">Chapter 5  FAQs of Direct View LED Display</h3>
+                <h3 class="chapter-title" id="chapter6">FAQs of Direct View LED Display</h3>
                 <h3 class="chapter-title">What is a Direct View LED Video Wall?</h3>
                 <p>
                     Direct view LED, often referred to as fine pitch LED or narrow pixel pitch LED, is a cutting-edge technology used in 
