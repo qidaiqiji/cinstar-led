@@ -28,6 +28,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/led-screen-repair-guide-problems-fixes-and-maintenance-tips.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/led-advertising-screen-repairing.webp" alt="led advertising screen repairing"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/led-screen-repair-guide-problems-fixes-and-maintenance-tips.php">LED Screen Repair Guide: Problems, Fixes, and Maintenance Tips</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            LED screens are now common in stadiums, malls, events, and on billboards. They provide amazing images and last for decades with regular care. Yet, as with every electronic device, some issues may arise over time.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/led-screen-repair-guide-problems-fixes-and-maintenance-tips.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 12, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/uhd-vs-led.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/direct-view-led-home-cinema.webp" alt="direct view led home cinema"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/uhd-vs-led.php">UHD vs LED Explained: A Complete Buyer's Guide</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            LEDs are the future of efficient, affordable lighting. Yet, there is more to them than meets the eye. For display owners, LED billboards have proven to be a boon.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/uhd-vs-led.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 12, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/how-to-calculate-led-screen-resolution-&-pick-the-perfect-display.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/3d-outdoor-led-billboard-1.webp" alt="3d outdoor led billboard 1"></a>
                     </div>
                     <div class="blog-content">

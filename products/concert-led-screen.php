@@ -130,7 +130,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/hd-series.php"><img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD SERIES"></a>
                         <div class="title-box-change">
-                            <h3>Direct View LED Concert Screen</h3>
+                            <h3 style="line-height: 1;">Direct View LED Concert Screen</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Cinstar direct view LED concert screen delivers outstanding contrast and clarity, ensuring seamless playback of 8K, 4K, and 2K videos and images. The Cinstar concert screen display is built with premium LEDs, offering high-resolution visuals, a wide viewing angle, vivid colors, and cutting-edge technology for an immersive viewing experience.</p>
@@ -139,7 +139,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/fl-series.php"><img style="width: 80%" src="https://www.cinstar-led.com/images/products/Commercial-LED/FL-series-1.jpg" alt="FL SERIES"></a>
                         <div class="title-box-change">
-                            <h3>Creative LED Concert Display</h3>
+                            <h3 style="line-height: 1;">Creative LED Concert Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/fl-series.php">FL Series Product</a>
                         </div>
                         <p>Cinstar's innovative LED screen for concert immerses spectators in authentic and vibrant concert content. Our large concert video display creates a variety of layouts, including visually stunning 360° effects, captivating audiences with an immersive ambiance that lingers long after the concert ends. You will like it for sure.</p>
@@ -148,7 +148,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/m-series.php"><img style="width: 80%" class="img-long" src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-1.webp" alt="M SERIES"></a>
                         <div class="title-box-change">
-                            <h3>Indoor Concert Video Screen</h3>
+                            <h3 style="line-height: 1;">Indoor Concert Video Screen</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/m-series.php">M Series Product</a>
                         </div>
                         <p>Cinstar applys the best quality materials to provide top-tier indoor LED screens for events and stages. Our rental LED display screens enhance audience engagement, ensuring fans enjoy a memorable and impactful experience. Don't hesitate to elevate your stages and events with our high-quality concert screens. </p>
@@ -157,7 +157,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/xposter.php"><img style="width: 50%" class="img-longer" src="https://www.cinstar-led.com/images/home/Xposter.webp" alt="Xposter"></a>
                         <div class="title-box-change">
-                            <h3>Concert Poster LED Display</h3>
+                            <h3 style="line-height: 1;">Concert Poster LED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/xposter.php">Xposter Series Product</a>
                         </div>
                         <p>Cinstar concert LED display poster is customizable, portable, and easy to use, boasting high quality and a user-friendly interface. These attributes make it perfect for both indoor and outdoor events like concerts, exhibits, and conferences. Elevate your next concert with vibrant, high-resolution LED screens from Cinstar.</p>
@@ -166,7 +166,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/tf-series.php"><img style="width: 70%" class="img-long" src="https://www.cinstar-led.com/images/products/Creative-LED/holograhpic-led-film-screen-1.jpg" alt="tf series"></a>
                         <div class="title-box-change">
-                            <h3>Transparent Concert LED Video Screen</h3>
+                            <h3 style="line-height: 1;">Transparent Concert LED Video Screen</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/tf-series.php">TF Series Product</a>
                         </div>
                         <p>Cinstar's transparent concert LED video screen can display vivid and dynamic images, boasting an ultra-high transparency rate exceeding 75%. In addition, we offer customization options to meet your specific needs, including pixel pitches, sizes, and other parameters. Delight your audience with unparalleled visibility and stunning detail.</p>
@@ -175,7 +175,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/a-series.php"><img src="https://www.cinstar-led.com/images/products/Rental-LED/A-series-1.webp" alt="A series"></a>
                         <div class="title-box-change">
-                            <h3>Outdoor LED Concert Display</h3>
+                            <h3 style="line-height: 1;">Outdoor LED Concert Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/a-series.php">A Series Product</a>
                         </div>
                         <p>Cinstar's outdoor concert video display features a versatile design that ensures effortless installation. Our rental LED screens for events captivate fans' immediate and sustained interest, facilitating real-time social media updates. Engage your audience with captivating and immersive experiences using our concert video screen.</p>

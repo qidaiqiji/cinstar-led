@@ -4,7 +4,7 @@
 <head>
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
-    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-to-calculate-led-screen-resolution-&-pick-the-perfect-display .php">
+    <link rel="canonical" href="https://www.cinstar-led.com/led-academy/how-to-calculate-led-screen-resolution-&-pick-the-perfect-display.php">
     <link rel="stylesheet" href="../css/product-250722.css">
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <title>How to Calculate LED Screen Resolution & Pick the Perfect Display</title>

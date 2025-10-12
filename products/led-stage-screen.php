@@ -118,7 +118,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/a-series.php"><img src="https://www.cinstar-led.com/images/products/Rental-LED/A-series-1.webp" alt="A series"></a>
                         <div class="title-box-change">
-                            <h3>Indoor Rental Stage Screen</h3>
+                            <h3 style="line-height: 1;">Indoor Rental Stage Screen</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/a-series.php">A Series Product</a>
                         </div>
                         <p>Indoor rental LED stage screen is crafted with utmost precision using high-quality die-cast aluminum materials. A quality stage LED video wall provides a more immersive viewing experience, higher refresh rate, greater contrast ratio, and higher resolution. Cinstar LED panel for stage can for sure bring you a very different experience on quality and cost effectiveness.</p>
@@ -127,7 +127,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/m-series.php"><img style="width: 80%" class="img-long" src="https://www.cinstar-led.com/images/products/Rental-LED/M-series-1.webp" alt="M series"></a>
                         <div class="title-box-change">
-                            <h3>Outdoor Rental Stage Video Wall</h3>
+                            <h3 style="line-height: 1;">Outdoor Rental Stage Video Wall</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/m-series.php">M Series Product</a>
                         </div>
                         <p>Outdoor rental stage LED wall is designed to meet the IP65 waterproof grade and is suited for any outdoor stage event applications. Stage display wall provides a high level of brightness to ensure a clear and high-quality performance, even in daytime conditions. By applying Cinstar stage screen, you are allowed to build the LED walls as what you like, to be flat, curved or any creative design you desired.</p>
@@ -136,7 +136,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/hd-series.php"><img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD series"></a>
                         <div class="title-box-change">
-                            <h3>Direct View LED Stage Display</h3>
+                            <h3 style="line-height: 1;">Direct View LED Stage Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct view LED display is an ideal video solution for any kind of event applications which require top quality images and high profile performance. They can deliver a strong impact to audiences and get all them engaged. Cinstar stage LED screen can meet all requirements on image quality and venue budgets to make sure it will be your best LED screen for events. </p>
@@ -145,7 +145,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/n-series.php"><img style="width: 80%" class="img-long" src="https://www.cinstar-led.com/images/products/Rental-LED/n-series.webp" alt="n series"></a>
                         <div class="title-box-change">
-                            <h3>Cost Efficient Stage Video Panel</h3>
+                            <h3 style="line-height: 1;">Cost Efficient Stage Video Panel</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/n-series.php">N Series Product</a>
                         </div>
                         <p>With front service capabilities, the stage LED video wall ensures easy installation and maintenance. The features make it the most efficient and cost-effective display option, suitable for diverse applications, whether for short-term events or long-term investments. Cinstar's stage LED solution guarantees attendees exceptional viewing experience, elevating your business to new heights.</p>
@@ -154,7 +154,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/e-series.php"><img style="width: 60%" class="img-longer" src="https://www.cinstar-led.com/images/products/Rental-LED/E-series-1.webp" alt="E series"></a>
                         <div class="title-box-change">
-                            <h3>Wide Choice Stage Display Screen</h3>
+                            <h3 style="line-height: 1;">Wide Choice Stage Display Screen</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/e-series.php">E Series Product</a>
                         </div>
                         <p>Stage LED wall offers an expansive viewing angle, ensuring all attendees enjoy an engaging and immersive visual experience. Cinstar's LED stage rental screen is available in various sizes to meet your specific event requirements. It can accommodate any budget, with options for different pixel pitches including 1.25mm, 2.5mm, 3.9mm, 4.8mm, and more.</p>
@@ -163,7 +163,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/t-series.php"><img style="width: 75%" class="img-long" src="https://www.cinstar-led.com/images/products/Rental-LED/t-series.webp" alt="t series"></a>
                         <div class="title-box-change">
-                            <h3>Creative Stage LED Display</h3>
+                            <h3 style="line-height: 1;">Creative Stage LED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/t-series.php">T Series Product</a>
                         </div>
                         <p>No matter what effect you wanna achieve, creative LED screen for stage can make it happen. With combination of top class materials, Cinstar stage screen ensures crisp visuals and flicker-free entertainment for any of your events. From large-scale events to intimate stage backdrops, the creative stage video wall can always deliver you the best visual performance as what you imagined.</p>

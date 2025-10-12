@@ -124,7 +124,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/x-series.php"><img style="width: 85%"  src="https://www.cinstar-led.com/images/products/Commercial-LED/X-series-1.webp" alt="X-Series-1"></a>
                         <div class="title-box-change">
-                            <h3>Ultra-Bright Outdoor LED Billboard</h3>
+                            <h3 style="line-height: 1;">Ultra-Bright Outdoor LED Billboard</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/x-series.php">X Series Product</a>
                         </div>
                         <p>Outdoor digital LED board serves as an effective means of establishing a connection between individuals and a particular brand. Cinstar outdoor digital Billboard is user-friendly and constructed of top quality and durable materials. These characteristics enable it ideal for harsh climatic circumstances, like rainfall, high temperatures, dust, and other similar conditions. Feel free to reach out to us for a favorable outdoor LED digital billboard solution!</p>
@@ -133,7 +133,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/innox-series.php"><img style="width: 70%" src="https://www.cinstar-led.com/images/products/Commercial-LED/Innox-1.png" alt="Innox-1"></a>
                         <div class="title-box-change">
-                            <h3>High Profile Fixed LED Billboard</h3>
+                            <h3 style="line-height: 1;">High Profile Fixed LED Billboard</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/innox-series.php">Innox Series Product</a>
                         </div>
                         <p>Cinstar indoor digital display board has the capability to display vibrant and appealing advertisements continuously without any interruptions. You can place a giant billboard in locations where they are very visible and unlikely to be overlooked by passersby. By adopting this strategy, your marketing becomes more seamless in establishing connections and imposing influence on your target market.  Request a fast quotation immediately!</p>
@@ -142,7 +142,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/mc-series.php"><img style="width: 35%" src="https://www.cinstar-led.com/images/home/MC-SERIES.jpg" alt="MC Series"></a>
                         <div class="title-box-change">
-                            <h3>Curtain LED Billboard Sign</h3>
+                            <h3 style="line-height: 1;">Curtain LED Billboard Sign</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/mc-series.php">MC Series Product</a>
                         </div>
                         <p>Discover a different approach to your out-of-home advertising with Cinstar. Our curtain LED display billboard incorporates the latest technology, allowing you to enjoy an immersive LED digital display with excellent transparency, lightweight design, and cost-effective advantages. Our company specializes in providing outdoor curtain LED display billboard that can be customized to meet the specific needs of your projects. Contact us immediately!</p>
@@ -151,7 +151,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/hd-series.php"><img src="https://www.cinstar-led.com/images/products/Fine-Pitch/HD-SERIES-2-1.jpg" alt="HD Series-2-1"></a>
                         <div class="title-box-change">
-                            <h3>High-Definition LED Video Billboard</h3>
+                            <h3 style="line-height: 1;">High-Definition LED Video Billboard</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/hd-series.php">HD Series Product</a>
                         </div>
                         <p>Direct view LED digital billboard is widely used in a lot of installation scenarios like conference room, meeting room, board room, TV studio, corporate showroom and home cinema etc, to deliver top image quality. Direct view LED digital display can easily achieve 2K, 4K even 8K with a very limited display size. If you are looking for a high profile and cost effective direct view LED digital billboard display for your business, Cinstar would be your first choice.</p>
@@ -160,7 +160,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ft-series.php"><img style="width: 70%" src="https://www.cinstar-led.com/images/home/FT-SERIES.webp" alt="FT Series"></a>
                         <div class="title-box-change">
-                            <h3>DOOH Advertising LED Billboard</h3>
+                            <h3 style="line-height: 1;">DOOH Advertising LED Billboard</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ft-series.php">FT Series Product</a>
                         </div>
                         <p>Outdoor LED digital board display is the most popular and cost effective channel for DOOH advertising campaigns, due to its top stability, excellent image performance and extraordinary operation lifespan. Placing an outdoor LED digital billboard at any of the high traffic location, it can easily cover very wide range of audiences and ultimately boost the brand influence and in return create more commercial value and maximize your return on the investment. </p>
@@ -169,7 +169,7 @@
                     <div class="series-item">
                         <a class="img-box" href="https://www.cinstar-led.com/product-detail/ts-series.php"><img style="width: 46%" src="https://www.cinstar-led.com/images/home/TS-Series.webp" alt="TS Series"></a>
                         <div class="title-box-change">
-                            <h3> Indoor Fixed Transparent LED Display</h3>
+                            <h3 style="line-height: 1;"> Indoor Fixed Transparent LED Display</h3>
                             <a class="title-border-button" href="https://www.cinstar-led.com/product-detail/ts-series.php">TS Series Product</a>
                         </div>
                         <p>Transparent LED digital board is for sure the most eye catching advertising device for shopping mall and retail store advertising. Featuring top transparency, ultra-light and slim panel and high brightness, transparent LED digital signage can turn your glass wall into an impressive advertising screen which can maintain the vivid advertisement and don't block the sunlight and sight see through. Contact us now for a custom transparent LED billboard sign for your advertising. </p>
