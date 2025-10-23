@@ -30,6 +30,13 @@
     <script>
         let dataList = [
             {
+                imgSrc:'https://www.cinstar-led.com/images/news/cinstar-stadium-led-display-for-swedish-hockey-arenas-4.webp',
+                title:'Cinstar High-Performance M3.9 Stadium LED Displays for Luleå and Boden Hockey Arenas',
+                data:'2025-10-23',
+                detail:'Cinstar LED recently completed another remarkable project in Northern Europe, supplying advanced stadium LED displays for two iconic hockey arenas—Luleå Hockey Arena and Boden Hockey Arena in Sweden',
+                href: 'https://www.cinstar-led.com/news-detail/cinstar-stadium-led-displays-for-sweden-hockey-arenas.php'
+            },
+            {
                 imgSrc:'https://www.cinstar-led.com/images/news/3d-led-screen-iraq-1.jpg',
                 title:'50SQM Cinstar Outdoor 3D LED Screen Delivered to Iraq',
                 data:'2025-06-28',

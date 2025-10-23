@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../css/messageBox-240818.css">
     <link rel="stylesheet" href="../css/product-common-240917.css">
     <link rel="stylesheet" href="../css/new-product-240917.css">
-    <title>3D LED Displays | 3 LED Billboards and 3D Wall Panels</title>
+    <title>3D LED Displays | 3D LED Screens & 3D Wall Panels</title>
     <meta name="description" content="Cinstar manufacturers 3D LED screens for indoor and outdoor use with stunning 3D effects, turning ordinary content into lifelike views without glasses.">
     <meta name="keywords" content="3D led display, 3D led screen, 3D led display screen, 3D led billboard, 3D led video wall, 3D led wall, 3D led sign, 3D led signboard, 3D led signage, 3D led advertising">  
 
@@ -44,7 +44,7 @@
 {
   "@context": "https://schema.org/", 
   "@type": "Product", 
-  "name": "3D  LED Display Solutions",
+  "name": "3D LED Display Solutions",
   "image": "https://www.cinstar-led.com/images/products/new-page/3d-led-display/3d-led-display-2.jpg",
   "description": "Cinstar offers outdoor naked eye 3D LED displays, which have been widely used for outdoor advertising purposes in shopping malls and retail stores to enhance product promotion. Cinstar delivers comprehensive 3D video advertising and media services, including the best 3D LED screen hardware cabinets, 3D video slip design, and installation of steel structures for 3D LED Guide.",
   "brand": {

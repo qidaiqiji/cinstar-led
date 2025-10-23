@@ -53,6 +53,7 @@
         </div>
     </div>
     <div class="related-news">
+        <h3><span>Previous :</span><a href="https://www.cinstar-led.com/news-detail/cinstar-stadium-led-displays-for-sweden-hockey-arenas.php">Cinstar High-Performance M3.9 Stadium LED Displays for Luleå and Boden Hockey Arenas</a></h3>
         <h3><span>Next :</span><a href="https://www.cinstar-led.com/news-detail/why-cob-is-better-than-smd-in-direct-view-led.php">Why COB is Better Than SMD in Direct View LED Video Wall</a></h3>
     </div>
     <!-- 底部开始 -->

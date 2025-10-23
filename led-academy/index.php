@@ -28,6 +28,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/projectors-vs-tvs-vs-video-walls-pros-cons-and-best-use-cases.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/comparison-of-direct-view-led-video-wall-tv.webp" alt="comparison of direct view led video wall tv"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/projectors-vs-tvs-vs-video-walls-pros-cons-and-best-use-cases.php">Projectors vs TVs vs Video Walls: Pros, Cons, and Best Use Cases</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            The way a brand presents its products and services to the public matters greatly. Brands invest in methods and tools that showcase this in the best possible way.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/projectors-vs-tvs-vs-video-walls-pros-cons-and-best-use-cases.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 23, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/curved-vs-flat-led-displays-which-one-suits-your-needs.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/curved-vs-flat-led-displays.webp" alt="curved vs flat led displays"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/curved-vs-flat-led-displays-which-one-suits-your-needs.php">Curved vs Flat LED Displays: Which One Suits Your Needs?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            LED screens are now a favorite among contemporary companies, events, and public displays. Whether it is for outdoor marketing or indoor displays, the right screen can make your content highly visible and prominent
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/curved-vs-flat-led-displays-which-one-suits-your-needs.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 23, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/led-screen-repair-guide-problems-fixes-and-maintenance-tips.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/led-advertising-screen-repairing.webp" alt="led advertising screen repairing"></a>
                     </div>
                     <div class="blog-content">
