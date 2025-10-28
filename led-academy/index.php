@@ -28,6 +28,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/what-is-a-flexible-led-display-and-how-does-it-work.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/cinstar-creative-flexible-led-display-1.webp" alt="cinstar creative flexible led display-1"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/what-is-a-flexible-led-display-and-how-does-it-work.php">What Is a Flexible LED Display and How Does It Work?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            LED technology is reshaping the way we interact with digital content. The flexible LED displays are one of its most significant advancements. The screens warp, curve, and fit any surface. They bring visuals in a way that flat panels can only imagine.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/what-is-a-flexible-led-display-and-how-does-it-work.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 28, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/uled-vs-qled-what-is-the-difference-and-which-should-you-choose.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/uled-vs-qled-1.webp" alt="uled vs qled 1"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/uled-vs-qled-what-is-the-difference-and-which-should-you-choose.php">ULED vs QLED: What’s the Difference and Which Should You Choose?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            As you explore new TVs, you may find yourself confused about ULED and QLED. Both offer a brighter, colorful, and higher contrast image than an LED screen. However, they work in slightly different ways.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/uled-vs-qled-what-is-the-difference-and-which-should-you-choose.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>October 28, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/projectors-vs-tvs-vs-video-walls-pros-cons-and-best-use-cases.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/comparison-of-direct-view-led-video-wall-tv.webp" alt="comparison of direct view led video wall tv"></a>
                     </div>
                     <div class="blog-content">
