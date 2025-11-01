@@ -1,3 +1,7 @@
-User-Agent: *
+User-agent: *
 Disallow: /backend/
+
+Allow: /
+
+# Sitemap location
 Sitemap: https://www.cinstar-led.com/sitemap.xml

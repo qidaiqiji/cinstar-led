@@ -141,7 +141,7 @@
                 <li class="swiper-slide">
                     <img src="https://www.cinstar-led.com/images/products/new-page/Indoor-led-display/indoor-led-display-1-2.webp" alt="indoor-led-display">
                     <a href="https://www.cinstar-led.com/products/indoor-led-display.php" class="text-cover">
-                        <h2>Indoor LED Display</h2>
+                        <p>Indoor LED Display</p>
                         <span>The Most Cost Effective Indoor LED Display Screen</span>
                         <span class="border-button">Get More Information</span>
                     </a>
@@ -153,7 +153,7 @@
                 <li class="swiper-slide">
                     <img src="https://www.cinstar-led.com/images/products/new-page/direct-view-led/direct-view-led-1.webp" alt="direct-view-led">   
                     <a href="https://www.cinstar-led.com/products/direct-view-led.php" class="text-cover">
-                        <h2>Direct View LED</h2>
+                        <p>Direct View LED</p>
                         <span>UHD Visual Impact Fine Pitch LED Video Wall</span>
                         <span class="border-button">Get More Information</span>
                     </a>
@@ -161,7 +161,7 @@
                 <li class="swiper-slide">
                     <img loading="lazy" src="https://www.cinstar-led.com/images/products/new-page/3d-led-display/3d-led-display-1.webp" alt="3d-led-display">
                     <a href="https://www.cinstar-led.com/products/3d-led-display-screen.php" class="text-cover">
-                        <h2>3D LED Display</h2>
+                        <p>3D LED Display</p>
                         <span>Outdoor Naked Eye 3D LED Screen Advertising</span>
                         <span class="border-button">Get More Information</span>
                     </a>
@@ -169,7 +169,7 @@
                 <li class="swiper-slide">
                     <img loading="lazy" src="https://www.cinstar-led.com/images/products/new-page/Indoor-led-display/indoor-led-display-1.webp" alt="indoor-led-display">
                     <a href="https://www.cinstar-led.com/products/indoor-led-display.php" class="text-cover">
-                        <h2>Indoor LED Display</h2>
+                        <p>Indoor LED Display</p>
                         <span>The Most Cost Effective Indoor LED Display Screen</span>
                         <span class="border-button">Get More Information</span>
                     </a>
@@ -182,7 +182,7 @@
         </div>
         <div class="detail-section profile-mobile">
             <div class="profile-content">
-                <p>As a trusted and leading LED screen display manufacturer in China for over 14 years, Cinstar is dedicated to offering a wide range of LED display Solutions to grow and expand your business. We deliver high performance, commercial LEDs, direct view LED displays rental and flexible LED options for high performance billboard advertising.We are honored to get involved into each of your projects and propose you a tailored LED visual solution. </p>
+                <p>As a trusted LED display manufacturer for over 14 years, Cinstar focuses on designing and manufacturing a wide range of LED display Solutions to grow and expand business. We offer commercial LEDs, direct-view LED displays, and flexible LED options for high-performance billboard advertising. We are honored to be involved in each of your projects and propose a tailored LED visual solution to you.</p>
                 <div class="profile-mark">
                     <div class="profile-mark-item" style="width: 20%;">
                         <span class="mark-title">2012</span>
@@ -204,7 +204,7 @@
             <img src="https://www.cinstar-led.com/images/home-new/banner-cinstar-1.webp" alt="Cinstar Profile">
             <div class="profile-content">
                 <div class="profile-dialog">
-                    <p>As a trusted and leading LED screen display manufacturer in China for over 14 years, Cinstar is dedicated to offering a wide range of LED display Solutions to grow and expand your business. We deliver high performance, commercial LEDs, direct view LED displays rental and flexible LED options for high performance billboard advertising.We are honored to get involved into each of your projects and propose you a tailored LED visual solution. </p>
+                    <p>As a trusted LED display manufacturer for over 14 years, Cinstar focuses on designing and manufacturing a wide range of LED display Solutions to grow and expand business. We offer commercial LEDs, direct-view LED displays, and flexible LED options for high-performance billboard advertising. We are honored to be involved in each of your projects and propose a tailored LED visual solution to you.</p>
                 </div>
                 <div class="profile-mark">
                     <div class="profile-mark-item" style="width: 20%;">

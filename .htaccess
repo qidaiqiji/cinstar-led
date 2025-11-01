@@ -1,5 +1,17 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
+	
+	# 修复双斜杠问题，如/products//transparent-led-film-screen.php
+	RewriteCond %{THE_REQUEST} "\s/+([^\s]*)//+([^\s]*)"
+	RewriteRule ^ https://www.cinstar-led.com/%1/%2 [R=301,L]
+
+	# 强制将所有 /xxx/index.php 重定向为 /xxx/
+	RewriteCond %{THE_REQUEST} \s/([^\s]+?)index\.php[\ ?]
+	RewriteRule ^(.*/)index\.php$ https://www.cinstar-led.com/%1 [R=301,L]
+
+	# 将 /index.php → /
+	RewriteCond %{THE_REQUEST} \s/index\.php[\ ?]
+	RewriteRule ^index\.php$ https://www.cinstar-led.com/ [R=301,L]
 
     # Force www
     RewriteCond %{HTTP_HOST} !^www\. [NC]
@@ -55,6 +67,7 @@
 	Redirect 301 /product-detail/fantasy.php /products/
 	Redirect 301 /product-detail/rs-series.php /products/rental-led-display-screen.php
 	Redirect 301 /product-detail/sa-series.php/1000 /product-detail/sa-series.php
+	Redirect 301 /product-detail/d-series.php/1000 /product-detail/d-series.php
 	Redirect 301 /products/product-detail/ts-series.php /product-detail/ts-series.php
 	Redirect 301 /product-detail/gallery-detail/rental-cases.php /gallery-detail/rental-cases.php
 	Redirect 301 /product-detail/ec- /product-detail/ec-series.php
