@@ -10,9 +10,9 @@
     <!-- End Google Tag Manager -->
     <?php include('inc/meta.php'); ?>
     <?php include('inc/rem.php'); ?>
-    <meta name="description" content="Cinstar LED is a global manufacturer and supplier for high quality LED screens, LED video wall panels, rental LEDs and outdoor advertising displays.">
+    <meta name="description" content="Cinstar LED is a global LED Display manufacturer and supplier of commercial  LED screens, 3D video wall panels, rental LEDs, and outdoor advertising displays.">
     <meta name="keywords" content="led display manufacturer, LED screen manufacturer, led video wall panels, led display screen manufacturer, direct view led, fine pitch led video wall, led advertising display, led display supplier, led screen supplier, led video wall, rental led display, custom led display, outdoor led display screen">  
-    <title>LED Display Manufacturer - Cinstar LED</title>
+    <title>LED Display Manufacturer | LED Video Wall Panels</title>
     <link rel="canonical" href="https://www.cinstar-led.com/">
     <link rel="stylesheet" href="utils/swiper-bundle.min.css">  
     <link rel="stylesheet" href="css/custom-product-240818.css">
