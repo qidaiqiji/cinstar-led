@@ -707,6 +707,20 @@
             </div>
             <div class="news-list">
                 <div class="news-item">
+                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/cinstar-stadium-led-displays-for-sweden-hockey-arenas.php">
+                        <img src="https://www.cinstar-led.com/images/news/cinstar-stadium-led-display-for-swedish-hockey-arenas-4.webp" alt="cinstar stadium led display for swedish hockey arenas">
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>Cinstar High-Performance M3.9 Stadium LED Displays for Luleå and Boden Hockey Arenas</h3>
+                            <p class="date">2025-10-23</p>
+                        </div>
+                        <div class="news-desc">
+                            Cinstar LED recently completed another remarkable project in Northern Europe, supplying advanced stadium LED displays for two iconic hockey arenas—Luleå Hockey Arena and Boden Hockey Arena in Sweden. The installations further highlight Cinstar's technical expertise and reliability as a global LED screen manufacturer serving the professional sports and entertainment sectors.
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item">
                     <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/cinstar-outdoor-3d-led-screen-delivered-to-Iraq.php">
                         <img src="https://www.cinstar-led.com/images/news/3d-led-screen-iraq-1.jpg" alt="3d led screen iraq">
                     </a>
@@ -736,21 +750,6 @@
                     </div>
                     <hr class="under-line">
                 </div>
-                <div class="news-item">
-                    <a class="news-thumb" href="https://www.cinstar-led.com/news-detail/direct-view-led-video-wall-usa-video-conference-experience.php">
-                        <img src="https://www.cinstar-led.com/images/news/direct-view-led-video-conference-1.webp" alt="direct view led video conference">
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>Four Direct View LED Video Walls Delivered to USA for Immersive Video Conference Experience</h3>
-                            <p class="date">2025-01-24</p>
-                        </div>
-                        <div class="news-desc">
-                        In a major step toward revolutionizing corporate communication, four state-of-the-art direct view LED video walls were recently delivered to the USA to create immersive video conference experiences. The client, a leading innovator in life-sized LED wall technology, aims to transform traditional video conferencing into a truly immersive and lifelike interaction for international companies.
-                        </div>
-                    </div>
-                </div>
-                
             </div>
         </div>
         <div class="contact-detail product-section">
