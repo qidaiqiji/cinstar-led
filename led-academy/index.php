@@ -28,6 +28,40 @@ html, body {
             <div class="blog-list">
                 <div class="blog-item">
                     <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/why-cable-transportation-distance-is-crucial-for-led-displays.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/cinstar-led-display-screen-for-advertising-outdoor.webp" alt="cinstar led display screen for advertising outdoor"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/why-cable-transportation-distance-is-crucial-for-led-displays.php">Why Cable Distance Is Crucial for LED Displays?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            When it comes to LED displays, what you see on the screen is only as good as the cables behind it. Every light, every color shift, and every piece of content depends on how well signals travel between devices.
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/why-cable-transportation-distance-is-crucial-for-led-displays.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>November 14, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="https://www.cinstar-led.com/led-academy/led-3d-display-technology-features-benefits-and-modern-capabilities.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/cinstar-immersive-3d-led-display.webp" alt="cinstar immersive 3d led display"></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="https://www.cinstar-led.com/led-academy/led-3d-display-technology-features-benefits-and-modern-capabilities.php">LED 3D Display Technology: Features, Benefits, and Modern Capabilities</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                            From outdoor advertising to immersive indoor experiences, visual displays have come a long way. LED 3D technology is redefining how brands, educators, and artists communicate their ideas. 
+                        </p>
+                        <p class="read-more"><a href="https://www.cinstar-led.com/led-academy/led-3d-display-technology-features-benefits-and-modern-capabilities.php">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>November 14, 2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
                         <a href="https://www.cinstar-led.com/led-academy/what-is-a-flexible-led-display-and-how-does-it-work.php"><img class="lazy" data-src="https://www.cinstar-led.com/images/blog/cinstar-creative-flexible-led-display-1.webp" alt="cinstar creative flexible led display-1"></a>
                     </div>
                     <div class="blog-content">
