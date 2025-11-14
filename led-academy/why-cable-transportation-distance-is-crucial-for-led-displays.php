@@ -114,19 +114,19 @@
 
                 <p>LED screens don't work as standalone units. They're made up of several interconnected parts, modules, power supplies, controllers, and processors. All of these talk to each other via cables. Without proper connections, the screen simply can't function.</p>
 
-                <h3>Understanding Cable Types and Their Effective Distances</h3>
+                <h2>Understanding Cable Types and Their Effective Distances</h2>
 
                 <p>Different cables serve distinct functions for an <a href="https://www.cinstar-led.com/products/led-advertising.php"><strong>LED display screen for advertising outdoors</strong></a>. Each has a maximum distance it can cover before the signal starts to weaken. Here's what makes each type distinct and when to use them.</p>
 
-                <h4>1. Ethernet (Network) Cables</h4>
+                <h3>1. Ethernet (Network) Cables</h3>
 
                 <p>Ethernet cables, like Cat5e and Cat6, are widely used for connecting LED displays to control systems. They're cost-effective and easy to install. For longer runs, signal repeaters can push the range up to 500 meters by chaining multiple segments together.</p>
 
-                <h4>2. Optical Fiber Cables</h4>
+                <h3>2. Optical Fiber Cables</h3>
 
                 <p>Fiber optic cable is the go-to choice for long-distance transmission. They handle data over kilometers without signal loss. Multimode is more affordable, but single-mode handles larger setups better, making it worth the extra cost for stadiums or city displays.</p>
 
-                <h4>3. HDMI Cables</h4>
+                <h3>3. HDMI Cables</h3>
 
                 <p>Best for short connections between media players and LED processors.</p>
 
@@ -136,47 +136,47 @@
                     <li>For high-definition displays, HDMI fiber cables can even reach 500 meters without losing clarity.</li>
                 </ul>
 
-                <h4>4. DVI and VGA Cables</h4>
+                <h3>4. DVI and VGA Cables</h3>
 
                 <p>DVI handles digital video, but only up to 5 meters without extenders. VGA can reach 20-40 meters, but being analog, it's more prone to signal interference. They're suitable for older systems or nearby connections.</p>
 
-                <h4>5. RS232, RS485, and USB Cables</h4>
+                <h3>5. RS232, RS485, and USB Cables</h3>
 
                 <p>These are used for device communication and maintenance. Each cable has its place, but none are one-size-fits-all. Mixing them up or ignoring their range limits can easily throw off your entire display performance.</p>
                 <div class="img-box">
                     <img src="https://www.cinstar-led.com/images/blog/cinstar-led-display-screen-for-advertising-outdoor.webp" alt="cinstar led display screen for advertising outdoor">
                 </div>
-                <h3>How Distance Affects LED Display Performance</h3>
+                <h2>How Distance Affects LED Display Performance</h2>
 
                 <p>Cable distance isn't just about length; for an LED display screen manufacturer, it's about signal stability, timing, and quality. When a cable runs too long without the right support, a few key issues start showing up:</p>
 
-                <h4>Signal Degradation</h4>
+                <h3>Signal Degradation</h3>
 
                 <p>Every meter adds resistance. When the signal travels too far, data packets weaken or arrive late. This can cause flickering or color mismatches on the screen.</p>
 
-                <h4>Power Drop</h4>
+                <h3>Power Drop</h3>
 
                 <p>Long power cables can cause voltage drops. Modules at the end of the line might receive less current, leading to dim or uneven brightness.</p>
 
-                <h4>Interference</h4>
+                <h3>Interference</h3>
 
                 <p>Cables running alongside other electrical equipment may pick up electromagnetic interference. This disrupts data transmission, creating screen noise or delay.</p>
 
-                <h4>Loss of Synchronization</h4>
+                <h3>Loss of Synchronization</h3>
 
                 <p>In LED walls, precise timing keeps every pixel in sync. Poor cabling distances can cause delays between sections, breaking the visual flow.</p>
 
                 <p>A short, high-quality cable setup ensures clear data flow and consistent brightness. But for large-scale or outdoor displays, it's all about designing the layout carefully and using the right cables at the right lengths.</p>
 
-                <h3>Steps to Choose the Right Cable for Your LED Setup</h3>
+                <h2>Steps to Choose the Right Cable for Your LED Setup</h2>
 
                 <p>For an LED display manufacturer ordering cables or installing your system, it's smart to plan every connection point. These steps help make sure your setup performs without issues.</p>
 
-                <h4>1. Map Out the Display Layout</h4>
+                <h3>1. Map Out the Display Layout</h3>
 
                 <p>Identify how far your processor, power supply, and display modules are from each other. This gives you a clear idea of how much cable you'll need for both signal and power.</p>
 
-                <h4>2. Match the Cable Type to Distance and Function</h4>
+                <h3>2. Match the Cable Type to Distance and Function</h3>
 
                 <ul>
                     <li>Use Ethernet for short-to-medium signal runs.</li>
@@ -185,21 +185,21 @@
                     <li>Keep RS-485 for communication between controllers across larger setups.</li>
                 </ul>
 
-                <h4>3. Consider Extenders and Repeaters</h4>
+                <h3>3. Consider Extenders and Repeaters</h3>
 
                 <p>These devices amplify signals across longer distances. Ethernet repeaters can extend signals up to 500 meters, while fiber amplifiers can cover several kilometers.</p>
 
-                <h4>4. Check for Power Capacity</h4>
+                <h3>4. Check for Power Capacity</h3>
 
                 <p>Ensure your power cables are rated for the current load and length. Undersized cables cause overheating and voltage drops.</p>
 
-                <h4>5. Plan for Future Maintenance</h4>
+                <h3>5. Plan for Future Maintenance</h3>
 
                 <p>Leave extra room for movement and possible upgrades. A tight or overextended setup often leads to accidental damage during maintenance.</p>
 
                 <p>Proper cable planning keeps installation clean, reduces the chance of failure, and ensures the LED display runs efficiently for years.</p>
 
-                <h3>Conclusion</h3>
+                <h2>Conclusion</h2>
 
                 <p>Cable transportation distance is one of those things people rarely think about until something goes wrong. Yet, it's the backbone of every LED display system. Every meter of cable impacts how well your visuals reach the screen. In the end, success for an LED display manufacturer isn't about fancy technology; it's about precision in the basics. Plan your distances, pick the right cables, and your display will shine bright without missing a beat.</p>
 
